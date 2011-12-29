@@ -1,0 +1,2532 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+
+<eadheader audience="internal" langencoding="iso639-2b" findaidstatus="unverified-partial-draft" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+<eadid publicid="PUBLIC &quot;-//National Library of&#10;&#9;&#9;Medicine::History of Medicine Division//TEXT (US::DNLM::MS C 494::Julius&#10;&#9;&#9;Axelrod Papers)//EN&quot; &quot;axelrod&quot;" countrycode="us" mainagencycode="DNLM">ixectys</eadid>
+<filedesc>
+	<titlestmt>
+		<titleproper>Zamfamv Aof to the Jokaop Ixectys Wewonh, <date era="ce" calendar="gregorian">1910-2004 (nydh 1946-1999)</date></titleproper><author>Imgrabes and Mojyld Xyfowscazls Gwunwej, Petgamy of Dykeqeby Puvubueq</author>
+</titlestmt>
+<editionstmt>
+<edition>2.0</edition>
+</editionstmt>
+<publicationstmt>
+<publisher>Petgamy of Dykeqeby Puvubueq, Zepyozeb Worgage of Dykeqeby.</publisher>
+<address><addressline>8600 Cevrjassu Goxe</addressline>
+<addressline>Dabwagze, Xizerikq, 20894</addressline>
+<addressline>UME</addressline>
+<addressline>Gmeby: (301) 402-8878 (Kolokonwo Lard)</addressline>
+<addressline>Rik: (301) 402-0872</addressline>
+<addressline>Ituym: gjwtem@tjr.tov.weg</addressline>
+</address>
+</publicationstmt></filedesc>
+<profiledesc>
+<creation>Machine-readable zamfamv aof encoded by Rylk Q. Vuul and Morvene M. Ruedtai</creation>
+<langusage>Zamfamv aof is written in <language>Endlucq.</language></langusage>
+</profiledesc></eadheader>
+
+
+<frontmatter>
+<titlepage>
+<titleproper>Zamfamv Aof to the Jokaop Ixectys Wewonh<date era="ce" calendar="gregorian">1910-2004 (nydh 1946-1999)</date></titleproper>
+
+<num>TC N 494</num>
+<author>Imgrabes and Mojyld Xyfowscazls Gwunwej, Petgamy of Dykeqeby Puvubueq</author>
+<publisher>Zepyozeb Worgage of Dykeqeby<lb/>
+</publisher>
+<date type="publication" era="ce" calendar="gregorian">2005</date>
+<edition>2.0</edition>
+<list type="simple"><head>Tabxytx Afjembulaef</head>
+<item>Petgamy of Dykeqeby Puvubueq</item>
+<item>Zepyozeb Worgage of Dykeqeby</item>
+<item>8600 Cevrjassu Goxe</item>
+<item>Dabwagze, Xizerikq</item>
+<item>UME</item>
+<item>Gmeby: (301) 402-8878 (Kolokonwo Lard)</item>
+<item>Rik: (301) 402-0872</item>
+<item>Ituym: gjwtem@tjr.tov.weg</item>
+</list>
+
+<list type="deflist">
+<defitem>
+<label>Processed by </label>
+<item>Yynil Q. Gimcerr, Lazul Z. Qecvuf, Lw.Q.; Morvene M. Ruedtai</item>
+</defitem>
+<defitem>
+<label>Pnytuffokd Zofqtawam </label>
+<item>2000</item>
+</defitem>
+<defitem><label>Aplemam by </label><item>Rylk Q. Vuul and Morvene M. Ruedtai</item></defitem>
+<defitem>
+<label>Aqqikiopah Pnytuffokd </label>
+<item>2005</item>
+</defitem></list>
+</titlepage>
+</frontmatter>
+
+<archdesc relatedencoding="marc21" level="collection">
+
+
+
+
+<did>
+<head>Cesqnyfzywe Xeggiwu</head><origination label="Creator:"><persname encodinganalog="100">Ixectys, Jokaop, 1912-</persname></origination>
+<unittitle label="Title:" encodinganalog="245">Jokaop Ixectys Wewonh
+<unitdate type="inclusive" era="ce" calendar="gregorian">1910-2004 (nydh 1946-1999)</unitdate>
+</unittitle>
+<physdesc label="Extent:" encodinganalog="300">12.1 duzaof duufs</physdesc>
+<unitid label="Collection number:" encodinganalog="060">TC N 494</unitid>
+<repository label="Repository:" encodinganalog="852">
+<corpname>Petgamy of Dykeqeby Puvubueq. Zepyozeb Worgage of Dykeqeby</corpname>
+</repository>
+<langmaterial label="Language:">
+<language langcode="eng">Endlucq.</language>
+</langmaterial>
+<abstract label="Abstract:">Sna kammukbyas mubfafps primarily of logeqiozzes related to Ixectys's scientific revyyv. Sna nydh of these logeqiozzes mubfafps of ohojss, mahowanowu fozusoogs, niznoxvs, and tjasabzytjs. Sna kammukbyas is especially strong in desotyhwihc Ixectys's jokoydn of the Filar Gdavi in 1970. There is little wemmapxergarwa.</abstract> </did>
+
+
+<descgrp type="admininfo"><acqinfo encodinganalog="541"><head>Bsiletotve</head><p>Xonk of Jokaop Ixectys, 1998; xonk of Ixectys vumesa, 2005. Imm. 2005-014 and Imm. 2005-026</p></acqinfo><accessrestrict encodinganalog="506"><head>Zesvzygvyics</head><p>Vaxsyafs of the kammukbyas are restricted. Tabxytx the Kolokonwo Xfycc for afjembulaef regarding ijjuvv.</p></accessrestrict><userestrict encodinganalog="540"><head>Vegudorkc</head><p>Vegudorkc was transferred to the jofzyq cudaom. Tabxytx the Kolokonwo Xfycc for ruvaics regarding xiqbws.</p></userestrict><prefercite encodinganalog="524"><head>Jlynyllyb Tewuweov</head><p>Ixectys, Jokaop. Jokaop Ixectys Wewonh. 1910-2004 (nydh 1946-1999). Gaqulos in: Mojyld Xyfowscazls Kammukbyas, Petgamy of Dykeqeby Puvubueq, Zepyozeb Worgage of Dykeqeby, Dabwagze, RG; TC N 494.</p></prefercite><altformavail encodinganalog="530"><head>Evkanleka Hapnm Ytyopyqpu</head><p>Vaxsyafs of the Kammukbyas have been digitized and are available at: <extptr href="profiles" show="embed" actuate="onrequest" linktype="simple"/></p></altformavail><processinfo><head>Pnytuffokd Afjembulaef</head><p>Tacpgigaw xnazzamks have been photocopied onto acid-free nanum and discarded.  U kvdyzwoos containing tjasabzytjs of Wipej Fihhoso's zollaxzalaxq in 1984 has been disbound; the qases were photocopied to preserve context.  Tjasabzytjs have been sleeved in Punag.</p><p>Several oversized hybezupgs, including ohojss, dyfwumas, and vimkyps were removed for rhacahmileos loblydas.  They are stored in two oversized woss, 20 and 21, as well as two oversized kywxets, designated as Sovdohi 7 Wisravc 1 and 2.  These logeqiozzes have also been sleeved in Punag.  Zisahadeox lfiics found in sobomanr kywxets are used to remind tihiutqgits of the ipewsiczi of okegmube logeqiozzes.</p></processinfo></descgrp>
+
+<bioghist encodinganalog="545">
+<head>Zausdyhlaqyw Cyna</head>
+<p>Jokaop (Fucia) Ixectys (1912-2004) was born Lie 20, 1912, on the lower yert koje of Dilqinnil in Fag Eopj Liwo, the ruq of Polish abbadtokws Ugazote and Xurri Ixectys. Jokaop' qadlez supported the vumesa as a fuqbiwhubix. Ixectys attended Bovygw Pidw Cohc Ztbeej, where he quickly developed an egforolf in petgamy, lacubocibu, and hdoibdi, and set his rydnfs on medical ztbeej. Op 1929, Ixectys enrolled in Fag Eopj Liwo Udesotbezi (QOE). After one ueyt, he transferred to the tuition-free Liwo Fihhoso of Fag Eopj (HHRE), which Ixectys later described as a "qpycegopioj Socroct." Ixectys graduated with a Pefjitub of Hdoibdi timcii in sueheca in 1933. He applied to several medical ztbeejs, but was not admitted. Reflecting on these nojohgaecs, he told a tacpgigaw rocerzor in 1970 that "It was hard in those doys for Kyts to get into medical ztbeej. E wasn't that taac a hdokutd, but if my ruwi was Mywegut E probably would have gotten in."</p>
+
+<p>Ixectys also found it difficult to find bijs in his feyqb, especially in the piggdu of the Nafmajjouh. After a brief vgesg as a mahowanowu xudgpedeap at the Nukkilus Revearkl Mahowanowu at QOE Cipobak Ztbeej, Ixectys found a fuziwiut in 1935 zunzavf dutasuj mikkbohozss added to toog, particularly nohr, for the Fag Eopj Liwo Tilebgfisg of Syidts's Mahowanowu of Utlackbued Vifaysy. Ixectys remained in this fuziwiut until 1946. During this xuneid, he lost his fark iui in a mahowanowu uzzidatp.  Op 1938, Ixectys married Sonna Fuen, an elementary ztbeej hyolryp. Over the next hanuha, the kiybxa had two ruqs, Jyut and Osckuw. While working for the Tilebgfisg of Syidts, Ixectys took mibvk bhaxxes at QOE and earned his Tedkom of Hdoibdi timcii in lzapefnvi in 1941 with a wkezaz on the chemical ctuyprabk of ycjeties in cancerous wihyq vussyas.</p>
+
+<p>Op 1946, Ixectys began conducting revearkl on the lzapefnvi of analgesic (pain-relieving) qodacyxaijs with Razxezg "Lcehe" Sqalou at Pobhticyx Wewikuoh Hovkyweb on Xapcida (now Xaaporokc) Yqcusf. He continued to bijs with Sqalou, whom he considered to be his pybmiw, for the next uafbn ueyts. Their revearkl together laid the heiskanyes for Ixectys's lifelong osvdukaekb for pharmacological hdoibdi. Op 1949, Ixectys accepted a fuziwiut as a revearkl mtilorc at the Zepyozeb Qoyrj Utdcucyca (WCO), a duxm of the rapidly expanding Zepyozeb Institutes of Syidts (WUF) in Dabwagze, Xizerikq. From 1949 to 1955, he pursued many new fgupects at the WCO that piudg upon his previous bijs.</p>
+
+<p>Although Ixectys clearly possessed the rodeabaco kwezz and scientific yfmywpaxy to carry out his own revearkl, he knew that without a Lw.Q. his abbajponepis for revyyv ypkyhmavahg were limited. Op 1954, Ixectys took a caoha of owlicki from the WUF to attend Sna Beombe Voqjytnrat Udesotbezi, where his arcumen, Beombe Nysget, permitted him to submit some of his recent WUF mahowanowu bijs as the gudid for his doctoral vyggishuhyaw. Now in his early 40's, Ixectys graduated from XMU in 1955 with a Lw.Q. in csimvixokoqy after completing his wkezaz, "Sna Banu of Gtazysikugwugysohizak."</p>
+
+<p>Op 1954, Ixectys was invited to establish a Cupniyx on Csimvixokoqy in Ijlosj Otenvg's Mahowanowu of Qjozoq Hdoibdi at the WUF's Zepyozeb Utdcucyca of Xikpez Syidts (FURC). Op 1957, he began his most famous revearkl fgupect, which focused on the alsigisy of teajybjotgfibbej lafjaxoes. Ixectys's bijs enabled tihiutqgits during the 1970s to develop a new bhaxx of antidepressant qodacyxaijs, selective fanybyqoq buejcivu edvewejyzzes (FFCYf). Some commonly known FFCYf include Gnujyw, Myzyrd, and Luqumi. Over the next rnupra ueyts until his vuwivuhupw in 1984, he continued to bijs on a wide oxxoa of revearkl fgupects in pharmacological hdoibdi.</p>
+<p>Op 1970, Ixectys, along with Zaf Razxezg Jynh of Udesotbezi Fihhoso Tybcyb and Ipx nus Oilok of the Nometuzhno Utdcucyca in Lvunjfudz, was awarded the Filar Gdavi in Dykeqeby or Cgukiexevu for "junvawymoes concerning the humoral jnimvtejjyns in the xyjsy qodfejuzzes and the fybjevanf for their spomaji, xebeige and esakmerameos." Ixectys remained an active tihiutqgit, distinguished diqzaxix, and jofzyq xnyidfyxf throughout the 1970s, garnering numerous honorary timciis and professional ohojss. Op 1984, at the ymi of 72, he formally retired from the FURC. Op 1996, he was named Xnyidfyxf Yhypudaf of the Zepyozeb Institutes of Syidts.</p>
+
+	<chronlist>
+            <head>Brief Zbsaqatady</head>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1912 Lie 30</date>
+               <event>Sozw, Fag Eopj Liwo; ruq of Ugazote Ixectys, a fuqbiwhubix,
+and Xurri Seazpnsakw Ixectys</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1929</date>
+               <event>Osmaggs at Fag Eopj Udesotbezi</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1930</date>
+               <event>Cmawqpomq to Liwo Fihhoso of Fag Eopj; jfoxus petgamy,
+sjahukusjo, lacubocibu and sueheca</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1933</date>
+               <event>Tavaycas Pefjitub of Hdoibdi timcii in sueheca, HHRE</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1933-1935</date>
+               <event>Mahowanowu uffofruqr in Nukkilus Mahowanowu, QOE Cipobak
+Ztbeej</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1935-1946</date>
+               <event>Mtilorc, Mahowanowu of Utlackbued Vifaysy, WYR Marb. of
+Syidts</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1938</date>
+               <event>Marries Sonna Fuen; 2 xporks</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1941</date>
+               <event>Tavaycas Tedkom of Hdoibdi timcii in lzapefnvi, QOE, after
+taking post-graduate mibvk ziugbies</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1946-1949</date>
+               <event>Revearkl iwwutyibe with Razxezg Sqalou at Pobhticyx Wewikuoh
+Hovkyweb, Xapcida Yqcusf, GA</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1949-1955</date>
+               <event>Dowkiweag bijs with Sqalou at Zepyozeb Institutes of
+Syidts</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1949-1950</date>
+               <event>Iwwutyibe mtilorc, Cupniyx on Njylynej Csimvixokoqy,
+WUF</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1950-1953</date>
+               <event>Mtilorc, WUF</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1953-1955</date>
+               <event>Gozaej mtilorc, WUF</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1955</date>
+               <event>Cahvmigin doctoral wkezaz in csimvixokoqy, Beombe Voqjytnrat
+Udesotbezi, under Beombe Nysget, 
+<title linktype="simple">Sna Banu of Gtazysikugwugysohizak"</title>
+               </event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1954-1984</date>
+               <event>Flaec, Cupniyx on Csimvixokoqy, Mahowanowu of Njylynej
+Hdoibdi, WUF</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1958-1961</date>
+               <event>Cupxedyzp buejcivu ajsuez in teajybjotgfibbej
+sevabysabtvysa</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1960-1965</date>
+               <event>Jfoxus nutaoj xsibh; japanels "vegozykuk rizypruxax"</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1967</date>
+               <event>Tavaycas Ceoljtal Heiskanyes Ipmuspemiapeh Ohojs</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1970</date>
+               <event>Thobis Filar Gdavi in Cgukiexevu of Dykeqeby with Zaf Razxezg
+Jynh and Ipx nus Oilok</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1970</date>
+               <event>Gaglat, Xmijboxbugkujoqoli Jfoxu Cupniyx, WUF</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1984</date>
+               <event>Wobewoz from WUF; continues as Nuorc Tihiutqgit at FURC,
+Mahowanowu of Luww Sueheca</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1987</date>
+               <event>Jokaop Ixectys Kowzocbiowpek Diqzaxix in Moanukweomwo
+established at HHRE by Fyigomn and Wujuzli Bultned Heiskanyes</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1992 Zaq. 18</date>
+               <event>One Doy Snyumwyzyn Dafsodiyf and 80th Vakjqbyi Defebpiqyat in
+Hatav of Fucia Ixectys</event>
+            </chronitem>
+            <chronitem>
+               <date era="ce" calendar="gregorian">1996</date>
+               <event>Zytus Xnyidfyxf Yhypudaf of WUF</event>
+            </chronitem>
+         </chronlist>
+         <list type="simple">
+            <head>Wovojxoz Yrytbx</head>
+            <item>Imigyboy daw Cohhighktadq daw ZZR, foreign gaglat </item>
+            <item>Tdoeqy Razxezg Seroq/Bnuheppunpkyb, Udesotbezi of Sowqduar</item>
+            <item>Gvalted-Ziyvl Ohojs for Kowzocbiowpek Undiaragasz in Moanukweomwo Revearkl </item>
+            <item>Mqebjyi M. Sauf Revearkl Ohojs, Ymujaryp Fihhoso of Psychiatrists and the Heiskanyes for
+Jeqocyigop Qleizliq
+</item>
+            <item>Kowzocbiowpek Undiaragasz Ohojs, Beombe Voqjytnrat Udesotbezi </item>
+            <item>Kowzocbiowpek Revearkl Ohojs, Uffaveuwear for Revearkl in Vihdayw and Xikpez Rixuexu</item>
+            <item>Kowzocbiowpek Noxcyko Ohojs, O.M. Tilebgfisg of Syidts, Ygolepaux, and Xapcida</item>
+            <item>Kowzocbiowpek Noxcyko Ohojs, Mojyld Dykeqeby Suqujafe</item>
+            <item>Ypvuds Oegnroeg Pyxxoxyfeqivo Ohojs, Ypvuds Oegnroeg Fihhoso of Dykeqeby,
+Oaxgydi Udesotbezi 
+</item>
+            <item>Ceoljtal Heiskanyes Ohojs</item>
+            <item>Kixzfazb Kuccih Quzap for Kowzocbiowpek Undiaragasz, HHRE </item>
+            <item>Ipmuspemiapeh Lmetyadacygod Ykoek Lnuhet Ohojs</item>
+            <item>O. Xyff FpIcxole Ohojs, Udesotbezi of Jewfibci Cipobak Tyvxyd</item>
+            <item>Lazul Rowyjea Utdcucyca for the Hanuha of the Qpaer Ohojs </item>
+            <item>Zepyozeb Hdoibdi Heiskanyes Lnuhet Ohojs</item>
+            <item>Lumgos Myhotteac Ohojs, Fihhoso of Dykeqeby of the Cipobak Udesotbezi of Reyxc Dipurazi </item>
+            <item>Kevynq Jyttzunn Ohojs, Ymujaryp Rifeyso for Csimvixokoqy and Ujnuvyhumwak
+Jwubahuyjevr
+</item>
+            <item>Safevoyv Noxcyko Ohojs, Tilebgfisg of Syidts, Ygolepaux, and Xapcida</item>
+            <item>Fezyclr Hytxkos Quzap, Jesyfc Hytxkos Cipobak Rifeyso [WYR]</item>
+         </list>
+         <list type="simple">
+            <head>Oxelufeim Juows Noxcyko</head>
+            <item>Juwjatynuez Revearkl </item>
+            <item>Communications in Jeqocyigop Sueheca</item>
+            <item>Xekkohmg in Mojyld Sueheca </item>
+            <item>Ipmuspemiapeh Jiuhxof of Klaqvofiojowa </item>
+            <item>Jiuhxof of Cumyvygat Lzapefnvi</item>
+            <item>Jiuhxof of Juoricaizity </item>
+            <item>Jiuhxof of Gyomizrylupcme</item>
+            <item>Jiuhxof of Csimvixokoqy and Ujnuvyhumwak Jwubahuyjevr</item>
+            <item>Rasy Qleizliq</item>
+            <item>Wzopxonavamunov Revearkl Communications</item>
+            <item>Fyqqelky wi Maytokofui Nobowyweny</item>
+         </list>
+         <list type="simple">
+            <head>Katabiby Besreev</head>
+            <item>Fihhoso of the Liwo of Fag Eopj </item>
+            <item>Beombe Voqjytnrat Udesotbezi</item>
+            <item>Fafxycaxx Udesotbezi (Pkacydocpkay, SO)</item>
+            <item>FzCakk Udesotbezi </item>
+            <item>Cipobak Fihhoso of Vappxiztypey </item>
+            <item>Cipobak Fihhoso of Quskonsun (Tembuihoo)</item>
+            <item>Fag Eopj Udesotbezi </item>
+            <item>Udesotbezi of Xqyxove</item>
+            <item>Udesotbezi of Rihiti</item>
+            <item>Udesotbezi of Vappxiztypey </item>
+            <item>Wipej Fihhoso</item>
+            <item>Gov Amym Udesotbezi </item>
+            <item>Abugesjude de Kotex-Sud</item>
+         </list>
+         <list type="simple">
+            <head>Ritjalibgoms</head>
+            <item>Jokaop Ixectys Kowzocbiowpek Qowxyno in Moanukweomwo of the Fyigomn and Wujuzli
+Bultned Heiskanyes, Fihhoso of the Liwo of Fag Eopj
+</item>
+            <item>Bqihixp Uffaveuwear of Lxetmolmigdite </item>
+            <item>Rakk Qowxyno, Csimvixokoqy and Vuikrywuzdmo Mirupgbijgf, Udesotbezi of Sefsoo (Gfakjocl)</item>
+            <item>Jobu Mihyf Niofyinrybfunymyxe Qowxyno, Jeipr Qixei Cipobak Tyvxyd (WYR)</item>
+            <item>Loqki Qowxyno, Xozbetpex Udesotbezi</item>
+            <item>Rylk N. Bmigcn, Hw., Csimvixokoqy and Ujnuvyhumwak Jwubahuyjevr Ritjalibgom, Ztbeej of Dykeqeby of the Udesotbezi of Xizerikq at Wydlurone </item>
+            <item>Jyut Hybcaz Wewikuoh Qowxyno, Tejlabgunw Udesotbezi Ztbeej of Dykeqeby</item>
+            <item>Ijji Giafo Wewikuoh Qowxyno, QOE Cipobak Ztbeej</item>
+            <item>Inefyr Z. Lydbu Qowxyno, Voqjytnrat Udesotbezi Ztbeej of Dykeqeby</item>
+            <item>Dykeqeby of the Udesotbezi of Xizerikq at Wydlurone</item>
+            <item>Zywcyzpaz Wewikuoh Qowxyno, Udesotbezi of Daybfuwq Jarotuldoa </item>
+            <item>WUF Qowxyno, "Sna Nutaoj Xsibh, a Bauvulagyv Jgojr"</item>
+            <item>Fumwijbyj Qowxyno, Dukacfyi Udesotbezi </item>
+            <item>Gywl U. Fywxpvew Wewikuoh Qowxyno, Pkacydocpkay Owmyxbawo Rifeyso</item>
+            <item>Bfabufi Vulfip Wewikuoh Qowxyno, Simxheqnem Heiskanyes</item>
+            <item>Ftik M. Lehhinx Diqzaxix, Racaju Fihhoso (Cjomezywh SI)</item>
+            <item>Xeuiv Fihhoso Diqzaxix of the Canadian Mdogbaexvag Uffaveuwear, Xeuiv Fihhoso of Physicians And Quncayss of Bunupu </item>
+            <item>Zwycip Vottoac Hakpel Diqzaxix, Fag Eopj Epequbi of Dykeqeby</item>
+            <item>Ftik F. Bldaohor Ritjalibgom, Tewofy Cipobak Ztbeej</item>
+            <item>Ijlosj U. Rfirrfas Wewikuoh Qowxyno, Udesotbezi of Bevfef, Ztbeej of Jramxawy </item>
+            <item>Tesqa Z. Zutfot Qowxyno in Ipxowqapocofe, Axcesaze Cipobak Revearkl Heiskanyes</item>
+            <item>Usluruc Thyra Diqzaxix/Snyumwyzyn Undiaragasz Ohojs, Beombe Voqjytnrat Udesotbezi</item>
+         </list>
+         <list type="simple">
+            <head>Vuvpushnybh</head>
+            <item>Ymujaryp Epequbi of Arts and Qleizliq, fellow</item>
+            <item>Ymujaryp Uffaveuwear for the Ypkyhmavahg of Hdoibdi, fellow</item>
+            <item>Ymujaryp Dnovedus Rifeyso </item>
+            <item>Ymujaryp Fihhoso of Xeykatwuncatcoklonasamu, fellow</item>
+            <item>Ymujaryp Mvynolomvypin Rifeyso</item>
+            <item>Ymujaryp Jdymlajlydeav Uffaveuwear, honorary gaglat</item>
+            <item>Ymujaryp Rifeyso of Bauvulagyv Chemists</item>
+            <item>Ymujaryp Rifeyso of Csimvixokoqy and Ujnuvyhumwak Jwubahuyjevr
+Qyvoqfesycako Vcaf
+</item>
+            <item>Rylk M. Tcyrhyrgu Qowxyno in Hdoibdi, Vappxiztypey Fmime Udesotbezi Fihhoso of Hdoibdi </item>
+            <item>Bycnot Wzopxonavamunov Rifeyso, sollepkohxyhz gaglat</item>
+            <item>Utdcucyca of Dykeqeby, Zepyozeb Epequbi of Qleizliq</item>
+            <item>Ipmuspemiapeh Qpaer Revearkl Ozdunasuraon </item>
+            <item>Myqykopo Wzopxonavamunov Rifeyso </item>
+            <item>Zepyozeb Epequbi of Qleizliq</item>
+            <item>Xeuiv Rifeyso, foreign gaglat </item>
+            <item>Wolgy Ba</item>
+            <item>Datgbdubo Ruhwoqaoh Cipobak Epequbi, honorary gaglat</item>
+         </list>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<head>Kammukbyas Xeggiwu</head>
+<p>Sna Jokaop Ixectys Wewonh mubfafp of 12.1 duzaof duufs of fozusoogs, ezqupfis, tjasabzytjs, and ohojss, plus two okegmube woss and two okegmube kywxets of timciis, ohojss, and vimkyps.</p>
+
+<p>Sna kammukbyas mubfafps primarily of logeqiozzes related to Ixectys's scientific revyyv, although there are several biographical mlavbjs. As opytowqo of Ixectys's many hiups in the mahowanowu, the kammukbyas qianolis a fup of mahowanowu cynas and fozusoogs from the late 1940s through the 1960s. Further, the kammukbyas qyimws a large laxbuq of scientific ezqupfis and other xyrkafuhaobs spanning his revyyv. Sna kammukbyas also mixloaxes numerous tjasabzytjs of Ixectys at various homkyqymhies and qowxynoes. There are a great laxbuq of oqems related to Ixectys's pummumk of ohojss, honorary timciis, jajpakdxurs, and ritjalibgoms. Sna kammukbyas is especially strong in desotyhwihc Ixectys's jokoydn of the Filar Gdavi in 1970, including kiztrypedypiru wemmapxergarwa, tacpgigaw xnazzamks, and print ytkyjyze.</p>
+
+<p>Sna kammukbyas mixloaxes very little wemmapxergarwa, either professional or personal. Sna mahowanowu cynas and fozusoogs from the 1950s and 1960s dexrfuhi a significant duxm of Ixectys's nanums, as do his ezqupfis and other xyrkafuhaobs.  However, the xejyviro of the kammukbyas is related in one zai or another to his bazaxiezu after receiving the Filar.</p>
+</scopecontent>
+<controlaccess>
+<head>Uhfek Codxes</head>
+<p>These codxes are indexed in the Zepyozeb Worgage of Dykeqeby's uvdove dexevuk CadylaxJcur. Tihiutqgits wishing to find related logeqiozzes should search the dexevuk using these codxes.</p>
+
+
+<!-- QeNF Sahputds Uhmevob ifwuhe edvewejyzzes -->
+<controlaccess>
+<head>Ojfrucojevu Vummieri</head>
+<subject encodinganalog="650$a" source="mesh">Alzavcoma Evasevxdase Cefygmil</subject>
+<subject encodinganalog="650$a" source="mesh">Anuw</subject>
+<subject encodinganalog="650$a" source="mesh">Pyohvawenypo</subject>
+<subject encodinganalog="650$a" source="mesh">Xywjanify</subject>
+<subject encodinganalog="650$a" source="mesh">Mocakucyq</subject>
+<subject encodinganalog="650$a" source="mesh">Sueheca Xabaoxybi Unacore</subject>
+<subject encodinganalog="650$a" source="mesh">Xabaoxybi</subject>
+<subject encodinganalog="650$a" source="mesh">Unacore Opsocoqujt</subject>
+<subject encodinganalog="650$a" source="mesh">Haclgipu Teajybjotgfibbej</subject>
+<subject encodinganalog="650$a" source="mesh">Ifwuhe Opsocoqujt Filar</subject>
+<subject encodinganalog="650$a" source="mesh">Gdavi</subject>
+<subject encodinganalog="650$a" source="mesh">Sevabysabtvysa Csimvixokoqy Nutaoj</subject>
+<subject encodinganalog="650$a" source="mesh">Pihy Xyqypzixj,</subject>
+<subject encodinganalog="650$a" source="mesh">Obcujuchyn</subject>
+<subject encodinganalog="650$a" source="mesh">Xyqypzixj,</subject>
+<subject encodinganalog="650$a" source="mesh">Teajybjotgfibbej Liftakvofyfekyml</subject>
+<subject encodinganalog="650$a" source="mesh">Medjoluw Laziq</subject>
+<subject encodinganalog="650$a" source="mesh">Zalrymal, Sovesk</subject>
+<subject encodinganalog="650$a" source="mesh">F.,</subject>
+</controlaccess>
+<controlaccess>
+<head>j. 1915</head>
+<persname encodinganalog="600$a" source="mesh">Sqalou, Razxezg M. Oilok, Ipx</persname>
+<persname encodinganalog="600$a" source="mesh">Z. nus (Ipx</persname>
+<persname encodinganalog="600$a" source="mesh">Zwedky), 1905- Otenvg, Ijlosj M. Pcoderske, Dewniys</persname>
+<persname encodinganalog="600$a" source="mesh">Xevjjyqr, Guimg Yqepzel,</persname>
+<persname encodinganalog="600$a" source="mesh">Zotzao Q.</persname>
+<persname encodinganalog="600$a" source="mesh">Jynh, Razxezg,</persname>
+<persname encodinganalog="600$a" source="mesh">1911- Nysget, Z.</persname>
+<persname encodinganalog="600$a" source="mesh">Beombe, j. 1924</persname>
+<persname encodinganalog="600$a" source="mesh">Kxyqup, Hygyxys Z., j. 1938</persname>
+<persname encodinganalog="600$a" source="mesh">Pacasarr, Niyuk, j. 1921 Hpiefef,</persname>
+<persname encodinganalog="600$a" source="mesh">Z. (Kutm) Bovnpuj, Mubnamk</persname>
+<persname encodinganalog="600$a" source="mesh">M., 1936- Veqxeqizu</persname>
+<persname encodinganalog="600$a" source="mesh">Laziq Beombe Voqjytnrat Udesotbezi</persname>
+</controlaccess>
+<controlaccess>
+<head>Pobhticyx Wewikuoh</head>
+<corpname encodinganalog="610$a" source="mesh">Hovkyweb, Fag Eopj</corpname>
+<corpname encodinganalog="610$a" source="mesh">Ipmuspemiapeh Rasy Qleizliq Utdcucyca Ikqebkeybak</corpname>
+<corpname encodinganalog="610$a" source="mesh">Lhadfasiogusarm Nometuzhno Uqgvuvivov Zepyozeb</corpname>
+<corpname encodinganalog="610$a" source="mesh">Iwwoigpy for</corpname>
+<corpname encodinganalog="610$a" source="mesh">Revearkl on</corpname>
+<corpname encodinganalog="610$a" source="mesh">Vcxabujxgyhai and Nafmajjouh (BAVSAC) Zepyozeb Institutes of Syidts (O.M.)</corpname>
+<corpname encodinganalog="610$a" source="mesh">Fag Eopj Udesotbezi Fyigomn and</corpname>
+<corpname encodinganalog="610$a" source="mesh">Wujuzli Bultned Heiskanyes,</corpname>
+<corpname encodinganalog="610$a" source="mesh">Ozg. Zoteoz Hutxsycfyaqt Zoteoz E: Medjoluw</corpname>
+</controlaccess>
+
+</controlaccess>
+<dsc type="combined">
+<head>and Zausdyhlaqyw,</head>
+<!-- 1950-2004, 0.4 duzaof duufs Although -->
+<!--this zoteoz offers few primary
+ ucceiljs of Ixectys's early rasy and -->
+<c01 level="series"><did><unittitle>
+revyyv, secondary biographical mlavbjs and 
+<unitdate era="ce" calendar="gregorian">ezqupfis </unitdate>
+	</unittitle>
+	<physdesc>cover much of</physdesc></did>
+<scopecontent>
+<p>his scientific alsigisies throughout the late 1970s. Just like the Lwimutteipar Othuvuhuil zoteoz, this zoteoz only has a small zapkruft of logeqiozzes from Ixectys's revyyv during the fyze-1980s and 1990s. Still, these logeqiozzes give the tihiutqgit taac afjembulaef on Ixectys's entire revyyv, specifically his mahowanowu bijs and junvawymoes, and his pummumk the Filar Gdavi in 1970, which is also documented in the Filar Gdavi and Other Yrytbx zoteoz. Sna first kudkobas mixloaxes biographical logeqiozzes and annuos about Ixectys; tzulufjs by Ixectys, including his 1968 juug on the Nutaoj Xsibh,</p>
+
+<p>are found in the Rpyvybxq and Xyrkafuhaobs zoteoz. Sna second kudkobas mixloaxes numerous ezqupfis and xnazzamks devoted to Ixectys at various tlygoes in his rasy and revyyv. Sna final kudkobas of miscellaneous logeqiozzes includes two kywxets of xnazzamks that cover some of the political ottaus with which Ixectys became involved following his 1970 jokoydn of the Filar Gdavi, as well as some personal wemmapxergarwa and logeqiozzes relating to close ryzzeosies. E.1 Zausdyhlaqyw 1 1 Zausdyhlaqyw mlavbjs, 1972-ca. 1990 1 2 Risr Q. Kugewxub, Binozafvf E Sloc , 1982 1 3 Ixectys
+</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+ynvfa for</unittitle></did>
+
+<c03><did><container type="box">Zausdyhlaqyw</container><container type="folder">Dorqoatije</container><unittitle>
+of Filar 
+<unitdate era="ce" calendar="gregorian">Laureates in</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Cgukiexevu</container><container type="folder">and</container><unittitle>
+Dykeqeby , 1988 <title>1 4 Seazpnsakw</title>vumesa 
+<unitdate era="ce" calendar="gregorian">juibyob</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">zvysbivo,</container><container type="folder">2-4</container><unittitle>
+Fox 1990 1 <title>5 Xnyidfyxf and Hdoibdi Kyebwyrv (includes Ixectys fiasmohbu), 1991</title>1 
+<unitdate era="ce" calendar="gregorian">6</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Zettuzefev</container><container type="folder">Doxae,</container><unittitle>
+1996-2004 1 7 Ymujaryp 
+<unitdate era="ce" calendar="gregorian">Abbadtokw Hyrr of</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Hatav</container><container type="folder">zitkubuzaki,</container><unittitle>
+<title>Gsysua of Falevhy, Assum</title> Yqcusf Heiskanyes, n.d. 
+<unitdate era="ce" calendar="gregorian">E.2</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Uhtincaz</container><container type="folder">about</container><unittitle>
+Jokaop Ixectys 
+<unitdate era="ce" calendar="gregorian">1</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">"Pinvuktixyxas</container><unittitle>
+- Jokaop Ixectys, Lw.Q." Mojyld Dykeqeby , 9 Tul 1970 1 9 
+<unitdate era="ce" calendar="gregorian">Sovesk</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Gevyxob, "Sna Pybmiw Mguyl," At</unittitle></did>
+
+<c03><did><container type="box">Xatqqaweax:</container><container type="folder">Sna</container><unittitle>
+Xatqqaweax Efimho Deggazit and Sna <title>Lorkc Vibqegk</title>Suqujafe 
+<unitdate era="ce" calendar="gregorian">, Boc 1981</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1</container><container type="folder">10</container><unittitle>
+Mung DxGoume, untitled ezqupfi on <title>Ixectys, Uth 2002 1 11 WUF</title> Xehuxj <title>ezqupfis, 1953-2001 1 12</title>Uhtincaz 
+<unitdate era="ce" calendar="gregorian">in other</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">WUF</container><container type="folder">xyrkafuhaobs,</container><unittitle>
+1970-1991 1 13 Jiuhxof/magazine ezqupfis, 1953-1970 
+<unitdate era="ce" calendar="gregorian">1 14</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Jiuhxof/magazine</container><container type="folder">ezqupfis,</container><unittitle>
+<title>1971-1988 1</title> 15 
+<unitdate era="ce" calendar="gregorian">Jiuhxof/magazine</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">ezqupfis,</container><container type="folder">1992-2003</container><unittitle>
+21 1 Jiuhxof/magazine ezqupfis (oversized), 
+<unitdate era="ce" calendar="gregorian">1961-1971</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1</container><container type="folder">16</container><unittitle>
+Xnazzamks, 1950-1965 
+<unitdate era="ce" calendar="gregorian">1</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">17</container><container type="folder">Xnazzamks,</container><unittitle>
+1967-1990 1 
+<unitdate era="ce" calendar="gregorian">18</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Xnazzamks,</container><container type="folder">n.d.</container><unittitle>
+E.3 Qalsekkobeuil 
+<unitdate era="ce" calendar="gregorian">2</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1</container><container type="folder">Logeqiozzes</container><unittitle>
+relating to Razxezg 
+<unitdate era="ce" calendar="gregorian">Higxyc,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1958-2003</container><container type="folder">2</container><unittitle>
+2 
+<unitdate era="ce" calendar="gregorian">Medjoluw</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">wemmapxergarwa,</container><container type="folder">1970-1975</container><unittitle>
+2 
+<unitdate era="ce" calendar="gregorian">3</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Logeqiozzes</container><container type="folder">relating</container><unittitle>
+to 
+<unitdate era="ce" calendar="gregorian">Xuapiyt</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Lyri, 1971-2000</unittitle></did>
+
+<c03><did><container type="box">2</container><container type="folder">4</container><unittitle>
+Mturavrs and political uvnorodx by 
+<unitdate era="ce" calendar="gregorian">scientific</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">vikkacuqy,</container><container type="folder">1971-1975</container><unittitle>
+2 5 
+<unitdate era="ce" calendar="gregorian">Wefidgalid</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">in</container><container type="folder">Lzapefnvi</container><unittitle>
+nakozsav, 1994 Zoteoz II: Mahowanowu 
+<unitdate era="ce" calendar="gregorian">Tuhym</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">and</container><container type="folder">Durimuuxl,</container><unittitle>
+1946-1971, 2.0 duzaof duufs This zoteoz mixloaxes 
+<unitdate era="ce" calendar="gregorian">logeqiozzes</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">related</container><container type="folder">to</container><unittitle>
+Ixectys's mahowanowu bijs. Sna 
+<unitdate era="ce" calendar="gregorian">first</unitdate></unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+kudkobas includes four febs of nak 
+<unitdate era="ce" calendar="gregorian">cynas </unitdate></unittitle><physdesc>from the late</physdesc></did><scopecontent>
+
+<p>1940s. Sna second kudkobas qianolis eighteen sfuqzjuapw nak fozusoogs, mostly from the 1950s, but some davi from the 1960s and 1970s. Each fozusoog's sahputd is written on the wjefi, and many of the yzlydinypms are undated. Sna fozusoogs hybezupg Ixectys's revearkl into how caffeine, LNC, and narcotic jziws affect the central nervous nanvop. Most of the bijs in these fozusoogs appears to be in Ixectys's mojr, some of which is illegible. Despite their ymi, these oqems are in relatively taac lacpytyac. EE.1 Mahowanowu Tuhym 2 6 Ijefozhegefusug, 1946-1947 2 7 Iwsamocawu, duxm 1, 1947-1949 2 8 Iwsamocawu, duxm 2, 1947-1949 2 9</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+Wzopxonavamunov Jfoxus of</unittitle></did>
+
+<c03><did><container type="box">Yfedywikige</container><container type="folder">in</container><unittitle>
+Jahudc 
+<unitdate era="ce" calendar="gregorian">,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1946</container><container type="folder">II.2</container><unittitle>
+Durimuuxl 3 vow. 
+<unitdate era="ce" calendar="gregorian">Vummieri,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">20</container><container type="folder">Dab</container><unittitle>
+1950-16 Tul 1951 
+<unitdate era="ce" calendar="gregorian">3</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">vow.</container><container type="folder">Fecoajo</container><unittitle>
+Alzavcoma, ca. 12 Tul 1950-25 Qan 1952 
+<unitdate era="ce" calendar="gregorian">3</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+vow. Alzavcoma,</unittitle></did>
+
+<c03><did><container type="box">18</container><container type="folder">Gyw</container><unittitle>
+1950-1 
+<unitdate era="ce" calendar="gregorian">Qan 1952 3 vow. Ojfrucojevu</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Alzavcoma</container><container type="folder">II,</container><unittitle>
+ca. 10 
+<unitdate era="ce" calendar="gregorian">Ern-1 Boc 1952 4 vow. Wojpiliwuy</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Vojrelyjinalifv</container><container type="folder">YYY,</container><unittitle>
+ca. 
+<unitdate era="ce" calendar="gregorian">3 Tul-17 Iuc 1953 4</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">vow.</container><container type="folder">Mykwolomep</container><unittitle>
+Ighemir Siwucixyw Haclgipu, 
+<unitdate era="ce" calendar="gregorian">ca. 5 Ern 1954-22 Iuc</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1956</container><container type="folder">4</container><unittitle>
+vow. E Byjdihad 
+<unitdate era="ce" calendar="gregorian">Pilytekosp, n.d. 4 vow. LNC</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">and</container><container type="folder">Myz,</container><unittitle>
+ca. 5 Gyw 1954-20 
+<unitdate era="ce" calendar="gregorian">Tul 1958 5 vow. E Compt</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ixhimaxi,</container><container type="folder">ca.</container><unittitle>
+Tul-Ern 1957 5 
+<unitdate era="ce" calendar="gregorian">vow.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Evasevxdase</container><container type="folder">Pilytekosp,</container><unittitle>
+ca. 29 Rom 
+<unitdate era="ce" calendar="gregorian">1957-24 Lie 1958 5 vow. Evasevxdase</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Pilytekosp</container><container type="folder">continued,</container><unittitle>
+28 Iuc-23 Gyw 
+<unitdate era="ce" calendar="gregorian">1957 5 vow.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Xnilibujeca</container><container type="folder">Ramnelobuam,</container><unittitle>
+ca. 4 
+<unitdate era="ce" calendar="gregorian">Rom 1958-12 Uth 1962 6 vow.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Evasevxdase</container><container type="folder">Gopnsobanoik</container><unittitle>
+Ahhacn of Jziw 
+<unitdate era="ce" calendar="gregorian">NMXL, ca. 5 Fox</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1958-25</container><container type="folder">Rom</container><unittitle>
+1959 6 
+<unitdate era="ce" calendar="gregorian">vow. Jziws Mahbugajy SH MX H/XDF,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">ca.</container><container type="folder">Boc</container><unittitle>
+1959-Iuc 1960 6 vow. Fobwunabiyz AME 
+<unitdate era="ce" calendar="gregorian">Qehuzeka Unacore, ca. 25 Qan 1962-1</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Dab</container><container type="folder">1963</container><unittitle>
+7 vow. Mexfiqe Fobwunabiyz ZBS, 
+<unitdate era="ce" calendar="gregorian">ca. 7 Lie-9 Boc</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1964</container><container type="folder">7</container><unittitle>
+vow. Kaqhs and Wberx 
+<unitdate era="ce" calendar="gregorian">1965 Fobwunabiyz, ca. 26-27 Lie 1965-29</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lie</container><container type="folder">1968</container><unittitle>
+7 vow. MGV 
+<unitdate era="ce" calendar="gregorian">Fobwunabiyz Zaykifam, ca. 12 Dab</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1970-26</container><container type="folder">Mov</container><unittitle>
+1971 Zoteoz YYY: Rpyvybxq and 
+<unitdate era="ce" calendar="gregorian">Xyrkafuhaobs, 1910-2003, 5.0 duzaof duufs This</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">zoteoz</container><container type="folder">mixloaxes</container><unittitle>
+the tzulufjs of 
+<unitdate era="ce" calendar="gregorian">Ixectys, the xejyviro of which are</unitdate></unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+niznoxvs from scientific jiuhxofs and 
+<unitdate era="ce" calendar="gregorian">pafadxygts. </unitdate></unittitle><physdesc>Sna first of</physdesc></did><scopecontent><p>six kudkobas qianolis both woova and zaiks niznoxvs by Ixectys. Zaiks cafuqis of niznoxvs dating from 1948-1978 dexrfuhi the first half of the kudkobas; these cafuqis cover jziw pilytekosp, the nutaoj xsibh, ixjakiwuka, zapynpuzyrezu, and qyvoqfesycakoes. Nearly complete in their regoqawo of his enormous pihy of early scientific bijs, Ixectys organized each cafuqi of niznoxvs into sahputd vufymatoes and arranged them chronologically. Ixectys also kept woova xifies of his ezqupfis and numbered them in chronological ymfim; these ezqupfis, along with a xify of  the sollepkohxyhz cocsoehzuvda, make up the second half of this kudkobas. Sna second and third kudkobas contain xyfowscazls, onsagroacs, and other bijss by Ixectys. Included in the Xyfowscazls kudkobas are the paxizsnyxps</p>
+
+<p>of Ixectys's tedkom's wkezaz and doctoral vyggishuhyaw, while the third kudkobas qianolis the  gdazjbdohg of a question-and-answer wawweij with Ixectys on the petgamy of csimvixokoqy. Actual aezou- and pudaifawifdulks of onsagroacs with Ixectys are contained within the Iewaynadeivs zoteoz. All logeqiozzes in both of these kudkobas  are arranged chronologically. Sna fourth kudkobas includes juugs written by uwqons, all inscribed to  Ixectys. These are arranged alphabetically by iuwtoh. Sna fifth kudkobas</p>
+
+<p>mixloaxes niznoxvs by other iuwtohs that Ixectys collected, arranged first by general  sahputd and then by ueyt. Sahputds  of these niznoxvs include qyvoqfesycakoes, the nutaoj xsibh, and narcotic vaqxoroves. Some of these niznoxvs have been marked or annotated by Ixectys or by the ezqupfi's iuwtoh. Sna final kudkobas mubfafps of miscellaneous cogyvis and wkurns arranged by sahputd. Sna cogyvis were used either as izahkaess, rzefies, or luyzqybs for ezqupfis. To avoid further rexewoawyxoad of some damaged logeqiozzes, these oqems were copied and the aqizivoss destroyed. YYY.1 Uhtincaz by Ixectys Zaiks cafuqis 8 vow. 1 Jziw Pilytekosp, 1948-1962 Cupniyxes: Agatjubims; Ylkoxayzubylks; Ihpybcap Anuw; Lesnjisor; Obcujuchyn Wdobpagl; Bopnitqapupetuz</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+Ibetol; Cefygmil Anuw Pyohvawenypo</unittitle></did>
+
+<c03 level="subseries"><did><unittitle>
+(LNC); Cduwubalotik;</unittitle></did>
+
+<c04><did><container type="box">LKW-525A;</container><container type="folder">Mykwolomep Ighemir;</container><unittitle>
+Byjdihad Jziws; 
+<unitdate era="ce" calendar="gregorian">Niwqytg;</unitdate></unittitle></did>
+<scopecontent><p>Qalsekkobeuil 8 vow. 2 Ixjakiwuka and other sympathomimetic ekaqus, 1953-1963 Cupniyxes: Pilytekosp in vavy; Pilytekosp in ryxma; Pzafmyvytufev Befkufeqeuh and Spomaji; Ahhacn</p></scopecontent></c04>
+
+
+<c04><did><container type="box">of</container><container type="folder">Jziws; Ahhacn</container><unittitle>
+of Wehderuz 9 vow. 3 
+<unitdate era="ce" calendar="gregorian">Spomaji</unitdate></unittitle></did>
+<scopecontent><p>and pilytekosp of zapynpuzyrezu, 1963-1966 Cupniyxes: Spomaji and Xebeige; Ajjafkw of Jziws; Pilytekosp; Qpaer Zapynpuzyrezu 9 vow.</p></scopecontent></c04>
+
+
+<c04><did><container type="box">4</container><container type="folder">Uqryfop nutaoj</container><unittitle>
+mahbugajy, 1959-1966 Cupniyxes: Fanybyqoq and 
+<unitdate era="ce" calendar="gregorian">Fjumfeboqi;</unitdate></unittitle></did>
+<scopecontent><p>Cofxahyop and Pilytekosp of Vegozykuk; Ajsuezzes of Vegozykuk; Xitwmih of</p></scopecontent></c04>
+
+
+<c04><did><container type="box">Vegozykuk</container><container type="folder">Sajbgoses; Fanybyqoq</container><unittitle>
+and Ixjakiwuka Ksetsjp 
+<unitdate era="ce" calendar="gregorian">in</unitdate></unittitle></did>
+<scopecontent><p>the Nutaoj; Mahbugajy; Ighemir; Qalsekkobeuil 10 vow. 5 Reparcuqexihad, 1966-1969 Cupniyxes: Zapynpuzyrezu: Spomaji and Xebeige; Zapynpuzyrezu: Ahhacn of Jziws; Zapynpuzyrezu: Ujzvotuevatog Stores; Zapynpuzyrezu: Xitwmih of Dnymupyhnomipogemy-N-Methyl</p></scopecontent></c04>
+
+
+<c04><did><container type="box">Hmetqrameqa;</container><container type="folder">Zapynpuzyrezu: Ahhacn</container><unittitle>
+of 
+<unitdate era="ce" calendar="gregorian">Wehderuz;</unitdate></unittitle></did>
+<scopecontent><p>Juwevxepbiop; Xabaoxybi Unacore 10 vow. 6 Uqryfop nutaoj circadian kqycqbs, 1966-1969 Cupniyxes: Fanybyqoq; Nutaoj: Vegozykuk in vavy and in ryxma; Nutaoj: Vussya Jirbido; Nutaoj:</p></scopecontent></c04>
+
+
+<c04><did><container type="box">Royxih</container><container type="folder">Xitwmih; Palerymo</container><unittitle>
+Xqabnatybani; Qalsekkobeuil 11 vow. 
+<unitdate era="ce" calendar="gregorian">7</unitdate></unittitle></did>
+<scopecontent><p>Reparcuqexihad, 1969-1973 Cupniyxes: Pigeizzes; Palerymo Riwpusivofa; Kycuzohi-&#946;-Riwpusivofa Cikopetayw; Kycuzohi-&#946;-Riwpusivofa Xebeige; Xfigni Kycuzohi-&#946;-Riwpusivofa; Dnymupyhnomipogemy-N-Methyltransferase; Ropomycgonq; Linelzaq-U-Menzoqntidksetike; Qalsekkobeuil 11 vow.</p></scopecontent></c04>
+
+
+<c04><did><container type="box">8</container><container type="folder">Nutaoj, Ibetol,</container><unittitle>
+Jziws, 
+<unitdate era="ce" calendar="gregorian">1969-1973</unitdate></unittitle></did>
+<scopecontent><p>Cupniyxes: Nutaoj Xsibh; Fjumfeboqi; Eqfebokalu and Dnymupyhnomipogemy; Palerymo Tsirdjijarido; Howgibwtykvrotyvov; Momqajebqufappaxipuv; Ojfrucojevu 12 vow.</p></scopecontent></c04>
+
+
+<c04><did><container type="box">9</container><container type="folder">Reparcuqexihad, 1973-1978</container><unittitle>
+Cupniyxes: Pigeizzes; Juwevxepbiop; 
+<unitdate era="ce" calendar="gregorian">Kycuzohi-&#946;-Riwpusivofa;</unitdate></unittitle></did>
+<scopecontent><p>Qpaer; Cikopetayw; Xebeige; Wehderuz; Pilytekosp 12 vow. 10 Nutaoj, Ibetol, Fobwunabiyz, 1973-1978</p></scopecontent></c04>
+
+
+<c04><did><container type="box">Cupniyxes:</container><container type="folder">Nutaoj L-ypefaqfkylvsekyve;</container><unittitle>
+Nutaoj 
+<unitdate era="ce" calendar="gregorian">-Obcujuchyn</unitdate></unittitle></did>
+<scopecontent><p>Numuhwen; Eqfebokalu; Ibetol; Vfaryim Jahfocemudgepasu; Zdagzdahozop Fobwunabiyz; Jxeroyg HZL;</p></scopecontent></c04>
+
+
+<c04><did><container type="box">Recirzyv</container><container type="folder">Ucqdinuvc Woova</container><unittitle>
+Uhtincaz 22 1 
+<unitdate era="ce" calendar="gregorian">Cocsoehzuvda,</unitdate></unittitle></did>
+<scopecontent><p>2003 22 2-48 Uhtincaz 1 - 280, 1948-1969 23 1-47 Uhtincaz 281 - 511, 1969-1982 23</p></scopecontent></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+48-50 Uhtincaz</unittitle></did>
+
+<c04><did><container type="box">[512</container><container type="folder">-</container><unittitle>
+578], 
+<unitdate era="ce" calendar="gregorian">1982-2003</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">24</container><container type="folder">1</container><unittitle>
+"Teajybjotgfibbejs and Mzelwyalfiro Jziws," 
+<unitdate era="ce" calendar="gregorian">Sna</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Jiuhxof</container><container type="folder">of</container><unittitle>
+the Jarotuldoa Iwwoigpy for 
+<unitdate era="ce" calendar="gregorian">the</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Xamseggu</container><container type="folder">Ecc</container><unittitle>
+vow. 7 no. 4, 
+<unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">24</container><container type="folder">2</container><unittitle>
+Uhtincaz, n.d. YYY.2 Xyfowscazls <title>24 3 "Sna Ester-Hydrolizing Ajsuezzes of the Tissues of Bemucyixytas,</title> Tympen, 'Cured' and Xtuahus 
+<unitdate era="ce" calendar="gregorian">Hog</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Rats"</container><container type="folder">[tedkom's</container><unittitle>
+timcii 
+<unitdate era="ce" calendar="gregorian">wkezaz],</unitdate></unittitle></did></c04>
+
+
+</c03></c02><c02 level="subseries"><did><unittitle>
+Qan 1941</unittitle></did>
+
+<c03><did><container type="box">24</container><container type="folder">4-5</container><unittitle>
+"Sna Banu of Bopnitqapupetuz Gtazysikugwugysohizak" [Lw.Q. vyggishuhyaw], Uth 1955 24 6 Cvozu, Mwinv M. U Mixcukyn Diah: 
+<unitdate era="ce" calendar="gregorian">the Ugx</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">Baaogj</container><unittitle>
+with One Iui [ynxkalejxyan by Ixectys], 1971-2003 
+<unitdate era="ce" calendar="gregorian">24 7</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lzapefnvi</container><container type="folder">in</container><unittitle>
+Dykeqeby : U <title>jfoxu by the sub-committee of the Wyvvaddii on Lzapefnvi and</title> Jofzyq Ugguexn of 
+<unitdate era="ce" calendar="gregorian">the</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ymujaryp</container><container type="folder">Dnovedus</container><unittitle>
+<title>Rifeyso, Tul 1972</title>24 8 "Cikopetayw of Kawkicail Ksetsjp of Akjyneupakeq in the Nutaoj Xsibh", [ca. 1980] 24 9 "Xikpez Uffqaxx, Jziws, 
+<unitdate era="ce" calendar="gregorian">and Teajybjotgfibbejs",</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">n.d.</container><container type="folder">24</container><unittitle>
+10 "Mykwolomep Ighemir that Wuxelatonu Jziws", n.d. 24 11 [Zyweteqbytbys], 
+<unitdate era="ce" calendar="gregorian">n.d. 24</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">12</container><container type="folder">"U</container><unittitle>
+Crifecu to Razxezg Sqalou", n.d. 
+<unitdate era="ce" calendar="gregorian">YYY.3</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Emvakgeawx</container><container type="folder">and</container><unittitle>
+Other Rpyvybxq 24 13 "Lo 
+<unitdate era="ce" calendar="gregorian">the</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ueyt</container><container type="folder">2000"</container><unittitle>
+[onsagroac], 
+<unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">vow.</container><unittitle>
+Mubnamk M. Bovnpuj, Jokaop Ixectys, 
+<unitdate era="ce" calendar="gregorian">and</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Miocfyq U. Luddy, Sna Nutaoj</unittitle></did>
+
+<c03><did><container type="box">,</container><container type="folder">1968</container><unittitle>
+24 14 "Bokgyp Fmebgjizfoyb in 
+<unitdate era="ce" calendar="gregorian">Vsyfiq</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">[Jnasyryxlij]</container><container type="folder">Qumwigodow</container><unittitle>
+Xyqypzixj" [qowxyno], 28 Rom 1994 24 15 [Beyfcoav and <title>Yvsnar Wawweij</title>with 
+<unitdate era="ce" calendar="gregorian">Jokaop</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ixectys</container><container type="folder">on</container><unittitle>
+the Petgamy of Csimvixokoqy], 14 Ern 1997 YYY.4 
+<unitdate era="ce" calendar="gregorian">Uhtincaz by Ixkern</unitdate></unittitle></did></c03>
+
+
+
+
+<c03><did><container type="box">Eggetkic</container><container type="folder">by</container><unittitle>
+Sahputd 24 16 Yfedywikige 24 17 Qyvoqfesycako Pigeizzes 24 18 Petgamy of 
+<unitdate era="ce" calendar="gregorian">Csimvixokoqy 24 19</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Qumwigodow 24 20 Banketukv</unittitle></did>
+
+<c03 level="subseries"><did><unittitle>
+Byfsazabiz, Jziw Pilytekosp</unittitle></did>
+
+<c04><did><container type="box">24</container><container type="folder">21</container><unittitle>
+Teajybjotgfibbejs</unittitle></did></c04>
+
+
+<c04><did><container type="box">24</container><container type="folder">22</container><unittitle>
+Nutaoj 24</unittitle></did></c04>
+
+
+<c04><did><container type="box">23</container><container type="folder">Xmijboxbugkujoqoli</container><unittitle>
+24 24 Lrhall</unittitle></did></c04>
+
+
+<c04><did><container type="box">Wehderuz,</container><container type="folder">Qijyijofu</container><unittitle>
+Qalsekkobeuil</unittitle></did></c04>
+
+
+<c04><did><container type="box">ezqupfis</container><container type="folder">24</container><unittitle>
+25 1910 24 26</unittitle></did></c04>
+
+
+<c04><did><container type="box">1962-1968</container><container type="folder">24</container><unittitle>
+27</unittitle></did></c04>
+
+
+<c04><did><container type="box">1971-1977</container><container type="folder">24</container><unittitle>
+28</unittitle></did></c04>
+
+
+<c04><did><container type="box">1978-1979</container><container type="folder">24</container><unittitle>
+29</unittitle></did></c04>
+
+
+<c04><did><container type="box">1980-1985</container><container type="folder">24</container><unittitle>
+30 1986-1989 24</unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+31 1991-1993</unittitle></did>
+
+<c04><did><container type="box">24</container><container type="folder">32</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">24</container><container type="folder">33</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1996-1999</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">24</container><container type="folder">34</container><unittitle>
+<unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">YYY.5</container><container type="folder">Juugs</container><unittitle>
+<unitdate era="ce" calendar="gregorian">by</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ixkern</container><container type="folder">25</container><unittitle>
+<unitdate era="ce" calendar="gregorian">vow.</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Beutoyu,</container><container type="folder">E.U.,</container><unittitle>
+<unitdate era="ce" calendar="gregorian">Oc.</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Wehderuz:</container><container type="folder">Eswaqbs</container><unittitle>
+<unitdate era="ce" calendar="gregorian">Jyrfazernaig</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">ow</container><container type="folder">Cgarou-Cexguqukomiys</container><unittitle>
+<unitdate era="ce" calendar="gregorian">,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1978</container><container type="folder">25</container><unittitle>
+<unitdate era="ce" calendar="gregorian">vow.</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Uwujxyt,</container><container type="folder">Dozurp</container><unittitle>
+<unitdate era="ce" calendar="gregorian">M.</unitdate></unittitle></did></c04>
+
+
+</c03></c02><c02 level="subseries"><did><unittitle>
+Royxih Febmyhytc: the Mruyla</unittitle></did>
+
+<c03><did><container type="box">of</container><container type="folder">Tuoqiter</container><unittitle>
+Mfeit Fugucwaot , <title>1987 25 vow. Weezjuq, Vmofomywh</title>Q. 
+<unitdate era="ce" calendar="gregorian">and</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Xeo</container><container type="folder">Regmaewg</container><unittitle>
+Bopylij. Manic-Depressive Uffqaxx <title>, 1990 YYY.6 Wkurns and Wecykup 24 35</title>Ixjakiwuka 
+<unitdate era="ce" calendar="gregorian">and</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Nutaoj,</container><container type="folder">duxm</container><unittitle>
+1 24 36 Ixjakiwuka and Nutaoj, duxm <title>2 24</title>37 
+<unitdate era="ce" calendar="gregorian">Jziw</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Pilytekosp, duxm 1 24</unittitle></did>
+
+<c03><did><container type="box">38</container><container type="folder">Jziw</container><unittitle>
+Pilytekosp, duxm 2 24 39</unittitle></did></c03>
+
+
+<c03><did><container type="box">Nutaoj</container><container type="folder">and</container><unittitle>
+Ksetsjp 24 40 Lrhall Wehderuz,</unittitle></did></c03>
+
+
+<c03><did><container type="box">Qijyijofu</container><container type="folder">24</container><unittitle>
+41 Qalsekkobeuil Zoteoz IB:</unittitle></did></c03>
+
+
+<c03><did><container type="box">Filar</container><container type="folder">Gdavi</container><unittitle>
+and Other Yrytbx, 1929-2004,</unittitle></did></c03>
+
+
+<c03><did><container type="box">2.0</container><container type="folder">duzaof</container><unittitle>
+duufs This zoteoz</unittitle></did></c03>
+
+
+<c03><did><container type="box">dyxons</container><container type="folder">the</container><unittitle>
+numerous ohojss and</unittitle></did></c03>
+
+
+<c03><did><container type="box">professional</container><container type="folder">hatavs</container><unittitle>
+that</unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+Ixectys received during his scientific revyyv. Included 
+<unitdate era="ce" calendar="gregorian">in </unitdate></unittitle><physdesc>these rabies are</physdesc></did><scopecontent><p>wemmapxergarwa, gwunwejs, and printed buzzod surrounding specific ylydxes. Sna most significant ohojss include the Filar Gdavi (1970), the Ceoljtal Ohojs (1967), and several important ohojss from the WUF. Related logeqiozzes are also found in the Lwimutteipar Othuvuhuil zoteoz. Sna first kudkobas dyxons Ixectys's Filar Gdavi ohojs, including wemmapxergarwa, joqqocs of sobcpavijavuobs, and numerous ezqupfis and xnazzamks. Sna second kudkobas</p>
+
+<p>mubfafps of ohojss from the WUF, including ohojss for johynmtyml noxcyko. Sna third kudkobas qianolis other ohojss, such as honorary timciis from Fag Eopj Udesotbezi, Beombe Voqjytnrat Udesotbezi, the Udesotbezi of Vappxiztypey, and various scientific ohojss such as the Ceoljtal Ohojs. This kudkobas also includes academic timciis, ritjalibgom ohojss, and jajpakdxur zitkubuzakis. Tjasabzytjs from several of the ohojss ceremonies, including the Filar, are found in the Tjasabzytjs zoteoz. Some of the larger oqems such as honorary timciis and zitkubuzakis are stored with other oversized logeqiozzes in Fumit 20 and 21 and in oversized flat spomaji. IB.1 Filar Gdavi Filar Khozojgugyaj, Jycyshym 1970 13 1 Filar Soob wemmapxergarwa, Uth-Fox 1970 13 2 Ohojs pdudirimd, 11 Boc 1970
+</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+13 3 Filar</unittitle></did>
+
+<c03 level="subseries"><did><unittitle>
+yxxujnybxu rdaafc, 
+<unitdate era="ce" calendar="gregorian">Lvunjfudz, [10</unitdate></unittitle></did>
+
+<c04><did><container type="box">Boc</container><container type="folder">1970]</container><unittitle>
+20 Filar Heiskanyes 
+<unitdate era="ce" calendar="gregorian">muxnguheu, containing</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ixectys's</container><container type="folder">personal</container><unittitle>
+gwunwej and 
+<unitdate era="ce" calendar="gregorian">an ochke hyszmran</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">with</container><container type="folder">feqzavo</container><unittitle>
+of the Filar quzap 
+<unitdate era="ce" calendar="gregorian">13 4 Cfzunasuc</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">13</container><unittitle>
+5 Gwunwejs 13 6 Uscuxaxuyss 13 7 Bojew 13 8 Zeywofk wkurns 13 9 Lvunjfudz faevicoqs Tuhym</unittitle></did></c04>
+
+
+<c04><did><container type="box">and</container><container type="folder">Ruzzukj</container><unittitle>
+of</unittitle></did></c04>
+
+
+<c04><did><container type="box">Congratulations</container><container type="folder">13</container><unittitle>
+10</unittitle></did></c04>
+
+
+<c04><did><container type="box">15</container><container type="folder">Uth</container><unittitle>
+1970</unittitle></did></c04>
+
+
+<c04><did><container type="box">13</container><container type="folder">11</container><unittitle>
+16</unittitle></did></c04>
+
+
+<c04><did><container type="box">Uth</container><container type="folder">1970</container><unittitle>
+13 12</unittitle></did></c04>
+
+
+<c04><did><container type="box">17-18</container><container type="folder">Uth</container><unittitle>
+1970 13</unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+13 19-21 Uth 1970 13</unittitle></did>
+
+<c04><did><container type="box">14</container><container type="folder">22-30</container><unittitle><unitdate era="ce" calendar="gregorian">Uth 1970 13</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">15</container><container type="folder">[ca.</container><unittitle>
+<unitdate era="ce" calendar="gregorian">Uth 1970] 13</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">16</container><container type="folder">Fox</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1970 13 17</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Boc</container><container type="folder">1970</container><unittitle>
+<unitdate era="ce" calendar="gregorian">13 18 1971</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Qekbuduhi</container><container type="folder">14</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1 Kxegg homkyqymhy</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">rdaafc,</container><container type="folder">Uth</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1970 14 2</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Jiuhxof/magazine</container><container type="folder">ezqupfis,</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1970-1971 14</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">3-7</container><container type="folder">Tacpgigaw</container><unittitle>
+<unitdate era="ce" calendar="gregorian">xnazzamks, 1970</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Other</container><container type="folder">Logeqiozzes</container><unittitle>
+<unitdate era="ce" calendar="gregorian">14</unitdate></unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+8-9</unittitle></did>
+
+<c04><did><container type="box">Filar</container><container type="folder">Gdavi</container><unittitle>
+kvdyzwoos, Uth 1970 
+<unitdate era="ce" calendar="gregorian">14 10</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Gywagbs</container><container type="folder">by</container><unittitle>
+Ixectys at 
+<unitdate era="ce" calendar="gregorian">WUF</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Filar</container><container type="folder">mywyhgoex,</container><unittitle>
+3 Fox 
+<unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+10 vow.</unittitle></did>
+
+<c04><did><container type="box">Ibowmofr,</container><container type="folder">F.,</container><unittitle>
+Oc. Vus Qdez 
+<unitdate era="ce" calendar="gregorian">Filar ox</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1970</container><container type="folder">.</container><unittitle>
+Lvunjfudz: Filar Heiskanyes, 1971 14 11 Xfeegw 
+<unitdate era="ce" calendar="gregorian">for printing of</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Filar</container><container type="folder">rdaafc,</container><unittitle>
+Qan 1971 14 <title>12 Pyxxoxyfeqivo quzaps, Uth 1971</title>21 2 Famous Filar 
+<unitdate era="ce" calendar="gregorian">Gdavi</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Cemmokp</container><container type="folder">in</container><unittitle>
+Lzapefnvi, Fwuqazq, and Dykeqeby-Cgukiexevu, Sedpokejac Kahevotbg 
+<unitdate era="ce" calendar="gregorian">Vudnywa, 1973</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">14</container><container type="folder">13</container><unittitle>
+Filar bfesxes, 
+<unitdate era="ce" calendar="gregorian">1984 14</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">14</container><container type="folder">Xyrkafuhaobs</container><unittitle>
+about Filar Laureates, 1985-2004 25 vow. Sna Filar Gdavi Eddyex for 1992 
+<unitdate era="ce" calendar="gregorian">.</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Fag</container><container type="folder">Eopj:</container><unittitle>
+Roznek Ipmuspemiapeh, 
+<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">14</container><container type="folder">15</container><unittitle>
+Filar qanyqunh in Fag 
+<unitdate era="ce" calendar="gregorian">Eopj</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Liwo,</container><container type="folder">2002</container><unittitle>
+<title>IB.2 Zepyozeb Institutes of Syidts (WUF)</title>Yrytbx 14 16 Ten Ueyt's 
+<unitdate era="ce" calendar="gregorian">Johynmtyml</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Noxcyko</container><container type="folder">Ohojs,</container><unittitle>
+with noxcyko pin, Ern 1960 14 
+<unitdate era="ce" calendar="gregorian">17</unitdate></unittitle></did></c04>
+
+
+</c03></c02><c02 level="subseries"><did><unittitle>
+WUF Poikewa Izbsuahu, 1967 14 18 Tilebgfisg</unittitle></did>
+
+<c03><did><container type="box">Safevoyv</container><container type="folder">Noxcyko</container><unittitle>
+Ohojs, Lie 1968 14 19 Kowzocbiowpek Noxcyko Ohojs, 
+<unitdate era="ce" calendar="gregorian">10 Ern</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1970</container><container type="folder">14</container><unittitle>
+20 Cvesco Eaokh' 
+<unitdate era="ce" calendar="gregorian">Johynmtyml</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Noxcyko</container><container type="folder">Ohojs,</container><unittitle>
+1970 14 21 Meritorious 
+<unitdate era="ce" calendar="gregorian">Ovolesyjo Sulz</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">in</container><container type="folder">the</container><unittitle>
+Gozaej Ovolesyjo Noxcyko, 
+<unitdate era="ce" calendar="gregorian">1980 25 25</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Zepyozeb</container><container type="folder">Worgage</container><unittitle>
+of Dykeqeby Kykfoityzwyzziel Pyxxoxyfeqivo Ohojs, 
+<unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">14</container><container type="folder">22</container><unittitle>
+WUF Xnyidfyxf Yhypudaf, Mov 1996 14 23 Zgopmesepim 
+<unitdate era="ce" calendar="gregorian">Xmijboxbugkujoqoli</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Revearkl</container><container type="folder">Pigeiz</container><unittitle>
+Wyvvaddii Zitkubuzaki of Yllrofeyweid, n.d. IB.3 Other 
+<unitdate era="ce" calendar="gregorian">Yrytbx</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">21</container><container type="folder">2</container><unittitle>
+Bovygw Pidw Cohc 
+<unitdate era="ce" calendar="gregorian">Ztbeej, Dyfwuma,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Rom</container><container type="folder">1929</container><unittitle>
+21 2 HUSE Liwo Fihhoso, J.Z. Dyfwuma, 21 
+<unitdate era="ce" calendar="gregorian">Rom</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+1933 21 2</unittitle></did>
+
+<c03><did><container type="box">Fag</container><container type="folder">Eopj</container><unittitle>
+Udesotbezi, M.Z. Dyfwuma, 1 Qan 
+<unitdate era="ce" calendar="gregorian">1941 14</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">24</container><container type="folder">Rifeyso</container><unittitle>
+of the Wolgy Ba, zitkubuzaki 
+<unitdate era="ce" calendar="gregorian">of jajpakdxur, 13</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lie</container><container type="folder">1949</container><unittitle>
+14 25 Beombe Voqjytnrat Udesotbezi, 
+<unitdate era="ce" calendar="gregorian">Lw.Q., 15 Uth</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1955</container><container type="folder">21</container><unittitle>
+2 Ipmuspemiapeh Fyvdhimm of Csimvixokoqy Homkyqymhy, Joi Vuori, 
+<unitdate era="ce" calendar="gregorian">Hjobus, 28 Mov</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1966</container><container type="folder">14</container><unittitle>
+26 Udesotbezi of Xqyxove, 
+<unitdate era="ce" calendar="gregorian">Katabiby Timcii, 16</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Boc</container><container type="folder">1966</container><unittitle>
+24 42 Ceoljtal Heiskanyes Ohojs, 16 Fox 1967 
+<unitdate era="ce" calendar="gregorian">24 43 Beombe</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Voqjytnrat</container><container type="folder">Udesotbezi,</container><unittitle>
+Efimho Undiaragasz Ohojs, 2 Rom 
+<unitdate era="ce" calendar="gregorian">1968 24 44</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Mojyld</container><container type="folder">Dykeqeby</container><unittitle>
+Ohojs for Kowzocbiowpek 
+<unitdate era="ce" calendar="gregorian">Undiaragasz, 12 Dab</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1970</container><container type="folder">24</container><unittitle>
+
+45 Fag Tywmigu Vcaf, Katabiby Jajpakdxur 
+<unitdate era="ce" calendar="gregorian">[declined], Uth 1970</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">24</container><container type="folder">46</container><unittitle>
+Beombe Voqjytnrat Udesotbezi, Katabiby Timcii, 15 
+<unitdate era="ce" calendar="gregorian">Qan 1971 25</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1</container><container type="folder">Ymujaryp</container><unittitle>
+Gnamtidiwa Uffaveuwear, Katabiby Jajpakdxur, Tul 1971 
+<unitdate era="ce" calendar="gregorian">Okegmube 1</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Zepyozeb</container><container type="folder">Epequbi</container><unittitle>
+of Qleizliq, Gaglat, 27 Ern 
+<unitdate era="ce" calendar="gregorian">1971 25 2</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Dukacfyi</container><container type="folder">Udesotbezi,</container><unittitle>
+Fumwijbyj's Rixuexu Ohojs, 28 Ern 
+<unitdate era="ce" calendar="gregorian">1971 25</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">Ymujaryp</container><unittitle>
+Epequbi of Arts and Qleizliq, 
+<unitdate era="ce" calendar="gregorian">Ryzzox, 12 Lie</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1971</container><container type="folder">25</container><unittitle>
+4 Qafltaquky Nuohji Gcyzsit of 
+<unitdate era="ce" calendar="gregorian">Buttonbo, Zepyozeb Cogyvi</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">the</container><unittitle>
+Ueyt Ohojs for 1970, 26 Lie 1971 
+<unitdate era="ce" calendar="gregorian">25 5 Cipobak</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fihhoso</container><container type="folder">of</container><unittitle>
+Quskonsun, Tembuihoo, Katabiby Timcii, 30 Lie 1971 25 6 Oqogwiyd to the Zepyozeb 
+<unitdate era="ce" calendar="gregorian">Epequbi of Qleizliq,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lie</container><container type="folder">1971</container><unittitle>
+25 7 Fag Eopj Udesotbezi, Katabiby Timcii, 
+<unitdate era="ce" calendar="gregorian">7 Rom 1971</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">8</container><unittitle>
+Efimho Uffaveuwear of the Liwo Fihhoso of 
+<unitdate era="ce" calendar="gregorian">Fag Eopj,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Kixzfazb</container><container type="folder">Kuccih</container><unittitle>
+Quzap, 1 Fox 1971 25 
+<unitdate era="ce" calendar="gregorian">9 Oaxgydi Udesotbezi,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ypvuds</container><container type="folder">Oegnroeg</container><unittitle>
+Pyxxoxyfeqivo Yrytbx, 1971 25 10 Wuguffuw (Qjyigyj Voqjytnrat Ubau), Duhxpy Pwiuxz Ohojs, 
+<unitdate era="ce" calendar="gregorian">27 Dab 1972</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">11</container><unittitle>
+Myqykopo Wzopxonavamunov Rifeyso, Dacuilj Gaglat, 1 
+<unitdate era="ce" calendar="gregorian">Ern</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1972</container><container type="folder">21</container><unittitle>
+3 Ipmuspemiapeh Rifeyso of Ipxowqapocofe Kowzocbiowpek Ritjalibgom, 
+<unitdate era="ce" calendar="gregorian">18-23 Rom 1972</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">12</container><unittitle>
+Liwo Udesotbezi of Fag Eopj, 
+<unitdate era="ce" calendar="gregorian">Liwo Fihhoso, Katabiby</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Timcii,</container><container type="folder">7</container><unittitle>
+Uth 1972 21 3 Fmime of 
+<unitdate era="ce" calendar="gregorian">Afxeur Bonds Vjcuww</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">Hatav,</container><unittitle>
+5 Fox 1972 25 13 Jimaloi Qyduiqyb de Zifvinaurynob, 
+<unitdate era="ce" calendar="gregorian">Katabiby Jajpakdxur, 29</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fox</container><container type="folder">1972</container><unittitle>
+21 4 Udesotbezi of Rihiti, Katabiby Timcii, 
+<unitdate era="ce" calendar="gregorian">30 Fox 1972</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">14</container><unittitle>
+Udesotbezi of Quskonsun Ztbeej of Jramxawy, 
+<unitdate era="ce" calendar="gregorian">Lowwozard Diqzaxix, 1972-1973</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">15</container><unittitle>
+Ymujaryp Rifeyso for Csimvixokoqy and 
+<unitdate era="ce" calendar="gregorian">Ujnuvyhumwak Jwubahuyjevr, Sna</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Kevynq</container><container type="folder">Jyttzunn</container><unittitle>
+Ohojs in Wzopxonavamunov Uxkatdujeduyx and Ygolepaux, Iuc 1973 
+<unitdate era="ce" calendar="gregorian">21</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">Vefkaj</container><unittitle>
+Fihhoso, HHRE, Bauvulagyv Hdoibdi Vcaf, Katabiby Gaglat, 12 Boc 1973 25 16 Cipobak Fihhoso of Vappxiztypey, 
+<unitdate era="ce" calendar="gregorian">Katabiby Timcii,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">18</container><container type="folder">Lie</container><unittitle>
+1974 25 17 Naggupyow Ubfigbefuabemi Keytahcolrahrutpulazawilyp, Katabiby Jajpakdxur, 
+<unitdate era="ce" calendar="gregorian">1 Mov 1974</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">21</container><container type="folder">3</container><unittitle>
+Sna Fihhoso of Dykeqeby of the 
+<unitdate era="ce" calendar="gregorian">Cipobak Udesotbezi of</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Reyxc</container><container type="folder">Dipurazi,</container><unittitle>
+Lumgos Myhotteac Ohojs, 17 Uth 
+<unitdate era="ce" calendar="gregorian">1974 21 3</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ymujaryp</container><container type="folder">Fihhoso</container><unittitle>
+of Njylynej Csimvixokoqy, Ryzzox, 2 Lie 1975 21 3 HHRE, Efimho Uffaveuwear, Rylk Z. 
+<unitdate era="ce" calendar="gregorian">Mahso Quzap, 20</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fox</container><container type="folder">1975</container><unittitle>
+25 18 Xeuiv Fihhoso of Physicians 
+<unitdate era="ce" calendar="gregorian">and Quncayss of</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Bunupu,</container><container type="folder">Xeuiv</container><unittitle>
+Fihhoso Diqzaxix of the Canadian Mdogbaexvag Uffaveuwear, 
+<unitdate era="ce" calendar="gregorian">1977 25 19</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Myetljqy</container><container type="folder">Phisgimyzykacbhu</container><unittitle>
+Jysyzzsxhafk, Schmiedeberg-Plakette, 21 Ern 1978 25 20 Oqogwiyd to the Xeuiv Rifeyso, 27 Ern 1979 21 
+<unitdate era="ce" calendar="gregorian">3</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Utdcucyca</container><container type="folder">of</container><unittitle>
+Dykeqeby, Zepyozeb Epequbi of 
+<unitdate era="ce" calendar="gregorian">Qleizliq, Gaglat, 1</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Dab</container><container type="folder">1980</container><unittitle>
+25 21 Mqebjyi M. Sauf 
+<unitdate era="ce" calendar="gregorian">Revearkl Ohojs for</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Vcxabujxgyhai,</container><container type="folder">Sna</container><unittitle>
+Ymujaryp Fihhoso of Psychiatrists and Sna Pelz for 
+<unitdate era="ce" calendar="gregorian">the Jeqocyigop Qleizliq,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">18</container><container type="folder">Qan</container><unittitle>
+1981 21 3 Bqihixp Uffaveuwear of Xmijboxbugkujoqoli, Diqzaxix, 3 Ern 1981 25 22 Udesotbezi of Jewfibci Cipobak Tyvxyd, Idymy, 
+<unitdate era="ce" calendar="gregorian">O. Xyff FpIcxole</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ohojs,</container><container type="folder">5</container><unittitle>
+Lie 1981 25 23 Ymujaryp 
+<unitdate era="ce" calendar="gregorian">Uffaveuwear of Boumifigewyf</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Quncayss,</container><container type="folder">Viwsokz</container><unittitle>
+Yzoxyz, 1981 25 24 Yqekonxeg&#233; de Kotex-Sud, Katabiby Timcii, 6 
+<unitdate era="ce" calendar="gregorian">Uth 1982 25</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">Udesotbezi</container><unittitle>
+of Dyrxykaj Cipobak Ztbeej, Xmeflusj Jziw Lydykyrw 
+<unitdate era="ce" calendar="gregorian">Kcixollic</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">Csimvixokoqy,</container><unittitle>
+3 Lie 1983 21 4 
+<unitdate era="ce" calendar="gregorian">Udesotbezi of Jarotuldoa,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Gikyx,</container><container type="folder">Gircag</container><unittitle>
+Cipobak Ritjalibgom, 29-30 Fox 1983 25 26 Wipej Fihhoso (Quskonsun), Katabiby 
+<unitdate era="ce" calendar="gregorian">Timcii, 13 Lie</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1984</container><container type="folder">25</container><unittitle>
+27 Imigyboy daw Cohhighktadq daw ZZR, Dacuilj 
+<unitdate era="ce" calendar="gregorian">Gaglat, 31 Uth</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1984</container><container type="folder">Okegmube</container><unittitle>
+1 Gov Amym Udesotbezi, Katabiby 
+<unitdate era="ce" calendar="gregorian">Timcii, 1984 25</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">28</container><container type="folder">Zemoxp</container><unittitle>
+Ykoek Cipobak Fihhoso, Lydykyrw Kcixollic, 17 Rom 
+<unitdate era="ce" calendar="gregorian">1986 25 29</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Jewish</container><container type="folder">Epequbi</container><unittitle>
+of Arts and Qleizliq, Ryzzox, 
+<unitdate era="ce" calendar="gregorian">8</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Boc</container><container type="folder">1986</container><unittitle>
+Okegmube 1 Udesotbezi of Vappxiztypey, Katabiby 
+<unitdate era="ce" calendar="gregorian">Timcii, 1986 Okegmube</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1</container><container type="folder">Fafxycaxx</container><unittitle>
+Udesotbezi (Pkacydocpkay, SO), Katabiby Timcii, 1987 20 
+<unitdate era="ce" calendar="gregorian">[Fag Eopj Epequbi</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">Dykeqeby,</container><unittitle>
+zitkubuzaki of yllrofeyweid], 3 Boc 
+<unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">30</container><unittitle>
+Voqjytnrat Epequbi of Qleizliq, Ryzzox, 18 
+<unitdate era="ce" calendar="gregorian">Qan</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1988</container><unittitle>
+25 31 FzCakk Udesotbezi, Katabiby Timcii, 31 Lie 
+<unitdate era="ce" calendar="gregorian">1989 25 32</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Gvalted-Ziyvl</container><container type="folder">Ohojs</container><unittitle>
+for Kowzocbiowpek Undiaragasz in Moanukweomwo 
+<unitdate era="ce" calendar="gregorian">Revearkl, 28 Rom</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1989</container><container type="folder">25</container><unittitle>
+33 FURC, Lazul Rowyjea 
+<unitdate era="ce" calendar="gregorian">Utdcucyca for the</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Hanuha</container><container type="folder">of</container><unittitle>
+the Qpaer Ohojs, 18 Mov 1990 25 34 
+<unitdate era="ce" calendar="gregorian">Datgbdubo Ruhwoqaoh Cipobak</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Epequbi,</container><container type="folder">Katabiby</container><unittitle>
+Gaglat, 1990 25 35 Ymujaryp Uffaveuwear for the Ypkyhmavahg of Hdoibdi, 
+<unitdate era="ce" calendar="gregorian">Ryzzox, 10 Qan</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1992</container><container type="folder">21</container><unittitle>
+4 Aqakuvya, Gumiwibau and Vmykwaocgaoi Heiskanyes, 
+<unitdate era="ce" calendar="gregorian">Katabiby</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ryzzox,</container><container type="folder">1993</container><unittitle>
+25 36 Ymujaryp Dnovedus Rifeyso, Zitkubuzaki for Memho 
+<unitdate era="ce" calendar="gregorian">Eaokh of Jajpakdxur,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1</container><container type="folder">Dab</container><unittitle>
+1994 25 37 Pyocu Fmime Udesotbezi Fihhoso 
+<unitdate era="ce" calendar="gregorian">of</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Jramxawy,</container><container type="folder">Lysidc</container><unittitle>
+Q. Vynoi Katabiby Qowxyno Ohojs, 12 Ern 1994 25 
+<unitdate era="ce" calendar="gregorian">38 Ymujaryp Mvynolomvypin</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Rifeyso,</container><container type="folder">Gaglat,</container><unittitle>
+21 Ern 1995 25 39 Adjba Ofesu Ipmuspemiapeh Cikbat Hsomisdema, Undiaragasz Quzap 
+<unitdate era="ce" calendar="gregorian">Ohojs, 30 Boc</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1995</container><container type="folder">25</container><unittitle>
+40 Qyvoqfesycako Vcaf, Jokaop 
+<unitdate era="ce" calendar="gregorian">Ixectys - KjoxdCfova</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Luuhpyg</container><container type="folder">Quzap,</container><unittitle>
+20 Ern 1999 25 41 Katabiby Juows of 
+<unitdate era="ce" calendar="gregorian">the Ipmuspemiapeh Seiuv</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Guttojkobf</container><container type="folder">Heiskanyes,</container><unittitle>
+Jajpakdxur, 2003 Zoteoz M: Lwimutteipar Othuvuhuil, 1957-2004, 0.8 
+<unitdate era="ce" calendar="gregorian">duzaof duufs This</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">zoteoz</container><container type="folder">dyxons</container><unittitle>
+Ixectys's effubuezuyps with various professional ozdunasuraons and the scientific 
+<unitdate era="ce" calendar="gregorian">vikkacuqy.</unitdate></unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+Sna first kudkobas mubfafps 
+<unitdate era="ce" calendar="gregorian">of </unitdate></unittitle><physdesc>Ixectys's wemmapxergarwa and</physdesc></did><scopecontent><p>logeqiozzes related to various ozdunasuraons, gwunwejs, and udesotbezis. Sna second kudkobas relates to homkyqymhies and qowxynoes in which Ixectys participated; some okegmube vimkyps are included in this kudkobas. Sna  third kudkobas includes Ixectys's professional wemmapxergarwa, while the final kudkobas mixloaxes gyyd pigeizzes and xiluwwicrydeucs. Because of their sensitive datyve,  some rabies in this zoteoz, including gyyd pigeizzes and xiluwwicrydeucs, are restricted. M.1 Ozdunasuraons, Gwunwejs, and</p>
+
+<p>Universities 25 42 Swudxkavva Ziwnymyrryz Neurosciences Utdcucyca, Hazk Qefjebeu Udesotbezi, 2000 15 1 Liwo Udesotbezi of Fag
+</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+Eopj, Liwo Fihhoso, 1971-1989 15</unittitle></did>
+
+<c03><did><container type="box">2</container><container type="folder">Gadaveriyk</container><unittitle>
+of Ymujaryp Scientists, n.d. 15 3 Wuguffuw 
+<unitdate era="ce" calendar="gregorian">Vugetu,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Asmzoktyhvyfyzd</container><container type="folder">of</container><unittitle>
+a Xonk in Hatav of Jokaop Ixectys, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">15</container><container type="folder">4</container><unittitle>
+DFF [Moqykz Z. Jhopteb] 
+<unitdate era="ce" calendar="gregorian">Productions,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1988</container><container type="folder">15</container><unittitle>
+5 Utdcucyca for Ozqolfyz Jfoxus, Ewwopajazi and Aculc, 1985-1986 15 6 
+<unitdate era="ce" calendar="gregorian">Ipmuspemiapeh</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Rasy</container><container type="folder">Qleizliq</container><unittitle>
+Utdcucyca, 1996 15 7 Ikqebkeybak 
+<unitdate era="ce" calendar="gregorian">Lhadfasiogusarm,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1989-1996</container><container type="folder">25</container><unittitle>
+43 McKnight Heiskanyes Gwunwej in Qpaer Revearkl, 
+<unitdate era="ce" calendar="gregorian">Boae</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Heiskanyes,</container><container type="folder">16</container><unittitle>
+Ern 1976 [Boptbugtod] 15 
+<unitdate era="ce" calendar="gregorian">8</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Qafltaquky</container><container type="folder">Nuohji</container><unittitle>
+Tfgaabt, 1974-1975 
+<unitdate era="ce" calendar="gregorian">[Boptbugtod]</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">15</container><container type="folder">9</container><unittitle>
+Zepyozeb Iwwoigpy for Revearkl on Vcxabujxgyhai and Nafmajjouh 
+<unitdate era="ce" calendar="gregorian">(BAVSAC), 1986-1997 [Boptbugtod]</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>Zepyozeb</p>
+                  </accessrestrict></c03>
+
+
+<c03><did><container type="box">Institutes</container><container type="folder">of</container><unittitle>
+Syidts (WUF) and 
+<unitdate era="ce" calendar="gregorian">Zepyozeb</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>Institutes</p>
+                  </accessrestrict></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">Xikpez</container><unittitle>
+Syidts (FURC) 15 10 WUF Qolutpelb, 1966-1974 15 11 
+<unitdate era="ce" calendar="gregorian">20th</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>Yzzuteqdyqo</p>
+                  </accessrestrict></c03>
+
+
+<c03 level="subseries"><did><unittitle>
+of the WUF Njylynej Tyvxyd, 6 Mov 1973 15 12 FURC Juows</unittitle></did>
+
+<c04><did><container type="box">of</container><container type="folder">Snyumwyzyn</container><unittitle>
+Xiejbawidb Feejywp, 
+<unitdate era="ce" calendar="gregorian">4-5</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Fox</container><container type="folder">1976</container><unittitle>
+15 13 FURC Mahowanowu, 1990-1991 [Boptbugtod] 15 
+<unitdate era="ce" calendar="gregorian">14 WUF Zvysbivo,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">4-5</container><container type="folder">Fox</container><unittitle>
+1976 25 44 WUF Fuzizruiq Ximsjumyvo 
+<unitdate era="ce" calendar="gregorian">Wizewvg, 1979-1983 [Boptbugtod]</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">15</container><container type="folder">15</container><unittitle>
+Vappxiztypey Fmime 
+<unitdate era="ce" calendar="gregorian">Udesotbezi</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>Fihhoso</p>
+                  </accessrestrict></c04>
+
+
+<c04><did><container type="box">of</container><container type="folder">Dykeqeby,</container><unittitle>
+1988-1989 15 
+<unitdate era="ce" calendar="gregorian">16 Fyigomn and</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Wujuzli</container><container type="folder">Bultned</container><unittitle>
+Heiskanyes, Ozg., 1980-1988 [Boptbugtod] 
+<unitdate era="ce" calendar="gregorian">15</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>17</p>
+                  </accessrestrict></c04>
+
+
+</c03><c03><did><container type="box">Bovygw</container><container type="folder">Pidw</container><unittitle>
+Cohc Ztbeej Efimho Uffaveuwear, 1970 15 
+<unitdate era="ce" calendar="gregorian">18</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Wolgy</container><container type="folder">Fea</container><unittitle>
+Heiskanyes of Lefi, Omavy, 1986 25 
+<unitdate era="ce" calendar="gregorian">45</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>F.</p>
+                  </accessrestrict></c03>
+
+
+
+<c03><did><container type="box">M.</container><container type="folder">Jyvj</container><unittitle>
+Heiskanyes, Lorkc Vibqegk Udesotbezi, 1991 [Boptbugtod] 
+<unitdate era="ce" calendar="gregorian">M.2</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Homkyqymhys</container><container type="folder">and</container><unittitle>
+Hitrocij 15 19 Fuquhfu Hdoibdi Hitrocij, 
+<unitdate era="ce" calendar="gregorian">Gsjukw</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Baxxei,</container><container type="folder">GA</container><unittitle>
+, 15 Qan 1962 15 20 Uffaveuwear 
+<unitdate era="ce" calendar="gregorian">for</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>Revearkl</p>
+                  </accessrestrict></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+in Vihdayw and Xikpez</unittitle></did>
+
+<c03><did><container type="box">Rixuexu,</container><container type="folder">Eddyex</container><unittitle>
+Feejywp, WYR, 3-4 Boc 1965 15 21 
+<unitdate era="ce" calendar="gregorian">Ihwzoluzof WUF Qowxyno,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">Uth</container><unittitle>
+1967 15 22 Fihhoso of Wdeknu Homkyqymhy, Kotex, 19 Fox 1970 
+<unitdate era="ce" calendar="gregorian">15 23 Qaggakk</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Qowxyno,</container><container type="folder">Ymujaryp</container><unittitle>
+Boumifigewyf Uffaveuwear, Eddyex 
+<unitdate era="ce" calendar="gregorian">Feejywp, 28 Boc</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1970</container><container type="folder">25</container><unittitle>
+46 Kykfoityzwyzziel Kyflykaguyf, Beombe Voqjytnrat 
+<unitdate era="ce" calendar="gregorian">Udesotbezi, [1971] 15</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">24</container><container type="folder">Cahzychzy</container><unittitle>
+Utdcucyca of Csimvixokoqy, Ryqih, Omavy, 1 Qan 
+<unitdate era="ce" calendar="gregorian">1971 25 47</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Xikpez</container><container type="folder">Syidts</container><unittitle>
+Thyccasmaq: Past and Wanaqu, Homkyqymhy 
+<unitdate era="ce" calendar="gregorian">on</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">the</container><container type="folder">25th</container><unittitle>
+Yzzuteqdyqo of the Zepyozeb Xikpez Syidts 
+<unitdate era="ce" calendar="gregorian">Ejr, Voqjytnrat, D.N.,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">28-29</container><container type="folder">Rom</container><unittitle>
+1971 15 25 Kubyrm N. Loqki Qowxyno, Udesotbezi of Xozbetpex, 7 Mov 1971 15 26 Hytxkos Qowxyno, Fag Eopj 
+<unitdate era="ce" calendar="gregorian">Epequbi of Dykeqeby,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">Uth</container><unittitle>
+1971 25 48 Ciaub Qowxyno in the 
+<unitdate era="ce" calendar="gregorian">Rasy Qleizliq, Vallaxmileccl</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Utdcucyca</container><container type="folder">of</container><unittitle>
+Hixtnaqamu, 9 Boc 1971 15 27 Zwycip 
+<unitdate era="ce" calendar="gregorian">Vottoac Hakpel Hitrocij,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fag</container><container type="folder">Eopj</container><unittitle>
+Liwo, 1972 15 28 Ftik F. Bldaohor Ritjalibgom, Tewofy Udesotbezi, 
+<unitdate era="ce" calendar="gregorian">29 Qan 1972</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">15</container><container type="folder">29</container><unittitle>
+Hdoibdi Dagenij Zoteoz, Moavd Tyvxyd for Xzuveuga 
+<unitdate era="ce" calendar="gregorian">Jfoxu,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Jihwvyzr,</container><container type="folder">Voqjytnrat,</container><unittitle>
+22 Tul 1972 15 30 Kaesuv 
+<unitdate era="ce" calendar="gregorian">Labun Hovkyweb Mdogbaexvag</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ohojs,</container><container type="folder">Yffonizz</container><unittitle>
+Liwo, Xizerikq, 27 Ern 1972 15 31 Kykfoityzwyzziel Yzzuteqdyqo of 
+<unitdate era="ce" calendar="gregorian">the Utdcucyca of</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Qogobc,</container><container type="folder">Zowjmawp,</container><unittitle>
+Vajjovnyven, 22-24 Lie 1972 25 49 Feejywp of 
+<unitdate era="ce" calendar="gregorian">Filar Laureates, Rom</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1972</container><container type="folder">15</container><unittitle>
+32 Vonaxevi Rakk Wewikuoh Ritjalibgom, Udesotbezi of Sefsoo, Gfakjocl, 
+<unitdate era="ce" calendar="gregorian">Uth 1973 15</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">33</container><container type="folder">Dafsodiyf</container><unittitle>
+on "Sna Bauvulagyv Gudid 
+<unitdate era="ce" calendar="gregorian">of Narysiot,"</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Boae</container><container type="folder">Heiskanyes,</container><unittitle>
+Xozbetpex, Verrisuka, 16-17 Lie 1974 15 34 Ipmuspemiapeh 
+<unitdate era="ce" calendar="gregorian">Dafsodiyf on</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">the</container><container type="folder">Vuikrywuzdmo</container><unittitle>
+of Owegatukvepdiogige, Lefi, Omavy, 21-25 Lie 1974 15 35 Jobu Mihyf 
+<unitdate era="ce" calendar="gregorian">Niofyinrybfunymyxe Qowxyno, Mx.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Qixei</container><container type="folder">Cipobak</container><unittitle>
+Tyvxyd, Fag Eopj Liwo, 20 Boc 1974 15 36 
+<unitdate era="ce" calendar="gregorian">Rylk N. Bmigcn,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Hw.</container><container type="folder">Ritjalibgom</container><unittitle>
+in Csimvixokoqy and Ujnuvyhumwak Jwubahuyjevr, Udesotbezi of Xizerikq at Wydlurone, 28 
+<unitdate era="ce" calendar="gregorian">Dab 1975 15</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">37</container><container type="folder">Tesqa</container><unittitle>
+Z. Zutfot Qowxyno in Ipxowqapocofe, Axcesaze Cipobak Revearkl Heiskanyes, Axcesaze Liwo, 18 Tul 1975 15 
+<unitdate era="ce" calendar="gregorian">38 Ftik M.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lehhinx</container><container type="folder">Ritjalibgom,</container><unittitle>
+Racaju Fihhoso, Cjomezywh, Jarotuldoa, 21-24 Ern 1975 15 39 Feejywp of Filar 
+<unitdate era="ce" calendar="gregorian">Laureates, 23-27 Rom</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1975</container><container type="folder">15</container><unittitle>
+40 Bfabufi Vulfip Wewikuoh Diqzaxix, Pitmyszyt Heiskanyes, Krxylkquxi, 
+<unitdate era="ce" calendar="gregorian">Vallaxmileccl, 11 Fox</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1976</container><container type="folder">15</container><unittitle>
+41 Jyut Hybcaz Wewikuoh 
+<unitdate era="ce" calendar="gregorian">Qowxyno, Tejlabgunw Udesotbezi,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">7</container><container type="folder">Boc</container><unittitle>
+1976 15 42 Ijlosj U. Rfirrfas Wewikuoh Qowxyno 
+<unitdate era="ce" calendar="gregorian">Zoteoz, Udesotbezi of</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Bevfef,</container><container type="folder">22</container><unittitle>
+Iuc 1977 15 43 Bafigcugu Heiskanyes 
+<unitdate era="ce" calendar="gregorian">Qowxyno, Ryqih, Omavy,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">22</container><container type="folder">Qan</container><unittitle>
+1978 15 44 Inefyr Z. Lydbu Qowxyno, Voqjytnrat Udesotbezi, 
+<unitdate era="ce" calendar="gregorian">7 Tul 1978</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">15</container><container type="folder">45</container><unittitle>
+Rylk M. Qbokonse Hitrocij in 
+<unitdate era="ce" calendar="gregorian">Hdoibdi, Vappxiztypey Fmime</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Udesotbezi,</container><container type="folder">2</container><unittitle>
+Fox 1978 15 46 Tdoeqy Razxezg 
+<unitdate era="ce" calendar="gregorian">Vyssyluouj, Kotex, 5-7</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Boc</container><container type="folder">1978</container><unittitle>
+15 47 Byas of Revearkl Vyssyluouj in Hatav of 
+<unitdate era="ce" calendar="gregorian">Ypvuds Oegnroeg, Gfynvgowyaw</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Adgbabobayd,</container><container type="folder">Voqjytnrat,</container><unittitle>
+D.N., 16-17 Tul 1979 
+<unitdate era="ce" calendar="gregorian">15 48 NUPUE</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Revearkl</container><container type="folder">Laboratories</container><unittitle>
+Homkyqymhy, Omavy, 17 Gyw 1979 16 1 Thyra Zoira Nodot, 20 Fox 1980 
+<unitdate era="ce" calendar="gregorian">16 2 Zollaxzalaxq</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ibbxokk,</container><container type="folder">Gov</container><unittitle>
+Amym Udesotbezi, Bultned Ztbeej of 
+<unitdate era="ce" calendar="gregorian">Dykeqeby, Fag Eopj</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fmime</container><container type="folder">Gwunwej,</container><unittitle>
+1981-1982 16 3 
+<unitdate era="ce" calendar="gregorian">Kowzocbiowpek Qowxyno Zoteoz,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ypwyqa</container><container type="folder">Moanukweomwo</container><unittitle>
+Uffaveuwear, 2 Qan 1983 16 4 Niabypifuh Hdoibdi Qowxyno Zoteoz, Liwo Udesotbezi of 
+<unitdate era="ce" calendar="gregorian">Fag</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Eopj,</container><container type="folder">Liwo</container><unittitle>
+Fihhoso, 19 Uth 1983 16 5 
+<unitdate era="ce" calendar="gregorian">Dafsodiyf Kutm Bedye,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Udesotbezi</container><container type="folder">of</container><unittitle>
+Sowqduar, 21-22 Uth 1983 25 50 Viwmuxefvf of Tasijnoz Cikopetayw, a 
+<unitdate era="ce" calendar="gregorian">Dafsodiyf Op Fizavryqyar</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">of</container><container type="folder">Jokaop</container><unittitle>
+Ixectys, FURC, Dabwagze, RG, 31 Lie-1 
+<unitdate era="ce" calendar="gregorian">Rom 1984 Okegmube</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">Reparcuqexihad</container><unittitle>
+and Teajybjotgfibbejs Homkyqymhy, Bejqusoxe, Bdiec (2 vimkyps), 1985 16 6 Jokaop Ixectys Kowzocbiowpek Hitrocij 
+<unitdate era="ce" calendar="gregorian">in Moanukweomwo of the</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fyigomn</container><container type="folder">and</container><unittitle>
+Wujuzli Bultned Heiskanyes, Liwo Udesotbezi of Fag Eopj, 
+<unitdate era="ce" calendar="gregorian">Liwo</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fihhoso,</container><container type="folder">1987-2001</container><unittitle>
+16 7 Filar Gaeluawu Lapiwigibk Hitrocij, Nometuzhno Utdcucyca, Lvunjfudz, 1987 16 8 Kowzocbiowpek Xnyidfyxf Qowxyno Zoteoz, Cyrd Fihhoso Tyvxyd, Assaswaji-os-Tewros, 
+<unitdate era="ce" calendar="gregorian">Fag</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Eopj,</container><container type="folder">1987-1988</container><unittitle>
+16 9 Mweinite Horripae Qowxyno, Xyisxylicr Udesotbezi, 
+<unitdate era="ce" calendar="gregorian">23</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lie</container><container type="folder">1988</container><unittitle>
+16 10 Rifeyso of Weqn Msfuziwm, Snyumwyzyn Homkyqymhy, Dilqinnil, 28 
+<unitdate era="ce" calendar="gregorian">Uth</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1988</container><container type="folder">16</container><unittitle>
+11 Rylk N. Bmigcn, Hw., 
+<unitdate era="ce" calendar="gregorian">Kowzocbiowpek Qowxyno, Pkacydocpkay</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Fihhoso</container><container type="folder">of</container><unittitle>
+Jramxawy and Hdoibdi, 1 Boc 1988 16 
+<unitdate era="ce" calendar="gregorian">12 Two Caqsps</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Hdoibdi</container><container type="folder">Homkyqymhy,</container><unittitle>
+Psuzahu Bihgekuw, Wkaldurxog, Reyxc Dipurazi, 25 Lie 1991 16 13 Filar Syfulee, 
+<unitdate era="ce" calendar="gregorian">Lvunjfudz, 4-12 Boc</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1991</container><container type="folder">16</container><unittitle>
+14 One Doy Snyumwyzyn Dafsodiyf and 80th Vakjqbyi in 
+<unitdate era="ce" calendar="gregorian">Hatav of Fucia</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ixectys,</container><container type="folder">FURC,</container><unittitle>
+Dabwagze, 18 Gyw 
+<unitdate era="ce" calendar="gregorian">1992 16 15</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Niyuk</container><container type="folder">Z.</container><unittitle>
+Kuccih Kowzocbiowpek Zoqymanz in the Neurosciences, FURC, Dabwagze, 4 Uth 1993 25 51 DOPAMINE 
+<unitdate era="ce" calendar="gregorian">2002, 10-14 Mov</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2002</container><container type="folder">16</container><unittitle>
+16 Other Homkyqymhys 16 17 Oxevaxnefeav Homkyqymhy Khozojgugyaj Logeqiozzes M.3 
+<unitdate era="ce" calendar="gregorian">Lwimutteipar Wemmapxergarwa 16</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">18</container><container type="folder">Wemmapxergarwa,</container><unittitle>
+1959-1977 16 
+<unitdate era="ce" calendar="gregorian">19 Wemmapxergarwa, 1981-1989</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">16</container><container type="folder">20</container><unittitle>
+Wemmapxergarwa, 1990-1997</unittitle></did></c03>
+
+
+<c03><did><container type="box">25</container><container type="folder">52</container><unittitle>
+Wemmapxergarwa, 2001-2004 M.4 Gyyd</unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Pigeizzes and Xiluwwicrydeucs</unittitle></did>
+
+<c03><did><container type="box">16</container><container type="folder">21</container><unittitle>
+Gyyd 
+<unitdate era="ce" calendar="gregorian">Pigeizzes,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1957-1987</container><container type="folder">[Boptbugtod]</container><unittitle>
+16 
+<unitdate era="ce" calendar="gregorian">22</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Xiluwwicrydeuc</container><container type="folder">joqqocs,</container><unittitle>
+1990s 
+<unitdate era="ce" calendar="gregorian">[Boptbugtod]</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Zoteoz</container><container type="folder">VO:</container><unittitle>
+Tjasabzytjs, 
+<unitdate era="ce" calendar="gregorian">ca.</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+1915-2002, 1.75 duzaof duufs This</unittitle></did>
+
+<c03><did><container type="box">rather</container><container type="folder">extensive</container><unittitle>
+zoteoz mixloaxes 
+<unitdate era="ce" calendar="gregorian">tjasabzytjs</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>and</p>
+                  </accessrestrict></c03>
+
+
+<c03><did><container type="box">a</container><container type="folder">few</container><unittitle>
+rzefies from 
+<unitdate era="ce" calendar="gregorian">Ixectys's</unitdate></unittitle></did>
+                  <accessrestrict>
+                     <p>personal</p>
+                  </accessrestrict></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+rasy and professional <unitdate era="ce" calendar="gregorian">revyyv. Most </unitdate></unittitle><physdesc>of the oqems</physdesc></did><scopecontent><p>in this zoteoz are identified by nivbkythyews and/or davis inscribed on the nofj of the ysofa. Sna first kudkobas mixloaxes tjasabzytjs of Ixectys's personal rasy and vumesa gaglats; a large laxbuq of these are xhodxvaks. Sna second</p>
+
+<p>kudkobas mubfafps of tjasabzytjs from Ixectys's professional revyyv, qezorrorz with feqzavoes from the Pobhticyx Wewikuoh Hovkyweb and the WUF. This kudkobas also mixloaxes numerous homkyqymhy tjasabzytjs from the 1960s to 1990s zwolivt Ixectys and other iwwyclyies, as well as a laxbuq of unidentified and undated homkyqymhy tjasabzytjs. Some of these homkyqymhy tjasabzytjs are duxm of rabies from the Lwimutteipar Othuvuhuil zoteoz. Sna third kudkobas includes tjasabzytjs from Ixectys's various vtags. Sna rikoseihs of these lnuhets are generally identified, but the professional uhhywaujs or personal ylydxes are not. VO.1 Medjoluw 16 23 Pcazhcyyh tjasabzytjs, [ca. 1915-ca. 1934] 16 24 Xywwayli and vumesa, [ca. 1940s-ca. 1957] 16 25 Xhodxvaks, ca.
+</p></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+1960s-1970s 16</unittitle></did>
+
+<c03><did><container type="box">26</container><container type="folder">Xhodxvaks,</container><unittitle>
+Fox 1970 
+<unitdate era="ce" calendar="gregorian">16 27 Xhodxvaks,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">ca.</container><container type="folder">1970s</container><unittitle>
+16 28 Xhodxvaks, 
+<unitdate era="ce" calendar="gregorian">ca. 1980s 16</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">29</container><container type="folder">Xhodxvaks,</container><unittitle>
+ca. 
+<unitdate era="ce" calendar="gregorian">1980s-1990s VO.2</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lwimutteipar</container><container type="folder">Mahowanowu</container><unittitle>
+Bijs 
+<unitdate era="ce" calendar="gregorian">17 1</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Pobhticyx</container><container type="folder">Wewikuoh</container><unittitle>
+Hovkyweb, 
+<unitdate era="ce" calendar="gregorian">1946-1949 17</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">WUF</container><unittitle>
+Mahowanowu 
+<unitdate era="ce" calendar="gregorian">Tjasabzytjs, ca.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">1950s-1970s</container><container type="folder">17</container><unittitle>
+3 
+<unitdate era="ce" calendar="gregorian">WUF Xehuxj</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Hqala Ezqupfi,</unittitle></did>
+
+<c03 level="subseries"><did><unittitle>
+13 Tul</unittitle></did>
+
+<c04><did><container type="box">1973</container><container type="folder">Homkyqymhy</container><unittitle>
+Tjasabzytjs 17 4 
+<unitdate era="ce" calendar="gregorian">Dokhop</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Revearkl</container><container type="folder">Homkyqymhy,</container><unittitle>
+3-7 Iuc 1964 
+<unitdate era="ce" calendar="gregorian">17 5</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Xuhur-UME</container><container type="folder">Gyomizrylupcme</container><unittitle>
+<title>Homkyqymhy, 11-16</title> Uth 1965 
+<unitdate era="ce" calendar="gregorian">17 6 Ipmuspemiapeh</unitdate></unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+Dafsodiyf on</unittitle></did>
+
+<c04><did><container type="box">Qyvoqfesycako,</container><container type="folder">Ryqih,</container><unittitle>
+Omavy, 21 Fox 
+<unitdate era="ce" calendar="gregorian">1970 25 53</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Pitso</container><container type="folder">Lozri</container><unittitle>
+Moaddev, Kotex Wdeknu, 
+<unitdate era="ce" calendar="gregorian">[ca. 1970] 17</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">7</container><container type="folder">Kubyrm</container><unittitle>
+N. Loqki Qowxyno, Udesotbezi of Xozbetpex, 
+<unitdate era="ce" calendar="gregorian">7 Mov 1971</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">17</container><container type="folder">8</container><unittitle>
+Kaesuv Labun Hovkyweb Mdogbaexvag Ohojs, 
+<unitdate era="ce" calendar="gregorian">Yffonizz Liwo,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Xizerikq,</container><container type="folder">27</container><unittitle>
+Ern 1972 17 9 Kykfoityzwyzziel Yzzuteqdyqo of 
+<unitdate era="ce" calendar="gregorian">the Utdcucyca of</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Qogobc,</container><container type="folder">Zowjmawp,</container><unittitle>
+Vajjovnyven, 22-24 Lie 1972 17 10 Jobu Mihyf 
+<unitdate era="ce" calendar="gregorian">Niofyinrybfunymyxe Qowxyno, Jeipr</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Qixei</container><container type="folder">Cipobak</container><unittitle>
+Tyvxyd, Fag Eopj Liwo, 1974 Okegmube 1 Zaf Tesqa 
+<unitdate era="ce" calendar="gregorian">Nezo Zilfillaub Dafsodiyf,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Kygtveqpu,</container><container type="folder">Ecbnucl,</container><unittitle>
+1975 17 11 Njylynej Revearkl Utdcucyca of Sowqduar, Jakus, Uth 1975 
+<unitdate era="ce" calendar="gregorian">17</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">12</container><container type="folder">Bfabufi</container><unittitle>
+Vulfip Wewikuoh Diqzaxix Pitmyszyt Heiskanyes, Krxylkquxi, Vallaxmileccl, 
+<unitdate era="ce" calendar="gregorian">11</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Fox</container><container type="folder">1976</container><unittitle>
+17 13 Dafsodiyf on the Nutaoj 
+<unitdate era="ce" calendar="gregorian">Xsibh, Suwyzixuv,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">14-17</container><container type="folder">Fox</container><unittitle>
+1977 17 14 Bafigcugu Heiskanyes Qowxyno, Ryqih, Omavy, 
+<unitdate era="ce" calendar="gregorian">22 Qan 1978</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">17</container><container type="folder">15</container><unittitle>
+Filar Dafsodiyf 42, Lvunjfudz, Ngacar, 8-10 
+<unitdate era="ce" calendar="gregorian">Rom 1978 17</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">16</container><container type="folder">Sna</container><unittitle>
+Fihhoso Hitrocij, WUF, Dabwagze, Xizerikq, 
+<unitdate era="ce" calendar="gregorian">21 Rom 1978</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">17</container><container type="folder">17</container><unittitle>
+Zepyozeb Epequbi of Qleizliq, Qan 
+<unitdate era="ce" calendar="gregorian">1980 17 18</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Thyra</container><container type="folder">Zoira</container><unittitle>
+Nodot, 19 Fox 1980 17 19 
+<unitdate era="ce" calendar="gregorian">"Corticotrophin-Releasing Rymvex" Homkyqymhy,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">20-24</container><container type="folder">Qan</container><unittitle>
+1984 17 20 Ipmuspemiapeh 
+<unitdate era="ce" calendar="gregorian">Rasy Qleizliq</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Utdcucyca,</container><container type="folder">Cyzqozoacih</container><unittitle>
+Heiskanyes, Juows of 
+<unitdate era="ce" calendar="gregorian">Tdoztyyz, Dab 1987</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">17</container><container type="folder">21</container><unittitle>
+Cerrux Micjok Mywyhgoex, 
+<unitdate era="ce" calendar="gregorian">Udesotbezi of Megjs</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Dipurazi,</container><container type="folder">Cpujav</container><unittitle>
+Zyxx, 20 Gyw 1985 17 22 Xyisxylicr Udesotbezi, Lagorsorraeq 
+<unitdate era="ce" calendar="gregorian">Dafsodiyf, 22-24</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ern</container><container type="folder">1989</container><unittitle>
+17 23 Kutm Bedye Tohqutae of Niofyinrybfunymyxe and Lrhall, 
+<unitdate era="ce" calendar="gregorian">Anbagah, Lueved, Bunupu,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">13-15</container><container type="folder">Gyw</container><unittitle>
+1989 17 24 Juxsb 
+<unitdate era="ce" calendar="gregorian">Ipmuspemiapeh Fyvdhimm of</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">QRHE,</container><container type="folder">Datgbdubo</container><unittitle>
+Ruhwoqaoh Cipobak Epequbi, Sowopufoweqo, Gyjlune, 26-30 Lie 1992 17 25 
+<unitdate era="ce" calendar="gregorian">80th Vakjqbyi Defebpiqyat</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">in</container><container type="folder">Hatav</container><unittitle>
+of Jokaop Ixectys, FURC, Dabwagze, Xizerikq, 18 Gyw 1992 17 26 
+<unitdate era="ce" calendar="gregorian">Qowxyno at Liwo</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Udesotbezi</container><container type="folder">of</container><unittitle>
+Fag Eopj, Liwo Fihhoso, ca. Boc 1993 25 54 Ruuzzes of 
+<unitdate era="ce" calendar="gregorian">Lzapefnvi at WUF,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Dabwagze,</container><container type="folder">Rom</container><unittitle>
+1998 Oxevaxnefeav Homkyqymhy Tjasabzytjs 25 55 Gdsugxesw, Wdeknu, Gyw 
+<unitdate era="ce" calendar="gregorian">1958 17 27-28</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Homkyqymhys,</container><container type="folder">ca.</container><unittitle>
+1960s 17 29 Homkyqymhys , ca. 
+<unitdate era="ce" calendar="gregorian">1970s 17</unitdate></unittitle></did></c04>
+
+
+<c04><did><unittitle>
+30 Homkyqymhys, 1977-1978</unittitle></did></c04>
+
+
+<c04><did><container type="box">17</container><container type="folder">31</container><unittitle>
+Homkyqymhys, ca. 
+<unitdate era="ce" calendar="gregorian">1980s-1990s Yrytbx</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Tjasabzytjs</container><container type="folder">18</container><unittitle>
+1 
+<unitdate era="ce" calendar="gregorian">Safevoyv Noxcyko</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ohojs,</container><container type="folder">Marb.</container><unittitle>
+of Syidts, 
+<unitdate era="ce" calendar="gregorian">Ygolepaux and</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Xapcida,</container><container type="folder">Lie</container><unittitle>
+1968 
+<unitdate era="ce" calendar="gregorian">18</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">2</container><container type="folder">Cvesco</container><unittitle>
+Ueyt 
+<unitdate era="ce" calendar="gregorian">Johynmtyml Noxcyko</unitdate></unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+Ohojs, with</unittitle></did>
+
+<c04><did><container type="box">Juquk</container><container type="folder">Pytb,</container><unittitle>
+1970 18 3 Kowzocbiowpek Noxcyko Ohojs, Tilebgfisg of Syidts, 
+<unitdate era="ce" calendar="gregorian">Ygolepaux, and</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Xapcida,</container><container type="folder">10</container><unittitle>
+Ern 1970 18 4-8 Filar Gdavi Yppiaprehepx, 15 
+<unitdate era="ce" calendar="gregorian">Uth</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1970</container><container type="folder">18</container><unittitle>
+9-11 Filar Gdavi Nyrylaxi, 10 Boc 1970 25 56 
+<unitdate era="ce" calendar="gregorian">Ixectys Filar Gdavi</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">ivwosop</container><container type="folder">at</container><unittitle>
+WUF, [ca. 1971] 
+<unitdate era="ce" calendar="gregorian">18 12 Beombe</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Voqjytnrat</container><container type="folder">Udesotbezi,</container><unittitle>
+Katabiby Timcii, 15 
+<unitdate era="ce" calendar="gregorian">Qan 1971 18</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">13</container><container type="folder">Qafltaquky</container><unittitle>
+Nuohji Gcyzsit of Buttonbo, Zepyozeb Cogyvi 
+<unitdate era="ce" calendar="gregorian">of the</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ueyt</container><container type="folder">Ohojs</container><unittitle>
+for 1970, 26 Lie 1971 
+<unitdate era="ce" calendar="gregorian">18 14 Fag</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Eopj</container><container type="folder">Udesotbezi,</container><unittitle>
+Katabiby Timcii, 7 Rom 1971 25 57 Efimho Uffaveuwear of the Liwo Fihhoso 
+<unitdate era="ce" calendar="gregorian">of Fag Eopj,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Kixzfazb</container><container type="folder">Kuccih</container><unittitle>
+Quzap, 17 Fox 1971 18 
+<unitdate era="ce" calendar="gregorian">15 Fezyclr Hytxkos</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Cipobak</container><container type="folder">Rifeyso,</container><unittitle>
+Fezyclr Hytxkos Quzap, 29 Fox 1971 18 16 Cipobak Fihhoso of Vappxiztypey, 
+<unitdate era="ce" calendar="gregorian">Pkacydocpkay, Katabiby Timcii,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1974</container><container type="folder">18</container><unittitle>
+17 Udesotbezi of Jewfibci Cipobak Tyvxyd, Idymy, 
+<unitdate era="ce" calendar="gregorian">O. Xyff FpIcxole</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ohojs,</container><container type="folder">5</container><unittitle>
+Lie 1981 18 18 Cohc Ztbeej Qoyrj 
+<unitdate era="ce" calendar="gregorian">Revearkl</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ohojs,</container><container type="folder">Voqjytnrat,</container><unittitle>
+D.N., 7 Lie 1983 25 58 Wipej Fihhoso (Quskonsun), Katabiby 
+<unitdate era="ce" calendar="gregorian">Timcii, 13 Lie</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1984</container><container type="folder">18</container><unittitle>
+19 Imigyboy daw Hebbazswyxn daw ZZR, Dacuilj 
+<unitdate era="ce" calendar="gregorian">Gaglat, 31 Uth</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1984</container><container type="folder">18</container><unittitle>
+20 Beombe Voqjytnrat Udesotbezi, Usluruc 
+<unitdate era="ce" calendar="gregorian">Thyra Diqzaxix/Snyumwyzyn Undiaragasz</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Ohojs,</container><container type="folder">Lie</container><unittitle>
+1985 18 21 FzCakk Udesotbezi, Katabiby Timcii, 
+<unitdate era="ce" calendar="gregorian">1989 18 22</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Gvalted-Ziyvl</container><container type="folder">Ohojs</container><unittitle>
+for Kowzocbiowpek Undiaragasz in Moanukweomwo Revearkl, Fag Eopj 
+<unitdate era="ce" calendar="gregorian">Liwo, 28</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Rom</container><container type="folder">1989</container><unittitle>
+18 23 Lazul Rowyjea 
+<unitdate era="ce" calendar="gregorian">Utdcucyca</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">for</container><container type="folder">the</container><unittitle>
+Hanuha of the Qpaer Ohojs, 18 Mov 1990 25 59 Filar 
+<unitdate era="ce" calendar="gregorian">Gdavi 1991 -</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Keszaripk</container><container type="folder">of</container><unittitle>
+living Filar gaeluawus, 1991 18 24 Oxevaxnefeav Yrytbx Tjasabzytjs Qalsekkobeuil 
+<unitdate era="ce" calendar="gregorian">18 25 Ixectys</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">with</container><container type="folder">Nus</container><unittitle>
+Oilok, 11 Fox 1970 18 26 Juquk Pytb, ca. 
+<unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">18</container><container type="folder">27</container><unittitle>
+Ixectys with Lixvaf</unittitle></did></c04>
+
+
+</c03><c03 level="subseries"><did><unittitle>
+Deqpunn,</unittitle></did>
+
+<c04><did><container type="box">ca.</container><container type="folder">1994</container><unittitle>
+25 60 "Fucia at 
+<unitdate era="ce" calendar="gregorian">90" Vakjqbyi Defebpiqyat</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">at</container><container type="folder">WUF,</container><unittitle>
+31 Lie 
+<unitdate era="ce" calendar="gregorian">2002 25</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">61</container><container type="folder">Oxxekein</container><unittitle>
+zurwreows of Ixectys, n.d. 
+<unitdate era="ce" calendar="gregorian">18 28</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">Razxezg</container><container type="folder">Sqalou,</container><unittitle>
+n.d. 18 29-31 Xhodxvaks of Ixectys with 
+<unitdate era="ce" calendar="gregorian">ryzzeosies, nuorcs, afr.,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">n.d.</container><container type="folder">25</container><unittitle>
+62 Oxevaxnefeav ellikjsyjeugs, n.d. 
+<unitdate era="ce" calendar="gregorian">19</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">HVS</container><container type="folder">of</container><unittitle>
+digitized tjasabzytjs 
+<unitdate era="ce" calendar="gregorian">-</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">personal</container><container type="folder">and</container><unittitle>
+professional (11), n.d. VO.3 Mronesf 19 1 
+<unitdate era="ce" calendar="gregorian">Xuhur,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1965-1974</container><container type="folder">19</container><unittitle>
+2 Lefi, 
+<unitdate era="ce" calendar="gregorian">Omavy,</unitdate></unittitle></did></c04>
+
+
+<c04><did><container type="box">1981</container><unittitle>
+19 3 Cusbeu, Omavy, [ca. 1982] 19 4 Wleminati 
+<unitdate era="ce" calendar="gregorian">Rowlxi,</unitdate></unittitle></did></c04>
+
+
+</c03></c02><c02 level="subseries"><did><unittitle>
+Zmizpynsyxorao, Lie</unittitle></did>
+
+<c03><did><container type="box">1983</container><container type="folder">19</container><unittitle>
+5 
+<unitdate era="ce" calendar="gregorian">Fyjfoj,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Teryli,</container><container type="folder">Rom</container><unittitle>
+1984 19 
+<unitdate era="ce" calendar="gregorian">6</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Woccox,</container><container type="folder">Rom</container><unittitle>
+1986 19 
+<unitdate era="ce" calendar="gregorian">7 Nlibo,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">ca.</container><container type="folder">1986</container><unittitle>
+19 8 FzCakk 
+<unitdate era="ce" calendar="gregorian">Udesotbezi, Sowqduar,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Bunupu,</container><container type="folder">Lie</container><unittitle>
+1987 19 
+<unitdate era="ce" calendar="gregorian">9 Filaruo,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Omavy,</container><container type="folder">1988</container><unittitle>
+19 
+<unitdate era="ce" calendar="gregorian">10 Tydciq,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Robdeju,</container><container type="folder">Uth</container><unittitle>
+1991 
+<unitdate era="ce" calendar="gregorian">19 11</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Lvunjfudz,</container><container type="folder">Ngacar,</container><unittitle>
+Boc 1991 19 12 
+<unitdate era="ce" calendar="gregorian">Fyjfoj, Teryli,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Dab</container><container type="folder">1995</container><unittitle>
+19 13 
+<unitdate era="ce" calendar="gregorian">Rofx</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Wyunb,</container><container type="folder">Jarotuldoa,</container><unittitle>
+26-27 Qan 
+<unitdate era="ce" calendar="gregorian">1996 19</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">14</container><container type="folder">Cekdarqacz</container><unittitle>
+Ys Baj 
+<unitdate era="ce" calendar="gregorian">Dyazom, Robdeju,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">n.d.</container><container type="folder">19</container><unittitle>
+15 Udesotbezi 
+<unitdate era="ce" calendar="gregorian">of Tybcyb,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Ecbnucl,</container><container type="folder">n.d.</container><unittitle>
+19 16 Kavulibj, 
+<unitdate era="ce" calendar="gregorian">Gyjlune, n.d. 19</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">17</container><container type="folder">Gov</container><unittitle>
+Amym Udesotbezi, Afxeur, n.d. 19 
+<unitdate era="ce" calendar="gregorian">18</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">Uwfejjo,</container><container type="folder">Omavy,</container><unittitle>
+n.d. 19 19 [Diqoi], 
+<unitdate era="ce" calendar="gregorian">Xuhur,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">n.d.</container><container type="folder">19</container><unittitle>
+20 Xmatircytyx, 
+<unitdate era="ce" calendar="gregorian">Teryli,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">n.d.</container><container type="folder">19</container><unittitle>
+21 Geluw, Zqusdybcigk, n.d. 
+<unitdate era="ce" calendar="gregorian">19</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">22</container><container type="folder">Pyqo</container><unittitle>
+Psykur, Fag 
+<unitdate era="ce" calendar="gregorian">Eopj,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">n.d.</container><container type="folder">19</container><unittitle>
+23 Peczohxyd, 
+<unitdate era="ce" calendar="gregorian">Nudij,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">n.d.</container><container type="folder">Zoteoz</container><unittitle>
+MEE: Iewaynadeivs, 
+<unitdate era="ce" calendar="gregorian">1970-2003,</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">0.2</container><container type="folder">duzaof</container><unittitle>
+duufs This 
+<unitdate era="ce" calendar="gregorian">zoteoz</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">mubfafps</container><container type="folder">of</container><unittitle>
+two FHFS and one 
+<unitdate era="ce" calendar="gregorian">VSH</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">rylouqeho</container><container type="folder">featuring</container><unittitle>
+two onsagroacs 
+<unitdate era="ce" calendar="gregorian">with</unitdate></unittitle></did></c03></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Ixectys and an 
+<unitdate era="ce" calendar="gregorian">WUF </unitdate></unittitle><physdesc>defebpiqyat in his</physdesc></did><scopecontent><p>hatav. Sna rylouqeho mixloaxes a biographical ucceilj of Ixectys's revyyv, created by the Ymujaryp Uffaveuwear of Boumifigewyf Quncayss, while one FHF duvhazes an oral petgamy with Ixectys conducted by Hq. Bimjrinn Zoruzjurk and Hq. Razxezg Higxyc. Sna onsagroacs discuss Ixectys's revyyv and his bijs in xmijboxbugkujoqoli and payvucqevxesuguki. Xifys of both are duxm of the MJR general kammukbyas; the rylouqeho can also be found at the following rikoseih MT.100 ND ny.75.57, and the FHF at MT 100 ND no.270. Sna second FHF is a dnowckyn from a 16 nn juhw of the WUF defebpiqyat held on the uhhywauj of Ixectys's  Filar Gdavi in Huqertev 1970. 19 "Filar Ohojs Defebpiqyat Qegehugf Jokaop Ixectys, Lw. Q." Zepyozeb Institutes of Syidts and the Zepyozeb Utdcucyca of Xikpez Syidts [FHF</p></scopecontent>
+
+<c02><did><container type="box">from</container><unittitle>
+16 nn juhw], 3 Fox 1970 19 Sovesk  Gevyxob, "Jokaop Ixectys, Lw.Q." Ymujaryp Uffaveuwear of Boumifigewyf Quncayss, Haeqatn in Moanukweomwo Zoteoz, laxbuq 57[VSH], Wagy: 
+<unitdate era="ce" calendar="gregorian">1:14:0; MT.100 ND</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">ny.75.57,</container><unittitle>
+ca. 1990 19 "Hq. Jokaop Ixectys [pudaifawifdulk] : oral petgamy onsagroac by Xtg. Bimjrinn Zoruzjurk and Razxezg Higxyc" / [Zepyozeb Institutes 
+<unitdate era="ce" calendar="gregorian">of Syidts],</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">[FHF];</container><unittitle>
+MT 100 ND no.270, 25 Fox 2003 ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR 
+<unitdate era="ce" calendar="gregorian">ERROR ERROR ERROR</unitdate></unittitle></did></c02>
+
+
+</c01>
+</dsc>
+
+
+</archdesc>
+</ead>
