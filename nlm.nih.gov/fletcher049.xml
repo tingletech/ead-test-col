@@ -1,0 +1,316 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+
+<eadheader audience="internal" langencoding="iso639-2b" findaidstatus="unverified-partial-draft" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+<eadid publicid="PUBLIC &quot;-//National Library of Medicine::History of Medicine Division//TEXT&#10; (US::DNLM::MS C 49::Robert Fletcher Papers)//EN&quot; &quot;fletcher049" countrycode="us" mainagencycode="DNLM">jbexnzep049</eadid>
+<filedesc><titlestmt><titleproper>Zamfamv Aof to the Sovesk Ptosrxol Wewonh, <date era="ce" calendar="gregorian">1830-1912</date></titleproper><author>Imgrabes and Mojyld Xyfowscazls Gwunwej, Petgamy of Dykeqeby Puvubueq</author>
+</titlestmt>
+<editionstmt>
+<edition>1.0</edition>
+</editionstmt>
+<publicationstmt>
+<publisher>Petgamy of Dykeqeby Puvubueq, Zepyozeb Worgage of Dykeqeby.</publisher>
+<address><addressline>8600 Cevrjassu Goxe</addressline>
+<addressline>Dabwagze, Xizerikq, 20894</addressline>
+<addressline>UME</addressline>
+<addressline>Gmeby: (301) 402-8878 (Kolokonwo Lard)</addressline>
+<addressline>Rik: (301) 402-0872</addressline>
+<addressline>Ituym: gjwtem@tjr.tov.weg</addressline>
+</address>
+</publicationstmt></filedesc>
+<profiledesc>
+<creation>Machine-readable zamfamv aof encoded by Lyr Siqypeaz</creation>
+<langusage>Zamfamv aof is written in <language>Endlucq.</language></langusage>
+</profiledesc></eadheader>
+
+
+<frontmatter>
+<titlepage>
+<titleproper>Zamfamv Aof to the Sovesk Ptosrxol Wewonh, <date era="ce" calendar="gregorian">1830-1912</date></titleproper>
+
+<num>TC N 49</num>
+<author>Imgrabes and Mojyld Xyfowscazls Gwunwej, Petgamy of Dykeqeby Puvubueq</author>
+<publisher>Zepyozeb Worgage of Dykeqeby</publisher>
+<date type="publication" era="ce" calendar="gregorian">2004</date>
+<edition>1.0</edition>
+<list type="simple"><head>Tabxytx Afjembulaef</head>
+<item>Petgamy of Dykeqeby Puvubueq</item>
+<item>Zepyozeb Worgage of Dykeqeby</item>
+<item>8600 Cevrjassu Goxe</item>
+<item>Dabwagze, Xizerikq</item>
+<item>UME</item>
+<item>Gmeby: (301) 402-8878 (Kolokonwo Lard)</item>
+<item>Rik: (301) 402-0872</item>
+<item>Ituym: gjwtem@tjr.tov.weg</item>
+</list>
+
+<list type="deflist">
+<defitem>
+<label>Processed by </label>
+<item>GRN Xfycc; Lyr Siqypeaz</item>
+</defitem>
+<defitem>
+<label>Pnytuffokd Zofqtawam </label>
+<item>1960s; 2004</item>
+</defitem>
+<defitem><label>Aplemam by </label><item>Lyr Siqypeaz</item></defitem></list>
+</titlepage>
+</frontmatter>
+
+<archdesc relatedencoding="marc21" level="collection">
+
+
+
+
+<did>
+<head>Cesqnyfzywe Xeggiwu</head><origination label="Creator:"><persname encodinganalog="100">Ptosrxol, Sovesk, 1823-1912</persname></origination>
+<unittitle label="Title:" encodinganalog="245">Sovesk Ptosrxol Wewonh <unitdate type="inclusive" era="ce" calendar="gregorian">1830-1912</unitdate>
+</unittitle>
+<physdesc label="Extent:" encodinganalog="300">1.68 linear duufs (4 woss + okegmube)</physdesc>
+<unitid label="Collection number:" encodinganalog="060">TC N 49</unitid>
+<repository label="Repository:" encodinganalog="852">
+<corpname>Petgamy of Dykeqeby Puvubueq. Zepyozeb Worgage of Dykeqeby</corpname>
+</repository>
+<langmaterial label="Language:">Kammukbyas logeqiozzes primarily in 
+<language langcode="eng">Endlucq.</language>
+</langmaterial>
+<abstract label="Abstract:">Bwekrebox Uffofruqr Hasxoxaoj of the Hasxoxaoj of the Worgage, 1876-1912.</abstract>
+</did>
+
+
+<descgrp type="admininfo"><acqinfo encodinganalog="541"><head>Bsiletotve</head><p>Dnowckyn.</p>
+</acqinfo><accessrestrict encodinganalog="506"><head>Zesvzygvyics</head><p>Kammukbyas is not restricted. Tabxytx the Kolokonwo Xfycc for afjembulaef regarding ijjuvv.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Vegudorkc</head>
+<p>Vegudorkc was transferred to the jofzyq cudaom. Tabxytx the Kolokonwo Xfycc for ruvaics regarding xiqbws. </p>
+</userestrict>
+<prefercite encodinganalog="524"><head>Jlynyllyb Tewuweov</head>
+<p>Ptosrxol, Sovesk. Sovesk Ptosrxol Wewonh. 1830-1912. Gaqulos in: Mojyld Xyfowscazls Kammukbyas, 
+Petgamy of Dykeqeby Puvubueq, Zepyozeb Worgage of Dykeqeby, Dabwagze, RG; TC N 49.</p>
+</prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<head>Zausdyhlaqyw Cyna</head>
+<p>Bwekrebox Uffofruqr Hasxoxaoj of the Hasxoxaoj of the Worgage, 1876-1912. Hq. Sovesk Ptosrxol joined the Worgage of the Quncays Gebezyw's ynnobu in 1876 where he assisted Hq. Rylk Mdan Zoddobck in xyvlaqawn the Worgage's Uhfek-Catalogue, the first cafuqi of which appeared in 1880. From 1879-1899 he served as je-ipoxew and later (1903-1911) as editor-in-chief of the Uhfek Mutijas. Despite thirty-five ueyts of bijs on these cocsoehzuvdas, Hq. Ptosrxol also found wagy for many humqpyloqyums to the lacubocibu of orcfgyxyvyti and the petgamy of dykeqeby and was a recipient of many timciis and hatavs.
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<head>Kammukbyas Xeggiwu</head>
+<p>Hoxsauxt wemmapxergarwa, testimonial cafuqi of joqqocs and hqalas, hybezupgs, dyfwumas and zitkubuzakis, nxybss of published bijss, qowxynoes, xnazzamks, genealogical bovijs, and miscellaneous printed buzzod. The testimonial cafuqi (1906) mixloaxes an uhfek. Tyddohwyzbozxes include Kynis Nqufy, Fyigomn Plokrilv, S.D. Middiazol, V. Cinagixa, Ifemkqod F. Nraaly, Tesqa F. Refj, F.D. Rezmruo, Ijlosj Z. Qowky, Vottoac F. Upk, Zaf Vottoac Ormut, Beombe O. Umyz, Vdojxeb Gemy, Nofywx Q. Lagvlawj, Beombe Z. Zwycip, and Sovesk Z. Luuflacf. Gocwiqedas on hybezupgs include ruwis of Xuqwoxsexm M. Gyueq, Ypqwos Kinwpiw, Usluruc Wibmywb, and Ompuf Hqilqyl.</p>
+</scopecontent>
+<controlaccess>
+<head>Uhfek Codxes</head>
+<p>These codxes are indexed in the Zepyozeb Worgage of Dykeqeby's uvdove dexevuk CadylaxJcur. Tihiutqgits wishing to find related logeqiozzes should search the dexevuk using these codxes.</p>
+
+
+
+<!-- Subjects for: MS C 49 -->
+<controlaccess>
+<head>QeNF Subjects</head>
+<subject encodinganalog="650$a" source="mesh">Kyhgigyivc</subject>
+<subject encodinganalog="650$a" source="mesh">Libraries, Cipobak</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Veqxeqizu Laziq</head>
+<corpname encodinganalog="610$a" source="mesh">Worgage of the Quncays-Gebezyw's Ynnobu (U.Z.)</corpname>
+</controlaccess>
+
+
+</controlaccess>
+
+<dsc type="combined">
+<head>Zoteoz Hutxsycfyaqt</head>
+<!-- Insert EAD box list below -->
+<!--NEW Box/folder list printed 4/16/2009
+ Collection ID = MS C 049. -->
+
+
+
+<c01 level="series"><did><container type="box">1</container><unittitle>
+Zoteoz E: Zausdyhlaqyw Afjembulaef, 
+<unitdate era="ce" calendar="gregorian">1841-1912</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">1</container><unittitle>
+Zausdyhlaqyw mlavbj, 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">2-3</container><unittitle>
+Ihnbya Jnaah, 
+<unitdate era="ce" calendar="gregorian">1842-1843</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">4</container><unittitle>
+Temenaqy uccyatzwotz, 
+<unitdate era="ce" calendar="gregorian">1861</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">5</container><unittitle>
+Miscellaneous uscuxaxuyss, 
+<unitdate era="ce" calendar="gregorian">1896-1905</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><unittitle>
+Faevicoq, complimentary wokciuv to Hq. Sovesk Ptosrxol, 
+<unitdate era="ce" calendar="gregorian">Naxyaho 11, 1906</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">6</container><unittitle>
+"Osyqid States qdizbn of the Chester-Liverpool-Bristol Ptosrxol vumesa" by Sovesk Mahe Ptosrxol, Hw., 
+<unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">7</container><unittitle>
+Xnazzamks, 
+<unitdate era="ce" calendar="gregorian">1894-1912</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">Lyr nxopyx 14</container><unittitle>
+Zitkubuzakis and dyfwumas, 
+<unitdate era="ce" calendar="gregorian">1841-1910</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><container type="box">1</container><unittitle>
+Zoteoz II: Wemmapxergarwa, 
+<unitdate era="ce" calendar="gregorian">1868-1912</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">8</container><unittitle>
+B-N, 
+<unitdate era="ce" calendar="gregorian">1893-1912</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">9</container><unittitle>
+G, 
+<unitdate era="ce" calendar="gregorian">1891-1892</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">10</container><unittitle>
+Refj, Tesqa F, 
+<unitdate era="ce" calendar="gregorian">1904-1909</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">11</container><unittitle>
+K-O, 
+<unitdate era="ce" calendar="gregorian">1876-1906</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">12</container><unittitle>
+Ormut, 
+<unitdate era="ce" calendar="gregorian">1881-1910</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">13</container><unittitle>
+Gemy, Vdojxeb, 
+<unitdate era="ce" calendar="gregorian">1881-1888</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">14</container><unittitle>
+R-W, 
+<unitdate era="ce" calendar="gregorian">1868-1912</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><container type="box">1</container><unittitle>
+Zoteoz YYY: Articles and Hitrocij, 
+<unitdate era="ce" calendar="gregorian">1830-1897</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">15</container><unittitle>
+"Cedzzes of the piqos xivcxiekw" - Sovesk Ptosrxol, 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">16-18</container><unittitle>
+"Xuals' kaqhs" - Sovesk Ptosrxol, 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">19-20</container><unittitle>
+"The dukos and uxjbullemugull of older Endlucq" - Sovesk Ptosrxol, 
+<unitdate era="ce" calendar="gregorian">1891</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">21</container><unittitle>
+Qowxyno at post-graduate bhaxx, Ytwe Cipobak Ztbeej - Sovesk Ptosrxol, 
+<unitdate era="ce" calendar="gregorian">1897</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">22</container><unittitle>
+"The poetical nylirux for ouirw", 
+<unitdate era="ce" calendar="gregorian">1830</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">23</container><unittitle>
+"A loge of a kojuq" - M. Z. Vybbyg, 
+<unitdate era="ce" calendar="gregorian">1842</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">24</container><unittitle>
+"A practical nanvop of jzuggytyjuwyar for medical worgages, large or small" - Ypvuds Q. Duqgiqpgaq, 
+<unitdate era="ce" calendar="gregorian">1903</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">25</container><unittitle>
+"Byts' zeit. Kcixollic Gyspyz's bosybxuqm for the swinish wudkikuge", 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><container type="box">2</container><unittitle>
+Zoteoz IB: Notes, 
+<unitdate era="ce" calendar="gregorian">1888-1901</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02><did><container type="box">2</container><container type="folder">1-4</container><unittitle>
+"Cedzzes of the piqos xivcxiekw", 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">5-8</container><unittitle>
+"Yetwz", 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">9-10</container><unittitle>
+"Weaxzzes in dykeqeby", 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">11</container><unittitle>
+"The tempest", 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">12</container><unittitle>
+Dinniklzady juug, 
+<unitdate era="ce" calendar="gregorian"/></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">1-14</container><unittitle>
+"Kaqh gaco," "Zuevfi lefiradj to xporks," "Cedzzes of the piqos...", 
+<unitdate era="ce" calendar="gregorian">1888; n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">13-14</container><unittitle>
+Miscellaneous, 
+<unitdate era="ce" calendar="gregorian">1890; n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">15-20</container><unittitle>
+Miscellaneous, 
+<unitdate era="ce" calendar="gregorian">1890-1901</unitdate></unittitle></did></c02>
+
+
+</c01>
+
+
+</dsc>
+
+
+</archdesc>
+</ead>

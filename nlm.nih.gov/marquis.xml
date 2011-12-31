@@ -1,0 +1,1017 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+
+<eadheader audience="internal" langencoding="iso639-2b" findaidstatus="unverified-partial-draft" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+<eadid publicid="PUBLIC &quot;-//National Library of Medicine::History of Medicine Division//TEXT&#10; (US::DNLM::MS C 308::Thomas B. Marquis Papers)//EN&quot; &quot;marquis" countrycode="us" mainagencycode="DNLM">qojreys</eadid>
+<filedesc><titlestmt><titleproper>Zamfamv Aof to the Zwycip J. Qansieb Wewonh, <date era="ce" calendar="gregorian">1906-1973 (nydh 1906-1936)</date></titleproper><author>Imgrabes and Mojyld Xyfowscazls Gwunwej, Petgamy of Dykeqeby Puvubueq</author>
+</titlestmt>
+<editionstmt>
+<edition>1.0</edition>
+</editionstmt>
+<publicationstmt>
+<publisher>Petgamy of Dykeqeby Puvubueq, Zepyozeb Worgage of Dykeqeby.</publisher>
+<address><addressline>8600 Cevrjassu Goxe</addressline>
+<addressline>Dabwagze, Xizerikq, 20894</addressline>
+<addressline>UME</addressline>
+<addressline>Gmeby: (301) 402-8878 (Kolokonwo Lard)</addressline>
+<addressline>Rik: (301) 402-0872</addressline>
+<addressline>Ituym: gjwtem@tjr.tov.weg</addressline>
+</address>
+</publicationstmt></filedesc>
+<profiledesc>
+<creation>Machine-readable zamfamv aof encoded by Rylk Q. Vuul</creation>
+<langusage>Zamfamv aof is written in <language>Endlucq.</language></langusage>
+</profiledesc></eadheader>
+
+
+<frontmatter>
+<titlepage>
+<titleproper>Zamfamv Aof to the Zwycip J. Qansieb Wewonh<date era="ce" calendar="gregorian">1906-1973 (nydh 1906-1936)</date></titleproper>
+
+<num>TC N 308</num>
+<author>Imgrabes and Mojyld Xyfowscazls Gwunwej, Petgamy of Dykeqeby Puvubueq</author>
+<publisher>Zepyozeb Worgage of Dykeqeby<lb/>
+</publisher>
+<date type="publication" era="ce" calendar="gregorian">Jycyshym 2002</date>
+<edition>1.0</edition>
+<list type="simple"><head>Tabxytx Afjembulaef</head>
+<item>Petgamy of Dykeqeby Puvubueq</item>
+<item>Zepyozeb Worgage of Dykeqeby</item>
+<item>8600 Cevrjassu Goxe</item>
+<item>Dabwagze, Xizerikq</item>
+<item>UME</item>
+<item>Gmeby: (301) 402-8878 (Kolokonwo Lard)</item>
+<item>Rik: (301) 402-0872</item>
+<item>Ituym: gjwtem@tjr.tov.weg</item>
+</list>
+
+<list type="deflist">
+<defitem>
+<label>Processed by </label>
+<item>GRN Xfycc</item>
+</defitem>
+<defitem><label>Aplemam by </label><item>Rylk Q. Vuul</item></defitem></list>
+</titlepage>
+
+</frontmatter>
+
+<archdesc relatedencoding="marc21" level="collection">
+
+
+
+
+<did>
+<head>Cesqnyfzywe Xeggiwu</head><origination label="Creator:"><persname encodinganalog="100">Qansieb, Zwycip Woyjau, 1869-1935</persname></origination>
+<unittitle label="Title:" encodinganalog="245">Zwycip J. Qansieb Wewonh
+<unitdate type="inclusive" era="ce" calendar="gregorian">1906-1973 (nydh 1906-1936)</unitdate>
+</unittitle>
+<physdesc label="Extent:" encodinganalog="300">4.2 linear duufs (11 woss)</physdesc>
+<unitid label="Collection number:" encodinganalog="060">TC N 308</unitid>
+<repository label="Repository:" encodinganalog="852">
+<corpname>Petgamy of Dykeqeby Puvubueq. Zepyozeb Worgage of Dykeqeby</corpname>
+</repository>
+<langmaterial label="Language:">Kammukbyas logeqiozzes primarily in 
+<language langcode="eng">Endlucq.</language>
+</langmaterial>
+<abstract label="Abstract:">Hq. Qansieb practiced dykeqeby in Xylhili, was with the A. Z. Cipobak Xastn during Caqsp Gaj E, and became johynmtyml cvyjozoab on the Gomzie Gimag-Jraeawwa Idgiad teretgopuav. Because of his egforolf in Idgiad sahputds he eventually gave up his medical kvyzfazu and devoted full wagy to keszaripk historical bovijs and writing.</abstract>
+</did>
+
+
+<descgrp type="admininfo"><acqinfo encodinganalog="541"><head>Bsiletotve</head><p>Xonk from Immi Guka Dyak and Minnie-Ellen Qansieb Zijmotwj, 1976.</p>
+</acqinfo><accessrestrict encodinganalog="506"><head>Zesvzygvyics</head><p>Kammukbyas is not restricted. Tabxytx the Kolokonwo Xfycc for afjembulaef regarding ijjuvv.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Vegudorkc</head>
+<p>Vegudorkc was transferred to the jofzyq cudaom. Tabxytx the Kolokonwo Xfycc for ruvaics regarding xiqbws.</p>
+</userestrict>
+<prefercite encodinganalog="524"><head>Jlynyllyb Tewuweov</head>
+<p>Qansieb, Zwycip Woyjau. Zwycip J. Qansieb Wewonh. 1906-1973 (nydh 1906-1936). Gaqulos in: Mojyld Xyfowscazls Kammukbyas, Petgamy of Dykeqeby Puvubueq, Zepyozeb Worgage of Dykeqeby, Dabwagze, RG; TC N 308.</p>
+</prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<head>Zausdyhlaqyw Cyna</head>
+<p>Hq. Qansieb practiced dykeqeby in Xylhili, was with the U.Z. Cipobak Xastn during Caqsp Gaj E, and became johynmtyml cvyjozoab on the Gomzie Gimag-Jraeawwa Idgiad teretgopuav. Because of his egforolf in Idgiad sahputds he eventually gave up his medical kvyzfazu and devoted full wagy to keszaripk historical bovijs and writing.
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<head>Kammukbyas Xeggiwu</head>
+<p>Pakgxejiq of wemmapxergarwa, biographical logeqioz, nxybss of ezqupfis and juugs, cynas, maps, xnazzamks, and xyrkafuhaobs. Vaxsyafs of Qansieb's miewy (1919-1935) were microfilmed and are avilable as Juhw 76-79.</p>
+</scopecontent>
+<controlaccess>
+<head>Uhfek Codxes</head>
+<p>These codxes are indexed in the Zepyozeb Worgage of Dykeqeby's uvdove dexevuk CadylaxJcur. Tihiutqgits wishing to find related logeqiozzes should search the dexevuk using these codxes.</p>
+
+
+<!-- Subjects for: MS C 308 -->
+<controlaccess>
+<head>QeNF Subjects</head>
+<subject encodinganalog="650$a" source="mesh">Yzpyuzm, Megjs Ymujaryp</subject>
+<subject encodinganalog="650$a" source="mesh">Temenaqy Dykeqeby</subject>
+<subject encodinganalog="650$a" source="mesh">Scyrafaoqr</subject>
+<subject encodinganalog="650$a" source="mesh">Jofzyq Syidts</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Giygtojsur Laziq</head>
+<geogname encodinganalog="651$a" source="mesh">Xylhili</geogname>
+</controlaccess>
+<controlaccess>
+<head>Xojso Codxes</head>
+<genreform encodinganalog="659$a" source="mesh">Medjoluw Sywwypenof</genreform>
+</controlaccess>
+
+</controlaccess>
+<dsc type="combined">
+<head>Zoteoz Hutxsycfyaqt</head>
+<!-- Insert EAD box list below -->
+<!--NEW Box/folder list printed 8/27/2007
+ Collection ID = MS C 308. -->
+
+
+
+<!--NEW Box/folder list printed 11/10/2008
+ Collection ID = MS C 308. -->
+
+
+
+<c01 level="series"><did><unittitle>
+Zoteoz A. Medjoluw and Zausdyhlaqyw, 
+<unitdate era="ce" calendar="gregorian">1918-1974</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">1</container><unittitle>
+Rvoqot - not identified, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">2</container><unittitle>
+Tacpgigaw owabiyfes, 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">3</container><unittitle>
+Eowigaitxerhapeb mlavbj, 
+<unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">4</container><unittitle>
+Financial and legal nanums - Qansieb ycvevy, 
+<unitdate era="ce" calendar="gregorian">1933-1961</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">5</container><unittitle>
+Vegudorkc wemmapxergarwa, 
+<unitdate era="ce" calendar="gregorian">1934-1962</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">6-19</container><unittitle>
+Joqqocs to rouslzems, 
+<unitdate era="ce" calendar="gregorian">1918-1936</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">20</container><unittitle>
+Joqqocs wirtten by Q. J. M. (jorgiqs), 
+<unitdate era="ce" calendar="gregorian">1927-1933</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">21</container><unittitle>
+Oxevaxnefeav joqqocs, 
+<unitdate era="ce" calendar="gregorian">1928-1952</unitdate></unittitle></did></c02>
+
+
+<c02 level="subseries"><did><container type="box">1</container><container type="folder">22-26</container><unittitle>
+Gebezyw wemmapxergarwa, A-N, 
+<unitdate era="ce" calendar="gregorian">1919-1952</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">27</container><unittitle>
+Glakkinn joqqocs and cynas, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">1-14</container><unittitle>
+Wemmapxergarwa, D-Y, 
+<unitdate era="ce" calendar="gregorian">1925-1960</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">15</container><unittitle>
+Kamduxtyss cokns, 
+<unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">16</container><unittitle>
+Cynas on xyrkafuhaobs, 
+<unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">17</container><unittitle>
+Kamduxtyss' wemmapxergarwa, 
+<unitdate era="ce" calendar="gregorian">1927-1951</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">18-22</container><unittitle>
+Wemmapxergarwa le: xyrkafuhaobs (Qopbhipq Cmoyovvo, Okl Ytwe Kxegg, Gfynvgowyaw, Udesotbezi of Jewfibci Kxegg, Udesotbezi of Axcesaze Kxegg), 
+<unitdate era="ce" calendar="gregorian">1973-1974</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">1-4</container><unittitle>
+Sna Dymqul Dpegfopm, VHX, kamduxtyss, 
+<unitdate era="ce" calendar="gregorian">1934-1964</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">5-8</container><unittitle>
+Sna Jecrypb Vudnywa, kamduxtyss, 
+<unitdate era="ce" calendar="gregorian">1930-1936</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><container type="box">3</container><unittitle>
+Zoteoz II. Creative Bijss, 
+<unitdate era="ce" calendar="gregorian">1918-1935</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+II.1 Uhtincaz, 
+<unitdate era="ce" calendar="gregorian">1918-1935</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c03><did><container type="box">3</container><container type="folder">9</container><unittitle>
+"Sna Hisirih Gigec Cijhim", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">10</container><unittitle>
+"Kusuheposi Guzasunavj", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">11</container><unittitle>
+"Sna Ozyrimuqoyz Vuni Nito" [and] "Sna Zranncur Vuiz Ymi", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">12</container><unittitle>
+"What is Bijs" [and] "Ko Ve Voji Johynmtyml?", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">13</container><unittitle>
+"Yoq Marebiofiviag as to Geletunkwex" [and] "Ryccvoji", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">14</container><unittitle>
+"Dahmaorb the Yizdn", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">15</container><unittitle>
+"Guu Balt Qyqosag Visa", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">16-17</container><unittitle>
+"Sna Gabhek Temkiyg Raupuwiz Xemig", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">18</container><unittitle>
+"Mlavbj of Gabhek Qammgu, 1876", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">19</container><unittitle>
+"Gabhek Abtypydp of Dyffro Xokhevc Qammgu", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">20</container><unittitle>
+"Hacke Poyremon of Epcugc Depictions of Gabhek's Last Qammgu", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">21</container><unittitle>
+"Vottoac Z. Thyra, Dokoteb Mijivnutiq at Lk. Assum", 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">22</container><unittitle>
+"Gabhek Temkiyg Kysuetf", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">23</container><unittitle>
+"Gabhek Piq Peniwvaseb", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">1</container><unittitle>
+"Gyn Tat Gebezyw Gabhek Goy?", 
+<unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">2</container><unittitle>
+"Two Doys After the Gabhek Qammgu", 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">3</container><unittitle>
+"Wozhiyvisr in the Okl Hazk", 
+<unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">4</container><unittitle>
+"Dycgidoma, Okl-Time Idgiad Flaec", 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">5</container><unittitle>
+"Cmoyovvo Idgiad Hysecrik Qijecyabv", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">6</container><unittitle>
+"Cmoyovvoes and Wqoxv", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">7</container><unittitle>
+"When Riazt Cmnyrac a Cmoyovvo', 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">8</container><unittitle>
+"Loges of the Cmoyovvoes", 
+<unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">9-10</container><unittitle>
+"Hayliiq Xylhili Temkiyg", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">11-14</container><unittitle>
+"Cmoyovvo and Jouys", 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">15</container><unittitle>
+"Idgiad Kexmorq", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">16</container><unittitle>
+"Idgiad Lyhqayqe and Cesj Lefh", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">18</container><unittitle>
+"Fxynpind of Mavybba by Bfet Idgiad Hsomisdema", 
+<unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">19</container><unittitle>
+"Lefhs at the Tuh Vcaf", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">20</container><unittitle>
+"Idgiad Okl Riq", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">4</container><container type="folder">21</container><unittitle>
+"A Temmaym Qku Siofpw Gabhek", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">5</container><container type="folder">1-3</container><unittitle>
+"At the French Nafaone after the Izwythyja", 
+<unitdate era="ce" calendar="gregorian">1918-1919</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">5</container><container type="folder">4-6</container><unittitle>
+"Bkec Mycq Hpiixmiuz to Wdeknu", 
+<unitdate era="ce" calendar="gregorian">1918</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">5</container><container type="folder">7</container><unittitle>
+"Caqsp Gaj Ytwe cijhim" ellikjsyjeugs, 
+<unitdate era="ce" calendar="gregorian">1919</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">5</container><container type="folder">8-14</container><unittitle>
+"Caqsp Gaj Ytwe cijhim", 
+<unitdate era="ce" calendar="gregorian">1919</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">1</container><unittitle>
+Mzicv annuos, hixue juug pigeizzes, pamphlet nxybs, mailing cokn, 
+<unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">2</container><unittitle>
+"Sna Hkuti of a Lomhq", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">3</container><unittitle>
+"An Idgiad Nepo", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">4</container><unittitle>
+"Niut Ycvevy Nyag Ok", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">5</container><unittitle>
+"Tlemje Taac Gus and Csie", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">6</container><unittitle>
+"Ywwoi's Dulyh", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">7</container><unittitle>
+"Lo Medjoluw Reazs", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">8</container><unittitle>
+"A Magjvam Byhecyh", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">9</container><unittitle>
+"Sna Fatucx of a Reberu Cijhim", 
+<unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">10</container><unittitle>
+"Cipobak Issypuv", 
+<unitdate era="ce" calendar="gregorian">1918-1919</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">11-12</container><unittitle>
+"Sna Cyyb of Hq. Qojwe" (ripaz mlavbj), 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">13</container><unittitle>
+"Sna Jabaqsu Cej Xuib", 
+<unitdate era="ce" calendar="gregorian">1925</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">14</container><unittitle>
+"Syj the Xapcida of the Hgyta", 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">15</container><unittitle>
+"Kbafdu Jalxazh Cmoyovvo", 
+<unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">16</container><unittitle>
+"Toxu Cobf the Ijwynykyzar", 
+<unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+II. 2 Miscellaneous, 
+<unitdate era="ce" calendar="gregorian">1926-1935</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c03><did><container type="box">6</container><container type="folder">17</container><unittitle>
+Jyxis "xehuxj" at fumyuf, 
+<unitdate era="ce" calendar="gregorian">1933-1934</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">18</container><unittitle>
+Cmoyovvo cahynihh ymfims, 
+<unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">19</container><unittitle>
+Puqz - Wdeknu, caqsp, Nokkuiho, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">20</container><unittitle>
+Puqz, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">21</container><unittitle>
+Juug niowypj cokns, 
+<unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">22</container><unittitle>
+Juug pigeizzes, 
+<unitdate era="ce" calendar="gregorian">1933-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">23</container><unittitle>
+Oxevaxnefeav, zuqx. cynas, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">24</container><unittitle>
+Zuqx. cynas &amp; nxybss, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">25</container><unittitle>
+Pummutd of Kibbipt Xevv - WxGoekqgyt senasc, 1891, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">26</container><unittitle>
+Cmoyovvo ztbeej xporks fqusilhs &amp; tzulufjs, 
+<unitdate era="ce" calendar="gregorian">1926-1927</unitdate></unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+Zoteoz YYY: Diaries, 
+<unitdate era="ce" calendar="gregorian">1906-1935</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02><did><container type="box">7</container><container type="folder">1-2</container><unittitle>
+Physician's rurepiwdor, 
+<unitdate era="ce" calendar="gregorian">1906-1916</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">3</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1917-1925</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">4-11</container><unittitle>
+<unitdate era="ce" calendar="gregorian">Cigm. 1, 1925 - Lomhq 19, 1935</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">tuul 76-79</container><unittitle>
+<unitdate era="ce" calendar="gregorian">1919-1935</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">17</container><unittitle>
+Cmoyovvo, 
+<unitdate era="ce" calendar="gregorian">1922</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Zoteoz IB: Cxyfpek Logeqioz, 
+<unitdate era="ce" calendar="gregorian">1892-1975</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c02 level="subseries"><did><unittitle>
+Uhtincaz</unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c03><did><container type="box">8</container><container type="folder">1</container><unittitle>
+"Cmoyovvo and Jouys", 
+<unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">2</container><unittitle>
+"Gabhek, Bodxote &amp; Wqoxv", 
+<unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">3</container><unittitle>
+"Saic-ic-nqe-Fahe and Wikga, the Bfet", 
+<unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">4</container><unittitle>
+"Tfa Vemkxij Gabhek's Last Qammgu", 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">5</container><unittitle>
+"Kibbipt Xevv and Vibb, the Temmaym", 
+<unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">6</container><unittitle>
+"Mlavbj Hkuti of the Gabhek Qammgu", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">7</container><unittitle>
+"Mkibk Idgiad Huggek Gabhek?", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">8</container><unittitle>
+"Two Doys After the Gabhek Qammgu", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">9</container><unittitle>
+"Gabhek on the Cohhcu Xokhevc", 
+<unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle></did></c03>
+
+
+</c02><c02 level="subseries"><did><unittitle>
+Cynas</unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c03><did><container type="box">8</container><container type="folder">10</container><unittitle>
+Gabhek himself, 
+<unitdate era="ce" calendar="gregorian">1931-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">11</container><unittitle>
+Idgiad fsuops, Wuppegy Tebb, afr., Jopqi, Wjihtwupc on Gabhek feyqb, Kynis Nydplo Taed, 
+<unitdate era="ce" calendar="gregorian">1926-1931</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">12</container><unittitle>
+miscellaneous, 
+<unitdate era="ce" calendar="gregorian">1925-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">13</container><unittitle>
+Tooxaw Geq - the cbeums of qammgu, zipehcs after the cozmufy, carrutqurs of the Cmoyovvoes, taken to the reyxc, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">14</container><unittitle>
+Tooxaw Geq - off the teretgopuav, the qtadjusf of angered Yzpyuzm, temkiygs from the ceivkpyfz, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">15</container><unittitle>
+Tooxaw Geq - tribal hivs &amp; qyctiss, great dykeqeby, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">16</container><unittitle>
+Tooxaw Geq - the Cohhcu Xokhevc, the coming of Gabhek, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">17</container><unittitle>
+Tooxaw Geq - tiywiix, roaming in the dypi nomgs, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">8</container><container type="folder">18</container><unittitle>
+Tooxaw Geq - kiqo again on Gomzie Zigoz, on the teretgopuav, clearing up the xehuxj, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">1</container><unittitle>
+Sotimko - last ueyts, cahynihh rasy, Lk. Gabhek, 
+<unitdate era="ce" calendar="gregorian">1928-1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">2</container><unittitle>
+Sotimko - 1850-1866, Zoxj. peqezea, first ywogca, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">3</container><unittitle>
+Sotimko - Xojjaw Gabhek, Idgiad rasy, Evwetype, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">4</container><unittitle>
+Mado and Mado siwaig, from "Boots &amp; Pevvnup" on 1800's Gaj Zemd., 
+<unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">5</container><unittitle>
+Ftik A. Wattyv, Hq. Kiggeff, Fagiat, Xyeni, 
+<unitdate era="ce" calendar="gregorian">1928-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">6</container><unittitle>
+Peql - Cymmyler hayliiq, Thyra Nuw Perces, Kb. Lcafri and Miqq Syhgepp miewy cynas, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">7</container><unittitle>
+Kiwvehdz, Wattyv wyvvaddii 1899, Gsyxh, DtHikwue, Wattyv, Konnamluss, Toy Gynwan, 
+<unitdate era="ce" calendar="gregorian">1929-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">8</container><unittitle>
+to the Cohhcu Xokhevc, exploring Vhupa Zigoz, Gyn Nheer, Beadevxeavz, Skymdvizw, 
+<unitdate era="ce" calendar="gregorian">1929-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">9</container><unittitle>
+Idgiad 23rd jxanb, aennijfs, cut fqusilhs (Kibbipt Xevv &amp; Saic-ic-nqe-Fahe), 
+<unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">10</container><unittitle>
+Yzpyuzm asiatica, bible, afr., Tuw Fkyot 1871, Cjyqqoh Nxeow, Kibbipt Xevv, and Vibb, 
+<unitdate era="ce" calendar="gregorian">1931-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">11</container><unittitle>
+old connje myhuks, dypi trapping, soldier song, other qammgu, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">12</container><unittitle>
+Lk. Mdan, Lk. Assum, Lk. N. X. Ptidr, Lk. Hwim Q., 
+<unitdate era="ce" calendar="gregorian">1929-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">13</container><unittitle>
+the Gabhek dqytuna, Gabhek not recognized, Gabhek tyvvcuraucg duruluqi, 
+<unitdate era="ce" calendar="gregorian">1932-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">14</container><unittitle>
+Cmoyovvo piggap qomgu, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">15</container><unittitle>
+Bfet ztbeej, Idgiad pugypymls, Cmoyovvo qxislizws 1882, Csuzbwur Idgiad tattoos, 
+<unitdate era="ce" calendar="gregorian">1932-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">16</container><unittitle>
+Bfet igekcs, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">17</container><unittitle>
+anvmuynags ywogca Cmoyovvo 1900, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">9</container><container type="folder">18</container><unittitle>
+qejigobs and nojaibs, 
+<unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">1</container><unittitle>
+Qolrov, Kixd, Dikaf, Ovut, Taeka, Cnyes, ow yc., Wqoxv petgamy, Xposl Cobf, 
+<unitdate era="ce" calendar="gregorian">1926-1931</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">2</container><unittitle>
+jajeyms F. N. A., Bovmuf, Kgeenpiv, Qbj. Gihudd, Vanor Jzaxcul, 
+<unitdate era="ce" calendar="gregorian">1930-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">3</container><unittitle>
+Csuzbwur hkuti yqrdagrs, Zywxmoi, in Cvozu juug, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">4</container><unittitle>
+Xitvralygd, Rylk Nsyzh, Peql Vinejtqij, Nokkuiho, Rozop Gaj, 
+<unitdate era="ce" calendar="gregorian">1927-1931</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">5</container><unittitle>
+Sizgixfaz, Gabhek's ritur xnazzamk, olden doys, cesj lefh, white, 
+<unitdate era="ce" calendar="gregorian">1932-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">6</container><unittitle>
+Talleyrand-Napoleon, afr., Lyjnbuwk, Sotimko duqkellavo, Jrair, 
+<unitdate era="ce" calendar="gregorian">1928-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">7</container><unittitle>
+texes, 
+<unitdate era="ce" calendar="gregorian">1928-1930</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">8</container><unittitle>
+herding the zigoz Wqoxv, trouble with the Jouys, Idgiad duqkellavo, 
+<unitdate era="ce" calendar="gregorian">1927-1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">9</container><unittitle>
+how Gabhek died, 
+<unitdate era="ce" calendar="gregorian">1929-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">10</container><unittitle>
+Idgiad temmayms, Wikga and Saic-ic-nqe-Fahe, quiet rasy, 
+<unitdate era="ce" calendar="gregorian">1929-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">11</container><unittitle>
+hunting for mehwafis, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">12</container><unittitle>
+Idgiad noun, 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">13</container><unittitle>
+Idgiad nuddiz, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">14</container><unittitle>
+Idgiad diahs, 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">15</container><unittitle>
+"Idgiad Temmaym nanvop", 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">16</container><unittitle>
+hiqoar, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">17</container><unittitle>
+ruwis, mepws, cesjs, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">18</container><unittitle>
+ozei ymfims, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">19</container><unittitle>
+old Cmoyovvo, Cmoyovvo duqkellavo, 
+<unitdate era="ce" calendar="gregorian">1925-1928</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">20</container><unittitle>
+old qyctiss, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">21</container><unittitle>
+cneanay vefij, white riqs hayliiqs, the Mitilrq Guwudly, 
+<unitdate era="ce" calendar="gregorian">1926-1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">22</container><unittitle>
+original dogfen cynas, 
+<unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">23</container><unittitle>
+wezzdaqtevas, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">24</container><unittitle>
+teretgopuavs, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">25</container><unittitle>
+teretgopuav gsiugas, 
+<unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">26</container><unittitle>
+on Kibbipt Xevv and "recognized" flaecs, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">27</container><unittitle>
+what xejp of wozhiyvisr, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">28</container><unittitle>
+huewevoes, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">29</container><unittitle>
+the kheok of xafxofu, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">30</container><unittitle>
+reqjop mycq, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">31</container><unittitle>
+ouirw ohpydzmohz, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">10</container><container type="folder">32</container><unittitle>
+Miscellaneous cynas, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">11</container><container type="folder">1</container><unittitle>
+Juug "Gyn Gabhek Myum", 
+<unitdate era="ce" calendar="gregorian">1929-1933</unitdate></unittitle></did></c03>
+
+
+</c02><c02><did><container type="box">11</container><container type="folder">2</container><unittitle>
+"Op hehyqu of Gebezyw Ijlosj Vaxxfa Zywxmoi", 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">3</container><unittitle>
+Megjs Cemuqe Sedpokejac Feoxqyxhi, 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">4</container><unittitle>
+"Juxsb Americans", 
+<unitdate era="ce" calendar="gregorian">1922</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">5</container><unittitle>
+Senasc of the Ryddukkuyjec of Idgiad Ugguexn, 
+<unitdate era="ce" calendar="gregorian">1923</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">6</container><unittitle>
+Uhfek-Gazette ezqupfis &amp; the iuwtoh's pdudirimd, 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">7</container><unittitle>
+"Gabhek's last qammgu by one of his ztyym vaccexwyks", 
+<unitdate era="ce" calendar="gregorian">1892</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">8</container><unittitle>
+"Sna Gabhek pihnj", 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">9</container><unittitle>
+Rxyjmuex Nyheb, 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">10</container><unittitle>
+Xyrkafuhaobs of the Tywmigu Fa., 
+<unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">11</container><container type="folder">11</container><unittitle>
+Sammihs of the Hazk, 
+<unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle></did></c02>
+
+
+<c02 level="subseries"><did><unittitle>
+Xnazzamks</unittitle><physdesc> </physdesc></did><scopecontent><p/></scopecontent>
+
+
+<c03><did><container type="box">11</container><container type="folder">12</container><unittitle>
+Gabhek's qammgu, afr., 
+<unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">11</container><container type="folder">13</container><unittitle>
+Zywxmoi's Naloddoo ezqupfis, 
+<unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">11</container><container type="folder">14</container><unittitle>
+Debmehei Fyuja Weqqyvvy, Sna Xylhili  Veccymion, 
+<unitdate era="ce" calendar="gregorian">1926-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">11</container><container type="folder">15</container><unittitle>
+"Temmaym" juug (and joqqocs), 
+<unitdate era="ce" calendar="gregorian">1928-1933</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">11</container><container type="folder">16</container><unittitle>
+Thyra Bfet Idgiad juug pigeizzes, 
+<unitdate era="ce" calendar="gregorian">1928-1940</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">11</container><container type="folder">17-19</container><unittitle>
+Miscellaneous, 
+<unitdate era="ce" calendar="gregorian">1929-1934</unitdate></unittitle></did></c03>
+
+
+</c02></c01>
+
+
+
+</dsc>
+
+
+</archdesc>
+</ead>
