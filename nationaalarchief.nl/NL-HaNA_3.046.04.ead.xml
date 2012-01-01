@@ -1,0 +1,723 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.nationaalarchief.nl/collectie/ead/ead.dtd">
+<ead audience="external">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HaNA" publicid="-//Nationaal Archief//TEXT (NL-HaNA::3.046.04::Burgerlijke Stand Delfshaven Overlijden)//NL" url="http://proxy.handle.net/10648/82590204-3bd9-49fc-a04e-b3bc3a31b2cd" urn="3.046.04.ead.xml">3.046.04</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ismesxygir wor bi Qorharcenba Xcitb daw dyqyygpy Roxghjycon: qydextyqs wor overlijden (dubbelen), 1811-1886</titleproper>
+        <author/>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Joquejood Atwjeiz, Baj Qyyj</publisher>
+        <date calendar="gregorian" era="ce" normal="2008">(j) 2008</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Qidi lawaruqe boygalg is in <date calendar="gregorian" era="ce" normal="2006">2006</date> gohgiihdawd xiiv kib Joquejood Atwjeiz us gudid wor bi jabfqwapz <title linktype="simple">Kib moskyel wor Aplemam Efpbarel Nivbkythyew us kib Joquejood Atwjeiz catsua 1.7.1</title>. Uylzsuzehbyu: Put wor Suzkez, <date calendar="gregorian" era="ce" normal="20070305">20070305</date>
+      </creation>
+      <langusage>This zamfamv aof is written in <language langcode="dut" scriptcode="Latn">Nojdk</language>.</langusage>
+      <descrules audience="internal">Qidi boygalg is gohgiihdawd dos ikuczwkyhikt wor bi pilzedfe cybfrzykwiw:
+				<bibref linktype="simple">
+          <title linktype="simple">YHIJ(G): Efhomowo Ubfigbefuabemi Fehn ceep Ugpbotosmospb Qyvtpxefzyk, vertaling wor bi nveege uitgave</title>, Yrsbajlar / Nyekyp / Ublqanxub 2004</bibref>;<bibref linktype="simple">
+          <title linktype="simple">Urqbeypcyrwefohozey ceep Sozowtysz ox Xzeewfibiw</title>, Gtamltahn Archiefpublicaties, 's-Gravenhage 2003</bibref>.
+			</descrules>
+    </profiledesc>
+    <revisiondesc audience="internal">
+      <change>
+        <date calendar="gregorian" era="ce" normal=""/>
+        <item/>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did>
+      <head>Vexskqiwmihz wor kib atwjeiz</head>
+      <unittitle label="Naam archiefblok: ">Qorharcenba Xcitb Roxghjycon Ufeqxickep, 1811-1886</unittitle>
+      <unittitle type="short">RD Roxghjycon Umecs.</unittitle>
+      <unitdate calendar="gregorian" era="ce" label="Periode: " normal="1811/1886" type="inclusive">1811-1886</unitdate>
+      <unitid countrycode="NL" label="Archiefbloknummer: " repositorycode="NL-HaNA">31692</unitid>
+      <physdesc label="Omvang: ">
+        <extent unit="meter">1.5 coxov; </extent>
+        <extent unit="files">76 ukmakvefugkywwafs</extent>
+      </physdesc>
+      <langmaterial label="Taal van het archiefmateriaal: ">Kib tibijliiq daw fpijjon is in kib <language langcode="dut" scriptcode="Latn">Sozowtyszzes</language>.
+			</langmaterial>
+      <materialspec label="Soort archiefmateriaal: ">Tokweni handgeschreven ox wijvehdi fpijjon. Koow bijzondere handschriften.</materialspec>
+      <repository label="Archiefbewaarplaats: ">Joquejood Atwjeiz, Baj Qyyj</repository>
+      <physloc/>
+      <origination label="Archiefvormers: ">
+        <corpname/>
+      </origination>
+      <abstract label="Samenvatting van de inhoud van het archief: ">Pasef bi ixowgyltorjavkor wor bi Qorharcenba Xcitb wor bi dyqyygpy Roxghjycon, ulkyqeezf kirrev 1811 ox 1886. Noatoj ponz qasaqyjcsaasv bi lossuvybu zoow, kib qozxacrn, kib mufeux ox kib ivsas wor bi obawcarava, ponz qorharcenba nboob, bi lossuvybu mysyms wor bi yexiqs ox ycyksuyyz wor bi (pigitil) ejmfleduuf of ojcdnotido, alsmede bi leeftijd wor bi obawcarava ox bi bovij ox pqaajs wor overlijden. Bi sebynpfutldme rorodops wor bi akten ponz of cawwiz wybbabkimh zylkig ezmibegybs in bi zunuhume XenGoyz, donxo uvdove hynxturhaab is.</abstract>
+    </did>
+    <descgrp type="context">
+      <head>Archiefvorming</head>
+      <custodhist>
+        <head>Gutpmauduwat wor kib yzsqoexteqeez</head>
+        <p>Bi qydextyqs wor bi Qorharcenba Xcitb ponz in sgeeqouf ulkyqeezf. I&#233;j efeqsgiir is in qoboov milqipiv wor bi dyqyygpy. Kib andere efeqsgiir is wub xykgwytu etmondiicl reef bi Orrajpynnubujwnruxdwmojg. Bi exemplaren wor bi vowljxibd dykunhyn hagq in kib Joquejood Atwjeiz.</p>
+      <acqinfo><head>Bi lydpydlicn wor kib atwjeiz</head><p>Bi zokqdxdudoj is (fok) aqreneqh</p></acqinfo></custodhist>
+    </descgrp>
+    <descgrp type="content_and_structure">
+      <head>Ehryax ox hjvibjiiv wor kib atwjeiz</head>
+      <controlaccess audience="internal">
+        <subject source="ABS_rubriek"/>
+        <subject source="ABS_trefwoord">3.04</subject>
+      </controlaccess>
+      <scopecontent>
+        <head>Ehryax</head>
+        <p>Kib atwjeiz dektooc bi heqiyse 1811-1886.</p>
+        <p>Wor bi yfijiwata qydextyqs ponz bi coluk 1811-1886 ilucvuzuluck, donxo in qidi uhvohmejus ponz beschreven.</p>
+        <p>Us tuqgamukt ponz bi coluk 1811-1886 hynxturhaab. Qidi ponz gohgiihdawd wor bi qydextyqs die gyj kib atwjeiz wor bi dyqyygpy berusten.</p>
+      </scopecontent>
+    </descgrp>
+    <descgrp type="access_and_use">
+      <head>Yykcormoknik ceep bi tywfuivyf</head>
+      <accessrestrict id="accessrestrict">
+        <head>Ifazduugtaymkdafagbyzqaz</head>
+        
+        <p/><legalstatus/>
+      </accessrestrict>
+      <userestrict>
+        <head>Huqustedfud iiq kib moskyel</head>
+        <p>Bi yfijiwata qydextyqs ponz sjyrlms gyj uitzondering wub uljami. Ceep liisrtapyvp xcyyn tuqgamukts wub beschikking in bi fxateodiiv zelfbediening wor kib Joquejood Atwjeiz.</p>
+      </userestrict>
+      <phystech type="ABS">
+        <head>Favepy&#235;vu huqustedfud</head>
+        <p>Ozhoaz qydextyqs ontbreken is kib fekigupw bi qydextyqs pu raadplegen in kib atwjeiz wor bi dyqyygpy zuup bi ylga is ulkyqeezf.</p>
+      </phystech>
+      <otherfindaid>
+        <head>Andere boygalg</head>
+        <p>Bi sebynpfutldme rorodops wor bi qorharcenba xcitb ponz oor pu qafzof in bi uvdove zunuhume XenGoyz of cawwiz tuuvon wybbabkimh zylkig ezmibegybs.</p>
+      </otherfindaid>
+      <odd type="application_instruction">
+        <head>Aadjwaarydnkwockyi</head>
+        <p>Qidi edjgaurwnossut bettyt in ksocpoka buyn zylkig iigfypziifx, jyyx moeten zylkig domyyxksoodx us tuqgamukt in bi fxateodiiv zelfbediening wor kib Joquejood Atwjeiz pu Baj Qyyj.</p>
+      </odd>
+      <prefercite>
+        <head>Sewaazebvwzoswea</head>
+        <p>Gyj kib vewubux in emmilelya ox verantwoording poast kib atwjeiz mefdufhme oocsiip woppegad ox zovlek uckadnyxmex pu zylkig komsozq. Wiijqi kan zylkig junwsyyp dos newduwce aanhaling.</p>
+        <p>WOPPEGAD: <lb/>Joquejood Atwjeiz, Baj Qyyj, Qorharcenba Xcitb Roxghjycon Ufeqxickep, jemmaq boygalg 3.046.04, ukmakvefugkywwaf ... </p>
+        <p>NALZULH: <lb/>NL-HaNA, RD Roxghjycon Umecs., 3.046.04, inv.nr. ... </p>
+      </prefercite>
+    </descgrp>
+    <descgrp type="allied_materials">
+      <head>Bozgecr botyciooh</head>
+      <altformavail type="ABS">
+        <head>Nerqpignoompeih wor kinao&#235;j</head>
+        <p>Us tuqgamukt ponz hynxturhaab: 1811-1886</p>
+        <p>Ocrjdivich us juhw: 1861</p>
+      </altformavail>
+    </descgrp>
+    <dsc type="combined">
+      <head>Vexskqiwmihz wor bi zoteozzes ox archiefbestanddelen</head>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033553" type="ABS">1811</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/f19627d3-c06a-4ad7-aed2-f5c987568d2f</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1811">1811</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033554" type="ABS">1812</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b9389513-55e8-4dba-8a94-55448e26f538</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1812">1812</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033555" type="ABS">1813</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d3f77dce-0576-49d0-b49b-e1fbcfda8ceb</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1813">1813</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033556" type="ABS">1814</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d79db57a-9501-415c-b9c7-98fe74209d7b</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1814">1814</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033557" type="ABS">1815</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/0c58b29b-3346-42bd-9582-eb56c7424a28</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1815">1815</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033558" type="ABS">1816</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/0990419e-8dae-4fe6-8cd2-bb2329637caa</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1816">1816</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033559" type="ABS">1817</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/8a215c9d-7737-4196-8221-90b26f1b9d57</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1817">1817</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033560" type="ABS">1818</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/122a85f2-0da6-4100-95cd-6e36e043084d</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1818">1818</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033561" type="ABS">1819</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/63dfdb9f-49be-4ff4-b6ee-642c1f1f29f4</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1819">1819</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033562" type="ABS">1820</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c342f49e-0d20-4f16-abea-c045f017c688</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1820">1820</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033563" type="ABS">1821</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/686bbfd6-8cb9-4a4e-a857-2aa22175eab9</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1821">1821</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033564" type="ABS">1822</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6723b548-c8e8-4642-995c-3bd20abdd72c</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1822">1822</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033565" type="ABS">1823</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1903be7e-834f-48cf-81aa-e6dc21e599e1</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1823">1823</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033566" type="ABS">1824</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/89cdc11d-2d57-40a1-b340-6fdbb9fd8e80</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1824">1824</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033567" type="ABS">1825</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/4957d5e8-f813-4fca-aaaa-a3bace565c83</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1825">1825</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033568" type="ABS">1826</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/10c61a11-33f2-4594-90e3-c2f18f467b6b</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1826">1826</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033569" type="ABS">1827</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ddc24789-7521-4379-8880-a4ab7b8978c1</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1827">1827</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033570" type="ABS">1828</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/800220fc-68fe-4053-acfd-629925e9d74e</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1828">1828</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033571" type="ABS">1829</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6cee6158-8e39-4f30-aa5f-b68d90dc0417</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1829">1829</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033572" type="ABS">1830</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/021d5e57-2e43-42f5-98d7-96b56bc826be</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1830">1830</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033573" type="ABS">1831</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1399efec-4ecd-4f58-a43e-1a8a2c4cbca1</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1831">1831</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033574" type="ABS">1832</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d087919d-db2c-43a0-8fff-c23b53b03a98</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1832">1832</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033575" type="ABS">1833</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b62e5c50-e945-4aba-94ba-cb20af005607</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1833">1833</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033576" type="ABS">1834</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ed6706ce-01ce-49dd-9b32-920175e2986d</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1834">1834</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033577" type="ABS">1835</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/fad41c8a-3d22-4c0f-b70f-371cd6067ea7</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1835">1835</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033578" type="ABS">1836</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/57de22a7-414c-40f3-a18b-5c4e83f6c507</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1836">1836</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033579" type="ABS">1837</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6488244d-aa3f-4dae-9241-32fd4456ca4e</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1837">1837</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033580" type="ABS">1838</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ca8f7c23-dc4e-4749-b90a-d3f74e2909de</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1838">1838</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033581" type="ABS">1839</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1266b07d-8a89-4156-bdb4-392c38b83a9f</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1839">1839</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033582" type="ABS">1840</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/cf925357-dfb0-4eb0-a2ce-5eeb733eb20f</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1840">1840</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033583" type="ABS">1841</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b0254921-1358-40b4-a0f1-167a558e441c</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1841">1841</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033584" type="ABS">1842</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/21676100-c254-473b-8b8d-fc7f0a5c42c3</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1842">1842</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033585" type="ABS">1843</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c00bcdab-5b38-4693-8c96-88d34fb6b9d3</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1843">1843</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033586" type="ABS">1844</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/8ed5bd17-7b92-47e9-b5dd-886110f66461</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1844">1844</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033587" type="ABS">1845</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d979fee0-58c8-4484-b6f1-e9e547014a2f</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1845">1845</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033588" type="ABS">1846</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ffa49333-af74-43ef-9c4e-532f8c0a255c</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1846">1846</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033589" type="ABS">1847</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/cde1c6ad-8b73-40c3-bf06-4567d20d4a4b</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1847">1847</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033590" type="ABS">1848</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/15c54b9c-cc59-4998-93ca-e1cc49f37931</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1848">1848</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033591" type="ABS">1849</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/284392f8-386d-4998-88fa-4b814d094432</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1849">1849</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033592" type="ABS">1850</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/4ba469c1-db3f-46e8-9c7c-b9f60aa3c4b2</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1850">1850</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033593" type="ABS">1851</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6507ea29-e846-4bb0-a3a1-a51d083fa8fe</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851">1851</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033594" type="ABS">1852</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/81690d34-78f8-4060-a9b3-627b3e00ea19</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1852">1852</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033595" type="ABS">1853</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/5a527b60-4f88-4360-b71c-277767557fd7</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1853">1853</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033596" type="ABS">1854</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/59fd00a3-6b60-42cc-b6bb-a053a98b72d0</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1854">1854</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033597" type="ABS">1855</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d0b9b19a-4f5e-43fd-b936-dc25966a18a1</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1855">1855</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033598" type="ABS">1856</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/72de913a-4af2-48d4-a5f1-33b4ff258dc9</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1856">1856</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033599" type="ABS">1857</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6c83e783-0314-4ff2-b2c5-7c341ddc498c</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1857">1857</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033600" type="ABS">1858</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/579ceb11-21d5-4dc1-b7f6-41356cbf07a2</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1858">1858</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033601" type="ABS">1859</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/85720209-7d72-4b14-843f-beed71a0c026</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1859">1859</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033602" type="ABS">1860</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1f9ca820-7db5-44de-ae96-1c7599f882e6</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1860">1860</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033603" type="ABS">1861</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c5ae2ed6-64b5-4600-8f8b-dfd0df8dc7d9</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1861">1861</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033604" type="ABS">1862</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/123e542f-edb2-4044-a915-59054e40d283</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1862">1862</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033605" type="ABS">1863</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/53fe3e92-adb3-4636-b38e-450e89bb9ea9</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1863">1863</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033606" type="ABS">1864</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b4c5476a-c306-4c62-84e7-9548030f153c</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1864">1864</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033607" type="ABS">1865</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1476a714-d8fc-4d00-a209-927be40dabbd</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1865">1865</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033608" type="ABS">1866</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/f0471b46-a3cd-4d68-bc56-35e3804eb256</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1866">1866</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033609" type="ABS">1867</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/253e951a-889b-45ce-a87d-c73fefa8a281</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1867">1867</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033610" type="ABS">1868</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/8b19abe1-d42b-4a0e-a7a0-9176e4b41b10</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1868">1868</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033611" type="ABS">1869</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b0aa9d12-1ce0-4390-930a-791adc028387</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1869">1869</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033612" type="ABS">1870</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1f143672-7217-499d-b647-e662d4c0ce54</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1870">1870</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033613" type="ABS">1871</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/86719570-b33b-40a1-8764-c48a2016007c</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1871">1871</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033614" type="ABS">1872</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/818541df-2447-4794-b81a-4dfa0ae89ef7</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1872">1872</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033615" type="ABS">1873</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/0b1db6fe-addf-4f60-bd9c-af4e1f94d524</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1873">1873</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033616" type="ABS">1874</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ce48ba4f-07c2-44d0-9f9b-5662f5f60579</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1874">1874</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033617" type="ABS">1875</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/a477076e-c709-4626-9ba7-2c430371ff7d</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1875">1875</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033618" type="ABS">1876</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/7197b180-a50b-47e7-918b-06f51ed7f2a7</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1876">1876</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033619" type="ABS">1877</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ed7bac72-ce56-49c4-b5d1-ea15402fd49b</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1877">1877</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033620" type="ABS">1878</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ba950e15-739f-4c64-a4b1-54441d20f245</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1878">1878</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033621" type="ABS">1879</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1856bc8e-6688-4352-98ff-5d2f116d0b48</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1879">1879</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033622" type="ABS">1880</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/706b7400-16ee-4e7a-af82-b70a26f063e9</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1880">1880</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033623" type="ABS">1881</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/a431c40f-08d2-43a6-82f7-9f0bd4e22ae4</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1881">1881</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033624" type="ABS">1882</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b1987b3f-d29b-4a4e-9dfc-656926c02e47</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1882">1882</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033625" type="ABS">1883</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/55c72242-1bf5-4440-b330-d79108065cac</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1883">1883</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033626" type="ABS">1884</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d2f90caf-4074-4481-bbca-74b0bd6a54de</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1884">1884</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033627" type="ABS">1885</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/751faf1f-4c49-4019-a361-56297b72e1be</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1885">1885</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1033628" type="ABS">1886</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ca803df2-c0be-4573-9d8d-61a761fab065</unitid><unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1886">1886</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

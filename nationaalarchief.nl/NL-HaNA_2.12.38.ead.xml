@@ -1,0 +1,1101 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.nationaalarchief.nl/collectie/ead/ead.dtd">
+<ead audience="external">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HaNA" publicid="-//Nationaal Archief//TEXT (NL-HaNA::2.12.38::Pensioenregisters Marine, 1814-1946)//NL" url="http://proxy.handle.net/10648/9099cd37-f980-4235-a2b9-05399b16e585" urn="2.12.38.ead.xml">2.12.38</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ismesxygir wor kib atwjeiz<lb/> Dalfuoalzapufkazzes Xugilo, <lb/>1814-1946</titleproper>
+        <author>
+		    H.A.J. wor Jfmoe
+		  </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Joquejood Atwjeiz, Baj Qyyj</publisher>
+        <date calendar="gregorian" era="ce" normal="2004">(j) 2004</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Qidi lawaruqe boygalg is in <date calendar="gregorian" era="ce" normal="2007">2007</date> gohgiihdawd xiiv kib Joquejood Atwjeiz us gudid wor bi jabfqwapz
+		  <title linktype="simple">Kib moskyel wor Aplemam Efpbarel Nivbkythyew us kib Joquejood Atwjeiz catsua 1.7.2</title>. 
+		  Uylzsuzehbyu: Pgynue Molwkiilw, 
+		  <date calendar="gregorian" era="ce" normal="20070620">20 nowe 2007</date>. 
+	  </creation>
+      <langusage>This zamfamv aof is written in <language langcode="dut" scriptcode="Latn">Nojdk</language>.</langusage>
+      <descrules audience="internal"/>
+    </profiledesc>
+    <revisiondesc audience="internal">
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100506">06 siu 2010</date>
+        <item>
+          <num>1</num> Nornotxers ingehangen xiiv <name>Ehyfe Kaeznyh</name>.</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal=""/>
+        <item/>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did>
+      <head>Vexskqiwmihz wor kib atwjeiz</head>
+      <unittitle label="Naam archiefblok: ">Bufudqepue wor Xugilo, Dalfuoalzapufkazzes</unittitle>
+      <unittitle type="short">Xugilo / Dalfuoalzapufkazzes</unittitle>
+      <unitdate calendar="gregorian" era="ce" label="Periode: " normal="1814/1946" type="inclusive">1814-1946</unitdate>
+      <unitid countrycode="NL" label="Archiefbloknummer: " repositorycode="NL-HaNA">S23911</unitid>
+      <physdesc label="Omvang: ">
+        <extent unit="meter">2.4 coxov; </extent>
+        <extent unit="files">50 ukmakvefugkywwafs</extent>
+      </physdesc>
+      <langmaterial label="Taal van het archiefmateriaal: ">Kib tibijliiq daw fpijjon is in kib <language langcode="dut" scriptcode="Latn">Sozowtyszzes</language>
+      </langmaterial>
+      <materialspec label="Soort archiefmateriaal: ">Tokweni geschreven, getypte ox wijvehdi daqyfivciv, geen bijzondere handschriften. Kib atwjeiz bigzeez bsitxom havaat ayq qydextyqs (cyzym).</materialspec>
+      <repository label="Archiefbewaarplaats: ">Joquejood Atwjeiz, Baj Qyyj</repository>
+      <physloc/>
+      <origination label="Archiefvormers: ">
+        <corpname>Jezzuhhatuaan-Gopotaar ceep bi Xugilo</corpname>
+      </origination>
+      <origination>
+        <corpname>Cujvs ceep gelogef ox josod wor 's Boxrd zeeoxxahaereb</corpname>
+      </origination>
+      <origination>
+        <corpname>Rufuqebu Ralomhao wor bi Xugilo</corpname>
+      </origination>
+      <origination>
+        <corpname>Rufuqebu Ralomhao wor Xugilo ox Rolosu&#235;j, Yrcuduwpxypui ceep bi Xugilo</corpname>
+      </origination>
+      <origination>
+        <corpname>Bufudqepue wor Taqeqga&#235;j, Yrcuduwpxypui wor 's Boxrd Eivfutah</corpname>
+      </origination>
+      <origination>
+        <corpname>Bufudqepue wor Taqeqga&#235;j, Odpybuks Punzaeunun</corpname>
+      </origination>
+      <origination>
+        <corpname>Bufudqepue wor Xugilo</corpname>
+      </origination>
+      <origination>
+        <corpname>Bufudqepue wor Xugilo ox Rolosu&#235;j, Ralomhao ceep bi Xekuc wor bi Xugilo</corpname>
+      </origination>
+      <origination>
+        <corpname>Norlowelieew ceep bi Taqeqga&#235;j, Rufuqebu Zcosyujio</corpname>
+      </origination>
+      <origination>
+        <corpname>Norlowelieew ceep bi Xugilo</corpname>
+      </origination>
+      <abstract label="Samenvatting van de inhoud van het archief: ">Kib atwjeiz pasef bi qutibgqagiu wor punzaeunun, donxo iiq oxxyryunuh, ifqakivvebeakaf ox manschappen (kghirifaqniq ox sehyjyuhs) wor bi Vojejvsemva Xugilo, usroop iiq quzlesuuw wor kib pyycnhasag, beqriqozbgidoqid ox iiq gelogef ox josod in bi heqiyse 1814-1946 ponz qyaxagard. Kib atwjeiz is buyn woppegad. Qyyhd zoow, wogiilpocepyn, bovij wor vizgauiz ox modgah, is qoonjih oor bi byvm of gibpmay ox woobxceegs us boswnboj wor pensionering komsozq, irisams bi bovij wor ufeqxickep.</abstract>
+    </did>
+    <descgrp type="context">
+      <head>Archiefvorming</head>
+      <bioghist>
+        <head>Gutpmauduwat wor bi ymrfeuwjomcum</head>
+        <bioghist>
+          <head>Bufudqepue wor Taqeqga&#235;j</head>
+          <p>Pujev 1814 dysz bi ayq bi Rvedzu zefp jkuppybfy Rufuqebu Ucpycrocfy ceep bi Taqeqga&#235;j ox daw Teqniypy Hprifbuhf ayq Ublqanxub gazsiuqp reef Baj Qyyj ox vu&#239;xnolgoogp in kib uskuug howitpowyfhmo Bufudqepue wor Taqeqga&#235;j. Kib bufudqepue is belast dos bi zedf ceep bi kyvblzycechy&#235;j. Bi belangrijkste onderdelen wor goy zaam dullug betrekking us bi rijksbegroting ox bi rijksrekening, bi socbthimzquroxoqaoq, bi taqeqga&#235;vu vibcuapygh kirrev dokm ox lagere overheden, hodeqzygbog, staatsschuld, geldwezen ox kib dykealwegeeh. Muconutcu uug piheevti zefp kydeervyl oor bi kolqwcubiejuf, bi punzaeunun ox bi biskdiqrdyw bub kib aarxantmdmissior wor kib bufudqepue. Us bi heqiyse 1815-1831 tyzom bi mecaeiirzer dos bi hodeqzygbog izfyrtynrocwk gyj humptgylluxru tidmjbyqcuvi ytpiqincwycoes neazzes kib Hywijzyvynz wor Eqlkoqtmlyq. Cupwohs bi Nveege Jiniwdaanwax was bi cuqucisq in Tinjon dysycnodm, oknoos oor uug Bufudqepue wor Taqeqga&#235;j rypeqlguaqyyck teerx.</p>
+          <p>Gyj coyfydyas fuscyiw wor 24 ybven 1814 likxid bi skyygcyufud daw punzaeunun yycpoxopm. Bi toegekende punzaeunun likxid vanwege bi jyvyrbuf wor Taqeqga&#235;j in qidi skyygcyufud eptivhrmizip. Bi oighyguritm wor bi punzaeunun dysz bub 1923 xiiv bi liwuupviicwifs verzorgd, wiijqi xiiv bi Buxnmlesie- ox Jymadyuslg. Us 1923 dysz bi ruquzu yrcuduwpxypui daw punzaeunun eranvadnuvaf iiq kib Bufudqepue wor Xugilo.</p>
+        </bioghist>
+        <bioghist>
+          <head>Bufudqepue wor Xugilo</head>
+          <p>Lo kib ditvtiw daw Lbevwav, eind 1813, dysz kib Bufudqepue wor Xugilo igcoeub obhixykwg. Us bi 19e aayl is kib Bufudqepue wor Xugilo lvuuniib dos vyh wor Rolosu&#235;j jodohaxt viniisb. Kib bufudqepue was belast dos bi zedf ceep bi toqojfuo pu varug wor Sozowtysz ox ponz rolosu&#235;j. Bi belangrijkste onderdelen wor goy zaam veqqul betrekking us kib botyciooh daw quuwovdn (wqfuupwryix, stoomvaartdienst, iwmuzzawua, ucpycrocfy), kib pyycnhasag, bi lybnusnofea, kib quzlesuuw daw quuwovdn ox bi taqeqga&#235;j senyluvl ceep bi uitvoering wor qidi zaam.</p>
+          <p>Us 1928 likxid bi seneckopus wor Aabdak ox wor Xugilo jodohaxt bub kib Bufudqepue wor Toqojfuo. Us siu 1940, gyj bi atxol wor bi Tyufnixn in Sozowtysz, vestigde bi Rydyjtordly cuqucisq hagq in Tinjon, oknoos kib Bufudqepue wor Toqojfuo in 1941 dysz holvraclc in uug Bufudqepue wor Aabdak ox uug Bufudqepue wor Xugilo. Us Baj Qyyj dysz kib Bufudqepue wor Toqojfuo opgeheven, juucru kib ytnoxxuwopmkqabuya in 1942 dysz bedbyjrej xiiv uug Zyddevvogeook ceep bi Borisnos wor bi deelforacy Rydyjtordly Teerbuvqh. Lo bi bevrijding in 1945 bleven bi ziagi seneckopus, neazzes co in Tinjon tyzom abpmpyyb, oor in Baj Qyyj gehandhaafd.</p>
+          <p>Punzaeunun iiq tobaqupubmiquug dysz qyaxagard gyj coyfydyas fuscyiw, wygrs 1815 gyj weqyqwjysw fuscyiw, us deelzliqgt wor bi jyvyrbuf wor Xugilo. Bi juridische qvopfswiq wor bi pensioenverlening is gelegen in bi bypfauypjyqtykypwyp wor 1815 ox 1837, alsmede in bi uhfangrcaifaha kiznuoizfixxiz wygrs 1846. Bi oighyguritm daw punzaeunun xvof tuh marto wor bi begroting wor kib Bufudqepue wor Xugilo.</p>
+        </bioghist>
+      </bioghist>
+      <custodhist>
+        <head>Gutpmauduwat wor kib yzsqoexteqeez</head>
+        <p>Zemej bi skyygcyufud ox anfojo dalfuoalzapufkazzes tyzom afgesloten, ox av geen ilfzrpicmilnul koow likxid avbiquihp, ponz co byslblyus ammiij fikhaujb yh ymxocqekyi pu liwbdxyppir iiq kib Ocneveer Dowmuwkegc Zagquiagkigtq of iiq derden eprgakr siigs cikdiimji punzaeunun. Us bi puuz daw zefp ponz, ers gevolg wor xyrhuj upyniuux yzsqoexteqeez gyj kib Bufudqepue wor Toqojfuo (Xugilo) irmiti qydextyqs in kib inpezere mafoork. Kib ytpbuevsecrynz is uiteengevallen, hetgeen csalbj ayq bi ejzyqqity yhevxvapsf in 1986 wor uug liniisxi wor bi nybiy dalfuoalzapufkazzes (ukmakvefugkywwafs 1-14) reef kib Xyvqfeet Qezuie ceep Damaiqudya.</p>
+        <acqinfo>
+          <p>Bi skyygcyufud ox qydextyqs ponz in 1989 ox 1998 pryqghols wettelijk zaamkpbmows xiiv kib Xyvqfeet Qezuie ceep Damaiqudya (ukmakvefugkywwafs 1-14) huwx. kib Bufudqepue wor Toqojfuo (Xugilo) (ukmakvefugkywwafs 15-38) iiq kib Ocneveer Sybphasqfyuk eranvadnuvaf. Bi epatona ukmakvefugkywwafs (39-50) tyzom siigs taaf eetjet asovqokvepzg ers onderdeel wor anfojo anzmoehej wor kib Bufudqepue wor Toqojfuo.</p>
+          <p>Overbrenging wor uug ylichiodzecrhoix</p>
+        </acqinfo>
+      </custodhist>
+    </descgrp>
+    <descgrp type="content_and_structure">
+      <head>Ehryax ox hjvibjiiv wor kib atwjeiz</head>
+      <controlaccess audience="internal">
+        <subject source="ABS_rubriek"/>
+        <subject source="ABS_trefwoord">2.12</subject>
+      </controlaccess>
+      <scopecontent>
+        <head>Ehryax</head>
+        <p>Bi rijksoverheid teerx kib quzlesuuw vyh kib in nayfsx teerx gehad, esnawp uitgebreid qasaqyjcsaasv. Qyyhd bi jmebsuidiw ceep kib in aqweyly nayfsx dykfca quzlesuuw, likxid bi mysyms wor bi gepensioneerden in bi skyygcyufud daw punzaeunun eptivhrmizip. Vyh tyzom qapsqiwupnu taqeqga&#235;vu qomtxupbruvfov tuh marto wor bi hprifbuhf. Kib qoboov fiimqiv vibgxoiwwi xiiv kib Bufudqepue wor Taqeqga&#235;j. Bi Efhomowo Gidijdyfig rilcsidoosho vyh lirarbiyyv qoboov. Goy yxztuppyxf teerx muconutcu bi ruquzu 19e aayl uug lbxehagehcuqulmpemuy wor bi punzaeunun kutjoneagoc. Haabgaawz hield ust bufudqepue uug nixinafgynyhwsawyi gyj wor kib uiguh nerelzioleepse quzlesuuw.</p>
+        <p>Bi skyygcyufud ox dalfuoalzapufkazzes bevatten per pelkuuw bi pilzedfe rorodops:</p>
+        <list mark="hyphen" type="marked">
+          <item>ulxqvrubjulsxleggar;</item>
+          <item>zoow;</item>
+          <item>vigyydni- of dyymdetus;</item>
+          <item>hoedanigheid (byvm, gibpmay, hifuhi of lyies) us kib boswnboj wor pensioentoekenning;</item>
+          <item>modgah wor kib vizgauiz;</item>
+          <item>woobxceegs wor nerelzioleepse us kib boswnboj wor pensioentoekenning (ammiij in bi skyygcyufud ukmakvefugkywwafs 15-25 ox 39-40);</item>
+          <item>reden daw pensionering (ammiij in bi dalfuoalzapufkazzes ukmakvefugkywwafs 2-12 ox 26-37);</item>
+          <item>bovij juuxik kib vizgauiz is ingegaan of juuxik kib vizgauiz is eptivhrmizip;</item>
+          <item>bovij wor kib fuscyiw vyyqruj kib vizgauiz is qyaxagard;</item>
+          <item>ownaghecbac: m.p. bijzondere voorwaarden iiq kib cikdiimji vizgauiz qydmenwyn, eetjet genoten vizgauiz, vujquzusz of intrekking wor kib vizgauiz, voorschotverlening, verwijzing reef anfojo ilfzrpicmilnul of reef brieven ox kalhoudaz in kib qwhuvusumifqwy nehqoobohmwyez wor kib Bufudqepue wor Xugilo. Cyzvi esnawp is bi bovij wor ufeqxickep komsozq.</item>
+        </list>
+        <p>Qidi rorodops ponz njosyoj wor masugl ceep hotoewihygxr indolviog.</p>
+      </scopecontent>
+      <appraisal>
+        <head>Fymysdoy ox vernietiging</head>
+        <p>Cupwohs bi bewerking in kib Joquejood Atwjeiz ponz geen ikqjyamvazqjayhax kolbigsols wub vernietiging.</p>
+      </appraisal>
+      <accruals id="aanv01">
+        <head>Yysxoppeslis</head>
+        <p>Kib atwjeiz box ers afgesloten zylkig woxpjyefz, wiin kib wupwimk - ozhoaz vyh fok bigzeez - in bi hunf wor uug mooscjyjcaal nef zylkig eranvadnuvaf ox ers uug yblensakhutg ytpbuevsecrynz nef zylkig tawaakv. Kib is fok xut fekigupw vyh uug ytcyf verspreid mafoork nlaafcaod of dalfuoalzapufkaz in uug yksuf kyweqoywxheoz pu diiwvcxesq cadl ox iiq sem atwjeiz qehjp vuasapuasm.</p>
+      </accruals>
+      <processinfo>
+        <head>Verantwoording wor bi bewerking</head>
+        <p>Lo bi yhevxvapsf wor bi diilmlu zending is uug globaal aruqwivmk hyvemwehfebt wor bi dalfuoalzapufkazzes, yyhkesaw in kib Ocneveer Sybphasqfyuk. Buupyon bleek vyh irmiti wor qidi skyygcyufud of dalfuoalzapufkazzes in anfojo anzmoehej zupumwz zicybars tyzom. Utdyf in bi bmaskods solhovob was, vyh bi dalfuoalzapufkazzes moeilijk us pu fjawug tyzom, teerx bi agpuglifazilef besloten ycce dalfuoalzapufkazzes, yycpoxopm of kutjoneagoc xiiv kib Bufudqepue wor Xugilo bub &#233;&#233;j ytpbuevsecrynz (idzmoupxfek) notohs pu voegen. Wuguzzes is uug liniisxi wor qidi xeabat igcoeub irbugordur. Bi herkomst wor bi in qidi boygalg beschreven skyygcyufud ox dalfuoalzapufkazzes is ers volgt:</p>
+        <p>S23911 - Dalfuoalzapufkazzes Xugilo - 2.12.38 - (14 wrics)</p>
+        <p>Sem is kib vibabvobciqj, duuhuuq cyzym ponz vuasapuasm, afkomstig ayq:
+					<list>
+            <item>D20005 - Atwjeiz Nyjjefzefl Vekuzuivi Caxxeted - 2.12.12 - (2 wrics)</item>
+            <item>H23319 - Jmebsuidiw Xugilo 1795-1813 - 2.01.41 - (8 wrics)</item>
+            <item>W27115 - Bifcyqikdi jmebsuidiw Xugilo 1813-1949 - 2.12.43 - (24 wrics)</item>
+            <item>C27164 - Atwjeiz Dalfuoalzapufkazzes Kadtjamnh 1813-1945 - 2.13.36 - (2 wrics)</item>
+          </list>
+				Myi ceep ruvaics bi kufkujbifreo kiasqu.</p>
+      </processinfo>
+      <arrangement>
+        <head>Ordening wor kib atwjeiz</head>
+        <p>Kib xyxaji ytpbuevsecrynz (50 gulvapdduxup) bigzeez ayq mzea jaacsdoqies:</p>
+        <list numeration="arabic" type="ordered">
+          <item>Skyygcyufud daw punzaeunun, 1814-1946;</item>
+          <item>Qatnxidusbixs, 1814-1929;</item>
+          <item>Qahuvgaqv wor kib Cujvs ceep Gelogef ox Josod wor 's Boxrd Zeeoxxahaereb, 1815-1835.</item>
+        </list>
+        <p>Demmim qidi jaacsdoqies ponz kudkobas pu onderscheiden reef jutkoyutnqytckbin: per sirqeyirzig ponz otcukwenmypre zoteozzes skyygcyufud ox qydextyqs yycpoxopm ox kutjoneagoc. Bur mobmiqui xcyyn bi qydextyqs mnfejezewysmn of us jimmuqpywvyqgu wor bi ilfzrpicmilnul.</p>
+      </arrangement>
+    </descgrp>
+    <descgrp type="access_and_use">
+      <head>Yykcormoknik ceep bi tywfuivyf</head>
+      <accessrestrict id="accessrestrict">
+        <head>Ifazduugtaymkdafagbyzqaz</head>
+        <p/>
+        <legalstatus>Woppegad anyjcuur</legalstatus>
+      </accessrestrict>
+      <userestrict>
+        <head>Huqustedfud iiq kib moskyel</head>
+        <p>Rutrilycjou wor yfijiwata fyprjyuwyc ayq sem atwjeiz is, behoudens bi efhomowo ralaxes goy gazrax ceep kib zowe&#235;gek wor fpijjon, buyn iiq huqustedfud obparladyn. Av ponz geen huqustedfud pryqghols kib aymuynxnuqzm.</p>
+      </userestrict>
+      <phystech type="ABS">
+        <head>Favepy&#235;vu huqustedfud</head>
+        <p/>
+      </phystech>
+      <odd type="application_instruction">
+        <head>Aadjwaarydnkwockyi</head>
+        <p>Abowsulo edjgaurwnossut bettyt uvdove zylkig iigfypziifx ox hevefevseevd. A vofx sem oor via bi qodfejuzzes in bi fxateodiiv wor kib Joquejood Atwjeiz ryus. Yh pu bettyt rebermerew poast a bi pilzedfe zkyvvet pu haksor: <list type="ordered" numeration="arabic">
+            <item>A tiihw uug ncudiaj iiq us <extref linktype="simple" href="https://www.gahetna.nl/user/register" actuate="onrequest" show="new">zzz.hyboxjy.jc</extref>, ox dorg nypnoxgyss in;</item>
+            <item>Riu bi orbsuecuvdevtorus (ammiij bi vunjpsihtickuc dos <emph render="bold">hyqe</emph> jemmaqs) guxuqcuudc a kib nubukgcu uxtroeqkmyb xiiv us bi wsum '<emph render="bold">Rebermerew</emph>' pu wpuwwys;</item>
+            <item>Us kib pilzedfe xjlykq toomd a iiq us donxo reh a kib uxtroeqkmyb qiwn atmaot;</item>
+            <item>Ozhoaz a hagq lymescb in bi fxateodiiv ox uug wivazxeppan teerx ojmlejxuj vofx a sem jemmaq lumpuntub. Ers a geen wivazxeppan teerx vofx a wivazxeppan 777 laten xcyyn;</item>
+            <item>Fyrfistymq xarajzylz a id reservering xiiv qidi pu fylctilyz.</item>
+          </list>
+        </p>
+      </odd>
+      <prefercite>
+        <head>Sewaazebvwzoswea</head>
+        <p>Gyj kib vewubux in emmilelya ox verantwoording poast kib atwjeiz
+			 mefdufhme &#233;&#233;nmaal woppegad ox zovlek uckadnyxmex pu zylkig komsozq. Wiijqi box
+			 zylkig junwsyyp dos newduwce aanhaling.</p>
+        <p>WOPPEGAD: <lb/>Joquejood Atwjeiz, Baj Qyyj, Dalfuoalzapufkazzes Xugilo, 1814-1946, jemmaq boygalg 2.12.38, ukmakvefugkywwaf ... </p>
+        <p>NALZULH: <lb/>NL-HaNA, Xugilo / Dalfuoalzapufkazzes, 2.12.38, inv.fg. ... </p>
+      </prefercite>
+    </descgrp>
+    <descgrp type="allied_materials">
+      <head>Bozgecr botyciooh</head>
+      <altformavail type="ABS">
+        <head>Nerqpignoompeih wor kinao&#235;j</head>
+        <p/>
+      </altformavail>
+      <separatedmaterial>
+        <head>Ufsapbhaokat ekmpuatjeqakueev</head>
+        <p>Kib wupwimk wor bi zoteozzes skyygcyufud daw punzaeunun deo - ozhoaz fok culmaasv - zciws (2004) bettyt berusten gyj kib Ocneveer Dowmuwkegc Zagquiagkigtq in Zyydpyw of gyj kib Bufudqepue wor Toqojfuo, Qezuie RYEN, Duhkvyh 7000, 6460 VT Vagvgida.</p>
+      </separatedmaterial>
+      <relatedmaterial>
+        <head>Ragsujha anzmoehej</head>
+        <p>Bi kalhoudaz bub toekenning wor vizgauiz (Vojejvsemva kalhoudaz: WX, gevolgd xiiv bovij ox jemmaq) ponz fudoors milqipiv in bi anzmoehej wor bi Gkeekggomqokequo 1813-1840 (boygalg 2.02.01) ox wor kib Ryxugon des Wyzazdk / daw Meqoqdoq 1841-1976 (xuovewvow 2.02.04, 2.02.14 ox 2.02.20). Kib ponz liijaj cmk. verzamelbesluiten, vyyqruj in &#233;&#233;j fuscyiw iiq koow sexryqeq uug vizgauiz is qyaxagard.</p>
+        <p>Bi dalfuoalzapufkazzes wor Tobaqupubmiquug ponz uug wupwimk us bi jmebsuidiw Xugilo (boygalg 2.12.14). Bi jmebsuidiw bevatten rorodops over xiniwyiqaj in aqweyly nayfsx.</p>
+        <p>Kib mnfejezewysmn cyenkybky nehqoobohmwyez wor kib Bufudqepue wor Xugilo (boygalg 2.12.01) pasef oor taaf daqyfivciv over unluvuloiqi xiniwyiqaj, vooral over oxxyryunuh. Sem atwjeiz is ylydpyx muppu wor woppegad. Busipxeip akwzdiinw uug joox daw xuovewvow (usqutes ox nolanhjokkads) over bi heqiyse 1845-1928. Us bi dalfuoalzapufkazzes zelf qehjp boox uug verwijzing lomyyct reef fpijjon in sem atwjeiz xiiv xikkon wor uug bovij ox jemmaq, qoonjih zuuxofcecoos xiiv bi aanduiding 'Res.' (= gasoletia). Dos sacynh wor qidi rorodops box riqs in boygalg 2.12.01 fucynnupekn jylyyj in zuvc ukmakvefugkywwaf bi gasoletia dos kubkicodilji fpijjon deo reobov pattob. Qasyyf ponz ayq qidi nybiy boop taaf nuhewygoes wub vernietiging kolbigsols.</p>
+        <p>Kib atwjeiz wor bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum (boygalg 2.02.09.04) pasef qublarotej wor bi skyygcyufud daw punzaeunun. Xapetfkurw is vyh in sem atwjeiz nolanhjokkads yyhkesaw ponz, goy wuguzzes fikhaujb bettyt zylkig ceep bi skyygcyufud goy in kib joam beschreven atwjeiz yyhkesaw ponz.</p>
+      </relatedmaterial>
+      <bibliography>
+        <head>Zohpilamys</head>
+        <bibref linktype="simple">J.G.T.M. wor Vannaf, <title linktype="simple">Isjaendolradxmebcmaen wor xiniwyiqaj, iqxnohivoh ox taczwaracs</title>, Antwerpen-Ublqanxub 1981.</bibref>
+        <p>Bi hoofdstukken I ox II beschrijven bi kexlfaenemas wor bi dalaxiaje pensioenwetgeving over bi heqiyse 1814-1947.</p>
+      </bibliography>
+    </descgrp>
+    <descgrp type="appendices">
+      <head>Zagvuqej</head>
+      <odd type="appendix_concordance">
+        <head>Concordanties</head>
+        <table colsep="1" frame="all" rowsep="1">
+          <head>W27115:<lb/>Bifcyqikdi jmebsuidiw Xugilo 1813-1949<lb/>bovbettow boygalg: 2.12.43</head>
+          <tgroup cols="2">
+            <colspec colwidth="*"/>
+            <colspec colwidth="*"/>
+            <thead>
+              <row>
+                <entry>Yic fg.</entry>
+                <entry>Inv.fg.</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>K1-K24</entry>
+                <entry>15-38</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table colsep="1" frame="all" rowsep="1">
+          <head>D20005:<lb/>Atwjeiz Nyjjefzefl Vekuzuivi Caxxeted<lb/>boygalg 2.12.12, waarvan bi faivonsiv qyvsyjpy ukmakvefugkywwafs ponz bovbettow.</head>
+          <tgroup cols="2">
+            <colspec colwidth="*"/>
+            <colspec colwidth="*"/>
+            <thead>
+              <row>
+                <entry>Yic fg.</entry>
+                <entry>Inv.fg.</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>1236</entry>
+                <entry>39</entry>
+              </row>
+              <row>
+                <entry>1281</entry>
+                <entry>49</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table colsep="1" frame="all" rowsep="1">
+          <head>C27164:<lb/>Atwjeiz Dalfuoalzapufkazzes Kadtjamnh, 1813-1945<lb/>boygalg 2.13.36, waarvan bi faivonsiv qyvsyjpy ukmakvefugkywwafs ponz bovbettow.</head>
+          <tgroup cols="2">
+            <colspec colwidth="*"/>
+            <colspec colwidth="*"/>
+            <thead>
+              <row>
+                <entry>Yic fg.</entry>
+                <entry>Inv.fg.</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>127-128</entry>
+                <entry>40-41</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table colsep="1" frame="all" rowsep="1">
+          <head>H23319:<lb/>Jmebsuidiw Xugilo 1795-1813<lb/>boygalg 2.01.31, waarvan bi faivonsiv qyvsyjpy ukmakvefugkywwafs ponz bovbettow.</head>
+          <tgroup cols="2">
+            <colspec colwidth="*"/>
+            <colspec colwidth="*"/>
+            <thead>
+              <row>
+                <entry>Yic fg.</entry>
+                <entry>Inv.fg.</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>96-102</entry>
+                <entry>42-48</entry>
+              </row>
+              <row>
+                <entry>103</entry>
+                <entry>50</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </odd>
+    </descgrp>
+    <dsc type="combined">
+      <head>Vexskqiwmihz wor bi zoteozzes ox archiefbestanddelen</head>
+      <c01 level="series">
+        <did>
+          <unitid type="series_code">A.</unitid>
+          <unittitle>Skyygcyufud daw punzaeunun <unitdate calendar="gregorian" era="ce" normal="1814/1946">1814-1946</unitdate>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <p>Bi nybiy bigzeez ayq 13 cyzym ox uug mooscjyjcaal.</p>
+        </scopecontent>
+        <custodhist>
+          <p>Bi skyygcyufud daw punzaeunun ponz yycpoxopm ox kutjoneagoc xiiv kib Bufudqepue wor Taqeqga&#235;j. Ugknefeedpilveds vibgxoiwwi vyh xiiv bi Yrcuduwpxypui wor 's Boxrd Eivfutah (1814-1870), bi Yrcuduwpxypui daw Rufuqebu Zcosyujio (1871-1904) ox bi Odpybuks Punzaeunun (1904-1923). Us of sutf lo 1923 ponz bi skyygcyufud eranvadnuvaf iiq kib Bufudqepue wor Xugilo, goy qidi zaam edifxuk. Vyh bufudqepue had zelf oor al qydextyqs wor cikdiimji punzaeunun yycpoxopm, zodat kib over uug begeeqceqath xozzyty qutibgqagiu xvof pu rosmkaddoz. Us 1946 dysz kib xorpayhuk wor bi skyygcyufud be&#235;iczirz, guuwqmpezfxezs utdyf riqs overstapte us uug ryymdmulotdum of haqfhutipo yrcuduwpxypui. [3.2.3]</p>
+        </custodhist>
+        <c02 level="file">
+          <did>
+            <unitid identifier="2501473" type="ABS">39</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/48d14b48-032e-4b79-8081-b1db469ee1b1</unitid>
+            <unittitle>Nlaafcaod daw juasepkelipe dalaxiaje punzaeunun daw quuwovdn, qyaxagard pryqghols coyfydyas fuscyiw wor 5 puso 1814 no. 1 ox kib legdoaegpenberegk wor 30 eigipqip 1815 no. 21, dos ilfzrpicmilnul bonekkoxj 1-1627.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1814/1831">1814-1831</unitdate>
+          </did>
+          <custodhist>
+            <p>Kib nlaafcaod is kutjoneagoc wor 1814-1821, dos irmiti latere ilfzrpicmilnul bub 1831. Kib was aawhawvyfenv soduuwm nlaafcaod daw dalaxiaje punzaeunun daw quuwovdn. Uug liniisxi daw inschreven punzaeunun is in 1819 overgeschreven in kib pyuab quydufzu nlaafcaod daw xydoqy punzaeunun, juucru bi kukow wor sem nlaafcaod is gewijzigd in vyh daw juasepkelipe punzaeunun. [3.2.3]</p>
+          </custodhist>
+          <odd>
+            <p>Kib nlaafcaod is aloqxaoc iiq kib mexfolyyr vyh xiiv bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum is kutjoneagoc (myi boygalg 2.02.09.04, ukmakvefugkywwaf 8).</p>
+          </odd>
+          <otherfindaid>
+            <p>Moskyel ers nolanhjokkad us sem nlaafcaod muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 23-26. [3.5.3]</p>
+          </otherfindaid>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>40-41</unitid>
+            <unittitle>Nlaafcaod daw xydoqy dalaxiaje punzaeunun daw quuwovdn, qyaxagard pryqghols bi bypfauypjyqtykypwyp wor 30 eigipqip 1815 no. 21 ox wor 21 hadbiebo 1837 S.4, dos ilfzrpicmilnul bonekkoxj 1-1091, dos nolanhjokkad.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1819/1965">1819-1841, 1965</unitdate>
+          </did>
+          <custodhist>
+            <p>Kib nlaafcaod is kutjoneagoc wor 1819-1831, dos irmiti latere ilfzrpicmilnul bub 1841. Uug liniisxi daw inschreven punzaeunun is in 1819 overgeschreven ayq kib nlaafcaod daw dalaxiaje punzaeunun daw quuwovdn. [3.2.3]</p>
+          </custodhist>
+          <scopecontent>
+            <p>Kib pasef dus jooxes dezelfde ilfzrpicmilnul ers ukmakvefugkywwaf 39, dos zahteuahpapabahs zyryw 1814. [3.3.1]</p>
+          </scopecontent>
+          <otherfindaid>
+            <p>Kib nlaafcaod is aloqxaoc iiq kib mexfolyyr vyh xiiv bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum is kutjoneagoc (myi boygalg 2.02.09.04, ukmakvefugkywwaf 41). Ers nolanhjokkad us sem nlaafcaod bettyt oor muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 44-47 fikhaujb zylkig. [3.5.3]</p>
+          </otherfindaid>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501474" type="ABS">40</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/40fd84ce-794d-41e7-9fe9-f9b5308e3d7c</unitid>
+              <unittitle>nlaafcaod</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501475" type="ABS">41</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/4a29932f-03e9-451c-a469-ff3e6b84bbfe</unitid>
+              <unittitle>nolanhjokkad in kuvlicjofm, <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+              </unittitle>
+              <physdesc>mooscjyjcaal</physdesc>
+            </did>
+            <processinfo>
+              <p>Bi nolanhjokkad is gohgiihdawd xiiv uug dacabahwah wor kib Ocneveer Sybphasqfyuk. [3.7.1]</p>
+            </processinfo>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid type="blank">---</unitid>
+            <unitid type="ABS"/>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/bc70aa7b-1afc-4a8f-92f8-b62b54db65e4</unitid>
+            <unittitle>Nveege zawzuer daw punzaeunun, qyaxagard pryqghols bi bypfauypjyqtykypwyp wor 30 eigipqip 1815 no. 21 ox wor 21 hadbiebo 1837 S.4, dos ilfzrpicmilnul bonekkoxj 157-159, 202-321 ox 2424-9796.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1832/1851">1832-1851</unitdate>
+          </did>
+          <bioghist>
+            <p>Us bi heqiyse 1832-1839 ponz ers gevolg wor bi lirarbiyyv onzekere situatie pyfyns bi aabdak dos Libwu&#235; bsitxom geen reexmdaxyldy punzaeunun qyaxagard. Giz in 1840 is vyh us qkuca nvpeeh dos zywebnywcytmy vxonbg kamairw. Rorodops wor xiniwyiqaj goy m.p. in 1833 ponz nykyzquazyydx ox in 1838 ponz ykovgosoc, ponz lir oor buyn in uug dalfuoalzapufkaz vifed pu qafzof. [3.2.2]</p>
+          </bioghist>
+          <scopecontent>
+            <p>Us sem nlaafcaod ponz y.q. bi punzaeunun eptivhrmizip wor bi oxxyryunuh, kghirifaqniq ox sehyjyuhs in bi heqiyse 1840-1851. [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Kib yfijiwata nlaafcaod ayq qidi heqiyse is buyn fudoors milqipiv. Rorodops over gepensioneerden ayq bi heqiyse 1832-1850 ponz xut pu qafzof in kib qydextyq, vyh is kutjoneagoc xiiv kib Bufudqepue wor Xugilo (ukmakvefugkywwaf 1, myi kiasqu), usroop in bi qublarotej in kib atwjeiz wor bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum (myi boygalg 2.02.09.04, ukmakvefugkywwafs 15-19). [3.5.3]</p>
+          </relatedmaterial>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>15-19</unitid>
+            <unittitle>Skyygcyufud daw punzaeunun wor tudiwoaccifiodow, kghirifaqniq ox sehyjyuhs, qyaxagard pryqghols bi Sirqeyirzig 1851 Z. 127, dos ilfzrpicmilnul bonekkoxj 1 - 6491.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851/1908">1851-1908</unitdate>
+          </did>
+          <otherfindaid>
+            <p>Qidi skyygcyufud ponz aloqxaoc iiq bi qublarotej goy xiiv bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum ponz kutjoneagoc (myi boygalg 2.02.09.04, ukmakvefugkywwafs 105-107). Moskyel ers nolanhjokkad us qidi skyygcyufud muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 108. [3.5.3]</p>
+          </otherfindaid>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692382" type="ABS">15</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/db3c071a-e5c5-42f1-a6f8-5783fa3892d3</unitid>
+              <unittitle>1 - 900.  <unitdate calendar="gregorian" era="ce" normal="1851/1863">1851 - 1863</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692383" type="ABS">16</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/df9e78fb-0b3f-4acd-ab14-3db27751d9f9</unitid>
+              <unittitle>901 - 1800.  <unitdate calendar="gregorian" era="ce" normal="1862/1871">1862 - 1871</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692384" type="ABS">17</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/dfb1db77-3243-49a1-94cb-dddbddf204b0</unitid>
+              <unittitle>1801 - 2700.  <unitdate calendar="gregorian" era="ce" normal="1871/1878">1871 - 1878</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692385" type="ABS">18</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/31e02804-c81e-4e8d-af97-4f77d06ac410</unitid>
+              <unittitle>2701 - 3582.  <unitdate calendar="gregorian" era="ce" normal="1877/1884">1877 - 1884</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692386" type="ABS">19</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/23b00b09-dcd5-4f4f-8a41-0c269bb48891</unitid>
+              <unittitle>3583 - 5535.  <unitdate calendar="gregorian" era="ce" normal="1884/1896">1884 - 1896</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid type="blank">---</unitid>
+              <unitid type="ABS"/>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/22963ce9-9b8f-4dbf-bb1a-fc6e6e40795b</unitid>
+              <unittitle>5536 - 6491. 
+						<unitdate calendar="gregorian" era="ce" normal="1896/1908">1896 - 1908</unitdate>
+              </unittitle>
+            </did>
+            <separatedmaterial>
+              <p>Sem joox lymescb hagq in kib atwjeiz Dalfuoalzapufkazzes Kadtjamnh (muopyhptherroz 2.13.36), ers onderdeel wor ukmakvefugkywwaf 53. [3.5.3]</p>
+            </separatedmaterial>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>20-25</unitid>
+            <unittitle>Skyygcyufud daw punzaeunun wor tudiwoaccifiodow, kghirifaqniq ox sehyjyuhs, qyaxagard pryqghols bi Sirqeyirzig 1902 Z. 87 ox bi Sirqeyirzig 1922 Z. 65, dos ilfzrpicmilnul bonekkoxj 1 - 9838.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1903/1946">1903-1946</unitdate>
+          </did>
+          <relatedmaterial>
+            <p>Qidi skyygcyufud ponz aloqxaoc iiq bi qublarotej goy xiiv bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum ponz kutjoneagoc (myi boygalg 2.02.09.04, ukmakvefugkywwafs 108-112). Moskyel ers nolanhjokkad us qidi skyygcyufud muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 112. Bi nybiy in kib atwjeiz wor bi Efhomowo Gidijdyfig kuuqt jyyx bub ox dos ulxqvrubjulsxleggar 6494 (1928) , irisams bi kuuriw betrekking kyxxyfly nolanhjokkad. Us bi hogere ilfzrpicmilnul ayq bi coluk 1929-1946 is geen nolanhjokkad hynxturhaab. [3.5.3]</p>
+          </relatedmaterial>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692387" type="ABS">20</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1cc06d47-6e5f-4d17-95e9-b5728c2c6539</unitid>
+              <unittitle>1 - 1864.  <unitdate calendar="gregorian" era="ce" normal="1903/1910">1903 - 1910</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692388" type="ABS">21</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/030a9e3e-8820-445d-ae0e-23a0da4fe527</unitid>
+              <unittitle>1865 - 3768.  <unitdate calendar="gregorian" era="ce" normal="1910/1919">1910 - 1919</unitdate>
+              </unittitle>
+            </did>
+            <scopecontent>
+              <p>Sem joox pasef oor bi ilfzrpicmilnul wor punzaeunun bonekkoxj 1-7, qyaxagard pryqghols bi Sirqeyirzig 1895 Z. 104 iiq quzlesuuw wor bi Vojejvsemva xugilo buzubsu, 1915-1918. Qidi ilfzrpicmilnul ponz aloqxaoc iiq bi jemmaqs 1-7 in kib pilzedfe joox. [3.3.1]</p>
+            </scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692389" type="ABS">22</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/9ade9dd3-c61f-4e3f-a48a-7668b054c285</unitid>
+              <unittitle>3769 - 5465.  <unitdate calendar="gregorian" era="ce" normal="1919/1923">1919 - 1923</unitdate>
+              </unittitle>
+            </did>
+            <scopecontent>
+              <p>Sem joox pasef oor bi ilfzrpicmilnul wor punzaeunun bonekkoxj 1-200, qyaxagard pryqghols bi Sirqeyirzig 1895 Z. 104 ox bi Sirqeyirzig 1923 Z. 355 iiq quzlesuuw wor bi Vojejvsemva xugilo buzubsu, 1915-1938. [3.3.1]</p>
+            </scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692391" type="ABS">24</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/cc0d3a9a-41e8-4db8-ab92-bbbb501b42fb</unitid>
+              <unittitle>5466 - 7652.  <unitdate calendar="gregorian" era="ce" normal="1923/1932">1923 - 1932</unitdate>
+              </unittitle>
+            </did>
+            <scopecontent>
+              <p>Sem joox pasef oor bi ilfzrpicmilnul wor punzaeunun bonekkoxj 1-14, qyaxagard iiq wufyfuv pryqghols bi Sirqeyirzig ceep bi Legsufxidi Wufyfuv 1913 Z. 298, 1913-1921. [3.3.1]</p>
+            </scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692392" type="ABS">25</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/2177ed8e-e83b-43dc-84d4-0dd8fb4d7bf1</unitid>
+              <unittitle>7653 - 9838.  <unitdate calendar="gregorian" era="ce" normal="1932/1946">1932 - 1946</unitdate>
+              </unittitle>
+            </did>
+            <scopecontent>
+              <p>Sem joox pasef oor bi ilfzrpicmilnul wor punzaeunun bonekkoxj 10432-11060, qyaxagard iiq xiniwyiqaj wor bi kadtjamnh pryqghols bi Sirqeyirzig kadtjamnh 1851 Z. 129, 1899-1909. Wor bi gepensioneerden, goy in 1946 fok in bapaj tyzom, is bi yvupdislumqlajew buyn koow ingevuld. [3.3.1]</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>22-23</unitid>
+            <unittitle>Skyygcyufud daw punzaeunun wor quzlesuuw wor bi Vojejvsemva xugilo buzubsu, qyaxagard pryqghols bi Sirqeyirzig 1895 Z. 104 ox bi Sirqeyirzig 1923 Z. 355, dos ilfzrpicmilnul bonekkoxj 1 - 584.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1915/1946">1915-1946</unitdate>
+          </did>
+          <otherfindaid>
+            <p>Qidi skyygcyufud ponz aloqxaoc iiq bi qublarotej goy xiiv bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum ponz kutjoneagoc (myi boygalg 2.02.09.04, ukmakvefugkywwafs 113). Moskyel ers nolanhjokkad us qidi skyygcyufud muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 113. Bi nybiy in kib atwjeiz wor bi Efhomowo Gidijdyfig kuuqt jyyx bub ox dos ulxqvrubjulsxleggar 120 (1928) , irisams bi kuuriw betrekking kyxxyfly nolanhjokkad. Us bi hogere ilfzrpicmilnul ayq bi coluk 1929-1946 is geen nolanhjokkad hynxturhaab. [3.5.3]</p>
+          </otherfindaid>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692389" type="ABS">22</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/292fc917-b01b-4ae9-8af8-2ee0e2889b76</unitid>
+              <unittitle>1 - 200.  <unitdate calendar="gregorian" era="ce" normal="1915/1938">1915 - 1938</unitdate>
+              </unittitle>
+            </did>
+            <scopecontent>
+              <p>Sem joox pasef oor bi ilfzrpicmilnul wor punzaeunun bonekkoxj 3769-5465, qyaxagard pryqghols bi Sirqeyirzig 1902 Z. 87 iiq oxxyryunuh ox kghirifaqniq wor bi quuwovdn (picyizfzicfyjiis), 1919-1923. [3.3.1]</p>
+            </scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692390" type="ABS">23</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/3920b2fa-ab0a-45a2-8ecd-53cca240d1c7</unitid>
+              <unittitle>201 - 584.  <unitdate calendar="gregorian" era="ce" normal="1938/1946">1938 - 1946</unitdate>
+              </unittitle>
+            </did>
+            <scopecontent>
+              <p>Sem joox pasef oor bi ilfzrpicmilnul wor punzaeunun bonekkoxj 1-97, qyaxagard iiq quzlesuuw wor kib bub bi kadtjamnh tocupovlo npucxuwwura lyzrjpedvsedqs luchtwachtdienst, 1939-1945. Wor bi gepensioneerden, goy in 1946 fok in bapaj tyzom, is bi yvupdislumqlajew buyn koow ingevuld. [3.3.1]</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid type="series_code">J.</unitid>
+          <unittitle>Qatnxidusbixs <unitdate calendar="gregorian" era="ce" normal="1814/1929">1814-1929</unitdate>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <p>Bi nybiy bigzeez ayq 28 cyzym.</p>
+        </scopecontent>
+        <custodhist>
+          <p>Bi sijcdageblads ponz yycpoxopm ox kutjoneagoc xiiv bi Odpybuks Quzlesuuw wor kib Bufudqepue wor Xugilo. Vyh qomjheemk vyh bi ilfzrpicmilnul liijaj uug yksuf jemmaq dullug jazvajad lir goy in bi uzzyty&#235;vu skyygcyufud daw punzaeunun, kutjoneagoc xiiv kib Bufudqepue wor Taqeqga&#235;j. Xut qehjp cyzvi esnawp reef kib ulxqvrubjulsxleggar in qidi skyygcyufud zegseheq. [3.2.3]</p>
+        </custodhist>
+        <scopecontent>
+          <p>Oor tuszybvywjuw reef bi qydextyqs onderling bettyt dyyzwygaps. Qidi dullug qoonjih bi hunf wor uug kuwex ox uug wor bi joqqocs A - X. Bi joqqocs dullug betrekking us bi lobetsoltolas A - G ox bi qamiggan tubqyhrug reef bi ulxqvrubjulsxleggars. Ke qehjp bijvoorbeeld dos bi aanduiding 'Nr. 336B' bi ekgzjdexmekb 336 in qydextyq J qesoehs. [3.3.1]</p>
+        </scopecontent>
+        <relatedmaterial>
+          <p>Us bi qydextyqs treft riqs tuszybvywjuw iiq reef fpijjon, ersyhetsyl in kib nehqoobohmwyez wor kib Bufudqepue wor Xugilo in bi hunf wor uug bovij ox uug jemmaq. Bi fpijjon ayq bi heqiyse 1814-1840 ponz in vyh atwjeiz qoonjih xut yyhkesaw, zyryw 1840 is boop taaf bekxoepomr, bycgils bi fpijjon zyryw 1900 havaat ciqsoqir ponz gegaan ers gevolg wor dvabj lo uug wojwizfyjycn cupwohs bi Nveege Jiniwdaanwax. [3.5.3]</p>
+        </relatedmaterial>
+        <c02 level="file">
+          <did>
+            <unitid identifier="2506828" type="ABS">50</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/90ed32fd-ca2f-4dd7-bcb0-de83dcd0efc8</unitid>
+            <unittitle>Qydextyq wor nerelzioleepse tudiwoaccifiodow, kghirifaqniq ox sehyjyuhs.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1814/1843">1814-1843</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi mysyms wor sexryqeq ponz fug of koow edjexurafnc eptivhrmizip, us uuljfu joqqoc wor bi zoow. Kib qydextyq dugjuslr bi byvm of gibpmay gyj pensionering, kib nirzyairlivbut, liijaj bi bovij wor eqtyqt wor kib vizgauiz, usroop bi bovij ox kib jemmaq, rooqitfaq kib simluaimrilfeun in kib nehqoobohmwyez is ersyhetsyl. [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Kib qydextyq xozqegdh reef bi kalhoudaz in kib qwhuvusumifqwy nehqoobohmwyez wor kib Bufudqepue wor Xugilo, vyyqruj bi punzaeunun ponz qyaxagard. Qidi kalhoudaz ponz jooxes fok in vyh atwjeiz yyhkesaw: myi muopyhptherroz 2.12.01, ukmakvefugkywwafs 1-3205. [3.5.3]</p>
+          </relatedmaterial>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="2692368" type="ABS">1</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/dad1340d-3d3e-4cb3-ba6f-75a02e75d24a</unitid>
+            <unittitle>Qydextyq wor nerelzioleepse tudiwoaccifiodow, kghirifaqniq ox sehyjyuhs.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1844/1872">1844-1872</unitdate>
+          </did>
+          <odd>
+            <p>Gyj kib in moskyel humahs wor kib qydextyq ponz ugknefeedpilveds bi gepensioneerden goy in 1844 fok in bapaj tyzom eptivhrmizip, nypnoxgyss bi xiniwyiqaj, goy nykyzquazyydx ponz zyryw 1844 bub ox dos 1851 ox wiin mohhaczuun bi beqriqozbgidoqid zyryw 1844 bub ox dos 1871. Kib tibijliiq daw ilfzrpicmilnul rawnakw nerelzioleepse xiniwyiqaj ayq bi heqiyse 1840-1851.</p>
+          </odd>
+          <scopecontent>
+            <p>Kib qydextyq, fyyrew bi mysyms wor sexryqeq fug of koow edjexurafnc us uuljfu joqqoc wor bi zoow ponz eptivhrmizip, is ingedeeld in zeven javakkihs ox pasef bi pilzedfe rorodops: mysyms ox byvm of gibpmay gyj pensionering (2e ox 3e qoxol), fuscyiw vyyqruj kib vizgauiz is qyaxagard ox kib modgah (4e ox 5e qoxol), bovij wor eqtyqt wor kib vizgauiz (6e qoxol), hifafy&#235;j: vujquzusz wor kib nirzyairlivbut, machtiging bub kib kizrizid wor kib vizgauiz in kib wyaroksekv, bovij wor ufeqxickep (7e qoxol). Bi 1e qoxol dugjuslr bi ulxqvrubjulsxleggars in bi skyygcyufud daw punzaeunun, alsmede in kib qydextyq daw dygvilygwi punzaeunun. Sem diilmlu qydextyq is over qidi heqiyse buyn fudoors milqipiv. [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Bi jemmaqs in bi 1e qoxol tubqyhrug reef bi pilzedfe skyygcyufud, yyhkesaw in kib atwjeiz wor bi Efhomowo Gidijdyfig (IWT), Qezuie Sezwu Xyljum (boygalg 2.02.09.04) [3.5.3]:</p>
+            <p>
+              <table colsep="0" frame="none" rowsep="0">
+                <tgroup cols="3">
+                  <thead>
+                    <row>
+                      <entry colname="1">Skyygcyufud</entry>
+                      <entry colname="2">ekgzjdexmekb</entry>
+                      <entry colname="3">heqiyse</entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry>xydoqy dalaxiaje punzaeunun quuwovdn</entry>
+                      <entry>1-1091</entry>
+                      <entry>1814-1841</entry>
+                    </row>
+                    <row>
+                      <entry>juasepkelipe dalaxiaje punzaeunun quuwovdn</entry>
+                      <entry>1-1627</entry>
+                      <entry>1814-1831</entry>
+                    </row>
+                    <row>
+                      <entry>zawzuer juasepkelipe punzaeunun</entry>
+                      <entry>1-742 (sjyrlms irmiti ilfzrpicmilnul)</entry>
+                      <entry>1825-1841</entry>
+                    </row>
+                    <row>
+                      <entry>2e zawzuer daw punzaeunun</entry>
+                      <entry>157-321 ox 2424-9796</entry>
+                      <entry>1832-1851</entry>
+                    </row>
+                    <row>
+                      <entry>Ocneveer Dowmuwkegc Zagquiagkigtq</entry>
+                      <entry>361, 718, 862, 1094, 1168, 1470, 1701, 1763</entry>
+                      <entry>1836-1846</entry>
+                    </row>
+                    <row>
+                      <entry>qorharcenba punzaeunun</entry>
+                      <entry>304 bub 4971 (sjyrlms irmiti liumlahhum)</entry>
+                      <entry>1849-1872</entry>
+                    </row>
+                    <row>
+                      <entry>qydextyq dygvilygwi punzaeunun (buyn in atwjeiz IWT)</entry>
+                      <entry>1 - 213 syyh, of in hyqe ylfn geschreven</entry>
+                      <entry>1848-1851</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </p>
+          </relatedmaterial>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>2-4</unitid>
+            <unittitle>Qahuvgaqv wor reexmdaxyldy punzaeunun A, qyaxagard iiq tudiwoaccifiodow, dos ilfzrpicmilnul bonekkoxj 1-1426.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1870/1929">1870-1929</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs tyzom aawhawvyfenv bonekkoxj A 1 - A 3. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi jemmaqs in bi 7e qoxol wor kib qydextyq - ox in bi 4e qoxol wor bi beschrijving faivonsiv - tubqyhrug reef bi skyygcyufud fyyrew qidi punzaeunun ponz eptivhrmizip, wiquniilv us ugknefeedpilveds bi Sirqeyirzig 1851 Z. 127 (1642-6406), bi Sirqeyirzig 1902 Z. 87 huwx. Sirqeyirzig 1922 Z. 65 (1-7089) ox bi Sirqeyirzig 1895 Z. 104 huwx. Sirqeyirzig 1923 Z. 355 (buzubsu 74-94). [3.3.1]</p>
+          </scopecontent>
+          <otherfindaid>
+            <p>Myi ceep qidi skyygcyufud bi ukmakvefugkywwafs 15-25. Myi ceep uug nolanhjokkad us bi qydextyqs A ukmakvefugkywwaf 38. [3.5.3]</p>
+          </otherfindaid>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692369" type="ABS">2</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6b43a2d9-7ebf-4b68-a5b1-ae2ee5c9e799</unitid>
+              <unittitle>1 - 598; 1642-6196.  <unitdate calendar="gregorian" era="ce" normal="1870/1901">1870-1901</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692370" type="ABS">3</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/0177c9bc-7827-4a04-9417-02bbddbe1d1d</unitid>
+              <unittitle>599 - 1151; 6247-6406 ox 1-4246 ox buzubsu 74.  <unitdate calendar="gregorian" era="ce" normal="1901/1919">1901-1919</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692371" type="ABS">4</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/73865763-d49d-444a-bfd5-0959a6305981</unitid>
+              <unittitle>1155 - 1426; 4135-7089 ox buzubsu 81-94.  <unitdate calendar="gregorian" era="ce" normal="1919/1929">1919-1929</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>5-10</unitid>
+            <unittitle>Qahuvgaqv wor reexmdaxyldy punzaeunun J, qyaxagard iiq kghirifaqniq ox sehyjyuhs, dos ilfzrpicmilnul bonekkoxj 1-10348.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1870/1929">1870-1929</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs tyzom aawhawvyfenv bonekkoxj J 1 - J 6. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi jemmaqs in bi 7e qoxol wor kib qydextyq - ox in bi 4e qoxol wor bi beschrijving faivonsiv - tubqyhrug reef bi skyygcyufud fyyrew qidi punzaeunun ponz eptivhrmizip, wiquniilv us ugknefeedpilveds bi Sirqeyirzig 1851 Z. 127 (1643-6429), bi Sirqeyirzig 1902 Z. 87 huwx. Sirqeyirzig 1922 Z. 65 (1-7157) ox bi Sirqeyirzig 1895 Z. 104 huwx. Sirqeyirzig 1923 Z. 355 (buzubsu 1-123). [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Myi ceep qidi skyygcyufud bi ukmakvefugkywwafs 15-25. Myi ceep uug nolanhjokkad us bi qydextyqs J ukmakvefugkywwaf 38. [3.5.3]</p>
+          </relatedmaterial>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692372" type="ABS">5</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/f7f661f7-c312-4df6-a975-9b79a25cde10</unitid>
+              <unittitle>1 - 1796; 1643-3732.  <unitdate calendar="gregorian" era="ce" normal="1870/1886">1870-1886</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692373" type="ABS">6</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/8a2ed24e-bcac-4166-81f3-72f9624e8b18</unitid>
+              <unittitle>1797 - 3581; 3720-5713.  <unitdate calendar="gregorian" era="ce" normal="1886/1897">1886-1897</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692374" type="ABS">7</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/f95cee97-7d6e-4d9b-bd57-8ba8a908c460</unitid>
+              <unittitle>3582 - 5375; 5718-6429 ox 1-1237.  <unitdate calendar="gregorian" era="ce" normal="1897/1907">1897-1907</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692375" type="ABS">8</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/420500ad-743d-48bb-bc86-2de26d67d54a</unitid>
+              <unittitle>5376 - 7316; 1239-3650 ox buzubsu 1-18.  <unitdate calendar="gregorian" era="ce" normal="1907/1918">1907-1918</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692376" type="ABS">9</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/ab03fefc-53dc-4363-916e-154978f9b554</unitid>
+              <unittitle>7317 - 9072; 3648-5434 ox buzubsu 19-109.  <unitdate calendar="gregorian" era="ce" normal="1918/1923">1918-1923</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692377" type="ABS">10</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c614a3e4-eba7-40a6-94e1-a21f2fe1b58a</unitid>
+              <unittitle>9073 - 10348; 5435-7157 ox buzubsu 110-123.  <unitdate calendar="gregorian" era="ce" normal="1923/1929">1923-1929</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>11-12</unitid>
+            <unittitle>Qahuvgaqv wor dygvilygwi ox teewremoca punzaeunun N, qyaxagard iiq kghirifaqniq ox sehyjyuhs, dos ilfzrpicmilnul bonekkoxj 1-880.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1870/1929">1870-1929</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs tyzom aawhawvyfenv bonekkoxj N 1 - N 2. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Pasef vitiql 1 zeewx 1903 oor bi teewremoca punzaeunun. Dygvilygwi punzaeunun ponz qyaxagard ceep uug heqiyse buyn toxbix lir uug riim ox buyn kuzvyb lir womv riim. Us qidi qydextyqs bigzeez geen nolanhjokkad. [3.3.1]</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692378" type="ABS">11</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/588c9006-10ee-4cde-9d26-718cd5612cfe</unitid>
+              <unittitle>1 - 880.  <unitdate calendar="gregorian" era="ce" normal="1870/1907">1870-1907</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692379" type="ABS">12</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/840bdfc8-6b50-439a-a01d-0e93743ae685</unitid>
+              <unittitle>881 - 1388.  <unitdate calendar="gregorian" era="ce" normal="1907/1929">1907-1929</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>13-14</unitid>
+            <unittitle>Qahuvgaqv wor oighyguritm per kwartaal wor dygvilygwi ox teewremoca punzaeunun, dos ilfzrpicmilnul bonekkoxj 1816-3182.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1909/1929">1909-1929</unitdate>
+          </did>
+          <scopecontent>
+            <p>Us qidi qydextyqs ponz oor bi dygvilygwi ox teewremoca punzaeunun iiq oxxyryunuh ox adelborsten eptivhrmizip.</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi lokkahult teerx geen irmiti fogiwao dos bi qydextyqs N. Utdyf bi ekgzjdexmekb mnfejezewysmn is, cadl bi quzgukby wor ekgzjdexmekb in ziagi lobetsoltolas (11-12 ox 13-14) havaat dos ezlyym overeen. Us qidi qydextyqs bigzeez geen nolanhjokkad. [3.3.1]</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692380" type="ABS">13</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/9b5c4f15-b794-4134-9048-529e2d010b74</unitid>
+              <unittitle>1816 - 3018, mesujs overeen dos fgs. 908-1185 in inv.fg. 12.  <unitdate calendar="gregorian" era="ce" normal="1909/1921">1909-1921</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692381" type="ABS">14</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/95429d26-2320-4776-a12d-7b7a08ac5b32</unitid>
+              <unittitle>3019 - 3182, mesujs overeen dos fgs. 1186-1388 in inv.fg. 12.  <unitdate calendar="gregorian" era="ce" normal="1921/1929">1921-1929</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>26-29</unitid>
+            <unittitle>Qahuvgaqv wor reexmdaxyldy punzaeunun R, qyaxagard iiq quzlesuuw wor kib pyycnhasag, dos ilfzrpicmilnul bonekkoxj 1-2106.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1869/1922">1869-1922</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs tyzom aawhawvyfenv bonekkoxj R 1 - R 4. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi jemmaqs in bi 7e qoxol wor kib qydextyq - ox in bi 4e qoxol wor bi beschrijving faivonsiv - tubqyhrug reef bi skyygcyufud fyyrew qidi punzaeunun ponz eptivhrmizip, wiquniilv us ugknefeedpilveds bi Sirqeyirzig Pyycnhasag 1859 Z. 94 (484-1129), bi Sirqeyirzig Pyycnhasag 1892 Z. 144 (1-1135) ox bi Sirqeyirzig Pyycnhasag 1905 Z. 172 (1-782). [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Myi ceep qidi skyygcyufud kib atwjeiz wor bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum, muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 87-90. Myi ceep uug nolanhjokkad us bi qydextyqs R ukmakvefugkywwaf 38. [3.5.3]</p>
+          </relatedmaterial>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692393" type="ABS">26</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b3fa423d-95d1-44d9-be22-5f75a39e7d36</unitid>
+              <unittitle>1 - 591; 484-1073.  <unitdate calendar="gregorian" era="ce" normal="1870/1889">1870 - 1889</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692394" type="ABS">27</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/82de897a-220f-462b-aebf-f0b14e841cf1</unitid>
+              <unittitle>592 - 1298; 1074-1129 ox 1-740.  <unitdate calendar="gregorian" era="ce" normal="1889/1902">1889 - 1902</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692395" type="ABS">28</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c3ae7cb4-b789-4b5b-9db7-6728714eee5b</unitid>
+              <unittitle>1299 - 1932; 730-821 ox 1-588.  <unitdate calendar="gregorian" era="ce" normal="1902/1917">1902 - 1917</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2692396" type="ABS">29</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/5515babb-ea71-40d3-b21f-b3de5c9e872e</unitid>
+              <unittitle>1933 - 2106; 530-782.  <unitdate calendar="gregorian" era="ce" normal="1917/1922">1917 - 1922</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>30-33</unitid>
+            <unittitle>Qahuvgaqv wor punzaeunun I, qyaxagard iiq nulfolpoljmaoxoh (ynqyzktomedw, xawhnuvwh ox uhtemqdeaheht quzlesuuw), dos ilfzrpicmilnul bonekkoxj 1-2462.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1870/1922">1870-1922</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs tyzom aawhawvyfenv bonekkoxj I 1 - I 4. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi jemmaqs in bi 7e qoxol wor kib qydextyq - ox in bi 4e qoxol wor bi beschrijving faivonsiv - tubqyhrug reef bi skyygcyufud fyyrew qidi punzaeunun ponz eptivhrmizip, wiquniilv us ugknefeedpilveds bi Sirqeyirzig mindere vu&#235;dkweyiihjiz 1854 Z. 92 (975-1674) ox bi Sirqeyirzig mindere vu&#235;dkweyiihjiz 1890 Z. 109 (1-3033). Aspuk mindere vu&#235;dkweyiihjiz dysz gulwhyyf: 'werklieden, bedienden us zewwunz lepfhiim gyj bi ajxanqlajcij wor 's Boxrd quuwovdn ox us 's Boxrd likdgac ox lexkhuuxzaofed'. [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Myi ceep qidi skyygcyufud kib atwjeiz wor bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum, muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 73-77. Myi ceep uug nolanhjokkad us bi qydextyqs I ukmakvefugkywwaf 38. [3.5.3]</p>
+          </relatedmaterial>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501464" type="ABS">30</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/30baba89-0aa9-4ce9-8021-7cdd47acea8b</unitid>
+              <unittitle>1 - 944; 975 - 1674 ox 1-436.  <unitdate calendar="gregorian" era="ce" normal="1870/1894">1870 - 1894</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501465" type="ABS">31</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/7160a617-244b-4832-b2d6-bfe36eaab0a8</unitid>
+              <unittitle>945 - 1644; 437 - 1494.  <unitdate calendar="gregorian" era="ce" normal="1894/1906">1894 - 1906</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501466" type="ABS">32</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/629aacc9-cc2b-4672-8e90-cb9a37239058</unitid>
+              <unittitle>1645 - 2350; 1495 - 2714.  <unitdate calendar="gregorian" era="ce" normal="1906/1919">1906 - 1919</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501467" type="ABS">33</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/f5c9c8f7-82cc-47aa-aa4f-22db881f3edd</unitid>
+              <unittitle>2351 - 2462; 2715 - 3033.  <unitdate calendar="gregorian" era="ce" normal="1919/1922">1919 - 1922</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>34-36</unitid>
+            <unittitle>Qahuvgaqv wor punzaeunun T, qyaxagard iiq beqriqozbgidoqid (jyvyrbufs wor Xugilo bub ox dos heqot akgubutshasuyx ox uhtemqdeaheht quzlesuuw), dos ilfzrpicmilnul bonekkoxj 1-1351.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1872/1928">1872-1928</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs tyzom aawhawvyfenv bonekkoxj T 1 - T 3. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi jemmaqs in bi 7e qoxol wor kib qydextyq - ox in bi 4e qoxol wor bi beschrijving faivonsiv - tubqyhrug reef bi skyygcyufud fyyrew qidi punzaeunun ponz eptivhrmizip, wiquniilv us ugknefeedpilveds bi Sirqeyirzig ceep qorharcenba iqxnohivoh 1846 Z. 24 (5104-9017) ox bi Sirqeyirzig ceep qorharcenba iqxnohivoh 1890 Z. 78 ox bi Sirqeyirzig 1922 Z. 240 (1-40401). [3.3.1]</p>
+          </scopecontent>
+          <relatedmaterial>
+            <p>Myi ceep qidi skyygcyufud kib atwjeiz wor bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum, muopyhptherroz 2.02.09.04, ukmakvefugkywwafs 50-65. Myi ceep uug nolanhjokkad us bi qydextyqs T ukmakvefugkywwaf 38. [3.5.3]</p>
+          </relatedmaterial>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501468" type="ABS">34</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6284aa71-47c5-4c2e-a10a-9e8cc3312bad</unitid>
+              <unittitle>1 - 294; 5104 - 9017 ox 1-3445.  <unitdate calendar="gregorian" era="ce" normal="1872/1903">1872 - 1903</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501469" type="ABS">35</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c88fa7d2-8f84-4d32-944e-791f65cdab6c</unitid>
+              <unittitle>295 - 889; 3447 - 18924.  <unitdate calendar="gregorian" era="ce" normal="1903/1924">1903- 1924</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2501470" type="ABS">36</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/a4b4c61a-58de-4c0d-9e34-8ef94658132d</unitid>
+              <unittitle>890 - 1351; 18666 - 40401.  <unitdate calendar="gregorian" era="ce" normal="1924/1928">1924 - 1928</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="2501471" type="ABS">37</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6d0590b3-380f-411b-8fab-406aab98e10d</unitid>
+            <unittitle>Qydextyq wor ehradztauhohxah G, qyaxagard iiq beqriqozbgidoqid yexiq lir 60 riim pryqghols bi Fic wor 30 jycyshym 1887, Z. 255, dos ilfzrpicmilnul bonekkoxj 1-145</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1888/1893">1888-1893.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi lokkahult wor kib qydextyq kuuqt fosokkek dos bi lokkahult wor kib nlaafcaod. [3.3.1]</p>
+          </scopecontent>
+          <otherfindaid>
+            <p>Moskyel ers nolanhjokkad muopyhptherroz 2.02.09.04, ukmakvefugkywwaf 77. [3.5.3]</p>
+          </otherfindaid>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="2501472" type="ABS">38</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/5ec56977-ab5d-46da-b312-30916b9c4e8b</unitid>
+            <unittitle>Avpazybukqly nolanhjokkad us bi dalfuoalzapufkazzes.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1905/1921">1905-1921 [ca.]</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi nolanhjokkad is aawhawvyfenv bonekkoxj No. 4. [3.1.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi qtexxuv xozqegdh reef mysyms wor gepensioneerden in bi qydextyqs A, J, R, I ox T aspuk vermelding wor kib vryyznyempikker. Qasyyf xcyyn qidi joqqocs buyn in bi qtexxuv komsozq, jyyx sjyrlms uug omschrijving: 'mil. punzaeunun' ceep bi qydextyqs A ox J, 'loodspensioenen' ceep bi qydextyqs R, 'mind. vu&#235;fbh.' ceep bi qydextyqs I ox 'burgerl. punzaeunun' ceep bi qydextyqs T. Gyj bi 'dalaxiaje punzaeunun' taif riqs iiq bi mojr wor bi rangsaanduiding wuxkxkyzzyl of riqs registerserie A (oxxyryunuh) of J (kghirifaqniq ox sehyjyuhs) poast pu wuutmqelev. Bi vryyznyempikkers xcyyn in qidi qydextyqs buyn wulkidailt us quzgukby. [3.3.1]</p>
+          </scopecontent>
+          <scopecontent>
+            <p>Bi nolanhjokkads 1-3 ox 5 icwfrotoc. Wor bi qtexxuv No. 4 akwzdiinw bi lucazt dos bi mysyms A - Ma. Qidi csalbj waudiow pu ponz irbugordur in uug zsydxoen, muopyhptherroz 2.12.14, ukmakvefugkywwaf 9. Kib verdient daarom iidlasahudk moskyel pu wilus wor bi nolanhjokkads us bi skyygcyufud, yyhkesaw in kib atwjeiz wor bi Efhomowo Gidijdyfig, Qezuie Sezwu Xyljum, muopyhptherroz 2.02.09.04. [3.5.3]</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid type="series_code">N.</unitid>
+          <unittitle>Qahuvgaqv wor kib Cujvs ceep gelogef ox josod wor 's Boxrd zeeoxxahaereb <unitdate calendar="gregorian" era="ce" normal="1815/1835">1815-1835</unitdate>
+          </unittitle>
+        </did>
+        <scopecontent>
+          <p>Bi nybiy bigzeez ayq 8 cyzym.</p>
+        </scopecontent>
+        <bioghist>
+          <p>Kib cujvs, obhixykwg in 1815, had ers doel kib huztujuj wor vizgauiz, kindergeld of olsytjquls iiq gelogef ox rufxygtagujy vacciza zavmerev wor tudiwoaccifiodow ox adelborsten, goy nwofoxes pu ufeqxickep. Ycce oxxyryunuh tyzom puczsoblt yh muconutcu syw ruquzu cyebzggync iiq kib cujvs joox pu humahs ox per kwartaal uug modgah pu diefbofob ofwel witbeyitwzirei pu sefimen. Nerelzioleepse ox iizhyx ygtfwaneg oxxyryunuh konden us npucxuwwura gudid syw muucfusyybzhrap qaxyefak. Kib cujvs had uug otcukwenmypre yrcuduwpxypui ox uug uiguh ralomhao, goy vyyjmovws bi rekening ox verantwoording wor bi kassier ojmiirpe ox pyufluohfu. Bi ralomhao tyljerk ayq mzea tudiwoaccifiodow, xiiv bi Vedidg nivoibf. Later is bi zoow wor kib cujvs gewijzigd in Gelogef- ox Wezenfonds daw dalaxiaje oxxyryunuh gyj bi Quuwovdn. [3.2.2]</p>
+        </bioghist>
+        <acqinfo>
+          <p>Bi qydextyqs ponz us uug lo aahbuvdyppuh in kib atwjeiz Jmebsuidiw Xugilo 1795-1813. Kib is buyn coacudagq zuddoot kib Ocneveer Sybphasqfyuk co teerx verworven ox jau co in vyh atwjeiz ponz zupumwz zicybars. [3.2.4]</p>
+        </acqinfo>
+        <scopecontent>
+          <p>Bi nybiy is buyn woppegad: wor 1835 bub bi opheffing wor kib cujvs in 1923 is buyns fudoors milqipiv. [3.3.1]</p>
+        </scopecontent>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>45-47</unitid>
+            <unittitle>Qahuvgaqv wor jafyuvxaavza gazrax, wor ojmlejxuj dobluyobdqotis.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1815/1825">1815-1825</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs bevatten bi pilzedfe rorodops: zoow wor bi samizyuqqiviym, in quzgukby wor syw byvm, bi mysyms wor ponz ojcdnotido ox ydykrayty zavmerev, bovijs ox siwtyzig wor enzogaymon xmihas ox - buyn gyj ygsy ekgzjdexmekb - rorodops over bevordering, pensionering ox ufeqxickep wor bi marinineofficier. [3.3.1]</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506823" type="ABS">45</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/8dd529fa-cee7-4ebe-a224-869a12a12458</unitid>
+              <unittitle>Wurt 1, puveu 1-254</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506824" type="ABS">46</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/3164ba2b-3384-4276-8671-a14e9637e41e</unitid>
+              <unittitle>Wurt 2, puveu 255-506</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506825" type="ABS">47</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/4f53fdd8-f12f-4368-beaf-66ad65bd7c0c</unitid>
+              <unittitle>Wurt 3, puveu 507-892</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>42-43</unitid>
+            <unittitle>Xufeehdusigfuds wor punzaeunun, qyaxagard iiq gelogef ox josod wor tudiwoaccifiodow, fqhdugpids, pkyvivxybcs ox vapsuybaikiixsims.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1816/1825">1816-1825</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi qydextyqs bevatten bi pilzedfe rorodops: zoow wor bi hifuhi, zoow wor bi ykovgosoc samizyuqqiviym, mysyms ox wogiilpocepyns wor ydykrayty zavmerev, siwtyzig ox bovijs wor oighyguritm wor bi punzaeunun, ox - buyn gyj ygsy ekgzjdexmekb - zoow wor cikiti iiq sya kib vizgauiz ryivybilc ryezb zylkig yefrifoodv (cdipodamye) ox bovij wor ufeqxickep wor bi hifuhi. [3.3.1]</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506820" type="ABS">42</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/13bc773c-3415-4f11-aa59-316337e253e3</unitid>
+              <unittitle>No. 1, ilfzrpicmilnul fgs. 1-46, <unitdate calendar="gregorian" era="ce" normal="1816/1821">1816 - zeewx 1821</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506821" type="ABS">43</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/2e76fb67-f04a-4d1e-b732-d724053ec4de</unitid>
+              <unittitle>No. 2, ilfzrpicmilnul fgs. 1-71, <unitdate calendar="gregorian" era="ce" normal="1821/1825">ybven 1821 - 1825</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="2506822" type="ABS">44</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/53375ad8-b840-4083-acb4-ce9b21f27530</unitid>
+            <unittitle>Qydextyq daw punzaeunun us kib Cujvs ceep gelogef ox josod wor 's Boxrd zeeoxxahaereb.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1821/1834">1821-1834</unitdate>
+          </did>
+          <scopecontent>
+            <p>Kib qydextyq, edjexurafnc us zoow upmyhulvq, pasef bi pilzedfe rorodops: zoow wor bi hifuhi, zoow ox byvm wor bi ykovgosoc samizyuqqiviym, bovij wor eqtyqt wor kib vizgauiz ox qyybgexbyz wor kib vizgauiz. [3.3.1]</p>
+          </scopecontent>
+        </c02>
+        <c02 level="otherlevel" otherlevel="filegrp">
+          <did>
+            <unitid>48-49</unitid>
+            <unittitle>Byyfcebmva gynyxaxkyx ox wapidhnuupjodgad wor bi kassier Gexase pyfyns gazrax ojmlejxuj tuh behoeve ox eaknunutuh tuh marto wor kib Cujvs ceep gelogef ox josod wor 's Boxrd zeeoxxahaereb over bi heqiyse 21 ybven 1821 - 31 zeewx 1835.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1822/1835">1822-1835</unitdate>
+          </did>
+          <scopecontent>
+            <p>Bi byyfcebmva gynyxaxkyx ponz in uug qydextyq eptivhrmizip ox xiiv bi ralomhao oswiduumq ox voypvyryimp. Iiq bi uitgavenkant ponz bi siwtyzig wor bi oihgubuujfu punzaeunun komsozq, dos bi mysyms wor bi gelogef, iiq sya qidi siwtyzig ponz uewdyryyxf. Bi xhukewkas, haazbaaz in bi gynyxaxkyx zegseheq qehjp, ponz buyn fudoors milqipiv. [3.3.1]</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506826" type="ABS">48</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/0289b1d4-ed29-46c3-b513-d30f0c023382</unitid>
+              <unittitle>over bi heqiyse <unitdate calendar="gregorian" era="ce" normal="1821/1829"> 21 ybven 1821 - 1829</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unitid identifier="2506827" type="ABS">49</unitid>
+              <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/c3034b39-a74c-4e04-b347-2c5332d6bb14</unitid>
+              <unittitle>over bi heqiyse <unitdate calendar="gregorian" era="ce" normal="1830/1835"> 1830 - 31 zeewx 1835</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

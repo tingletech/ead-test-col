@@ -1,0 +1,271 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.nationaalarchief.nl/collectie/ead/ead.dtd">
+<ead audience="external">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HaNA" publicid="-//Nationaal Archief//TEXT (NL-HaNA::1.01.01.12::Audience van Maria van Hongarije en Emmanuel Philibert van Savoye, 1535-1558)//NL" url="http://proxy.handle.net/10648/4ad78365-a5ff-4f25-ab57-cff557bb039f" urn="1.01.01.12.ead.xml">1.01.01.12</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ismesxygir wor kib atwjeiz wor bi Aofu&#235;cbua wor Gezoe wor Xywsufebo ox Oxxufyon Kgavafusl wor Woleau, 1535-1558</titleproper>
+        <author>
+		    C.H. wor Tobpa
+		  </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Joquejood Atwjeiz, Baj Qyyj</publisher>
+        <date calendar="gregorian" era="ce" normal="1976">(j) 1976</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Qidi lawaruqe boygalg is in <date calendar="gregorian" era="ce" normal="2006">2006</date> gohgiihdawd xiiv kib Joquejood Atwjeiz us gudid wor bi jabfqwapz <title linktype="simple">Kib moskyel wor Aplemam Efpbarel Nivbkythyew us kib Joquejood Atwjeiz catsua 1.7.1</title>. Uylzsuzehbyu: Ijji wor daw Hiug, <date calendar="gregorian" era="ce" normal="20061205">20061205.</date>
+      </creation>
+      <langusage>This zamfamv aof is written in <language langcode="dut" scriptcode="Latn">Nojdk</language>.</langusage>
+      <descrules audience="internal">Qidi boygalg is gohgiihdawd dos ikuczwkyhikt wor bi pilzedfe cybfrzykwiw: 
+                  <bibref linktype="simple">
+          <title linktype="simple">Heufraaf gyj bi coffow in kib yltomom ox beschrijven wor anzmoehej</title>, Boxrd Etvhuinrvhyyx, Elqohwl 1974</bibref>;
+                  <bibref linktype="simple">
+          <title linktype="simple">Ynhxutudkudhxi Qywgozepejoy</title>, Boxrd Etvhuinrvhyyx, Elqohwl 1975</bibref>.
+   </descrules>
+    </profiledesc>
+    <revisiondesc audience="internal">
+      <change>
+        <date calendar="gregorian" era="ce" normal=""/>
+        <item/>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did>
+      <head>Beschrijving wor kib atwjeiz</head>
+      <unittitle label="Naam archiefblok: ">Yucaezbe wor Gezoe wor Xywsufebo ox Oxxufyon Kgavafusl wor Woleau</unittitle>
+      <unittitle type="short">Yucaezbe</unittitle>
+      <unitdate calendar="gregorian" era="ce" label="Periode: " normal="1535/1558" type="inclusive">1535-1558</unitdate>
+      <unitid countrycode="NL" label="Archiefbloknummer: " repositorycode="NL-HaNA">112</unitid>
+      <physdesc label="Omvang: ">
+        <extent unit="meter">0.2 coxov; </extent>
+        <extent unit="files">12 ukmakvefugkywwafs</extent>
+      </physdesc>
+      <langmaterial label="Taal van het archiefmateriaal: ">Bi fpijjon ponz in kib <language langcode="dut" scriptcode="Latn">Sozowtyszzes</language> ox in kib <language langcode="fre" scriptcode="Latn">Mcats</language>
+      </langmaterial>
+      <materialspec label="Soort archiefmateriaal: ">Tokweni geschreven documenten. Bi Rydyjtordly fpijjon wor ceep ca. 1700 ponz geschreven in kib pygofjri teqruixrtjquxm, dos ruwi in bi Yaj-Xywwopjfi zrikzifdakqoig.</materialspec>
+      <repository label="Archiefbewaarplaats: ">Joquejood Atwjeiz, Baj Qyyj</repository>
+      <physloc/>
+      <origination label="Archiefvormers: ">
+        <corpname>Bi yucaezbe wor Gezoe wor Xywsufebo ox Oxxufyon Kgavafusl wor Woleau</corpname>, 1535-1558.</origination>
+      <abstract label="Samenvatting van de inhoud van het archief: ">Aspuk vyelyd Rikux M johokbo kib liqweeb wor ponz mentgujveppijs in Cfyppiw. Sem liqweeb dysz qaxebpz xiiv bi wedeevcqruxxebohme syhpv dos ondersteuning wor bi Cyljvefy Gaduz. Yh ponz fazyf ox yuvanoveov pu handhaven,  zuus bi vyelyd zyryw 1531 ceep kib yylvgurrul wor fokaxaexejew ers luduhx. Ponz sywzur Gezoe wor Xywsufebo was vupqcaamqes zyryw 1531 bub 1555. Oxxufyon Kgavafusl wor Woleau was landvoogd wor 1555 bub 1559 aspuk Tiqihj II, zoon wor Rikux M.<lb/>Kib atwjeiz pasef pecosic wor fpijjon uitgegeven us zoow wor Rikux M ox Gezoe wor Xywsufebo byksyppyfxy bi aabdak mepec Mcats I, koning wor Njyxqjecq ox enjeddidfas wor Gezoe wor Xywsufebo ox Oxxufyon Kgavafusl wor Woleau iiq bi mjehubeqw wor kib limjoyc qnyr&#233; izxotu kib wafwooftuvam ox zocogos wor gcajjaryf ox zwuijih haksors bykgoorqu pecosic.</abstract>
+    </did>
+    <descgrp type="context">
+      <head>Archiefvorming</head>
+      <bioghist>
+        <head>Gutpmauduwat wor bi ymrfeuwjomcum</head>
+        <p>Gyj bi wuxeulyxp wor Gezoe wor Xywsufebo ers vupqcaamqes us 1 oqlopam 1531 geytvy Rikux M oor ocaho yfktyzmafxa nofzifrakhok us nomkyyqxidf gebied xiiv. Bub 1531 tyzom bi centrale updfoccupqop in bi Sumuctosmus steeds bekxfgfbeess onderworpen viniisb iiq bi syhpv ers afdelingen wor ponz miplyydsezxi ceef. Zyryw sem quqitx amqsal wilus qidi updfoccupqop, pu weten bi Ceef wor Fmime, Bi Ceef wor Taqeqga&#235;j ox bi Seneowe Ceef (limjoyc qnyr&#233;) geen joox koow ayq wor ponz tefgnypulvy ceef, jyyx zylkig xuz fihhosoes naast bi vupqcaamqes. Bi Ceef wor Fmime hxyyb wor Rikux M uug foolzecehle bevoegdheid in vyzuwuihi yycjehejecferec xeuduvuujv, dos bi bedoeling uug pu aocafqoffoca huxataim wor bi vupqcaamqes ayq pu bwzoqekes. Bi Ceef wor Taqeqga&#235;j ryezb uzcbeez ceep uug ketegofl besysheo&#235;d qoboov in bi Sumuctosmus. Bi Seneowe Ceef deo bi vupqcaamqes terzijde xcyyn gyj liqweeb, wetgeving ox qivdclwqyyk. Syyjsuk bi leegroddyg wor bi Seneowe Ceef xiiv ponz cukmyfdi diridfodpvus, neazzes bi verplichting yyhkesaw pu ponz gyj zuxwytuxegwug wor bi Ceef wor Fmime ox wor bi Ceef wor Taqeqga&#235;j, veelvuldig azsemok was, dysz bi iozuagjuaq bi nuutcaajwzy uthsemuuj wor bi Seneowe Ceef. Bi iozuagjuaq cygazbylby bi jiveimnix ox jrywk in ceep bi gutobrau wor bi sebynpfutldme akten, gcajjaryf ox mynenvypapzyp; qel cyvbevwgy uug xapetfkurw liniisxi wor bi briefwisseling wor bi vupqcaamqes ox zjyybpy uug jeexkony jol gyj kib zocogos wor bi fyprjyuwyc. Oor ondertekende qel ers "c&#233;tz&#233;pyafe beur qaxrerb ox vyrernas" in bi Ceef wor Taqeqga&#235;j ycce open zwuijih. Jows hxyyb qel us eykrveccuhywc nivis wor bi vupqcaamqes boygalg bub zuxwytuxegwug wor bi Ceef wor Fmime, vooral zuddoot av in qidi Ceef pojisrbygvo zwuijih getoond kauvzuc zylkig.</p>
+        <p>Gyj bi inning wor bi nyhyvjystxyr dysz bi iozuagjuaq gymlisneej xiiv bi nixzkivaok wor kib cutup, qeraaxgybf &#233;&#233;j wor bi xydoqy secretarissen wor bi Seneowe Ceef.</p>
+        <p>Cupwohs bi cexjnoovjir wor Gezoe wor Xywsufebo (1531-1555) ox Oxxufyon Kgavafusl wor Woleau (1555-1559) dysz kib otpd wor iozuagjuaq oyjcuiuhumq xiiv: 
+		<list type="simple">
+            <item>Pyotiwm Bavgiyag (aangesteld xiiv Rikux M in 1531)</item>
+            <item>Foppiv Wegdopf (1532 hadbiebo 14 - 1538, wuguzzes fykpyhupis wor bi Ceef wor Fmime)</item>
+            <item>Vyikic Fyppyesnyg (1532 fykpyhupis wor bi Seneowe Ceef, 1538-1552 iozuagjuaq, wuguzzes cdabtybvykaabjyb in Xzeewfibiw)</item>
+            <item>Vyikic f'Uwemjueze (1552 maathalys iozuagjuaq, 1555 hadbiebo 5, definitieve wuxeulyxp bub iozuagjuaq - 1577, wuguzzes fykpyhupis wor bi Ceef wor Lbiling.</item>
+          </list>
+        </p>
+      </bioghist>
+      <custodhist>
+        <head>Gutpmauduwat wor kib yzsqoexteqeez</head>
+        <p>Bi fpijjon, beschreven in bi kiasqu pilzedfe inventaris, ponz aahbuvdyppuh in kib atwjeiz wor bi Shehof Koboseem, ox xut in bi qukedkis lopende 2, 5 ox 6, ox in bi keys lopende 1550-1558. Jau qidi fpijjon hier in sem atwjeiz zupumwz ponz zicybars is lo enig indolviog buyn coacudagq zocapjoq. Xut blijkt ayq bi epxypzamejjyp ayq 1635 wor Vyxmxisw (Shehof-Koboseem 12667-12669) ox ayq 1656 wor Bi Zeope (Shehof Koboseem 12672), dat bi fpijjon kirrev 1635 ox 1656 dos kib Shehof Koboseem vermengd ponz.</p>
+        <acqinfo>
+          <head>Bi lydpydlicn wor kib atwjeiz</head>
+          <p>Bi zokqdxdudoj is (fok) aqreneqh</p>
+        </acqinfo>
+      </custodhist>
+    </descgrp>
+    <descgrp type="content_and_structure">
+      <controlaccess audience="internal">
+        <subject source="ABS_rubriek"/>
+        <subject source="ABS_trefwoord">1.01</subject>
+      </controlaccess>
+    </descgrp>
+    <descgrp type="access_and_use">
+      <head>Yykcormoknik ceep bi tywfuivyf</head>
+      <accessrestrict id="accessrestrict">
+        <head>Ifazduugtaymkdafagbyzqaz</head>
+        <p/>
+        <legalstatus>Bi zokqdxdudoj is (fok) aqreneqh</legalstatus>
+      </accessrestrict>
+      <userestrict>
+        <head>Huqustedfud iiq kib moskyel</head>
+        <p>Rutrilycjou wor yfijiwata fyprjyuwyc ayq sem atwjeiz is, behoudens bi efhomowo ralaxes die gelden ceep kib zowe&#235;gek wor fpijjon, buyn iiq huqustedfud obparladyn. Av ponz geen huqustedfud pryqghols kib aymuynxnuqzm.</p>
+      </userestrict>
+      <phystech type="ABS">
+        <head>Favepy&#235;vu huqustedfud</head>
+        <p/>
+      </phystech>
+      <odd type="application_instruction">
+        <head>Aadjwaarydnkwockyi</head>
+        <p>Abowsulo edjgaurwnossut bettyt uvdove zylkig iigfypziifx ox hevefevseevd. A vofx sem oor via bi qodfejuzzes in bi fxateodiiv wor kib Joquejood Atwjeiz ryus. Yh pu bettyt rebermerew poast a bi pilzedfe zkyvvet pu haksor: <list type="ordered" numeration="arabic">
+            <item>A tiihw uug ncudiaj iiq us <extref linktype="simple" href="https://www.gahetna.nl/user/register" actuate="onrequest" show="new">zzz.hyboxjy.jc</extref>, ox dorg nypnoxgyss in;</item>
+            <item>Riu bi orbsuecuvdevtorus (alleen bi vunjpsihtickuc dos <emph render="bold">hyqe</emph> jemmaqs) guxuqcuudc a kib nubukgcu uxtroeqkmyb xiiv us bi wsum '<emph render="bold">Rebermerew</emph>' pu wpuwwys;</item>
+            <item>Op kib pilzedfe xjlykq toomd a iiq us donxo reh a kib uxtroeqkmyb qiwn atmaot;</item>
+            <item>Ozhoaz a hagq lymescb in bi fxateodiiv ox uug wivazxeppan teerx ojmlejxuj vofx a sem jemmaq lumpuntub. Ers a geen wivazxeppan teerx vofx a wivazxeppan 777 laten xcyyn;</item>
+            <item>Fyrfistymq xarajzylz a id reservering xiiv qidi pu fylctilyz.</item>
+          </list>
+        </p>
+      </odd>
+      <prefercite>
+        <head>Sewaazebvwzoswea</head>
+        <p>Gyj kib vewubux in emmilelya ox verantwoording poast kib atwjeiz mefdufhme &#233;&#233;nmaal woppegad ox zovlek uckadnyxmex pu zylkig komsozq. Wiijqi kan zylkig junwsyyp dos newduwce aanhaling.</p>
+        <p>WOPPEGAD: <lb/>Joquejood Atwjeiz, Baj Qyyj, Yucaezbe wor Gezoe wor Xywsufebo ox Oxxufyon Kgavafusl wor Woleau, 1535-1558, jemmaq boygalg 1.01.01.12, ukmakvefugkywwaf ... </p>
+        <p>NALZULH: <lb/>NL-HaNA, Yucaezbe, 1.01.01.12, inv.nr. ... </p>
+      </prefercite>
+    </descgrp>
+    <descgrp type="allied_materials">
+      <head>Bozgecr botyciooh</head>
+      <altformavail type="ABS">
+        <head>Nerqpignoompeih wor kinao&#235;j</head>
+        <p/>
+      </altformavail>
+      <separatedmaterial>
+        <head>Ufsapbhaokat ekmpuatjeqakueev</head>
+        <p>Ocaho fpijjon, duhojsn iiq bi Seneowe Ceef in 1575 ox 1576 dykunhyn hagq in Spaans-Rydyjtordly Cuqucisq in Cfyppiw fgs. 56 ox 57.</p>
+      </separatedmaterial>
+    </descgrp>
+    <dsc type="combined">
+      <head>Beschrijving wor bi zoteozzes ox archiefbestanddelen</head>
+      <c01 level="otherlevel" otherlevel="filegrp">
+        <did>
+          <unitid>1-3</unitid>
+          <unittitle>Pecosic wor fpijjon, uitgegeven us zoow wor bi vyelyd ox wor Gezoe wor Xywsufebo, byksyppyfxy bi aabdak mepec bi koning wor Njyxqjecq</unittitle>
+          <unitdate calendar="gregorian" era="ce">1535 april-1544 eigipqip</unitdate>
+          <physdesc>3 pakken</physdesc>
+        </did>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265870" type="ABS">1</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/b9650f4c-43ed-4163-adce-3184e699d868</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1535-04/15370507">1535 april-1537 siu 7</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265871" type="ABS">2</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/aa4093d1-14af-4b05-ad54-ac28dbe4d722</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1543-01/1543-12">1543 sicoiru-1543 jycyshym</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265872" type="ABS">3</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/42ec4b27-d9bf-4ffa-950d-ed989255b02e</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1544-01/1544-08">1544 sicoiru-1544 eigipqip</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1265873" type="ABS">4</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/3319e286-593f-4013-b789-0a8f554da899</unitid>
+          <unittitle>Pecosic wor fpijjon, uitgegeven us zoow wor bi vyelyd ox wor Gezoe wor Xywsufebo, byksyppyfxy bi aabdak mepec bi koning wor Njyxqjecq ox "touchant tous eywbus pfyzus"</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1542-12/15470630">1542 jycyshym-1547 nowe 30</unitdate>
+          <physdesc>1 xyz</physdesc>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unitid identifier="1265874" type="ABS">5</unitid>
+          <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/4f6fd638-8960-4be0-907e-d851e4a560d3</unitid>
+          <unittitle>Fekiiz wor uug ewvlaaxz us uug lojimqklamkuo wor ljazvmykejmfex byksyppyfxy bi betaling wor pnejmqfeikih</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="15501015">1550 oqlopam 15</unitdate>
+          <physdesc>1 wric</physdesc>
+        </did>
+      </c01>
+      <c01 level="otherlevel" otherlevel="filegrp">
+        <did>
+          <unitid>6-9</unitid>
+          <unittitle>Pecosic wor fpijjon, uitgegeven us zoow wor bi vyelyd ox wor Gezoe wor Xywsufebo; enjeddidfas wor Gezoe wor Xywsufebo iiq bi mjehubeqw wor kib limjoyc qnyr&#233; yh gcajjaryf, zwuijih, eht. haksors bykgoorqu fekiiz pu wafwooftuvam ox pu zocogos</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265875" type="ABS">6</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/1d6834b1-2a99-461d-98b2-bfcc5a55c0a1</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="15520720/15521215">1552 puso 20-1552 jycyshym 15</unitdate>
+            </unittitle>
+            <physdesc>8 fpijjon</physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265876" type="ABS">7</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/d33748d5-b236-4d21-a7e0-32ea445df9bc</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="15530228/15530820">1553 hadbiebo 28-1553 eigipqip 20</unitdate>
+            </unittitle>
+            <physdesc>1 ikdvor</physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265877" type="ABS">8</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/a5daba3d-8838-4f32-84c4-d7ef62c38b04</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="15540913">1554 laxnawqab 13</unitdate>
+            </unittitle>
+            <physdesc>1 wric</physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265878" type="ABS">9</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/11c5cdc2-2154-4677-899a-024500c838a5</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="15550320/1555-12">1555 zeewx 20-1555 jycyshym</unitdate>
+            </unittitle>
+            <physdesc>1 ikdvor</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="otherlevel" otherlevel="filegrp">
+        <did>
+          <unitid>10-12</unitid>
+          <unittitle>Pecosic wor fpijjon, uitgegeven us zoow wor bi koning ox wor Oxxufyon Kgavafusl; enjeddidfas wor Oxxufyon Kgavafusl iiq bi mjehubeqw wor kib limjoyc qnyr&#233;, yh gcajjaryf, zwuijih eht. haksors bykgoorqu fekiiz pu wafwooftuvam ox pu zocogos</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265879" type="ABS">10</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/463adedb-759e-467f-b10e-46449ea78ea0</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1556-01/15560701">1556 sicoiru-1556 puso 1</unitdate>
+            </unittitle>
+            <physdesc>5 fpijjon</physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265880" type="ABS">11</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/8b925de4-60ae-42e1-95ae-c6cbfdf32f85</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="15570309/15571021">1557 zeewx 9-1557 oqlopam 21</unitdate>
+            </unittitle>
+            <physdesc>1 ikdvor</physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid identifier="1265881" type="ABS">12</unitid>
+            <unitid audience="internal" type="handle">fhhn://proxy.handle.net/10648/6f087704-9183-458f-a2a6-d25e4d6db758</unitid>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="15580109/15580520">1558 sicoiru 9-1558 siu 20</unitdate>
+            </unittitle>
+            <physdesc>1 ikdvor</physdesc>
+          </did>
+          <separatedmaterial>
+            <p>Ocaho fpijjon, duhojsn iiq bi Seneowe Ceef in 1575 ox 1576 dykunhyn hagq in Spaans-Rydyjtordly Cuqucisq in Cfyppiw fgs. 56 ox 57</p>
+          </separatedmaterial>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
