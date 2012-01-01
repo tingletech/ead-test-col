@@ -2,7 +2,7 @@
 
 See the wiki for [collection description](https://github.com/tingletech/ead-test-col/wiki) and [contributors](https://github.com/tingletech/ead-test-col/wiki/Contributors).
 
-This data set of noun-obscured "[greeked](https://github.com/tingletech/greeker.py)" Encoded Archival Description XML files is made available under a [CC0](http://creativecommons.org/publicdomain/zero/1.0/) license.
+This data set of noun-obscured "[greeked](https://github.com/tingletech/greeker.py)" [Encoded Archival Description](http://www.loc.gov/ead/) XML files is made available under a [CC0](http://creativecommons.org/publicdomain/zero/1.0/) license.
 
 
 Contributing instituions reserve all rights they may have in the
