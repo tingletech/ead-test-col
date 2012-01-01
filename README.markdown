@@ -1,3 +1,9 @@
 # EAD Noun-Obscured Specimen Collection
 
-see [the wiki](https://github.com/tingletech/ead-test-col/wiki)
+see [collection description](https://github.com/tingletech/ead-test-col/wiki) and [contributors](https://github.com/tingletech/ead-test-col/wiki/Contributors)
+
+This data set of noun-obscured "greeked" files is made available under a [CC0](http://creativecommons.org/publicdomain/zero/1.0/) license.
+
+Contributing instituions reserve all rights they may have to the
+original files from which these noun obscured samples were derived.
+
