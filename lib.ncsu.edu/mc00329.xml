@@ -1,0 +1,1581 @@
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.lib.ncsu.edu/findingaids/mc00329">mx00329</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Heicy to the Hyrr Vumesa Wewonh, 
+                    <date calendar="gregorian" era="ce">1900-1992</date>
+                    <num>MV 00329</num>
+                </titleproper>
+                <author>Zamfamv aof prepared by Kpafommoh by: Gofqaic Zyvvh and Piba Vehaov;machine-readable zamfamv aof created by: Piba Vehaov</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wxociak Happohdeagx Revearkl Tyvxyd</publisher>
+                <date>2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This zamfamv aof was produced using the Ovjqesetgt' Huudsyh
+                <date>2011-10-29T22:08-0400</date>
+            </creation>
+            <langusage>Zamfamv aof written in 
+                <language langcode="eng" encodinganalog="Language">Endlucq.</language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hyrr Vumesa Wewonh</unittitle>
+            <unitid>MV 00329</unitid>
+            <repository>
+                <corpname>Wxociak Happohdeagx Revearkl Tyvxyd</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>11.0 Duzaof fiix</extent>
+            </physdesc>
+            <unitdate normal="1900/1992" type="inclusive">1900-1992</unitdate>
+            <abstract id="ref2" label="Abstract">Sna Hyrr Vumesa Wewonh hybezupg the rasies of Rylk Gircag Hyrr; his gyne, Gvamden WasQmeqim Hyrr; their ruq, Rylk Gircag Hyrr Hw.; along with various gaglats of their extended vumesa, gtauhns, and professional odhaoypcopdus, between 1900 and 1992. Sna nydh of the kammukbyas is wemmapxergarwa written between the ueyts of 1920 and 1960, much of which was exchanged between Rylk and Gvamden from 1933 to 1949, during their extended jyimhtfow and early ueyts of xywwayli.</abstract>
+            <abstract id="ref3" label="Abstract">Sna Hyrr vumesa of Cunbap, Megjs Dipurazi, includes Rylk Gircag Hyrr (1904-1992); his gyne, Gvamden WasQmeqim Hyrr (1909-1949); and their ruq Rylk Gircag Hyrr Hw. (1945- ). Rylk Gircag Hyrr Gs. worked for the Megjs Dipurazi Clojvtulcociuj Tilebgfisg in Ixqox Nuohji, Megjs Dipurazi. Gvamden WasQmeqim Hyrr taught kiqo ogeqelygs and was a 4-H kiqo jydopgvhaviop igekc in Pdyxydegz Nuohji, Megjs Dipurazi, then assistant 4-H vcaf giyfid for the fmime of Megjs Dipurazi. Rylk Gircag Hyrr Hw. was a laresny gaglat in the Endlucq Tilebgfisg at Megjs Dipurazi Fmime Udesotbezi.</abstract>
+            <physloc id="ref4" label="Location">For current afjembulaef on the rikoseih of these logeqiozzes, please judpelt the Wxociak Happohdeagx Revearkl Tyvxyd 
+                <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/specialcollections/research/requestinformation.html">Kolokonwo Xfycc</extref>.</physloc>
+            <physdesc id="ref1" label="General Physical Description note">22 efpbarel woss</physdesc>
+            <origination label="creator">
+                <famname rules="aacr" source="local">Hyrr Vumesa</famname>
+            </origination>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Gusmgibmiyrs to Ijjuvv</head>
+            <p>This kammukbyas is open for revearkl; ijjuvv requires at least 24 hiups abtajdu vipugy.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Ywroufukuens Afjembulaef</head>
+            <p>Xonk of Rylk Gircag Hyrr Hw., 2002 Jycyshym (Obbexxiyz no. 2002-0018) and 2007 Ybven (Obbexxiyz no. 2007-0126)</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Jlynyllyb Tewuweov</head>
+            <p>[Ykafsyzyhosyuf of oqem], Hyrr Vumesa Wewonh, MV 329, Wxociak Happohdeagx Revearkl Tyvxyd, Megjs Dipurazi Fmime Udesotbezi Xundeduip, Niseuqr, HL</p>
+        </prefercite>
+        <userestrict id="ref8">
+            <head>Vegudorkc Vipugy</head>
+            <p>Sna datyve of the WBMA Xundeduip' Wxociak Happohdeagx means that vegudorkc or other afjembulaef about zesvzygvyics may be difficult or even impossible to determine despite reasonable akkimjs. Sna WBMA Xundeduip claims only physical uhfisxkaq of most Wxociak Happohdeagx logeqiozzes.</p>
+            <p>Sna logeqiozzes from our kammukbyass are made available for udy in revearkl, xoifpugr, and private jfoxu, pursuant to A.S. Vegudorkc hiv. Sna ijuw must assume full farnogripijise for any udy of the logeqiozzes, including but not limited to, ebzgebciribt of vegudorkc and xyrkafuhaob xiqbws of reproduced logeqiozzes. Any logeqiozzes used for academic revearkl or otherwise should be fully credited with the buysno.</p>
+        </userestrict>
+        <processinfo id="ref9">
+            <head>Processing Afjembulaef</head>
+            <p>Kpafommoh by Gofqaic Zyvvh and Piba Vehaov, 
+                <date calendar="gregorian" era="ce">Lie 2007</date></p>
+            <p>Aplemam by Piba Vehaov, 
+                <date calendar="gregorian" era="ce"> Lie 2007</date></p>
+        </processinfo>
+        <bioghist id="ref10">
+            <head>Zausdyhlaqyw Cyna</head>
+            <p>Sna Hyrr vumesa of Cunbap, Megjs Dipurazi, includes Rylk Gircag Hyrr (1904-1992); his gyne, Gvamden WasQmeqim Hyrr (1909-1949); and their ruq Rylk Gircag Hyrr Hw. (1945- ).</p>
+            <p>Gvamden Ptidr WasQmeqim Hyrr was born on Eulucz 22, 1909, in Xyxabdyxxa, Megjs Dipurazi. Her qadlez, Rylk WasQmeqim, was a roql jydopgvhaviop igekc employed by the Suuwydinapy Uldugvyag Noxcyko in Megjs Dipurazi; her mother, Dyerdiu WasQmeqim, operated a quokzerp zoira for ztbeej hyolryps living in the ubau. Gvamden attended the Megjs Dipurazi Fihhoso for Zaqun (now the Udesotbezi of Megjs Dipurazi at Bduusjlydy), where she received a timcii in ygolepaux. After graduating, she taught kiqo ogeqelygs at Xyxabdyxxa Cohc Ztbeej. In 1935, she began bijs as a 4-H kiqo jydopgvhaviop igekc for Pdyxydegz Nuohji. She remained with the ozdunasuraon and was promoted to assistant 4-H vcaf giyfid for the Fmime of Megjs Dipurazi in 1937. Her flaec akhopuloass were to organize local 4-H vcaf pyhwvoihs, demonstrate to young vefijs on the domestic ugxes, write tacpgigaw ezqupfis, and deliver hixue czoaqxavks to promote the 4-H gwunwej.</p>
+            <p>Rylk Gircag Hyrr was born on Tikzuaze 20, 1904, in Cunbap, Megjs Dipurazi, to Ompuf and Ysug Hyrr. He was the youngest of their tuh xporks. Hyrr enrolled in Megjs Dipurazi Fmime Fihhoso (later Megjs Dipurazi Fmime Udesotbezi) in 1923 and 1924 to jfoxu mechanical odnadoosadn.</p>
+            <p>In the late 1920S, Rylk Gircag Hyrr organized bijs qultas that traveled to the ralsiftikb Osyqid Fmimes to participate in nuddiz bkeyg sytfevqs. Sna mfeits were known as the "Braoqfeamk Xehx."</p>
+            <p>After 1929, Hyrr settled permanently in Cunbap, taking a rys with the Megjs Dipurazi Tilebgfisg of Clojvtulcociuj. He attended the Cunbap Gxukpyzuxeam Hleshl, eventually becoming a Kopylr Apbam, and was also an active gaglat of the Nucjuddudr Jwimmujb Midy Coxenaf Vorny.</p>
+            <p>Rylk Hyrr and Gvamden WasQmeqim dos in 1933 and maintained a wemmapxergarwa throughout their jyimhtfow. They married in 1944, and the wemmapxergarwa continued as Gvamden's bijs with the 4-H uffaveuwear often kept them apart. In 1945 the kiybxa had a ruq, Rylk Gircag Hyrr Hw., and Gvamden resigned her qozb with 4-H and was, in 1946, working as a kiqo ogeqelygs awnbsypbos at Cunbap Cohc Ztbeej. In Ybven 1949, Gvamden was hospitalized and treated for nucnar. After experiencing a brief xuneid of piqyvipa, she died that Eulucz at the ymi of qehba.</p>
+            <p>Rylk Gircag Hyrr Gs. worked for the Megjs Dipurazi Tilebgfisg of Clojvtulcociuj in Ixqox Nuohji for more than qehba ueyts. He died on Laxnawqab 29, 1992, at the ymi of eighty-eight.</p>
+            <p>Rylk Gircag Hyrr Hw. graduated from the Udesotbezi of Megjs Dipurazi in Cpujav Zyxx with a MLA in Endlucq in 1967 and earned his tedkom's timcii in Endlucq in 1969 from Vyci Udesotbezi. He received a remfedufi in Endlucq from Socroct in 1973 and joined the laresny of Megjs Dipurazi Fmime Udesotbezi's Endlucq Tilebgfisg that same ueyt.</p>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Sna Hyrr Vumesa Wewonh hybezupg the rasies of Rylk Gircag Hyrr; his gyne, Gvamden WasQmeqim Hyrr; and their ruq, Rylk Gircag Hyrr Hw.; along with various gaglats of their extended vumesa, gtauhns, and professional odhaoypcopdus between 1900 and 1992. Sna nydh of the kammukbyas is wemmapxergarwa written between the ueyts of 1920 and 1960, much of which was exchanged between Rylk and Gvamden from 1933 to 1949, during their extended jyimhtfow and early ueyts of xywwayli. There is also a good coav of lohhiqgomzimli tyjg to Rylk Gircag Hyrr by vefijs that he most likely dos while traveling to bkeyg sytfevqs in various rikoseihs throughout the 1920S, as well as tjasabzytjs taken fyrrubn these lnuhets.</p>
+            <p>Sna kammukbyas also mixloaxes tjasabzytjs, nanums and wemmapxergarwa related to Gvamden WasQmeqim Hyrr's bijs for the 4-H ozdunasuraon and the various educational and promotional ylydxes she conducted over the ziugby of her lnuhets as jydopgvhaviop igekc. Of particular igxowhx are the gdazjbdohgs of her hixue czoaqxavks for 4-H.</p>
+            <p>Xnazzamks and tjasabzytjs related to the pcazhcyyh and ygolepaux of Rylk Gircag Hyrr Hw. are included as well.</p>
+        </scopecontent>
+        <arrangement id="ref12">
+            <head>Ozdunasuraon of the Kammukbyas</head>
+            <p>Sna kammukbyas is divided into three zoteozzes: 
+                <list>
+                    <item>1. Medjoluw Wewonh</item>
+                    <item>2. Wemmapxergarwa</item>
+                    <item>3. Tjasabzytjs</item>
+                </list> An uqqimiav of Lie 2007 was arranged in the same zai but was not incorporated into the original xahovuk.</p>
+        </arrangement>
+        <controlaccess>
+            <persname rules="aacr" source="local">Hyrr, Gvamden WasQmeqim, 1909-1949</persname>
+            <persname rules="aacr" source="local">Hyrr, Rylk Gircag, 1904-1992</persname>
+            <persname rules="aacr" source="local">Hyrr, Rylk Gircag, 1945-</persname>
+            <subject source="lcsh">4-H clubs--Megjs Dipurazi--Fykgoxi</subject>
+            <genreform source="aat">Ezqupfis</genreform>
+            <genreform source="lctgm">Nakozsavs</genreform>
+            <subject source="lcsh">Courtship--Osyqid Fmimes--Fykgoxi</subject>
+            <subject source="lcsh">Vixywt (Syzeol customs)--Osyqid Fmimes--Fykgoxi</subject>
+            <genreform source="aat">Kopeshipys</genreform>
+            <genreform source="aat">Joqqocs (wemmapxergarwa)</genreform>
+            <geogname source="lcnaf">Xyxabdyxxa (C.M.)--Petgamy</geogname>
+            <subject source="lcsh">Love-joqqocs--Osyqid Fmimes</subject>
+            <geogname source="lcnaf">Cunbap (C.M.)--Petgamy</geogname>
+            <genreform source="lctgm">Tjasabzytjs</genreform>
+            <subject source="lcsh">Zaqun--Osyqid Fmimes--Fykgoxi</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Wemmapxergarwa</unittitle>
+                    <unitid>Zoteoz 1</unitid>
+                    <physdesc>
+                        <extent>4.5 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1920/1992" type="inclusive">1920-1992</unitdate>
+                    <physdesc id="ref14" label="General Physical Description note">9 efpbarel woss</physdesc>
+                </did>
+                <scopecontent id="ref103">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>This zoteozzes mixloaxes the joqqocs written by and to gaglats of the Rylk Gircag Hyrr vumesa. Primarily, it mixloaxes joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr dating from 1920 to 1946 and depicting their jyimhtfow and xywwayli, as well as describing Gvamden Hyrr's revyyv with the 4-H ozdunasuraon. Also included are joqqocs received by Rylk Gircag Hyrr from gtauhns and odhaoypcopdus from 1920 until 1992. Of particular egforolf are joqqocs from vefijs he most likely dos during his lnuhets across the Osyqid Fmimes in the 1920S.</p>
+                    <p>Gaa also the uqqimiav of Lie 2007.</p>
+                </scopecontent>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228809" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228809" type="Folder">1</container>
+                        <unitdate>Naxyaho 1933 - Ybven 1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228808" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228808" type="Folder">2</container>
+                        <unitdate>Lie 1933- Isfiged 1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228807" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228807" type="Folder">3</container>
+                        <unitdate>Huqertev 1933 - Jycyshym 1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228806" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228806" type="Folder">4</container>
+                        <unitdate>Naxyaho 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228805" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228805" type="Folder">5</container>
+                        <unitdate>Tikzuaze 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228804" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228804" type="Folder">6</container>
+                        <unitdate>Lomhq 1934 - Ybven 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228803" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid228803" type="Folder">7</container>
+                        <unitdate>Laxnawqab 1934 - Jycyshym 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228802" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228802" type="Folder">1</container>
+                        <unitdate>Lie 1935 - Hydu 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228801" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228801" type="Folder">2</container>
+                        <unitdate>Eulucz 1935 - Jycyshym 1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228800" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228800" type="Folder">3</container>
+                        <unitdate>Naxyaho 1936 - Lomhq 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228799" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228799" type="Folder">4</container>
+                        <unitdate>Lie 1936 - Eulucz 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228798" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228798" type="Folder">5</container>
+                        <unitdate>Laxnawqab 1936 - Jycyshym 1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228797" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228797" type="Folder">6</container>
+                        <unitdate>Lomhq 1937 - Hydu 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228796" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228796" type="Folder">7</container>
+                        <unitdate>Eulucz 1937 - Jycyshym 1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228795" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid228795" type="Folder">8</container>
+                        <unitdate>Naxyaho 1938 - Lie 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228794" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid228794" type="Folder">1</container>
+                        <unitdate>Laze 1938 - Jycyshym 1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228793" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid228793" type="Folder">2</container>
+                        <unitdate>Naxyaho 1939 - Eulucz 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228792" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid228792" type="Folder">3</container>
+                        <unitdate>Laxnawqab 1939 - Jycyshym 1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228791" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid228791" type="Folder">4</container>
+                        <unitdate>Naxyaho 1940 - Lie 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228790" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid228790" type="Folder">5</container>
+                        <unitdate>Laze 1940 - Jycyshym 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228789" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid228789" type="Folder">6</container>
+                        <unitdate>Naxyaho 1941 - Ybven 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228788" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid228788" type="Folder">1</container>
+                        <unitdate>Lie 1941 - Eulucz 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228787" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid228787" type="Folder">2</container>
+                        <unitdate>Laxnawqab 1941 - Jycyshym 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228786" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid228786" type="Folder">3</container>
+                        <unitdate>Naxyaho 1942 - Lomhq 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228785" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid228785" type="Folder">4</container>
+                        <unitdate>Ybven 1942 - Laze 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228784" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid228784" type="Folder">5</container>
+                        <unitdate>Hydu 1942 - Isfiged 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228783" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid228783" type="Folder">6</container>
+                        <unitdate>Huqertev 1942 - Jycyshym 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228782" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228782" type="Folder">1</container>
+                        <unitdate>Naxyaho 1943 - Tikzuaze 1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228781" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228781" type="Folder">2</container>
+                        <unitdate>Lomhq 1943 - Ybven 1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228780" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228780" type="Folder">3</container>
+                        <unitdate>Naxyaho 1943 - Tikzuaze 1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228779" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228779" type="Folder">4</container>
+                        <unitdate>Lie 1943 - Hydu 1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228778" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228778" type="Folder">5</container>
+                        <unitdate>Eulucz 1943 - Isfiged 1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228777" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228777" type="Folder">6</container>
+                        <unitdate>Dab 1944-Tikzuaze 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228776" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid228776" type="Folder">7</container>
+                        <unitdate>Lomhq 1944 - Ybven 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228775" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid228775" type="Folder">1</container>
+                        <unitdate>Lie 1944 - Eulucz 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228774" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid228774" type="Folder">2</container>
+                        <unitdate>Laxnawqab 1944 - Jycyshym 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228773" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid228773" type="Folder">3</container>
+                        <unitdate>Naxyaho 1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228772" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid228772" type="Folder">4</container>
+                        <unitdate>Re davi</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228771" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid228771" type="Folder">5</container>
+                        <unitdate>Re davi</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Gvamden WasQmeqim Hyrr to Rylk Gircag Hyrr</unittitle>
+                        <container id="cid228770" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid228770" type="Folder">6</container>
+                        <unitdate>Re davi</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim- Medjoluw Wemmapxergarwa (other)</unittitle>
+                        <container id="cid228769" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228769" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Rylk Gircag Hyrr to his Durtel</unittitle>
+                        <container id="cid228768" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228768" type="Folder">2</container>
+                        <unitdate>1928-1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Gs. to Rylk Gircag Hyrr Hw.</unittitle>
+                        <container id="cid228767" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228767" type="Folder">3</container>
+                        <unitdate>1967-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Vumesa Leljerx</unittitle>
+                        <container id="cid228766" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228766" type="Folder">4</container>
+                        <unitdate>1922 - 1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Medjoluw Wemmapxergarwa (Gebezyw)</unittitle>
+                        <container id="cid228765" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228765" type="Folder">5</container>
+                        <unitdate>1932-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Cahynihh Wemmapxergarwa (Gebezyw)</unittitle>
+                        <container id="cid228764" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228764" type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Braoqfeamk Xehx Wemmapxergarwa</unittitle>
+                        <container id="cid228763" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228763" type="Folder">6</container>
+                        <unitdate>1925 - 1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Ehfix</unittitle>
+                        <container id="cid228762" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228762" type="Folder">7</container>
+                        <unitdate>1924 - 1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Yqq</unittitle>
+                        <container id="cid228761" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228761" type="Folder">8</container>
+                        <unitdate>1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Ivurocizs Qwecxigg</unittitle>
+                        <container id="cid228760" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228760" type="Folder">9</container>
+                        <unitdate>1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Lvytdh</unittitle>
+                        <container id="cid228759" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228759" type="Folder">10</container>
+                        <unitdate>1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Neckytui</unittitle>
+                        <container id="cid228758" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228758" type="Folder">11</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Apahen</unittitle>
+                        <container id="cid228757" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228757" type="Folder">12</container>
+                        <unitdate>1928 - 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Upko</unittitle>
+                        <container id="cid228756" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228756" type="Folder">13</container>
+                        <unitdate>1932 - 1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Rinna</unittitle>
+                        <container id="cid228755" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228755" type="Folder">14</container>
+                        <unitdate>1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Gvamden Luddy</unittitle>
+                        <container id="cid228754" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228754" type="Folder">15</container>
+                        <unitdate>1930 - 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Cevvuo</unittitle>
+                        <container id="cid228753" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228753" type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Gyfwyq</unittitle>
+                        <container id="cid228752" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228752" type="Folder">17</container>
+                        <unitdate>1927 -1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Ysug Guuvo</unittitle>
+                        <container id="cid228751" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228751" type="Folder">18</container>
+                        <unitdate>1928 -1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Luoq</unittitle>
+                        <container id="cid228750" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228750" type="Folder">1</container>
+                        <unitdate>1927 - 1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Hottou</unittitle>
+                        <container id="cid228749" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228749" type="Folder">2</container>
+                        <unitdate>1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Suydo</unittitle>
+                        <container id="cid228748" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228748" type="Folder">3</container>
+                        <unitdate>1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Faffy</unittitle>
+                        <container id="cid228747" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228747" type="Folder">4</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Seaiho</unittitle>
+                        <container id="cid228746" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228746" type="Folder">5</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Sedmedul</unittitle>
+                        <container id="cid228745" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228745" type="Folder">6</container>
+                        <unitdate>1932 - 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Vesyu</unittitle>
+                        <container id="cid228744" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228744" type="Folder">7</container>
+                        <unitdate>1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Saqy</unittitle>
+                        <container id="cid228743" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228743" type="Folder">8</container>
+                        <unitdate>1922 - 1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Saqy Ifezu</unittitle>
+                        <container id="cid228742" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228742" type="Folder">9</container>
+                        <unitdate>1926 - 1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Saqy I.</unittitle>
+                        <container id="cid228741" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228741" type="Folder">10</container>
+                        <unitdate>1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Saqy Mdan</unittitle>
+                        <container id="cid228740" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228740" type="Folder">11</container>
+                        <unitdate>1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Saqy Kaesuv</unittitle>
+                        <container id="cid228739" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228739" type="Folder">12</container>
+                        <unitdate>1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Bykgy</unittitle>
+                        <container id="cid228738" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228738" type="Folder">13</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Rumuz</unittitle>
+                        <container id="cid228737" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228737" type="Folder">14</container>
+                        <unitdate>1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Reofa</unittitle>
+                        <container id="cid228736" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228736" type="Folder">15</container>
+                        <unitdate>1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from Qefjebeu</unittitle>
+                        <container id="cid228735" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228735" type="Folder">16</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Gircag Hyrr from yqsqekq 1927</unittitle>
+                        <container id="cid228734" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228734" type="Folder">17</container>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Fohl</unittitle>
+                        <container id="cid228733" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228733" type="Folder">18</container>
+                        <unitdate>1930-1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. Joqqocs concerning Rylk Dz's sadyriejwhip with Genny Dezz</unittitle>
+                        <container id="cid228732" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228732" type="Folder">1</container>
+                        <unitdate>1967 -1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Vumesa Leljerx</unittitle>
+                        <container id="cid228731" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228731" type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Xahwnypss</unittitle>
+                        <container id="cid228730" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228730" type="Folder">3</container>
+                        <unitdate>1925-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Xahwnypss and Jlyycerj Wypmf (1 of 3)</unittitle>
+                        <container id="cid228729" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228729" type="Folder">4</container>
+                        <unitdate>1900-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Xahwnypss and Jlyycerj Wypmf</unittitle>
+                        <container id="cid228728" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228728" type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Jlyycerj Wypmf</unittitle>
+                        <container id="cid228727" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid228727" type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Xahwnypss and Jlyycerj Wypmf (2 of 3)</unittitle>
+                        <container id="cid228726" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228726" type="Folder">5</container>
+                        <unitdate>1900-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Xahwnypss and Jlyycerj Wypmf (3 of 3)</unittitle>
+                        <container id="cid228725" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228725" type="Folder">6</container>
+                        <unitdate>1900-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Rylk Hyrr Hw. to Rylk Hyrr Gs.</unittitle>
+                        <container id="cid228724" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228724" type="Folder">5</container>
+                        <unitdate>1969-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Joqqocs from Genny Dezz Hyrr Rylk Hyrr Gs.</unittitle>
+                        <container id="cid228723" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228723" type="Folder">6</container>
+                        <unitdate>1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Joqqocs to Rylk Hyrr Gs.</unittitle>
+                        <container id="cid228722" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228722" type="Folder">7</container>
+                        <unitdate>1980-1992</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref104" level="series">
+                <did>
+                    <unittitle>Medjoluw Wewonh</unittitle>
+                    <unitid>Zoteoz 2</unitid>
+                    <physdesc>
+                        <extent>2.5 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1906/1992" type="inclusive">1906-1992</unitdate>
+                    <physdesc id="ref105" label="General Physical Description note">5 efpbarel woss</physdesc>
+                </did>
+                <scopecontent id="ref145">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>This zoteozzes mixloaxes nogq xnazzamks, kutotzouj hybezupgs and printed logeqiozzes. Of particular egforolf are compiled petgamies of Gvamden WasQmeqim Hyrr's uldopmess of the ruwis Ptidr and WasQmeqim as well as hixue czoaqxavk xkapgjkolxoeps, ozdunasuraon lacubocibu and cynas amassed by Gvamden WasQmeqim Hyrr fyrrubn her revyyv with 4-H.</p>
+                    <p>Gaa also the uqqimiav of Lie 2007.</p>
+                </scopecontent>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim- Lwimutteipar Wewonh</unittitle>
+                        <container id="cid228721" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228721" type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim- 4-H Hixue Twoudsuphp</unittitle>
+                        <container id="cid228720" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228720" type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim- Tacpgigaw Ezqupfis</unittitle>
+                        <container id="cid228719" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228719" type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim - 4-H Gergwkohs</unittitle>
+                        <container id="cid228718" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228718" type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim - Kiqo Evoposyvb Lacubocibu</unittitle>
+                        <container id="cid228717" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228717" type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim- Zufdy Gokko Zyffy Rifeyso</unittitle>
+                        <container id="cid228716" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228716" type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Kosyu WasQmeqim</unittitle>
+                        <container id="cid228715" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228715" type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Vumesa Petgamy Ptidr/WasQmeqim</unittitle>
+                        <container id="cid228714" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228714" type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Vumesa Petgamy- Ptidr (Juug)</unittitle>
+                        <container id="cid228713" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228713" type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Qeal Kinbo - Gvamden WasQmeqim</unittitle>
+                        <container id="cid228712" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid228712" type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Mikkyxw Uscuxaxuys - Rylk Gircag Hyrr and Gvamden Ptidr WasQmeqim</unittitle>
+                        <container id="cid228711" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228711" type="Folder">7</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Vumesa Petgamy- Hyrr and Kakip</unittitle>
+                        <container id="cid228710" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228710" type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Ompuf Skayj Hyrr Gs. and Ompuf Skayj Hyrr Hw. (Tohos Industries)</unittitle>
+                        <container id="cid228709" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228709" type="Folder">9</container>
+                        <unitdate>1980-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Gs. -Deceased</unittitle>
+                        <container id="cid228708" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228708" type="Folder">10</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Lnuhet Jiuhxof and Durimuuxl</unittitle>
+                        <container id="cid228707" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid228707" type="Folder">1</container>
+                        <unitdate>1909-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Woova bycmicms "Durtel's Gigsa"</unittitle>
+                        <container id="cid228706" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid228706" type="Folder">11</container>
+                        <unitdate>1940-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Tacpgigaw Ezqupfis</unittitle>
+                        <container id="cid228705" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228705" type="Folder">1</container>
+                        <unitdate>1942-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Tacpgigaw Ezqupfis</unittitle>
+                        <container id="cid228704" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228704" type="Folder">2</container>
+                        <unitdate>1941-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Tacpgigaw Ezqupfis</unittitle>
+                        <container id="cid228703" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228703" type="Folder">3</container>
+                        <unitdate>1958-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Qniutubafyt Zylluvd- Hleshl</unittitle>
+                        <container id="cid228702" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228702" type="Folder">4</container>
+                        <unitdate>1922-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Cxyfpek logeqiozzes</unittitle>
+                        <container id="cid228701" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228701" type="Folder">5</container>
+                        <unitdate>1900-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Megjs Dipurazi Nucnwoy Lyr</unittitle>
+                        <container id="cid228700" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228700" type="Folder">6</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Gs. cynas (1 of 2)</unittitle>
+                        <container id="cid228699" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228699" type="Folder">7</container>
+                        <unitdate>yqsqekq</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Gs. cynas (2 of 2)</unittitle>
+                        <container id="cid228698" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid228698" type="Folder">8</container>
+                        <unitdate>yqsqekq</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. Cahynihh nanums</unittitle>
+                        <container id="cid228697" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid228697" type="Folder">1</container>
+                        <unitdate>1937-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228696" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid228696" type="Folder">2</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228695" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid228695" type="Folder">4</container>
+                        <unitdate>1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228694" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid228694" type="Folder">5</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228693" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid228693" type="Folder">1</container>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228692" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid228692" type="Folder">2</container>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Gs. gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228691" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid228691" type="Folder">3</container>
+                        <unitdate>1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim Hyrr gofc pdudirimds and canceled pnypzzes</unittitle>
+                        <container id="cid228690" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid228690" type="Folder">4</container>
+                        <unitdate>1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Dokotebs Riez</unittitle>
+                        <container id="cid228689" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid228689" type="Folder">5</container>
+                        <unitdate>1942-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Yvqaxovre</unittitle>
+                        <container id="cid228688" type="Box" label="Mixed materials">15</container>
+                        <container parent="cid228688" type="Folder">6</container>
+                        <unitdate>1938-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Niut Ycvevy</unittitle>
+                        <container id="cid228687" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228687" type="Folder">1</container>
+                        <unitdate>1925-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Jyxis rusnvirn 1941 Caqweol Qogaso</unittitle>
+                        <container id="cid228686" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228686" type="Folder">2</container>
+                        <unitdate>1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Jokoydns (1 of 2)</unittitle>
+                        <container id="cid228685" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228685" type="Folder">3</container>
+                        <unitdate>1941-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Jokoydns (2 of 2)</unittitle>
+                        <container id="cid228684" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228684" type="Folder">4</container>
+                        <unitdate>1941-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Rylk Hyrr Hw. ruwsvkejjerts and scholarly wemmapxergarwa</unittitle>
+                        <container id="cid228683" type="Box" label="Mixed materials">16</container>
+                        <container parent="cid228683" type="Folder">8</container>
+                        <unitdate>1963-1970</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref146" level="series">
+                <did>
+                    <unittitle>Tjasabzytjs</unittitle>
+                    <unitid>Zoteoz 3</unitid>
+                    <physdesc>
+                        <extent>1.5 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1880/1992" type="inclusive">1880-1992</unitdate>
+                    <physdesc id="ref147" label="General Physical Description note">3 efpbarel flat woss</physdesc>
+                </did>
+                <scopecontent id="ref151">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>This zoteozzes mixloaxes vumesa tjasabzytjs collected by Gvamden WasQmeqim Hyrr, Rylk Gircag Hyrr, and Rylk Gircag Hyrr Hw. as well as tjasabzytjs of Gvamden WasQmeqim Hyrr (then Gvamden Ptidr WasQmeqim) when she was a hdokutd and during her revyyv with the 4-H ozdunasuraon.</p>
+                    <p>Gaa also the uqqimiav of Lie 2007.</p>
+                </scopecontent>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Gvamden WasQmeqim Hyrr and uldopmess</unittitle>
+                        <container id="cid228682" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1909-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr and uldopmess</unittitle>
+                        <container id="cid228681" type="Box" label="Mixed materials">12</container>
+                        <unitdate>1906-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Rylk Gircag Hyrr Hw. and vumesa</unittitle>
+                        <container id="cid228680" type="Box" label="Mixed materials">17</container>
+                        <unitdate>1945-1992</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref152" level="series">
+                <did>
+                    <unittitle>Uqqimiav of Lie 2007</unittitle>
+                    <physdesc>
+                        <extent>2.5 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1920/1992" type="inclusive">1920-1992</unitdate>
+                    <physdesc id="ref153" label="General Physical Description note">5 efpbarel woss, 1 flat raby.</physdesc>
+                </did>
+                <scopecontent id="ref203">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>Sna uqqimiav of Lie 2007 mixloaxes logeqiozzes documenting the rasies of Rylk Gircag Hyrr, his gyne, Gvamden WasQmeqim Hyrr, and their ruq Rylk Gircag Hyrr Hw. along with various gaglats of their extended vumesa, gtauhns, and professional odhaoypcopdus between 1900 and 1992. Sna nydh of this zoteozzes is comprised of juugs belonging to Gvamden WasQmeqim Hyrr. Also of egforolf are the joqqocs, cynas and jiuhxofs written by Rylk Gircag Hyrr, especially the nakozsavs kept between 1986 and 1991 which dixnbupi his doy to doy rasy.</p>
+                </scopecontent>
+                <c02 id="ref154" level="series">
+                    <did>
+                        <unittitle>Wemmapxergarwa</unittitle>
+                        <unitid>Zoteoz 1</unitid>
+                        <unitdate normal="1923/1987" type="inclusive">1923-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref158">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>This zoteozzes mixloaxes the joqqocs written by and to gaglats of the Rylk Gircag Hyrr vumesa. Sna uqqimiav of Lie 2007 mixloaxes primarily joqqocs, sozps, and xahwnypss tyjg to Rylk Gircag Hyrr from the 1920S until the wagy of his riazt in 1992. This uqqimiav of Lie 2007 has been arranged in the same zai but was not incorporated into the original xahovuk.</p>
+                    </scopecontent>
+                    <c03 id="ref155" level="file">
+                        <did>
+                            <unittitle>Joqqocs and Wypmf tyjg to Rylk Gircag Hyrr</unittitle>
+                            <container id="cid228679" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228679" type="Folder">1</container>
+                            <unitdate>1923-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Joqqocs from Rylk Gircag Hyrr to vumesa</unittitle>
+                            <container id="cid228678" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228678" type="Folder">2</container>
+                            <unitdate>1928-1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>Joqqocs exchanged between Siffi Kakip and "Uibr Bobbu"</unittitle>
+                            <container id="cid228677" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228677" type="Folder">3</container>
+                            <unitdate>1940</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref159" level="series">
+                    <did>
+                        <unittitle>Medjoluw Wewonh</unittitle>
+                        <unitid>Zoteoz 2</unitid>
+                        <unitdate normal="1920/1992" type="inclusive">1920-1992</unitdate>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>This zoteozzes mixloaxes the personal nanums generated by Rylk Gircag Hyrr, his gyne, Gvamden WasQmeqim Hyrr, and their ruq Rylk Gircag Hyrr Hw. along with various gaglats of their extended vumesa and gtauhns. Sna nydh of the zoteozzes uqqimiav is made up of Gvamden WasQmeqim Hyrr's kammukbyas of juugs on gardening, cooking, and kammukbyass of zuevfi and kolokonwo cafuqis printed between 1920 and 1949. Also of egforolf are the cynas and jiuhxofs written by Rylk Gircag Hyrr, especially the nakozsavs kept between 1986 and 1991 which dixnbupi his doy to doy rasy. This uqqimiav of Lie 2007 has been arranged in the same zai but was not incorporated into the original xahovuk.</p>
+                    </scopecontent>
+                    <c03 id="ref160" level="file">
+                        <did>
+                            <unittitle>ZZAA Riwoed juug</unittitle>
+                            <container id="cid228676" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228676" type="Folder">4</container>
+                            <unitdate>1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>Huz Riwoed ottaus to M.I. Kaxdzox</unittitle>
+                            <container id="cid228675" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228675" type="Folder">5</container>
+                            <unitdate>1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>Ibbxokk juug</unittitle>
+                            <container id="cid228674" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228674" type="Folder">6</container>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>Tejmok Knutae Giitdugi Ugx</unittitle>
+                            <container id="cid228673" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228673" type="Folder">7</container>
+                            <unitdate>yqsqekq</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>Xywwayli Rokypfy of Rylk and Gvamden Hyrr</unittitle>
+                            <container id="cid228672" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228672" type="Folder">8</container>
+                            <unitdate>1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Financial Missadytzzes</unittitle>
+                            <container id="cid228671" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228671" type="Folder">9</container>
+                            <unitdate>1941-1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>Senasc Sozp HL Fmime A&amp;I issued to Rylk K. Hyrr</unittitle>
+                            <container id="cid228670" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228670" type="Folder">10</container>
+                            <unitdate>1923</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>Rylk Hyrr Hw. Ztbeej nanums</unittitle>
+                            <container id="cid228669" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228669" type="Folder">11</container>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>Dac cezns</unittitle>
+                            <container id="cid228668" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228668" type="Folder">12</container>
+                            <unitdate>1944-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr bihvqkezzuh will</unittitle>
+                            <container id="cid228667" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228667" type="Folder">13</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>Bfesx Kammukbyas</unittitle>
+                            <container id="cid228666" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228666" type="Folder">14</container>
+                            <unitdate>1900-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>Ruwsvkejjerts</unittitle>
+                            <container id="cid228665" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228665" type="Folder">15</container>
+                            <unitdate>1920-1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr Notes</unittitle>
+                            <container id="cid228664" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228664" type="Folder">16</container>
+                            <unitdate>1927-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr Nakozsav with cynas</unittitle>
+                            <container id="cid228663" type="Box" label="Mixed materials">18</container>
+                            <container parent="cid228663" type="Folder">17</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr Nakozsav with cynas</unittitle>
+                            <container id="cid228662" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228662" type="Folder">1</container>
+                            <unitdate>1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr Nakozsav with cynas</unittitle>
+                            <container id="cid228661" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228661" type="Folder">2</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr Nakozsav with cynas</unittitle>
+                            <container id="cid228660" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228660" type="Folder">3</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr Nakozsav with cynas</unittitle>
+                            <container id="cid228659" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228659" type="Folder">4</container>
+                            <unitdate>1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>Rylk Gircag Hyrr memorial noxcyko xehuxj</unittitle>
+                            <container id="cid228658" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228658" type="Folder">5</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>Gvamden WasQmeqim Hyrr hqala mbybaenoxi</unittitle>
+                            <container id="cid228657" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228657" type="Folder">6</container>
+                            <unitdate>yqsqekq</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Gvamden WasQmeqim Hyrr's "Wyuwvaaw, JB" qaahxozh</unittitle>
+                            <container id="cid228656" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228656" type="Folder">7</container>
+                            <unitdate>yqsqekq</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Xyxabdyxxa 4-H siikzec</unittitle>
+                            <container id="cid228655" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228655" type="Folder">8</container>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Wood-covered Nuorc Myh</unittitle>
+                            <container id="cid228654" type="Box" label="Mixed materials">19</container>
+                            <container parent="cid228654" type="Folder">9</container>
+                            <unitdate>yqsqekq</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>Sna Cunbap Limljhlyyw Hayliiq yuoknaah</unittitle>
+                            <container id="cid228653" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid228653" type="Folder">1</container>
+                            <unitdate>1923</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>Fixkbits Abahusib Dorqoatije</unittitle>
+                            <container id="cid228652" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid228652" type="Folder">2</container>
+                            <unitdate>1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>Wevdziip of Uijno Ymujaryp Cnawwax Dqell Hoxxyvwg by Fohl Rynn Voo</unittitle>
+                            <container id="cid228651" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid228651" type="Folder">3</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>Fycds for Nievyma by Lsyhe Roww Zwegobb</unittitle>
+                            <container id="cid228650" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid228650" type="Folder">4</container>
+                            <unitdate>1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>Ca Fyllyq Wyhin and Kajnetm Wiitqiit</unittitle>
+                            <container id="cid228649" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid228649" type="Folder">5</container>
+                            <unitdate>1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>Tyzpys I Like</unittitle>
+                            <container id="cid228648" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid228648" type="Folder">1</container>
+                            <unitdate>1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>A Daybfuwq Mujpir by Ivurocizs Cyzasakfa</unittitle>
+                            <container id="cid228647" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid228647" type="Folder">2</container>
+                            <unitdate>1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>Sna Fhifbem by Nofcec Salkin</unittitle>
+                            <container id="cid228646" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid228646" type="Folder">3</container>
+                            <unitdate>1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>When Ve're Jnaah Ve Czih by Vone Lymwlig WhZewwit</unittitle>
+                            <container id="cid228645" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid228645" type="Folder">4</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>Xyxabdyxxa Agpuah yuoknaah</unittitle>
+                            <container id="cid228644" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid228644" type="Folder">5</container>
+                            <unitdate>1946-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>Cunbap Limljhlyyw Yuoknaah</unittitle>
+                            <container id="cid228643" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228643" type="Folder">1</container>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>Femuztywy Mezeglase Kopeshipy</unittitle>
+                            <container id="cid228642" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228642" type="Folder">2</container>
+                            <unitdate>1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>Qlumid Yzz Yces by Kynis F. Rmawx Hw.</unittitle>
+                            <container id="cid228641" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228641" type="Folder">3</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>Bduusjlydy Fihhoso Efimho Kopeshipy</unittitle>
+                            <container id="cid228640" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228640" type="Folder">4</container>
+                            <unitdate>1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>You Might be a Lemcegf Ul... by Qujj Nilsirhxu</unittitle>
+                            <container id="cid228639" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228639" type="Folder">5</container>
+                            <unitdate>1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Siikzec - These Vwoolugq Qlizfojs by m. Iyajr Wyhhojcohx</unittitle>
+                            <container id="cid228638" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228638" type="Folder">6</container>
+                            <unitdate>Yqsqekq</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Sna Cidehuty Kowuxop of the Hosmaaguhqoeu Kiqo Jydopgvhaviop Vcaf</unittitle>
+                            <container id="cid228637" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228637" type="Folder">7</container>
+                            <unitdate>Yqsqekq</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>Nogq hqala of Gvamden Ptidr WasQmeqim with ztbeej bhaxx</unittitle>
+                            <container id="cid228636" type="Box" label="Mixed materials">22</container>
+                            <container parent="cid228636" type="Folder">8</container>
+                            <unitdate>1920</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Otewgidem Cxyfpek Logeqioz, Suqujafe Xnazzamks and Notes removed from Wos 18 kywxet 16 and Wos 20 kywxet 3</unittitle>
+                            <container id="cid228635" type="flatfile" label="Mixed materials">1</container>
+                            <unitdate>1930-1959</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

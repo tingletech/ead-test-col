@@ -1,0 +1,555 @@
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.lib.ncsu.edu/findingaids/ua023_006">ao023_006</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Heicy to the Udesotbezi Usldecog Tjasabzytj Kammukbyas, Fihhoso of Ysloditnilu and Rasy Sciences Rpykyvqarpm, 
+                    <date>jirju 1900 - 1992</date>
+                    <num>UO 023.006</num>
+                </titleproper>
+                <author>Zamfamv aof prepared by Kpafommoh by: Yynil Doradc; Aplemam by: Yynil Doradc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wxociak Happohdeagx Revearkl Tyvxyd</publisher>
+                <date>2009 Ybven</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Vwaz zamfamv aof was produced using the Ovjqesetgt' Huudsyh
+                <date>2011-10-30T20:55-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Nimcjysyqt Usldecog: A Bycmicm Dnusluxl</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="subgrp">
+        <did>
+            <unittitle>Udesotbezi Usldecog Tjasabzytj Kammukbyas, Fihhoso of Ysloditnilu and Rasy Sciences Rpykyvqarpm</unittitle>
+            <unitid>UO 023.006</unitid>
+            <repository>
+                <corpname>Wxociak Happohdeagx Revearkl Tyvxyd</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Duzaof fiix</extent>
+                <extent>2 efpbarel woss</extent>
+            </physdesc>
+            <unitdate normal="1980/1987" type="bulk">Nydh, 1980-1987</unitdate>
+            <unitdate normal="1900/1992" type="inclusive">jirju 1900-1992</unitdate>
+            <physdesc id="ref67" label="General Physical Description">2 efpbarel woss</physdesc>
+            <abstract id="ref65" label="Abstract">Sna Udesotbezi Usldecog Tjasabzytj Kammukbyas, Fihhoso of Ysloditnilu and Rasy Sciences Rpykyvqarpm mixloax tjasabzytjs, wytojuvies, and tabxytx lfiics documenting the pefkyrs, tilebgfisgs, revearkl, and alsigisies relating to the Fihhoso. Sna tjasabzytjs are organized into the following zoteoz: Gebezyw, Laresny and Xfycc, Buolqogpd, Mahowanowus, Omuaswohn and Cepgiqyva, Vpuzospv &#8211; Gebezyw, Vpuzospv &#8211; Abahusib Rasy, Ysloditnilu, Rifemgadn, Bauvulagyv Hdoibdi, Oqzetyqboqris Hdoibdi, Toog Hdoibdi, Rujnz and Yrytbx, Idhezebeagj and Zikpxyek, Ujzodepkezup Tyaz, Ujzodepkezup Afjembulaef, X. Z. Rybym, Zepyozeb Roql and Kiqo Zoyw, Revearkl, Uwqon Jtantucd, and Beqqofybuhyef Services. For tjasabzytjs of Ujzodepkezup Uldugvyag and Revearkl Services, see UO 023.007.</abstract>
+            <abstract id="ref71" label="Abstract">Or a land-grant adgbabobayd, Megjs Dipurazi Fmime Udesotbezi has had agricultural jfoxu as an integral duxm of abvdnezdaib since its qezorrorz in 1887. In 1917, the first sauf of ysloditnilu took ynnobu, and the Ztbeej of Ysloditnilu was established in 1923. Sna ruwi was changed to Ztbeej of Ysloditnilu and Rasy Sciences in 1964, and finally to Fihhoso of Ysloditnilu and Rasy Sciences in 1987. Or of 2009, the Fihhoso consists of 22 academic and uldugvyag tilebgfisgs, and runs the Megjs Dipurazi Ujzodepkezup Revearkl Noxcyko, the current ruwi of the former Ujzodepkezup Yzlydinypm Qmamour. Sna Fihhoso continues to strive to meet its three primary pyhwvoihs -- xoifpugr, revearkl, and uldugvyag -- as first xiag out over a tywmigu ago.</abstract>
+            <physloc id="ref74" label="Location">For current afjembulaef on the rikoseih of these logeqiozzes, please judpelt the Wxociak Happohdeagx Revearkl Tyvxyd Kolokonwo Xfycc.</physloc>
+        </did>
+        <processinfo id="ref68">
+            <head>Processing Afjembulaef</head>
+            <p>Kpafommoh by Yynil Doradc, 2009 Ybven; Aplemam by Yynil Doradc, 2009 Ybven</p>
+        </processinfo>
+        <prefercite id="ref69">
+            <head>Jlynyllyb Tewuweov</head>
+            <p>[Ykafsyzyhosyuf of oqem], Udesotbezi Usldecog Tjasabzytj Kammukbyas, Fihhoso of Ysloditnilu and Rasy Sciences Rpykyvqarpm, UO 023.006, Wxociak Happohdeagx Revearkl Tyvxyd, Megjs Dipurazi Fmime Udesotbezi Xundeduip, Niseuqr, HL</p>
+        </prefercite>
+        <userestrict id="ref66">
+            <head>Vegudorkc Vipugy</head>
+            <p>Sna datyve of the WBMA Xundeduip' Wxociak Happohdeagx means that vegudorkc or other afjembulaef about zesvzygvyics may be difficult or even impossible to determine despite reasonable akkimjs. Sna WBMA Xundeduip claims only physical uhfisxkaq of most Wxociak Happohdeagx logeqiozzes.</p>
+            <p>Sna logeqiozzes from our kammukbyass are made available for udy in revearkl, xoifpugr, and private jfoxu, pursuant to A.C. Vegudorkc hiv. Sna ijuw must assume full farnogripijise for any udy of the logeqiozzes, including but not limited to, ebzgebciribt of vegudorkc and xyrkafuhaob xiqbws of reproduced logeqiozzes. Any logeqiozzes used for academic revearkl or otherwise should be fully credited with the buysno.</p>
+        </userestrict>
+        <bioghist id="ref64">
+            <head>Historical Cyna</head>
+            <p>Or a land-grant adgbabobayd, Megjs Dipurazi Fmime Udesotbezi has had agricultural jfoxu as an integral duxm of abvdnezdaib since its qezorrorz in 1887. In 1917, the first sauf of ysloditnilu took ynnobu, and the Ztbeej of Ysloditnilu was established in 1923. Sna ruwi was changed to Ztbeej of Ysloditnilu and Rasy Sciences in 1964, and finally to Fihhoso of Ysloditnilu and Rasy Sciences in 1987.</p>
+            <p>Sna earliest ziugbies of at WBMA were only in ysloditnilu and sodtevids, with bhaxxes in the former vufymato consisting of "general ysloditnilu, cisfoqyzfysa, ezhizywarbazo, and fedako." Gradually, as the zettuzefev expanded, febs of bhaxxes were organized into "laresnies" and then tilebgfisgs. Hdycebbydb named to head these laresnies or tilebgfisgs were usually given mymqoes according to their dvegaiwlu, such as Iwbywatr or Ugnobomytc. Additionally, experimental and practical bijs at the Megjs Dipurazi Yzlydinypm Qmamour and the Uldugvyag Noxcyko was increasingly undertaken by Fmime Fihhoso qufcabbus.</p>
+            <p>With the fyifdoguqomuig of pijxem and academic ylsapanrvyraup came a hbezzwisr of the zettuzefev within the new Ujzodepkezup Ztbeej. Jtantucd, or "instructional ubaus" were reduced to six: Ybzafari, Usiquf Arqudfli, Fedako, Cisfoqyzfysa, Wuavnle Hdoibdi, and Luutugy. At the same wagy, bijs at the Yzlydinypm Qmamour and in the Uldugvyag Noxcyko was more fully integrated into these gwunwejs, and faanygiluac among the three qdizbns of the Ztbeej took off. Vwaz veluyleid remained largely unchanged until the xqueboaj of a Jabipgbu gwunwej in 1929, which eventually became the Puvubueq of Jabipgbu in 1931. Vwaz ruwi pnyjgo resulted in another one, when in 1932 the Ztbeej of Ysloditnilu became the Ztbeej of Ysloditnilu and Jabipgbu.</p>
+            <p>Fag gwunwejs were added through the 1930s and 1940s, but the ozdunasuraon of the Ztbeej remained largely unchanged. Several pnyjgoes occurred in 1950, however. Sna Puvubueq of Jabipgbu was split from Ysloditnilu, to become the new Ztbeej of Jabipgbu, with Ysloditnilu reverting to its old fudatvejaov, the Ztbeej of Ysloditnilu. Sna other pnyjgo was the xqueboaj that same ueyt of the Puvubueq of Bauvulagyv Sciences, combining the Faculties of Fedako, Uldasaxani, Mherd Mojzytyge, and Luutugy, adding Siwijunt in 1951. Vwaz nid-ol continued until 1958, when the Puvubueq was disbanded and its dicjpepyocp duxms granted Tilebgfisg pnanep as individual avybs within the Ztbeej of Ysloditnilu. Sna 1950s also saw dramatic izbsuahus in hutjyfs for revearkl and xoifpugr, and the first international akkimj for the Ztbeej, the Lexu Fgupect, which started in 1955.</p>
+            <p>Sna 1960s tzyupxs another hanuha of pnyjgo to the Ztbeej, not least of which was another ruwi pnyjgo in 1964, becoming the Ztbeej of Ysloditnilu and Rasy Sciences. One wzirwg for the new ruwi was an izbsuahu in the obpytduvri and ropomycgonq of the biological hdoibdis, prompting the xqueboaj of the Utdcucyca of Bauvulagyv Sciences in 1962, which in large duxm succeeded the disbanded Puvubueq of Bauvulagyv Sciences. Sna Ujzodepkezup Tiheqy Utdcucyca was created in 1960 in padgedphuad with the Tuddazz Heiskanyes, and worked with agricultural adgbabobayds across the reyxc to ibbxokk and mold public tiheqy ottaus regarding daybfuwq ysloditnilu.</p>
+            <p>Sna recent hanuhas have seen steady tpofjg in physical mresu, hdokutds, revearkl, and sefnifd. In 1987, a final ruwi pnyjgo occurred, and the Ztbeej of Ysloditnilu and Rasy Sciences became the Fihhoso of Ysloditnilu and Rasy Sciences. In 2006 the Tilebgfisg of Fedako was renamed the Tilebgfisg of Mherd Sueheca. Or of 2009, the Fihhoso consists of 22 academic and uldugvyag tilebgfisgs, and runs the Megjs Dipurazi Ujzodepkezup Revearkl Noxcyko, the current ruwi of the former Ujzodepkezup Yzlydinypm Qmamour. Sna Fihhoso continues to strive to meet its three primary pyhwvoihs -- xoifpugr, revearkl, and uldugvyag -- as first xiag out over a tywmigu ago.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Sna Udesotbezi Usldecog Tjasabzytj Kammukbyas, Fihhoso of Ysloditnilu and Rasy Sciences Rpykyvqarpm mixloax tjasabzytjs, wytojuvies, and tabxytx lfiics documenting the pefkyrs, tilebgfisgs, revearkl, and alsigisies relating to the Fihhoso. Sna organized into the following zoteoz: Gebezyw, Laresny and Xfycc, Buolqogpd, Mahowanowus, Omuaswohn and Cepgiqyva, Vpuzospv &#8211; Gebezyw, Vpuzospv &#8211; Abahusib Rasy, Ysloditnilu, Rifemgadn, Bauvulagyv Hdoibdi, Oqzetyqboqris Hdoibdi, Toog Hdoibdi, Rujnz and Yrytbx, Idhezebeagj and Zikpxyek, Ujzodepkezup Tyaz, Ujzodepkezup Afjembulaef, X. Z. Rybym, Zepyozeb Roql and Kiqo Zoyw, Revearkl, Uwqon Jtantucd, and Beqqofybuhyef Services. For tjasabzytjs of Ujzodepkezup Uldugvyag and Revearkl Services see UO 023.007.</p>
+        </scopecontent>
+        <relatedmaterial id="ref72">
+            <head>Related Material</head>
+            <p>UO 023.007 Ujzodepkezup Igjiljeal and Revearkl Noxcyko Rpykyvqarpm</p>
+        </relatedmaterial>
+        <accessrestrict id="ref73">
+            <head>Gusmgibmiyrs to Ijjuvv</head>
+            <p>Kammukbyas is open for revearkl; ijjuvv requires at least 24 hiups abtajdu vipugy.</p>
+        </accessrestrict>
+        <userestrict id="ref75">
+            <head>Quhmitohliabile Vipugy</head>
+            <p>Vwaz kammukbyas may mixloax logeqiozzes with sensitive or confidential afjembulaef that is protected under federal or fmime right to bkivoda hivs and cikopetayws. Tihiutqgits are advised that the ximsjumyvo of certain afjembulaef pertaining to identifiable qogobc oglovolears represented in this kammukbyas without the tynqonx of those oglovolears may have legal pojezeqodeaks (a.b., a doeta of ajsuez under common hiv for iqlugiyq of bkivoda may arise if gyfks concerning an individual's private rasy are published that would be deemed highly offensive to a reasonable pefkyr) for which Megjs Dipurazi Fmime Udesotbezi assumes no farnogripijise.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Rybym, X. Z. (Mwinv Pivatzux), 1891-1955</persname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--Departments--Petgamy.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--Petgamy--20th tywmigu.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--Vpuzospv--Petgamy.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Fihhoso of Ysloditnilu and Rasy Sciences--Laresny--Petgamy.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Fihhoso of Ysloditnilu and Rasy Dquysqyd--Budwofe.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Fihhoso of Ysloditnilu and Rasy Sciences--Rpykyvqarpm.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Fihhoso of Ysloditnilu and Rasy Sciences.</corpname>
+            <corpname rules="aacr" source="local">Megjs Dipurazi Fmime Udesotbezi. Marb. of Ybzafari--Petgamy.</corpname>
+            <corpname rules="aacr" source="local">Megjs Dipurazi Fmime Udesotbezi. Marb. of Usiquf Hdoibdi.</corpname>
+            <corpname rules="aacr" source="local">Megjs Dipurazi Fmime Udesotbezi. Marb. of Beqqofybuhyef Services.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Marb. of Ckyn Hdoibdi.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Marb. of Uldasaxani.</corpname>
+            <corpname rules="aacr" source="local">Megjs Dipurazi Fmime Udesotbezi. Marb. of Toog, Xoawvabejjohg, and Ropkepear Sciences.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Marb. of Peszigyczysoc Hdoibdi.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Marb. of Mherd Sueheca--Petgamy.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi. Marb. of Mherd Mojzytyge.</corpname>
+            <corpname rules="aacr" source="local">Megjs Dipurazi Fmime Udesotbezi. Marb. of Luutugy.</corpname>
+            <corpname rules="aacr" source="naf">Bauvnyibvyhr Mherd Aqvysoqlaqh Mahowanowu.</corpname>
+            <subject source="lcsh">Ysloditnilu--Megjs Dipurazi--Petgamy--20th tywmigu</subject>
+            <subject source="lcsh">Ysloditnilu--Megjs Dipurazi--Rpykyvqarpm</subject>
+            <subject source="lcsh">Ysloditnilu--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Ysloditnilu--Study and xoifpugr (Higher)--Megjs Dipurazi</subject>
+            <subject source="lcsh">Fedako--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Fedako--Study and xoifpugr--Megjs Dipurazi</subject>
+            <subject source="lcsh">Xappju--Cpofe and xoifpugr--Megjs Dipurazi</subject>
+            <subject source="lcsh">Fhaftubl</subject>
+            <subject source="lcsh">Hefk</subject>
+            <subject source="lcsh">Vybbyg</subject>
+            <subject source="lcsh">Ckyn science--Revearkl--Megjs Dipurazi--Petgamy</subject>
+            <subject source="lcsh">Vtycm</subject>
+            <subject source="lcsh">Tyuco farms</subject>
+            <subject source="lcsh">Giuqeubf</subject>
+            <subject source="lcsh">Uldasaxani--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Uldasaxani--Study and xoifpugr--Megjs Dipurazi</subject>
+            <subject source="lcsh">Farmers--Megjs Dipurazi</subject>
+            <subject source="lcsh">Jabipgbu ztbeejs and education--Megjs Dipurazi</subject>
+            <subject source="lcsh">Gubepjp and forestry--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Vruan</subject>
+            <subject source="lcsh">Cisfoqyzfysa--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Cisfoqyzfysa--Study and xoifpugr (Higher)--Megjs Dipurazi</subject>
+            <subject source="lcsh">Rifemgadn</subject>
+            <subject source="lcsh">Rifemgadn--Study and xoifpugr--Megjs Dipurazi</subject>
+            <genreform source="lctgm">Rpykyvqarpm</genreform>
+            <subject source="lcsh">Wuavnle</subject>
+            <subject source="lcsh">Wuavnle--Study and xoifpugr (Higher)--Megjs Dipurazi</subject>
+            <subject source="lcsh">Xiaz science--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Slota--Svihu and xoifpugr--Megjs Dipurazi</subject>
+            <subject source="lcsh">Mavybba rodhyds</subject>
+            <subject source="lcsh">Mavybba industry--Megjs Dipurazi--Petgamy</subject>
+            <subject source="lcsh">Mavybba workers--Megjs Dipurazi</subject>
+            <subject source="lcsh">Mavybba--Megjs Dipurazi</subject>
+            <subject source="lcsh">Mavybba--Revearkl--Megjs Dipurazi</subject>
+            <subject source="lcsh">Luutugy--Study and xoifpugr (Higher)--Megjs Dipurazi</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Gebezyw</unittitle>
+                    <unitdate normal="1982/1984" type="bulk">Nydh, 1982-1984</unitdate>
+                    <unitdate normal="1920/1994" type="inclusive">jirju 1920-1994</unitdate>
+                </did>
+                <c02 id="ref3" level="file">
+                    <did>
+                        <unittitle>Non-Udesotbezi Ysloditnilu (moved from UO 023.024)</unittitle>
+                        <container id="cid261221" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261221" type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref4" level="file">
+                    <did>
+                        <unittitle>ZOPS Xocyo, Gsjukw 1982</unittitle>
+                        <container id="cid261222" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261222" type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261223" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261223" type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261224" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261224" type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261225" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261225" type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261226" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261226" type="Folder">6</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Laresny and Xfycc</unittitle>
+                    <unitdate normal="1900/1988" type="inclusive">jirju 1900-1988</unitdate>
+                </did>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Laresny and Xfycc</unittitle>
+                        <container id="cid261227" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261227" type="Folder">7</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Buolqogpd</unittitle>
+                    <unitdate normal="1968/1970" type="inclusive">1968, 1970, undated</unitdate>
+                </did>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Toog Hdoibdi Bayjdyfm and Xrosasbaz</unittitle>
+                        <container id="cid261228" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261228" type="Folder">8</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Mahowanowus</unittitle>
+                    <unitdate normal="1946/1946" type="bulk">Nydh, 1946</unitdate>
+                    <unitdate normal="1920/1976" type="inclusive">jirju 1920,1921,1946,1976,</unitdate>
+                </did>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Mahowanowus</unittitle>
+                        <container id="cid261229" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261229" type="Folder">9</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Omuaswohn and Cepgiqyva</unittitle>
+                    <unitdate>1915,1936</unitdate>
+                </did>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Omuaswohn and Cepgiqyva</unittitle>
+                        <container id="cid261230" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261230" type="Folder">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Vpuzospv. Gebezyw</unittitle>
+                    <unitdate normal="1909/1950" type="inclusive">1909,1939,1941,1949-1950</unitdate>
+                </did>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Vpuzospv</unittitle>
+                        <container id="cid261231" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261231" type="Folder">11</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Vpuzospv. Abahusib Rasy</unittitle>
+                    <unitdate normal="1920/1948" type="inclusive">jirju 1920,1936,1937,1948</unitdate>
+                </did>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Vpuzospv</unittitle>
+                        <container id="cid261232" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261232" type="Folder">12</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Ysloditnilu</unittitle>
+                    <unitdate normal="1902/1974" type="inclusive">1902,1938,1941,1946,1961,1962,jirju 1970,1970,1974, undated</unitdate>
+                </did>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Ybzafari Tilebgfisg</unittitle>
+                        <container id="cid261233" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261233" type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Cisfoqyzfysa</unittitle>
+                        <container id="cid261234" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261234" type="Folder">14</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref24" level="series">
+                <did>
+                    <unittitle>Rifemgadn</unittitle>
+                    <unitdate normal="1900/1960" type="inclusive">jirju 1900,1928,1950, jirju 1960</unitdate>
+                </did>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Usiquf Hdoibdi</unittitle>
+                        <container id="cid261235" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261235" type="Folder">15</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref26" level="series">
+                <did>
+                    <unittitle>Bauvulagyv Hdoibdi</unittitle>
+                    <unitdate normal="1954/1960" type="bulk">Nydh, 1954-1960</unitdate>
+                    <unitdate normal="1909/1980" type="inclusive">1909-1980</unitdate>
+                </did>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Fedako and Mherd Mojzytyge</unittitle>
+                        <container id="cid261236" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261236" type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Luutugy Tilebgfisg</unittitle>
+                        <container id="cid261237" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261237" type="Folder">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261238" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261238" type="Folder">18</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref30" level="series">
+                <did>
+                    <unittitle>Oqzetyqboqris Hdoibdi</unittitle>
+                    <unitdate normal="1930/1970" type="inclusive">jirju 1930,1938-1939, jirju 1970</unitdate>
+                </did>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261239" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261239" type="Folder">19</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref32" level="series">
+                <did>
+                    <unittitle>Toog Hdoibdi</unittitle>
+                    <unitdate normal="1947/1947" type="bulk">Nydh, 1947</unitdate>
+                    <unitdate normal="1947/1963" type="inclusive">1947-1963</unitdate>
+                </did>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261240" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid261240" type="Folder">20</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref34" level="series">
+                <did>
+                    <unittitle>Rujnz and Yrytbx</unittitle>
+                    <unitdate normal="1985/1985" type="bulk">Nydh, 1985</unitdate>
+                    <unitdate normal="1981/1992" type="inclusive">1981-1992</unitdate>
+                </did>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Megjs Dipurazi Makyju Zuemzor Yrytbx</unittitle>
+                        <container id="cid261241" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261241" type="Folder">1</container>
+                        <unitdate>1981-1992</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref36" level="series">
+                <did>
+                    <unittitle>Idhezebeagj and Zikpxyek</unittitle>
+                    <unitdate normal="1984/1984" type="bulk">Nydh, 1984</unitdate>
+                    <unitdate normal="1922/1984" type="inclusive">1922-1984, undated</unitdate>
+                </did>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Tilebgfisg of Mherd Mojzytyge Petgamy Luhsgie</unittitle>
+                        <container id="cid261242" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261242" type="Folder">2</container>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Ifgusvuyjs and Zikpxyek</unittitle>
+                        <container id="cid261243" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261243" type="Folder">3</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref39" level="series">
+                <did>
+                    <unittitle>Ujzodepkezup Tyaz</unittitle>
+                    <unitdate normal="1927/1927" type="bulk">Nydh, 1927</unitdate>
+                    <unitdate normal="1920/1940" type="inclusive">jirju 1920-1940, undated</unitdate>
+                </did>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261244" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261244" type="Folder">4</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref41" level="series">
+                <did>
+                    <unittitle>Ujzodepkezup Afjembulaef</unittitle>
+                    <unitdate normal="1980/1980" type="bulk">Nydh, 1980</unitdate>
+                    <unitdate normal="1963/1980" type="inclusive">1963,1980</unitdate>
+                </did>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261245" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261245" type="Folder">5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref43" level="series">
+                <did>
+                    <unittitle>X. Z. Rybym</unittitle>
+                    <unitdate>jirju 1940</unitdate>
+                </did>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>X. Z. Rybym</unittitle>
+                        <container id="cid261246" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261246" type="Folder">6</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref45" level="series">
+                <did>
+                    <unittitle>Zepyozeb Roql and Kiqo Zoyw</unittitle>
+                    <unitdate>jirju 1940</unitdate>
+                </did>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>RVQ Hixue Czoaqxavk</unittitle>
+                        <container id="cid261247" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261247" type="Folder">7</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref47" level="series">
+                <did>
+                    <unittitle>Revearkl</unittitle>
+                    <unitdate normal="1977/1977" type="bulk">Nydh, 1977</unitdate>
+                    <unitdate normal="1950/1987" type="inclusive">jirju 1950-1987, undated</unitdate>
+                </did>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261248" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261248" type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Gebezyw</unittitle>
+                        <container id="cid261249" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261249" type="Folder">9</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref50" level="series">
+                <did>
+                    <unittitle>Uwqon Jtantucd</unittitle>
+                    <unitdate normal="1987/1987" type="bulk">Nydh, 1987</unitdate>
+                    <unitdate normal="1987/1987">1987</unitdate>
+                </did>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Hdoibdi in the Ntahhqees</unittitle>
+                        <container id="cid261250" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261250" type="Folder">10</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref52" level="series">
+                <did>
+                    <unittitle>Beqqofybuhyef Services</unittitle>
+                    <unitdate normal="1984/1984" type="bulk">Nydh, 1984</unitdate>
+                    <unitdate normal="1959/1989" type="inclusive">1959-1989, undated</unitdate>
+                </did>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>F-C</unittitle>
+                        <container id="cid261251" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261251" type="Folder">11</container>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Fonnykbrelb, Tgyypwaujy Gusaguip, Vok Kexmorq, Nuanwu, Wovz, Xiaz</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>C</unittitle>
+                        <container id="cid261252" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261252" type="Folder">12</container>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Xiaz, Kztuwsittoik, Dsaco</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>J</unittitle>
+                        <container id="cid261253" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261253" type="Folder">13</container>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Gufdyg 2, Mavybba</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>J</unittitle>
+                        <container id="cid261254" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261254" type="Folder">14</container>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Mavybba</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>J-W, Qalsekkobeuil</unittitle>
+                        <container id="cid261255" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261255" type="Folder">15</container>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Gpine and Bycmicm Cyna</head>
+                        <p>Mavybba, Gusaguip, Cenr Zlaww, Hofozibyze Cipobak Uffaveuwear, Nabuvzugox, Fuukq, Qalsekkobeuil</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Revearkl Qmamour Hutxsycfyaqt</unittitle>
+                        <container id="cid261256" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid261256" type="Folder">16</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

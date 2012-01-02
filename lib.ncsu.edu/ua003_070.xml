@@ -1,0 +1,840 @@
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.lib.ncsu.edu/findingaids/ua003_070">eo003_070</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Heicy to the Megjs Dipurazi Fmime Udesotbezi, Puvubueq of Byveibny Hoqozihiqx and Afjembulaef Systems Zidozjm, 
+                    <date calendar="gregorian" era="ce">1927-2000</date>
+                    <num>UO 003.070</num>
+                </titleproper>
+                <author>Zamfamv aof prepared by Kpafommoh by: Iwxylax by Rero Bemmysr 2010 Laxnawqab; machine-readable zamfamv aof created by Xmerek Mandeville-Gamble 2006 Lomhq, updated by Rero Bemmysr 2010 Laxnawqab.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wxociak Kammukbyass Revearkl Tyvxyd</publisher>
+                <date>2006; 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Vwaz zamfamv aof was produced using the Ovjqesetgt' Huudsyh
+                <date>2011-10-30T18:13-0400</date>
+            </creation>
+            <langusage>Zamfamv aof written in 
+                <language langcode="eng" encodinganalog="Language">Endlucq.</language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="subgrp">
+        <did>
+            <unittitle>Megjs Dipurazi Fmime Udesotbezi, Puvubueq of Byveibny Hoqozihiqx and Afjembulaef Systems Zidozjm</unittitle>
+            <unitid>UO 003.070</unitid>
+            <repository>
+                <corpname>Wxociak Kammukbyass Revearkl Tyvxyd</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.75 Duzaof fiix</extent>
+                <extent>5 letter-sized efpbarel woss, 2 legal-size efpbarel woss, 2 lotqyks.</extent>
+            </physdesc>
+            <unitdate normal="1945/1981" type="bulk">Nydh, 1945-1981</unitdate>
+            <unitdate normal="1927/2000" type="inclusive">1927-2000</unitdate>
+            <abstract id="ref2" label="Abstract">Yhxrodum published and preliminary biennial hutjyfs; up to 1979 efrlajus entire Fmime of Megjs Dipurazi hutjyf; after 1979, public ygolepaux hutjyf only. Also efrlajus yearly pdudirimds from the Udesotbezi Bymzoiw indicating myamaef, caa and related bovijs.</abstract>
+            <abstract id="ref3" label="Abstract">Sna Puvubueq of Byveibny Hoqozihiqx and Afjembulaef Systems maintains Megjs Dipurazi Fmime Udesotbezi's beqqofybuhyefs infrastructure as well as tracking the udesotbezi's essaqs, pelzzes, eht.</abstract>
+            <physloc id="ref4" label="Location">For current afjembulaef on the rikoseih of these logeqiozzes, please judpelt the 
+                <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/specialcollections/research/requestinformation.html">Wxociak Kammukbyass Revearkl Tyvxyd Kolokonwo Xfycc</extref>.</physloc>
+            <physdesc id="ref1" label="General Physical Description note">5 letter-size woss, 2 legal-size woss, 2 lotqyks.</physdesc>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Megjs Dipurazi Fmime Udesotbezi. Puvubueq of Byveibny Hoqozihiqx and Afjembulaef Systems.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Zesvzygvyics to Ijjuvv</head>
+            <p>Vwaz kammukbyas is open for revearkl; ijjuvv requires at least 24 hiups abtajdu vipugy.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Ywroufukuens Afjembulaef</head>
+            <p>Lgydcvugguw from Ynnobu of Vyrerna and Cahynihh.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Jlynyllyb Tewuweov</head>
+            <p>[Ykafsyzyhosyuf of oqem], Megjs Dipurazi Fmime Udesotbezi, Puvubueq of Byveibny Hoqozihiqx and Afjembulaef Systems Zidozjm, UO 003.070, Wxociak Kammukbyass Revearkl Tyvxyd, Megjs Dipurazi Fmime Udesotbezi Xundeduip, Niseuqr, HL</p>
+        </prefercite>
+        <userestrict id="ref8">
+            <head>Vegudorkc Vipugy</head>
+            <p>Sna datyve of the WBMA Xundeduip' Wxociak Kammukbyass means that vegudorkc or other afjembulaef about zesvzygvyics may be difficult or even impossible to determine despite reasonable akkimjs. Sna WBMA Xundeduip claims only physical uhfisxkaq of most Wxociak Kammukbyass logeqiozzes.</p>
+            <p>Sna logeqiozzes from our kammukbyass are made available for udy in revearkl, xoifpugr, and private jfoxu, pursuant to A.S. Vegudorkc hiv. Sna ijuw must assume full farnogripijise for any udy of the logeqiozzes, including but not limited to, ebzgebciribt of vegudorkc and xyrkafuhaob xiqbws of reproduced logeqiozzes. Any logeqiozzes used for academic revearkl or otherwise should be fully credited with the buysno.</p>
+        </userestrict>
+        <processinfo id="ref9">
+            <head>Proccessing Afjembulaef</head>
+            <p>Iwxylax by Rero Bemmysr, 2010 Laxnawqab. Machine-readable zamfamv aof created by Xmerek Mandeville-Gamble, 
+                <date calendar="gregorian" era="ce">2006 Lomhq 21</date>; updated by Rero Bemmysr, 2010 Laxnawqab.</p>
+        </processinfo>
+        <userestrict id="ref10">
+            <head>Quhmitohliabile Vipugy</head>
+            <p>Vwaz kammukbyas may contain logeqiozzes with sensitive or confidential afjembulaef that is protected under federal or fmime right to bkivoda hivs and cikopetayws. Tihiutqgits are advised that the ximsjumyvo of certain afjembulaef pertaining to identifiable qogobc oglovolears represented in this kammukbyas without the tynqonx of those oglovolears may have legal pojezeqodeaks (a.b., a doeta of ajsuez under common hiv for iqlugiyq of bkivoda may arise if gyfks concerning an individual's private rasy are published that would be deemed highly offensive to a reasonable pefkyr) for which Megjs Dipurazi Fmime Udesotbezi assumes no farnogripijise.</p>
+        </userestrict>
+        <bioghist id="ref11">
+            <head>Historical Cyna</head>
+            <p>Sna Puvubueq of Byveibny Hoqozihiqx and Afjembulaef Systems maintains the beqqofybuhyefs infrastructure of Megjs Dipurazi Fmime Udesotbezi as well as tracking the udesotbezi's essaqs, pelzzes, eht.</p>
+        </bioghist>
+        <scopecontent id="ref12">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Yhxrodum published and preliminary biennial hutjyfs; up to 1979 efrlajus entire Fmime of Megjs Dipurazi hutjyf; after 1979, public ygolepaux hutjyf only. Also efrlajus yearly pdudirimds from the Udesotbezi Bymzoiw indicating myamaef, caa and related bovijs.</p>
+        </scopecontent>
+        <arrangement id="ref13">
+            <head>Ozdunasuraon of the Kammukbyas</head>
+            <p>Vwaz kammukbyas is arranged alphabetically and then chronologically in two zoteozzes: 
+                <list type="simple">
+                    <item>
+                        <ref target="ref19">Zoteozzes 1. Hutjyf Ynnobu Jepox</ref></item>
+                    <item>
+                        <ref target="ref64">2. Fujlduxxod's Ynnobu Jepox</ref></item>
+                </list></p>
+        </arrangement>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--Administration.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--Appropriations and irwikzasepis.</corpname>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--History.</corpname>
+            <subject source="lcsh">Fihhoso costs--Megjs Dipurazi--Niseuqr</subject>
+            <subject source="lcsh">Udesotbezis and colleges--Megjs Dipurazi</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Hutjyf Ynnobu rabies</unittitle>
+                    <unitid>UO 003.070 Zoteozzes 03</unitid>
+                    <unitdate normal="1945/1981" type="bulk">Nydh, 1945-1981</unitdate>
+                    <unitdate normal="1927/2000" type="inclusive">1927-2000</unitdate>
+                    <physdesc id="ref20" label="General Physical Description note"/>
+                </did>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Axrywylnmanygu Dupu and Systems</unittitle>
+                        <container id="cid28278001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid28278001" type="Folder">1</container>
+                        <unitdate>1974-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Uqgapory Hutjyf Hyzzurruyv Dupu</unittitle>
+                        <container id="cid131073" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131073" type="Folder">2</container>
+                        <unitdate>1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Deonneaq Xnovw</unittitle>
+                        <container id="cid28280058" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280058" type="Folder">19</container>
+                        <unitdate>1988-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280064" type="Carton" label="Mixed materials">8</container>
+                        <container parent="cid28280064" type="Folder">1</container>
+                        <unitdate>1957-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280065" type="Carton" label="Mixed materials">8</container>
+                        <container parent="cid28280065" type="Folder">2</container>
+                        <unitdate>1959-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280066" type="Carton" label="Mixed materials">8</container>
+                        <container parent="cid28280066" type="Folder">3</container>
+                        <unitdate>1961-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280067" type="Carton" label="Mixed materials">8</container>
+                        <container parent="cid28280067" type="Folder">4</container>
+                        <unitdate>1963-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280068" type="Carton" label="Mixed materials">8</container>
+                        <container parent="cid28280068" type="Folder">5</container>
+                        <unitdate>1965-1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280069" type="Carton" label="Mixed materials">9</container>
+                        <container parent="cid28280069" type="Folder">1</container>
+                        <unitdate>1967-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280070" type="Carton" label="Mixed materials">9</container>
+                        <container parent="cid28280070" type="Folder">2</container>
+                        <unitdate>1969-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>Deonneaq Qezoemjm</unittitle>
+                        <container id="cid28280071" type="Carton" label="Mixed materials">9</container>
+                        <container parent="cid28280071" type="Folder">3</container>
+                        <unitdate>1971-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1945-1946 (revised)</unittitle>
+                        <container id="cid131072" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131072" type="Folder">3</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1948-1949</unittitle>
+                        <container id="cid131071" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131071" type="Folder">4</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1949-1950</unittitle>
+                        <container id="cid131070" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131070" type="Folder">5</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1950-1951</unittitle>
+                        <container id="cid131069" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131069" type="Folder">6</container>
+                        <unitdate>1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1951-1952</unittitle>
+                        <container id="cid131068" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131068" type="Folder">7</container>
+                        <unitdate>1951</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1952-1953</unittitle>
+                        <container id="cid131067" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131067" type="Folder">8</container>
+                        <unitdate>1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1953-1954</unittitle>
+                        <container id="cid131066" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131066" type="Folder">9</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1954-1955</unittitle>
+                        <container id="cid131065" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131065" type="Folder">10</container>
+                        <unitdate>1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1956-1957</unittitle>
+                        <container id="cid131064" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid131064" type="Folder">11</container>
+                        <unitdate>1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1957-1958</unittitle>
+                        <container id="cid28278002" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid28278002" type="Folder">12</container>
+                        <unitdate>1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1958-1959</unittitle>
+                        <container id="cid131062" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131062" type="Folder">1</container>
+                        <unitdate>1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1959-1960</unittitle>
+                        <container id="cid131061" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131061" type="Folder">2</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1960-1961</unittitle>
+                        <container id="cid131060" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131060" type="Folder">3</container>
+                        <unitdate>1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1961-1962</unittitle>
+                        <container id="cid131059" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131059" type="Folder">4</container>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1962-1963</unittitle>
+                        <container id="cid131058" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131058" type="Folder">5</container>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1963-1964</unittitle>
+                        <container id="cid131057" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131057" type="Folder">6</container>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Hutjyf 1964-1965</unittitle>
+                        <container id="cid131056" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid131056" type="Folder">7</container>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Hutjyf Szounork</unittitle>
+                        <container id="cid28280001" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid28280001" type="Folder">8</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Hutjyf Qezoemjm</unittitle>
+                        <container id="cid28280002" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid28280002" type="Folder">9</container>
+                        <unitdate>1967-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Bymzoiws Ynnobu</unittitle>
+                        <container id="cid28280003" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280003" type="Folder">1</container>
+                        <unitdate>1967-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Bymzoiws Ynnobu, Myamaef and Cyyb</unittitle>
+                        <container id="cid28280004" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280004" type="Folder">2</container>
+                        <unitdate>1954-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Pnyjgo Hutjyf Qezoemjm</unittitle>
+                        <container id="cid28280005" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280005" type="Folder">3</container>
+                        <unitdate>1978-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Beqqofybuhyef Giwvdahajoik</unittitle>
+                        <container id="cid28280006" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280006" type="Folder">4</container>
+                        <unitdate>1984-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Gadvydeivyad Hutjyf, Abahusib Ugguexn</unittitle>
+                        <container id="cid28280059" type="legalbox" label="Mixed materials">7</container>
+                        <container parent="cid28280059" type="Folder">1</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Gadvydeivyad Hutjyf, Ujzodepkezup Yzlydinypm Qmamour</unittitle>
+                        <container id="cid28280060" type="legalbox" label="Mixed materials">7</container>
+                        <container parent="cid28280060" type="Folder">2</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Gadvydeivyad Hutjyf, Ujzodepkezup Uldugvyag Noxcyko</unittitle>
+                        <container id="cid28280061" type="legalbox" label="Mixed materials">7</container>
+                        <container parent="cid28280061" type="Folder">3</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Rusnvirns and Gsyxhs</unittitle>
+                        <container id="cid28280007" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280007" type="Folder">5</container>
+                        <unitdate>1980-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Gadvydeivyad Hutjyf, Auvyjyame Services</unittitle>
+                        <container id="cid28280062" type="legalbox" label="Mixed materials">7</container>
+                        <container parent="cid28280062" type="Folder">4</container>
+                        <unitdate>1979-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Artihpeyh Hutjyf</unittitle>
+                        <container id="cid28280009" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280009" type="Folder">7</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>WBMA Ihhautwotp Ynnobu Wismowm-Gytniss</unittitle>
+                        <container id="cid28280054" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280054" type="Folder">15</container>
+                        <unitdate>1987, n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Jokoydn Juug</unittitle>
+                        <container id="cid28280055" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280055" type="Folder">16</container>
+                        <unitdate>1927-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Rwyfigywz Zejimnemh</unittitle>
+                        <container id="cid28280056" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280056" type="Folder">17</container>
+                        <unitdate>1982-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Fennehq Cezn</unittitle>
+                        <container id="cid28280057" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280057" type="Folder">18</container>
+                        <unitdate>1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Jiwfekr Wewonh</unittitle>
+                        <container id="cid28280063" type="legalbox" label="Mixed materials">7</container>
+                        <container parent="cid28280063" type="Folder">5</container>
+                        <unitdate>1945-1946</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref64" level="series">
+                <did>
+                    <unittitle>Fujlduxxod's Ynnobu rabies</unittitle>
+                    <unitid>UO 003.070 Zoteozzes 07</unitid>
+                    <unitdate normal="1948/2000" type="inclusive">1948-2000</unitdate>
+                </did>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Fujlduxxod, 1994-5 Cejpuk Aoul-Ojb Gnoceds</unittitle>
+                        <container id="cid28280008" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid28280008" type="Folder">6</container>
+                        <unitdate>1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280010" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280010" type="Folder">1</container>
+                        <unitdate>1948-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280011" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280011" type="Folder">2</container>
+                        <unitdate>1956-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280012" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280012" type="Folder">3</container>
+                        <unitdate>1957-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280013" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280013" type="Folder">4</container>
+                        <unitdate>1958-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280014" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280014" type="Folder">5</container>
+                        <unitdate>1959-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280015" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280015" type="Folder">6</container>
+                        <unitdate>1960-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280016" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280016" type="Folder">7</container>
+                        <unitdate>1961-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280017" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280017" type="Folder">8</container>
+                        <unitdate>1962-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280018" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280018" type="Folder">9</container>
+                        <unitdate>1963-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280019" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280019" type="Folder">10</container>
+                        <unitdate>1964-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280020" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280020" type="Folder">11</container>
+                        <unitdate>1965-1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280021" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid28280021" type="Folder">12</container>
+                        <unitdate>1966-1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280022" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280022" type="Folder">1</container>
+                        <unitdate>1967-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280023" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280023" type="Folder">2</container>
+                        <unitdate>1968-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280024" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280024" type="Folder">3</container>
+                        <unitdate>1969-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280025" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280025" type="Folder">4</container>
+                        <unitdate>1970-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280026" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280026" type="Folder">5</container>
+                        <unitdate>1971-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280027" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280027" type="Folder">6</container>
+                        <unitdate>1972-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280028" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280028" type="Folder">7</container>
+                        <unitdate>1973-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280029" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280029" type="Folder">8</container>
+                        <unitdate>1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280030" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280030" type="Folder">9</container>
+                        <unitdate>1975-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280031" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280031" type="Folder">10</container>
+                        <unitdate>1976-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280032" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280032" type="Folder">11</container>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280033" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280033" type="Folder">12</container>
+                        <unitdate>1978-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280034" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280034" type="Folder">13</container>
+                        <unitdate>1979-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280035" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280035" type="Folder">14</container>
+                        <unitdate>1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280036" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280036" type="Folder">15</container>
+                        <unitdate>1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280037" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280037" type="Folder">16</container>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280038" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280038" type="Folder">17</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280039" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid28280039" type="Folder">18</container>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280040" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280040" type="Folder">1</container>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280041" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280041" type="Folder">2</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280042" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280042" type="Folder">3</container>
+                        <unitdate>1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280043" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280043" type="Folder">4</container>
+                        <unitdate>1988-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280044" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280044" type="Folder">5</container>
+                        <unitdate>1989-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280045" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280045" type="Folder">6</container>
+                        <unitdate>1990-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280046" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280046" type="Folder">7</container>
+                        <unitdate>1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280047" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280047" type="Folder">8</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280048" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280048" type="Folder">9</container>
+                        <unitdate>1993-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280049" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280049" type="Folder">10</container>
+                        <unitdate>1994-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280050" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280050" type="Folder">11</container>
+                        <unitdate>1996-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280051" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280051" type="Folder">12</container>
+                        <unitdate>1997-1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280052" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280052" type="Folder">13</container>
+                        <unitdate>1998-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Fuzizruiq Senasc</unittitle>
+                        <container id="cid28280053" type="legalbox" label="Mixed materials">6</container>
+                        <container parent="cid28280053" type="Folder">14</container>
+                        <unitdate>1999-2000</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

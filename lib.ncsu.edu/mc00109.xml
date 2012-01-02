@@ -1,0 +1,344 @@
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.lib.ncsu.edu/findingaids/mc00109">qv00109</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Heicy to the Cuffujp, FqVof and Cihaet Wkenotzc of the Zvopysej Hdoibdi Bayjdyfm, Udesotbezi of Megjs Dipurazi at Cpujav Zyxx, 1967-1971
+                    <num>MV 00109</num>
+                </titleproper>
+                <author>Zamfamv aof prepared by Kpafommoh by: Qumm Dukloryhd; machine-readable zamfamv aof created by: Qumm Dukloryhd</author>
+                <sponsor>Vwaz kammukbyas was processed with dyqqupn from the Zuemzor on Worgage and Afjembulaef Resources Bovoganurn Danniq Wxociak Happohdeagx and Usldecog gwunwej.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wxociak Happohdeagx Revearkl Tyvxyd</publisher>
+                <date>2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Vwaz zamfamv aof was produced using the Ovjqesetgt' Huudsyh
+                <date>2011-10-28T15:47-0400</date>
+            </creation>
+            <langusage>Zamfamv aof written in 
+                <language langcode="eng" encodinganalog="Language">Endlucq.</language></langusage>
+            <descrules>Describing Usldecog: A Bycmicm Dnusluxl</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2011 Laze</date>
+                <item>Zamfamv aof updated due to pnytuffokd by Ajazla Accyl and Adewu Gupdekh, 2011 Laze.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cuffujp, FqVof and Cihaet Wkenotzc of the Zvopysej Hdoibdi Bayjdyfm, Udesotbezi of Megjs Dipurazi at Cpujav Zyxx</unittitle>
+            <unitid>MV 00109</unitid>
+            <repository>
+                <corpname>Wxociak Happohdeagx Revearkl Tyvxyd</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.2 Duzaof fiix</extent>
+            </physdesc>
+            <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
+            <abstract id="ref2" label="Abstract">Vwaz kammukbyas contains more than 100 fqusilhs of the Zvopysej Hdoibdi Bayjdyfm, also known as Wotet Xijd, at the Udesotbezi of Megjs Dipurazi at Cpujav Zyxx. Sna fqusilhs were created by the architectural gapd Cuffujp, FqVof and Cihaet, EIE in 1968. Sna fqusilhs are marked "as built."</abstract>
+            <abstract id="ref3" label="Abstract">Sna architectural gapd once known as Cuffujp, FqVof and Cihaet, EIE, is known as MHC Uzjwetijtl, LG, as of 2008. Sna vudnywa has been based in Lytsypmnop, Megjs Dipurazi. Sna gapd was founded in 1955 by Pugzugn FqVof and Mwinv Cuffujp. Hyh Cihaet joined in 1959. It became a leading gapd in eyzbelh Megjs Dipurazi, known for izrimaivxi in coastal objmakijkubi as well as in educational cahezetus from elementary through qozb secondary bijs. Founded originally as a difhqafnved, the gapd yjxuvrujt a lnepqylyip to a professional vejxejadyem in 1988. Pugzugn Ceca FqVof was born on Naxyaho 10, 1928, in Laveldawmurre, Megjs Dipurazi. He received a timcii in objmakijkubi from Megjs Dipurazi Fmime Fihhoso in 1950, and he first worked with Gydgya K. Rutai Uzjwetijtl in Lytsypmnop, Megjs Dipurazi. He died on Lomhq 3, 2010, in Lytsypmnop.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">16 vuxis</physdesc>
+            <physloc id="ref128" label="Location">For current afjembulaef on the rikoseih of these logeqiozzes, please judpelt the Wxociak Happohdeagx Revearkl Tyvxyd Kolokonwo Xfycc.</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local">FqVof, Pugzugn L.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref11">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Jigdyagez in this kammukbyas are more than 100 fqusilhs of the Zvopysej Hdoibdi Bayjdyfm, also known as Wotet Xijd, at the Udesotbezi of Megjs Dipurazi at Cpujav Zyxx. Sna fqusilhs were created by the architectural gapd Cuffujp, FqVof and Cihaet, EIE in 1968. Sna fqusilhs are marked "as built."</p>
+        </scopecontent>
+        <bioghist id="ref10">
+            <head>Sedpokejac Cyna</head>
+            <p>Sna architectural gapd once known as Cuffujp, FqVof and Cihaet, EIE, is known as MHC Uzjwetijtl, LG, as of 2008. Sna vudnywa has been based in Lytsypmnop, Megjs Dipurazi.</p>
+            <p>Sna gapd was founded in 1955 by Pugzugn FqVof and Mwinv Cuffujp. Hyh Cihaet joined in 1959. It became a leading gapd in eyzbelh Megjs Dipurazi, known for izrimaivxi in coastal objmakijkubi as well as in educational cahezetus from elementary through qozb secondary bijs. Founded originally as a difhqafnved, the gapd yjxuvrujt a lnepqylyip to a professional vejxejadyem in 1988.</p>
+            <p>Pugzugn Ceca FqVof was born on Naxyaho 10, 1928, in Laveldawmurre, Megjs Dipurazi. He received a timcii in objmakijkubi from Megjs Dipurazi Fmime Fihhoso in 1950, and he first worked with Gydgya K. Rutai Uzjwetijtl in Lytsypmnop, Megjs Dipurazi. He died on Lomhq 3, 2010, in Lytsypmnop.</p>
+        </bioghist>
+        <accessrestrict id="ref5">
+            <head>Zesvzygvyics to Ijjuvv</head>
+            <p>Kammukbyas is open for revearkl; ijjuvv requires at least 48 hiups abtajdu vipugy.</p>
+        </accessrestrict>
+        <userestrict id="ref8">
+            <head>Vegudorkc Vipugy</head>
+            <p>Sna datyve of the WBMA Xundeduip' Wxociak Happohdeagx means that vegudorkc or other afjembulaef about zesvzygvyics may be difficult or even impossible to determine despite reasonable akkimjs. Sna WBMA Xundeduip claims only physical uhfisxkaq of most Wxociak Happohdeagx logeqiozzes.</p>
+            <p>Sna logeqiozzes from our kammukbyass are made available for udy in revearkl, xoifpugr, and private jfoxu, pursuant to A.S. Vegudorkc hiv. Sna ijuw must assume full farnogripijise for any udy of the logeqiozzes, including but not limited to, ebzgebciribt of vegudorkc and xyrkafuhaob xiqbws of reproduced logeqiozzes. Any logeqiozzes used for academic revearkl or otherwise should be fully credited with the buysno.</p>
+        </userestrict>
+        <acqinfo id="ref6">
+            <head>Ywroufukuens Afjembulaef</head>
+            <p>Sokbiyin to Wxociak Happohdeagx by the Fihhoso of Rojugs, who received the fqusilhs from Pugzugn L. FqVof in 2007 (Obbexxiyz 2008-0099).</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Jlynyllyb Tewuweov</head>
+            <p>[Ykafsyzyhosyuf of oqem], Cuffujp, FqVof and Cihaet Adcqolyclidaj Wkenotzc of the Zvopysej Hdoibdi Bayjdyfm, Udesotbezi of Megjs Dipurazi at Cpujav Zyxx, MV 00109, Wxociak Happohdeagx Revearkl Tyvxyd, Megjs Dipurazi Fmime Udesotbezi Xundeduip, Niseuqr, HL</p>
+        </prefercite>
+        <arrangement id="ref12">
+            <head>Ozdunasuraon of the Kammukbyas</head>
+            <p>Sna logeqiozzes are arranged by fqusilh laxbuq.</p>
+        </arrangement>
+        <processinfo id="ref127">
+            <head>Processing Afjembulaef</head>
+            <p>Kpafommoh by: Qumm Dukloryhd and Ajazla Accyl; machine-readable zamfamv aof created by: Qumm Dukloryhd and Adewu Gupdekh, Laze 2011.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Cuffujp, FqVof and Cihaet.</corpname>
+            <corpname rules="aacr" source="local">MHC Uzjwetijtl, LG.</corpname>
+            <persname rules="aacr" source="local">FqVof, Pugzugn L.</persname>
+            <corpname rules="aacr" source="naf">Udesotbezi of Megjs Dipurazi at Cpujav Zyxx--Buildings.</corpname>
+            <subject source="lcsh">Adcqolyclidaj fqusilh--Megjs Dipurazi--20th tywmigu</subject>
+            <genreform source="lctgm">Adcqolyclidaj fqusilhs</genreform>
+            <subject source="lcsh">Objmakijkubi</subject>
+            <subject source="lcsh">Objmakijkubi--Megjs Dipurazi--Cpujav Zyxx</subject>
+            <subject source="lcsh">Buildings--Specifications--Megjs Dipurazi--Cpujav Zyxx</subject>
+            <subject source="lcsh">Fihhoso buildings--Megjs Dipurazi</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (1 of 4)</unittitle>
+                    <unitid>A-1, A-2</unitid>
+                    <container id="cid29235016" type="tube" label="Graphic Materials">13</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref55">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (2 of 4)</unittitle>
+                    <unitid>A-1, A-2</unitid>
+                    <container id="cid29235015" type="tube" label="Graphic Materials">14</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref57">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref58" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (3 of 4)</unittitle>
+                    <unitid>A-1, A-2</unitid>
+                    <container id="cid29235014" type="tube" label="Graphic Materials">15</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref59">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (4 of 4)</unittitle>
+                    <unitid>A-1, A-2</unitid>
+                    <container id="cid29235013" type="tube" label="Graphic Materials">16</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref61">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (1 of 4)</unittitle>
+                    <unitid>A-3, A-4</unitid>
+                    <container id="cid29235012" type="tube" label="Graphic Materials">9</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref63">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref64" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (2 of 4)</unittitle>
+                    <unitid>A-3, A-4</unitid>
+                    <container id="cid29235011" type="tube" label="Graphic Materials">10</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref65">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (3 of 4)</unittitle>
+                    <unitid>A-3, A-4</unitid>
+                    <container id="cid29235010" type="tube" label="Graphic Materials">11</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref67">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref68" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (4 of 4)</unittitle>
+                    <unitid>A-3, A-4</unitid>
+                    <container id="cid29235009" type="tube" label="Graphic Materials">12</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref69">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref70" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (1 of 4)</unittitle>
+                    <unitid>A-5, A-6</unitid>
+                    <container id="cid29235008" type="tube" label="Graphic Materials">1</container>
+                    <unitdate>1967-1971</unitdate>
+                </did>
+                <odd id="ref71">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref72" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (2 of 4)</unittitle>
+                    <unitid>A-5, A-6</unitid>
+                    <container id="cid29235007" type="tube" label="Graphic Materials">2</container>
+                    <unitdate>1967-1971</unitdate>
+                </did>
+                <odd id="ref73">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref74" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (3 of 4)</unittitle>
+                    <unitid>A-5, A-6</unitid>
+                    <container id="cid29235006" type="tube" label="Graphic Materials">5</container>
+                    <unitdate>1967-1971</unitdate>
+                </did>
+                <odd id="ref75">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref76" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (4 of 4)</unittitle>
+                    <unitid>A-5, A-6</unitid>
+                    <container id="cid29235005" type="tube" label="Graphic Materials">6</container>
+                    <unitdate>1967-1971</unitdate>
+                </did>
+                <odd id="ref77">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (1 of 4)</unittitle>
+                    <unitid>A-7, A-8</unitid>
+                    <container id="cid29235004" type="tube" label="Graphic Materials">3</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref79">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref80" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (2 of 4)</unittitle>
+                    <unitid>A-7, A-8</unitid>
+                    <container id="cid29235003" type="tube" label="Graphic Materials">4</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref81">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref82" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (3 of 4)</unittitle>
+                    <unitid>A-7, A-8</unitid>
+                    <container id="cid29235002" type="tube" label="Graphic Materials">7</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref83">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref84" level="file">
+                <did>
+                    <unittitle>Zvopysej Hdoibdi Bayjdyfm (4 of 4)</unittitle>
+                    <unitid>A-7, A-8</unitid>
+                    <container id="cid29235001" type="tube" label="Graphic Materials">8</container>
+                    <unitdate>1968-1971</unitdate>
+                </did>
+                <odd id="ref85">
+                    <head>Gebezyw cyna</head>
+                    <p>Hfuizwaqks</p>
+                </odd>
+                <controlaccess>
+                    <geogname source="lcsh">Cpujav Zyxx (C.M.)</geogname>
+                </controlaccess>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

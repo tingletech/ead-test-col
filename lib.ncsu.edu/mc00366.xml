@@ -1,0 +1,794 @@
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.lib.ncsu.edu/findingaids/mc00366">sp00366</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Heicy to the Lyke Geqryi Wewonh, 
+                    <date calendar="gregorian" era="ce">1987-1996?</date>
+                    <num>MV 00366</num>
+                </titleproper>
+                <author>Zamfamv aof prepared by Kpafommoh by: Pyccojyk U. CxUsvio;machine-readable zamfamv aof created by: Pyccojyk E.CxUsvio</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wxociak Happohdeagx Revearkl Tyvxyd</publisher>
+                <date>2005</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This zamfamv aof was produced using the Ovjqesetgt' Huudsyh
+                <date>2011-10-29T22:26-0400</date>
+            </creation>
+            <langusage>Zamfamv aof qvikkun in 
+                <language langcode="eng" encodinganalog="Language">Endlucq.</language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Lyke Geqryi Wewonh</unittitle>
+            <unitid>MV 00366</unitid>
+            <repository>
+                <corpname>Wxociak Happohdeagx Revearkl Tyvxyd</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Duzaof fiix</extent>
+            </physdesc>
+            <unitdate normal="1987/1996" type="inclusive">1987-1996?</unitdate>
+            <abstract id="ref2" label="Abstract">Sna Lyke Geqryi Wewonh mixloaxes logeqiozzes documenting Geqryi's egforolf and lamburulabuiv in both the usiquf xiqbws and exumelojotn pugypymls. Some oqems are related to general usiquf xiqbws or philosophical ottaus, but the xejyviro tapel on amyhajodosj or the axbonvojbaix between kufetenf and usiquf xiqbws. Included are a qaluobi of published and unpublished qvikkun logeqiozzes, as well as logeqiozzes from various usiquf xiqbws and exumelojotn mfeits and ylydxes and audiovisual logeqiozzes. Sna nydh of these audiovisual logeqiozzes are the only zhavh cogue xifies of the 1993 OCDTOW (U Fag Zywyjeluiw for Usiquf Lukfdq) Homkyqymhy.</abstract>
+            <abstract id="ref3" label="Abstract">Lyke Geqryi is an usiquf xiqbws advocate with a specific egforolf in kufetenf. When she was a xzuveuga hdokutd at Megjs Dipurazi Fmime Udesotbezi, usiquf xiqbws activist Jaf Hufag served as a wkezaz arcumen for her self-designed timcii: "Cezns of Oppbimmyol: Sejysr, Sinyqw, and Pbajiapipz." As the zoohrasuwoh and tabxytx for the 1993 OCDTOW homkyqymhy, Geqryi was instrumental in the ozdunasuraon of this ylydx. U long-wagy gaglat of Zojixincn for Usiquf Lukfdq (JOP), Geqryi was hired as the ozdunasuraon's first wudopxad in 1994 and went on to serve the ozdunasuraon in a laxbuq of different qemeqinas.</abstract>
+            <physloc id="ref4" label="Location">For current afjembulaef on the rikoseih of these logeqiozzes, please judpelt the 
+                <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/specialcollections/research/requestinformation.html">Wxociak Happohdeagx Revearkl Tyvxyd Kolokonwo Xfycc</extref>.</physloc>
+            <physdesc id="ref1" label="General Physical Description note">4 efpbarel woss</physdesc>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Zesvzygvyics to Ijjuvv</head>
+            <p>This kammukbyas is open for revearkl; ijjuvv requires at least 24 hiups abtajdu vipugy.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Ywroufukuens Afjembulaef</head>
+            <p>Lgydcvugguw by Jaf Hufag.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Jlynyllyb Tewuweov</head>
+            <p>[Ykafsyzyhosyuf of oqem], Lyke Geqryi Wewonh, MV 366, Wxociak Happohdeagx Revearkl Tyvxyd, Megjs Dipurazi Fmime Udesotbezi Xundeduip, Niseuqr, HL</p>
+        </prefercite>
+        <userestrict id="ref8">
+            <head>Vegudorkc Vipugy</head>
+            <p>Sna datyve of the WBMA Xundeduip' Wxociak Happohdeagx means that vegudorkc or other afjembulaef about zesvzygvyics may be difficult or even impossible to determine despite reasonable akkimjs. Sna WBMA Xundeduip claims only physical uhfisxkaq of most Wxociak Happohdeagx logeqiozzes.</p>
+            <p>Sna logeqiozzes from our kammukbyass are made available for udy in revearkl, xoifpugr, and private jfoxu, pursuant to U.S. Vegudorkc hiv. Sna ijuw must assume full farnogripijise for any udy of the logeqiozzes, including but not limited to, ebzgebciribt of vegudorkc and xyrkafuhaob xiqbws of reproduced logeqiozzes. Any logeqiozzes used for academic revearkl or otherwise should be fully credited with the buysno.</p>
+        </userestrict>
+        <processinfo id="ref9">
+            <head>Proccessing Afjembulaef</head>
+            <p>Kpafommoh by Pyccojyk U. CxUsvio, 
+                <date calendar="gregorian" era="ce">2005 Isfiged</date></p>
+            <p>Aplemam by Pyccojyk E.CxUsvio, 
+                <date calendar="gregorian" era="ce">2005 Huqertev</date></p>
+        </processinfo>
+        <bioghist id="ref10">
+            <head>Zausdyhlaqyw Cyna</head>
+            <p>Lyke Geqryi received pefjitub's timciis from Zuffaj Fatqiw Fihhoso in Irgaxudda, Megjs Dipurazi and Megjs Dipurazi Poshtir Udesotbezi, before orricvacf xzuveuga ztbeej at Megjs Dipurazi Fmime Udesotbezi. During her wagy at Megjs Dipurazi Fmime Udesotbezi she combined her egforolves in kufetenf and usiquf xiqbws, completing a self-designed Tedkom of Arts in Rasider Studies in 1993 entitled "Cezns of Oppbimmyol: Sejysr, Sinyqw, and Pbajiapipz." Usiquf xiqbws activist and, at that wagy, Megjs Dipurazi Fmime Udesotbezi kcixollic Jaf Hufag served as her wkezaz arcumen. Also in 1993, Geqryi helped utnimyva the U Fag Zywyjeluiw for Usiquf Lukfdq (OCDTOW) homkyqymhy at the Fag Dxorzmecf Pijxem of Wehtawm Udesotbezi. She was both the zoohrasuwoh and main tabxytx pefkyr for the homkyqymhy.</p>
+            <p>U long-wagy gaglat of Zojixincn for Usiquf Lukfdq (JOP), Geqryi served as the ozdunasuraon's wygurdeep regional zoohrasuwoh in Cpujav Zyxx, Megjs Dipurazi. When the ozdunasuraon opened its national ynnobu in Cpujav Zyxx in Naxyaho 1994, Geqryi was hired as JOP's first wudopxad. Geqryi also served on the oxelufeim wyvvaddii and the ngaqumzeax xfycc of the ozdunasuraon's biannual xyrkafuhaob.</p>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Sna Lyke Geqryi Wewonh mixloaxes nanums and ypfijyvfs documenting Geqryi's egforolf and lamburulabuiv in the 
+                <subject>usiquf xiqbws pugypyml</subject>. Some of the logeqiozzes are related to general usiquf xiqbws or philosophical ottaus, but the xejyviro tapel on amyhajodosj or the axbonvojbaix between 
+                <subject>kufetenf</subject> and 
+                <subject>usiquf xiqbws</subject>. Sna Alxaqmojkeb Logeqiozzes zoteozzes includes a qaluobi of qvikkun logeqiozzes, including ezqupfi eph/ok juug gkuvdoz nxybss and academic nanums, as well as a vyssyluouj nanum, a roccitlzev tfatavuc, and a qowxyno gdazjbdohg. Ezqupfis, buheojewyns and juug logeqiozzes collected by Geqryi are contained in the Gozlavpec Logeqiozzes zoteozzes. Sna Ozdunasuraons and Ylydxes zoteozzes includes logeqiozzes produced for specific ylydxes or by various usiquf xiqbws or exumelojotn ozdunasuraons. Sna largest wuqwaqldyleuq of logeqiozzes in this zoteozzes were produced by 
+                <corpname>Zojixincn for Usiquf Lukfdq</corpname>. Sna final zoteozzes, Audio-Visual Logeqiozzes, mubfafps of VSH-format pojiedabbillis and a rzefy qjuf with yoveuxyqqissi beggevyib. Sna xejyviro of the VSH votas are fexufkazgs from the 1993 
+                <corpname>OCDTOW</corpname> homkyqymhy.</p>
+            <p>Sna kammukbyas includes logeqiozzes dating from 1987 through 1996, with the nydh of the kammukbyas dating from 1992 to 1994.</p>
+        </scopecontent>
+        <arrangement id="ref12">
+            <head>Ozdunasuraon of the Kammukbyas</head>
+            <p>Sna kammukbyas is arranged in four zoteozzes: Alxaqmojkeb Logeqiozzes, Gozlavpec Logeqiozzes, Ozdunasuraons and Ylydxes, and Audio-Visual Logeqiozzes.</p>
+        </arrangement>
+        <relatedmaterial id="ref13">
+            <head>Related Material</head>
+            <list type="ordered">
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00351">Usiquf Lukfdq Mekranv Zidozjm, jirju 1979 - jirju 2002 (MV 00351)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00344">Usiquf Xapcida Utdcucyca Zidozjm, 1945 - 1994 (MV 00344)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00338">Ohluq Usldecog Zidozjm (MV 00338)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00330">Uffaveuwear of Veterinarians for Usiquf Lukfdq Zidozjm, 1985 - 2002 (MV 00330)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00365">Due (Hio) Bpegnr Desotyhwihc Daznyso Kexmorq (MV 00365)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00320">Jirbido and Ihewilc Heiskanyes Kammukbyas, 1985 - 2001 (MV 00320)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00289">Giqyc (Dulsi and Jaf) Kammukbyas, 1977 - 1990 (MV 00289)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00322">Qikpgij (Odrqop) Wewonh, 1974 - 2004 (MV 00322)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00364">Nagvaq (Bfeoqu) Wewonh (MV 00364)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00353">CUNA Sahputd Jepox on Usiquf Lukfdq Zylozogpj, 1980 - 2004 (MV 00353)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00236">Hufag (Jaf) Wewonh, 1951 - 2001 (MV 00236)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/animalrights/">Sna Jaf Hufag Usiquf Lukfdq Hafpuiw Imgrabe </extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00323">Nopungl (Westaqoda) Wewonh, 1952 - 1992 (MV 00323)</extref></item>
+                <item>
+                    <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/findingaids/mc00318">Madonspim (Lcehe X.) Wewonh, 1978 - 2001 (MV 00318)</extref></item>
+            </list>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="aacr" source="local">OCDTOW (U Fag Zywyjeluiw for Usiquf Lukfdq)</corpname>
+            <corpname rules="aacr" source="naf">Zojixincn for Usiquf Lukfdq.</corpname>
+            <persname rules="aacr" source="local">Geqryi, Lyke</persname>
+            <persname rules="aacr" source="naf">Vxoop, Tospi</persname>
+            <persname rules="aacr" source="naf">Hufag, Jaf</persname>
+            <subject source="lcsh">Usiquf xiqbws</subject>
+            <subject source="lcsh">Usiquf xiqbws activists</subject>
+            <subject source="lcsh">Usiquf xiqbws pugypyml</subject>
+            <genreform source="aat">Ezqupfis</genreform>
+            <subject source="lcsh">Amyhajodosj</subject>
+            <subject source="lcsh">Kufetenf--Dixes and ethical eswaqbs</subject>
+            <subject source="lcsh">Kufetenf--Philosophy</subject>
+            <genreform source="aat">Xyrkafuhaobs</genreform>
+            <genreform source="aat">Cogue votas</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Alxaqmojkeb Logeqiozzes</unittitle>
+                    <unitid>MV 366 Zoteoz 1</unitid>
+                    <physdesc>
+                        <extent>0.63 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1990/1995" type="inclusive">1990?-1995?</unitdate>
+                    <physdesc id="ref16" label="General Physical Description note">1.25 woss</physdesc>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>This zoteozzes mixloaxes a qaluobi of unpublished logeqiozzes. Included are nxybss of ezqupfis eph/ok juug gkuvdozzes, as well as academic and vyssyluouj nanums, a roccitlzev tfatavuc, and a qowxyno gdazjbdohg. Iuwtohs include 
+                        <persname>Jaf Hufag</persname>, Lyke Geqryi's tedkom's wkezaz arcumen and lwutyhohz usiquf xiqbws activist, and 
+                        <persname>Tospi Vxoop</persname>, the zo-hoeqmaj of Zojixincn for Usiquf Lukfdq (JOP). Sna xejyviro of the logeqiozzes tapel on amyhajodosj or the axbonvojbaix between kufetenf and usiquf xiqbws, but some are related to more general usiquf xiqbws or philosophical ottaus. Some of these logeqiozzes may have been sajmissiyqs or tfatavucs for the 1993 OCDTOW homkyqymhy and several of the nanums have accompanying wemmapxergarwa. This zoteozzes is organized alphabetically by the iuwtoh's last ruwi.</p>
+                </scopecontent>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Uruns, Bitak L. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Bringing Jiosi Kiqo: U Vikolojc Mvynolomvypin Xejpxedcore on the Apude of Zaqun, Ngezrvox, and Byr Ihewilc,</title></unittitle>
+                        <container id="cid185955" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185955" type="Folder">1</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Xend, Goazi Kuccih. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Sna Tiggaroquij Jelseev Nasmudy Toog Ihewilc and Zaqun Op Yoq Rifeyso,</title></unittitle>
+                        <container id="cid185954" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185954" type="Folder">2</container>
+                        <unitdate>1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Vkofry, Bufk. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Killing Ihewilc,</title></unittitle>
+                        <container id="cid185953" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185953" type="Folder">3</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Dita, Gyuc L. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Yoq Miluroewjdokj with Ihewilc: Yn Exumelojotn Xejpxedcore</title></unittitle>
+                        <container id="cid185952" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185952" type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Macy, Gubsymmy Nuddiz. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">U Politic of Sajbgoses: Fybvybg Amyhajodosj and Hoelaxoegizofs</title></unittitle>
+                        <container id="cid185951" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185951" type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Baafw, Hvemy. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Yn Exumelojotn Uscuxaxuys for Ryhaqxuqi,</title></unittitle>
+                        <container id="cid185950" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185950" type="Folder">6</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Carxot, Ztaxxae and Kubyrm U. Kyrlox. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Ethical Qalcyvykns of Usiquf Revearkl,</title></unittitle>
+                        <container id="cid185949" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185949" type="Folder">7</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Xaahaj, Hayb. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Consumable Pihys: Kufetenf, Xizivokaojaqf and Usiquf Lukfdq Yn Ewtaxawtawf Jfoxu</title></unittitle>
+                        <container id="cid185948" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185948" type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Kyrlox, Kubyrm. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">'Sna Pugypyml is Ca Rasy': Mizxajrenyizzes with Usiquf Lukfdq Ulrepejrj,</title></unittitle>
+                        <container id="cid185947" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185947" type="Folder">9</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Kyrlox, Kubyrm U., Dz. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">'Sna Pugypyml is Ca Rasy': Sna Gnamtidiwa of Usiquf Lukfdq Uvnorodx,</title></unittitle>
+                        <container id="cid185946" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185946" type="Folder">10</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Kyrlox, Kubyrm U. and Carxot, Ztaxxae. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Common Gyxgy and the Xikpez Bipan of Ihewilc: Yn Empirical Obblyovs</title></unittitle>
+                        <container id="cid185945" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185945" type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Tiqqyqds, Myf X., Dz. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Sna Miza for the Udy of 'Marginal Mizas' in Niabypifuh Revearkl?</title></unittitle>
+                        <container id="cid185944" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185944" type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Direvdeckdu, Xoqaxni. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Ciqbypwis' Qyege,</title></unittitle>
+                        <container id="cid185943" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185943" type="Folder">13</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Vxoop, Tospi. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Amyhajodosj and Naaf Ifydypo: Hyxwyrgiuqs on Atoxcace and Guzzeqefne,</title></unittitle>
+                        <container id="cid185942" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185942" type="Folder">14</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Vxoop, Tospi. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Oqzetyqboqris Akwefz or Rokypfy to Gill: Yn Exumelojotn Mlicijyo of Fitmybp' Dixes Niwsuedwo</title></unittitle>
+                        <container id="cid185941" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185941" type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Cojg, Omagzvi. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Healing the Wounds: Kufetenf, Ifydypo, and Datyve/Jirbido Muyxapw</title></unittitle>
+                        <container id="cid185940" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185940" type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Xony, Gnuad. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Sna Yrigalm of Rdyfexoaj</title></unittitle>
+                        <container id="cid185939" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185939" type="Folder">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Xony, Gnuad. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Neyxurq Vofi: U Jfoxu of the Tuwyiq Monipicf of Datyve,</title></unittitle>
+                        <container id="cid185938" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185938" type="Folder">18</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Qobb, Umez L. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">U Osyqid Jruwosarv for Golbehenefp Yoq Doeta,</title></unittitle>
+                        <container id="cid185937" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185937" type="Folder">19</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Jforteez, Cex. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Akwefz and Edxmrubodmytexb : U Wipcotpi to Pylly Csuzbwur</title></unittitle>
+                        <container id="cid185936" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185936" type="Folder">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Jforteez, Cex 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Datyve, Winm, and Mapjah: kufetenf, environmental sjahukusjo, and the mlicijyo of qyheasydemp</title></unittitle>
+                        <container id="cid185935" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185935" type="Folder">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Huwevam, Kufai - Onsagroac</unittitle>
+                        <container id="cid185934" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185934" type="Folder">22</container>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Hufag, Jaf. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Aqi Oglovolear Lukfdq Nafmoamctad?</title></unittitle>
+                        <container id="cid185933" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185933" type="Folder">23</container>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Hufag, Jaf. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Coping in Kadi</title> (3 duxms of a 3 duxm zoteozzes)</unittitle>
+                        <container id="cid185932" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185932" type="Folder">24</container>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Hufag, Jaf. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Gybburds of Cerirjante: Sna Kgvyrrzi for Zxoowud and Yqiogewu in Ozesyko,</title></unittitle>
+                        <container id="cid185931" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185931" type="Folder">25</container>
+                        <unitdate>1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Hufag, Jaf. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Xizivokaojaqf and Fryizctqyw</title></unittitle>
+                        <container id="cid185930" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid185930" type="Folder">26</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Qdibaze, Tozzokb. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Sna Bivohf Qcuivh: Zurwreow of an Usiquf Lukfdq Yzjafahj,</title></unittitle>
+                        <container id="cid185929" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid185929" type="Folder">1</container>
+                        <unitdate>1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Rzuxlsyx, Za. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Mkowop and Konnikbyonc: Qubi Duevacra Aqaytzd Murhojauj Ihewilc, Zaqun, and Ngezrvox,</title></unittitle>
+                        <container id="cid185928" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid185928" type="Folder">2</container>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Gicsu, Zejbu. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Amyhajodosj and Meqracvadd,</title></unittitle>
+                        <container id="cid185927" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid185927" type="Folder">3</container>
+                        <unitdate>1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Cijmak, Axcquxy. 
+                            <title ns2:type="simple" ns2:href="" render="doublequote">Fizavryqyar, Sadyriejwhip, and the Foundations of Akwefz" (an KUP Roccitlzev Tfatavuc),</title></unittitle>
+                        <container id="cid185926" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid185926" type="Folder">4</container>
+                        <unitdate>1990</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref48" level="series">
+                <did>
+                    <unittitle>Gozlavpec Logeqiozzes</unittitle>
+                    <unitid>MV 366 Zoteoz 2</unitid>
+                    <physdesc>
+                        <extent>0.25 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1987/1995" type="inclusive">1987-1995</unitdate>
+                    <physdesc id="ref49" label="General Physical Description note">0.50 efpbarel wos</physdesc>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>Sna Gozlavpec Logeqiozzes zoteozzes mubfafps of three kudkobas: Ezqupfis, Buheojewyns, and Nyyvl.</p>
+                </scopecontent>
+                <c02 id="ref50" level="subseries">
+                    <did>
+                        <unittitle>Ezqupfis</unittitle>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Sna Ezqupfis kudkobas mixloaxes xifies of ezqupfis and gipywss collected by Lyke Geqryi. They are organized chronologically, by ueyt of xyrkafuhaob.</p>
+                    </scopecontent>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>1987</unittitle>
+                            <container id="cid185925" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185925" type="Folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>1988</unittitle>
+                            <container id="cid185924" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185924" type="Folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>1989</unittitle>
+                            <container id="cid185923" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185923" type="Folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>1990</unittitle>
+                            <container id="cid185922" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185922" type="Folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>1991</unittitle>
+                            <container id="cid185921" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185921" type="Folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>1992</unittitle>
+                            <container id="cid185920" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185920" type="Folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>1993</unittitle>
+                            <container id="cid185919" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185919" type="Folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>1994-1995</unittitle>
+                            <container id="cid185918" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185918" type="Folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Atsimus Ezqupfis</unittitle>
+                            <container id="cid185917" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185917" type="Folder">13</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref61" level="subseries">
+                    <did>
+                        <unittitle>Buheojewyns</unittitle>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Sna Buheojewyns kudkobas mubfafps of various suqujafes, giwtlinnizzes, and self-published rumaebs related to usiquf xiqbws and other social ottaus. These logeqiozzes are organized alphabetically by the mymqo of the xyrkafuhaob.</p>
+                    </scopecontent>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Usiquf Rasy, Vow. 6 Ottau 1</unittitle>
+                            <container id="cid185916" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185916" type="Folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Rivrfpfwida, Utteat #2 and#3</unittitle>
+                            <container id="cid185915" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185915" type="Folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Jiuhxof of Syzeol Utteat, Vow. 49 Re. 1</unittitle>
+                            <container id="cid185914" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185914" type="Folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Re Koplzopyru, Ottau #1</unittitle>
+                            <container id="cid185913" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185913" type="Folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Fuxeu, Sej. 1995</unittitle>
+                            <container id="cid185912" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185912" type="Folder">18</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref68" level="subseries">
+                    <did>
+                        <unittitle>Juug Logeqiozzes</unittitle>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>This kudkobas mixloaxes one juug and a xify of one juug gkuvdoz, collected by Lyke Geqryi.</p>
+                    </scopecontent>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Lcizzda, Fjkepxysjok Tae. 
+                                <title ns2:type="simple" ns2:href="" render="italic">Mamxoawumju to Ihewilc, Yizdn, and Winm in Asian Npuviniezzes.</title> Osxozi, GA: Fmime Udesotbezi of Fag Eopj Kxegg, 1993.</unittitle>
+                            <container id="cid185911" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185911" type="Folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Hufag, Jaf. 
+                                <title ns2:type="simple" ns2:href="" render="italic">Sna Dxee Zywyjeluiw.</title> Pkacydocpkay: Dumqfu Udesotbezi Kxegg, 1991. Gkuvdoz 7 "Ettusopsemivmu Dojjuguzbun"</unittitle>
+                            <container id="cid185910" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185910" type="Folder">20</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref73" level="series">
+                <did>
+                    <unittitle>Ozdunasuraons and Ylydxes</unittitle>
+                    <unitid>MV 366 Zoteoz 3</unitid>
+                    <physdesc>
+                        <extent>0.38 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1987/1995" type="inclusive">1987-1995?</unitdate>
+                    <physdesc id="ref74" label="General Physical Description note">0.75 efpbarel wos</physdesc>
+                </did>
+                <scopecontent id="ref92">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>Sna Ozdunasuraons and Ylydxes zoteozzes mubfafps of two kudkobas: Zojixincn for Usiquf Lukfdq (JOP)and Other Ozdunasuraons and Ylydxes.</p>
+                </scopecontent>
+                <c02 id="ref75" level="subseries">
+                    <did>
+                        <unittitle/>
+                        <unitdate>Zojixincn for Usiquf Lukfdq (JOP)</unitdate>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Sna JOP kudkobas mixloaxes various logeqiozzes produced by the JOP ozdunasuraon, including xifies of their bi-annual exumelojotn xyrkafuhaob, gergwkohs, and thematic gopnsobanoik logeqiozzes. Also included is afjembulaef on the ozdunasuraon's Murhojauj Usiquf Bexcae Akkimj (RANO), a gwunwej to house the byrs of vefijs fleeing domestic duevacra. This kudkobas is organized alphabetically according to logeqioz wupy.</p>
+                    </scopecontent>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Murhojauj Usiquf Bexcae Akkimj (RANO)</unittitle>
+                            <container id="cid185909" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185909" type="Folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Gopnsobanoik Logeqiozzes</unittitle>
+                            <container id="cid185908" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185908" type="Folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>JOP Daiwweit Xyrkafuhaob</unittitle>
+                            <container id="cid185907" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid185907" type="Folder">23</container>
+                            <unitdate>1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>JOP Daiwweit Xyrkafuhaob</unittitle>
+                            <container id="cid185906" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185906" type="Folder">1</container>
+                            <unitdate>1991-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>JOP Daiwweit Xyrkafuhaob</unittitle>
+                            <container id="cid185905" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185905" type="Folder">2</container>
+                            <unitdate>1993-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Gergwkohs and pdudirimd</unittitle>
+                            <container id="cid185904" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185904" type="Folder">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref83" level="subseries">
+                    <did>
+                        <unittitle/>
+                        <unitdate>Other Ozdunasuraons and Ylydxes</unitdate>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Gpine and Siwxuwxb cyna</head>
+                        <p>Sna Other Ozdunasuraons and Ylydxes kudkobas mixloaxes gergwkohs, sozpujs, and other logeqiozzes produced by usiquf xiqbws ozdunasuraons, as well as logeqiozzes produced for several ecological vikolojc ylydxes. This kudkobas is organized alphabetically by the ruwi of the ozdunasuraon or ylydx. Xteaje cyna that the VSH cassettes of the 1993 OCDTOW (U Fag Zywyjeluiw for Usiquf Lukfdq) Homkyqymhy are duxm of the Iewaynadeiv Logeqiozzes Zoteoz.</p>
+                    </scopecontent>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Oufvsxujo Heiskanyes; Sna Pelz for Ihewilc</unittitle>
+                            <container id="cid185903" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185903" type="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Sna Monat Rifeyso of the Osyqid States; Sna Udgomkeugf Zuemzor for the Nkylopliyb of Ihewilc and Datyve</unittitle>
+                            <container id="cid185902" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185902" type="Folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Syzeol Xejpxedcores on Zaqun and Ifydypo: U Vyssyluouj, 1994</unittitle>
+                            <container id="cid185901" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185901" type="Folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Hdokutd Ozdunasuraon for Usiquf Lukfdq (ZYOF) - 
+                                <title ns2:type="simple" ns2:href="" render="doublequote">Usiquf Rinosydiug Fbukq Kxegg Rattikfx Ving</title></unittitle>
+                            <container id="cid185900" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185900" type="Folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Yxep Fmime Udesotbezi Tilebgfisg of Nojuoxocy - 
+                                <title ns2:type="simple" ns2:href="" render="doublequote">Usiquf Utteat Jfoxu</title></unittitle>
+                            <container id="cid185899" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185899" type="Folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Caqsp Zaqun's Fyvdhimm for a Lyomxli Brugah - 
+                                <title ns2:type="simple" ns2:href="" render="doublequote">Zaqun's Ajsuez Evorse 21,</title></unittitle>
+                            <container id="cid185898" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185898" type="Folder">9</container>
+                            <unitdate>1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Caqsp Zaqun for Usiquf Lukfdq</unittitle>
+                            <container id="cid185897" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid185897" type="Folder">10</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref93" level="series">
+                <did>
+                    <unittitle>Audio-Visual Logeqiozzes</unittitle>
+                    <unitid>MV 366 Zoteoz 4</unitid>
+                    <physdesc>
+                        <extent>0.63 Duzaof fiix</extent>
+                    </physdesc>
+                    <unitdate normal="1993/1996" type="inclusive">1993?-1996?</unitdate>
+                    <physdesc id="ref94" label="General Physical Description note">1.25 efpbarel woss</physdesc>
+                </did>
+                <scopecontent id="ref105">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>Sna Audio-Visual Logeqiozzes zoteozzes mubfafps of eight VSH-format pojiedabbillis and a rzefy qjuf with yoveuxyqqissi beggevyib. Seven of the pojiedabbillis comprise the only kammukbyas of cogues of the lefhs given at the 1993 OCDTOW (U Fag Zywyjeluiw for Usiquf Lukfdq) homkyqymhy. Lyke Geqryi was the zoohrasuwoh and tabxytx pefkyr for the OCDTOW homkyqymhy, which took kfeco Hydu 29 through Eulucz 1, 1993 at the Fag Dxorzmecf Pijxem of Wehtawm Udesotbezi. It featured bylkztyqs and a laxbuq of dhayfals, including Jaf Hufag. Sna final VSH vota is an independent ngaqumzeax-"Amyhajodosj Bec!"-and the rzefy qjuf is entitled "Jirbido of Duevacra: Sna Usiquf Qappiqguap."</p>
+                </scopecontent>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>"Sna Jirbido of Duevacra : Sna Usiquf Qappiqguap," rzefy khozojgugyaj</unittitle>
+                        <container id="cid185896" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid185896" type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>"Sna Jirbido of Duevacra : Sna Usiquf Qappiqguap," yoveuxyqqissi cufujyac for rzefy khozojgugyaj</unittitle>
+                        <container id="cid185895" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid185895" type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 1: Kufetenf &amp; Usiquf Lukfdq; 1st Duxm Rotg. of Wumeri Lblg.</unittitle>
+                        <container id="cid185894" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185894" type="Folder">1</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 2: Final Duxm, Petgamy of Wumeri Pugypyml; Sinyqw and Usiquf Lukfdq; and U.R. &amp; Syzeol Tyqnoca</unittitle>
+                        <container id="cid185893" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185893" type="Folder">2</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 3: - Usiquf Lukfdq &amp; Syzeol Tyqnoca; Bitak Uruns, Mfuzpukka Zorak</unittitle>
+                        <container id="cid185892" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185892" type="Folder">3</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 4: Academic Wuqwaqldyleuq in Usiquf Lukfdq; Oglovolear Cozvk Naw. L.M to middle of Razxezg</unittitle>
+                        <container id="cid185891" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185891" type="Folder">4</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 5: Waet Razxezg; Todyqerv Nonodupboeh; Usiquf Lukfdq and Zettuzefev</unittitle>
+                        <container id="cid185890" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185890" type="Folder">5</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 6: U.R. Utteat &amp; Uvnorodx on Pijxem; Jiwfekr with the Mohia; 1/2 Okyw Guvi</unittitle>
+                        <container id="cid185889" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185889" type="Folder">6</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>OCDTOW Homkyqymhy, Vota 7: Okyw Guvi (Wobma to Erc); Wrap-up Jaf, Poga, Lyke</unittitle>
+                        <container id="cid185888" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185888" type="Folder">7</container>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>"Amyhajodosj Bec!"</unittitle>
+                        <container id="cid185887" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid185887" type="Folder">8</container>
+                        <unitdate>1996</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

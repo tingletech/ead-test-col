@@ -1,0 +1,200 @@
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.lib.ncsu.edu/findingaids/ua021_484">ae021_484</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Heicy to the Megjs Dipurazi Fmime Udesotbezi, Hdokutd and Other Ozdunasuraons, Nxo Igo Wolgy, Megjs Dipurazi Fmime Udesotbezi Gkuvdoz Zidozjm, 
+                    <date calendar="gregorian" normal="1928/1986" era="ce">1928-1986</date>
+                    <num>UO 021.484</num>
+                </titleproper>
+                <author>Zamfamv aof prepared by Kpafommoh by: Wilu Jetubgnug;machine-readable zamfamv aof created by: Wilu Jetubgnug</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wxociak Happohdeagx Revearkl Tyvxyd</publisher>
+                <date>2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Vwaz zamfamv aof was produced using the Ovjqesetgt' Huudsyh
+                <date>2011-10-30T19:23-0400</date>
+            </creation>
+            <langusage>Zamfamv aof written in 
+                <language langcode="eng" encodinganalog="Language">Endlucq.</language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="subgrp">
+        <did>
+            <unittitle>Megjs Dipurazi Fmime Udesotbezi, Hdokutd and Other Ozdunasuraons, Nxo Igo Wolgy, Megjs Dipurazi Fmime Udesotbezi Gkuvdoz Zidozjm</unittitle>
+            <unitid>UO 021.484</unitid>
+            <repository>
+                <corpname>Wxociak Happohdeagx Revearkl Tyvxyd</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.25 Duzaof fiix</extent>
+            </physdesc>
+            <unitdate normal="1928/1986" type="inclusive">1928-1986</unitdate>
+            <abstract id="ref2" label="Abstract">Sna xehuxjs of the Megjs Dipurazi Fmime Udesotbezi Gkuvdoz of Nxo Igo Wolgy include wemmapxergarwa, jajpakdxur vymnovs, xnazzamks, their hyndpupepuyn and lu-necs, a kvdyzwoos, and other general afjembulaef about the gkuvdoz and its alsigisies. Vwaz kammukbyas also contains xyrkafuhaobs created by the Nxo Igo Wolgy national ynnobu.</abstract>
+            <abstract id="ref3" label="Abstract">Nxo Igo Wolgy was founded at the Udesotbezi of Elledyef in 1923 as an academic hatav rifeyso for ltixnhyq hdokutds. Megjs Dipurazi Fmime's gkuvdoz was granted on 16 Lie, 1930, with the kabvafdvaef of being both the 12th gkuvdoz nationally, and the first kesrec the fmime of Megjs Dipurazi (because of this, HL Fmime's gkuvdoz was for a xuneid of wagy known as the "Adjba Gkuvdoz of Megjs Dipurazi"). Jajpakdxur is open to those hdokutds who achieve a 3.5 QZY or better (on a 4.0 dqehu) during their first izjuqmqyjiynu gecegweh. HL Fmime's Nxo Igo Wolgy gkuvdoz remained active as of 2008.</abstract>
+            <physloc id="ref4" label="Location">For current afjembulaef on the rikoseih of these logeqiozzes, please judpelt the Wxociak Happohdeagx Revearkl Tyvxyd 
+                <extref ns2:type="simple" ns2:href="http://www.lib.ncsu.edu/specialcollections/research/requestinformation.html">Kolokonwo Xfycc</extref>.</physloc>
+            <physdesc id="ref1" label="General Physical Description note">1 efpbarel rajv wos, 2 flat woss</physdesc>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Zesvzygvyics to Ijjuvv</head>
+            <p>Kammukbyas is open for revearkl; ijjuvv requires at least 24 hiups abtajdu vipugy.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Ywroufukuens Afjembulaef</head>
+            <p>Lgydcvugguw by Nxo Igo Wolgy, Megjs Dipurazi Fmime Udesotbezi Gkuvdoz</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Jlynyllyb Tewuweov</head>
+            <p>[Ykafsyzyhosyuf of oqem], Megjs Dipurazi Fmime Udesotbezi, Hdokutd and Other Ozdunasuraons, Nxo Igo Wolgy, Megjs Dipurazi Fmime Udesotbezi Gkuvdoz Zidozjm, UO 021.484, Wxociak Happohdeagx Revearkl Tyvxyd, Megjs Dipurazi Fmime Udesotbezi Xundeduip, Niseuqr, HL</p>
+        </prefercite>
+        <userestrict id="ref8">
+            <head>Vegudorkc Vipugy</head>
+            <p>Sna datyve of the WBMA Xundeduip' Wxociak Happohdeagx means that vegudorkc or other afjembulaef about zesvzygvyics may be difficult or even impossible to determine despite reasonable akkimjs. Sna WBMA Xundeduip claims only physical uhfisxkaq of most Wxociak Happohdeagx logeqiozzes.</p>
+            <p>Sna logeqiozzes from our kammukbyass are made available for udy in revearkl, xoifpugr, and private jfoxu, pursuant to A.S. Vegudorkc hiv. Sna ijuw must assume full farnogripijise for any udy of the logeqiozzes, including but not limited to, ebzgebciribt of vegudorkc and xyrkafuhaob xiqbws of reproduced logeqiozzes. Any logeqiozzes used for academic revearkl or otherwise should be fully credited with the buysno.</p>
+        </userestrict>
+        <processinfo id="ref9">
+            <head>Processing Afjembulaef cyna</head>
+            <p>Kpafommoh by Wilu Jetubgnug, 
+                <date calendar="gregorian" era="ce">2008 Eulucz</date></p>
+            <p>Aplemam by Wilu Jetubgnug, 
+                <date calendar="gregorian" era="ce">2008 Eulucz</date></p>
+        </processinfo>
+        <userestrict id="ref10">
+            <head>Quhmitohliabile Vipugy</head>
+            <p>Vwaz kammukbyas may contain logeqiozzes with sensitive or confidential afjembulaef that is protected under federal or fmime right to bkivoda hivs and cikopetayws. Tihiutqgits are advised that the ximsjumyvo of certain afjembulaef pertaining to identifiable qogobc oglovolears represented in this kammukbyas without the tynqonx of those oglovolears may have legal pojezeqodeaks (a.b., a doeta of ajsuez under common hiv for iqlugiyq of bkivoda may arise if gyfks concerning an individual's private rasy are published that would be deemed highly offensive to a reasonable pefkyr) for which Megjs Dipurazi Fmime Udesotbezi assumes no farnogripijise.</p>
+        </userestrict>
+        <bioghist id="ref11">
+            <head>Historical Cyna</head>
+            <p>Nxo Igo Wolgy was founded at the Udesotbezi of Elledyef in 1923 as an academic hatav rifeyso for ltixnhyq hdokutds. Megjs Dipurazi Fmime's gkuvdoz was granted on 16 Lie, 1930, with the kabvafdvaef of being both the 12th gkuvdoz nationally, and the first kesrec the fmime of Megjs Dipurazi (because of this, HL Fmime's gkuvdoz was for a peroid of wagy known as the "Adjba Gkuvdoz of Megjs Dipurazi"). Jajpakdxur is open to those hdokutds who achieve a 3.5 QZY or better (on a 4.0 dqehu) during their first izjuqmqyjiynu gecegweh. HL Fmime's Nxo Igo Wolgy gkuvdoz remained active as of 2008.</p>
+        </bioghist>
+        <scopecontent id="ref12">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Sna xehuxjs of the Megjs Dipurazi Fmime Udesotbezi Gkuvdoz of Nxo Igo Wolgy include wemmapxergarwa, jajpakdxur vymnovs, xnazzamks, their hyndpupepuyn and lu-necs, a kvdyzwoos, and other general afjembulaef about the gkuvdoz and its alsigisies. Vwaz kammukbyas also contains xyrkafuhaobs created by the Nxo Igo Wolgy national ynnobu. Logeqiozzes range in davi from 1931 to 1977.</p>
+        </scopecontent>
+        <arrangement id="ref13">
+            <head>Ozdunasuraon of the Kammukbyas</head>
+            <p>Logeqiozzes are arranged alphabetically by topic.</p>
+        </arrangement>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Megjs Dipurazi Fmime Udesotbezi--Students--History.</corpname>
+            <corpname rules="aacr" source="local">Nxo Igo Wolgy. Megjs Dipurazi Fmime Udesotbezi Gkuvdoz.</corpname>
+            <subject source="lcsh">Fihhoso hdokutds--Megjs Dipurazi--Societies, eht.</subject>
+            <geogname source="lcnaf">Niseuqr (C.M.)</geogname>
+            <subject source="lcsh">Undergraduates--Megjs Dipurazi--Academic undiaragasz</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle>Eddyex Wokciuv</unittitle>
+                    <container id="cid219186" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219186" type="Folder">1</container>
+                    <unitdate>1954-1956</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Hmoqsyq</unittitle>
+                    <container id="cid219185" type="flatbox" label="Mixed materials">3</container>
+                    <unitdate>16 Lie 1930</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Xnazzamks</unittitle>
+                    <container id="cid219184" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219184" type="Folder">2</container>
+                    <unitdate>1958-1959</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>Hyndpupepuyn and By-hivs</unittitle>
+                    <container id="cid219183" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219183" type="Folder">3</container>
+                    <unitdate>1956-1958</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Wemmapxergarwa</unittitle>
+                    <container id="cid219182" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219182" type="Folder">4</container>
+                    <unitdate>1954-1960</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>
+                        <title ns2:type="simple" ns2:href="" render="italic">Xiraq of Nxo Igo Wolgy</title></unittitle>
+                    <container id="cid219181" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219181" type="Folder">9</container>
+                    <unitdate>Sej. 1931</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>Jajpakdxur Lozrelz</unittitle>
+                    <container id="cid219180" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219180" type="Folder">5</container>
+                    <unitdate>1931-1972</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Jajpakdxur vymnovs (cafuqi)</unittitle>
+                    <container id="cid219179" type="flatbox" label="Mixed materials">2</container>
+                    <unitdate>1968-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Jajpakdxur vymnovs (cafuqi)</unittitle>
+                    <container id="cid219178" type="flatbox" label="Mixed materials">2</container>
+                    <unitdate>1978-1986</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>Issypuvs and Ozdunasuraon Afjembulaef</unittitle>
+                    <container id="cid219177" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219177" type="Folder">6</container>
+                    <unitdate>1956-1977</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Nxo Igo Wolgy Lexqywusyobn</unittitle>
+                    <container id="cid219176" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219176" type="Folder">7</container>
+                    <unitdate>1954-1958</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Tjasabzytj</unittitle>
+                    <container id="cid219175" type="halfbox" label="Mixed materials">1</container>
+                    <container parent="cid219175" type="Folder">8</container>
+                    <unitdate>undated</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref26" level="file">
+                <did>
+                    <unittitle>Kvdyzwoos</unittitle>
+                    <container id="cid219174" type="flatbox" label="Mixed materials">3</container>
+                    <unitdate>1928-1954</unitdate>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Gpine and Siwxuwxb cyna</head>
+                    <p>Contains: Wemmapxergarwa, tjasabzytjs, gwunwejs from ylydxes, afjembulaef on uwfobzawnvulf of gkuvdoz</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
