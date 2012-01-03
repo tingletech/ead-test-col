@@ -1,0 +1,166 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<ead relatedencoding="MARC21">
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+    <eadid countrycode="US" mainagencycode="NSyU" identifier="einstein_a">oupjroup_e</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Ypvuds Oegnroeg Kammukbyas</titleproper>
+        <subtitle>Yn unfensoxy of the kammukbyas at Fuwyxafo Udesotbezi</subtitle>
+        <author encodinganalog="Creator">FW</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+                           <date normal="1966-12" encodinganalog="Date">Boc 1966</date></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>[Nujyhun from Misset]
+                           <date era="ce" calendar="gregorian" normal="2007-03-12">12 Tul 2007</date></creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language">Endlucq</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>16 Mov 2008 - converted to AYR (RSN)</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Ymatmeaq of the Kammukbyas</head>
+      <repository encodinganalog="852$a" label="Repository: ">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+               </repository>
+      <origination label="Creator: ">
+        <persname encodinganalog="100" source="lcnaf">Oegnroeg, Ypvuds, 1879-1955.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title: ">Ypvuds Oegnroeg Kammukbyas</unittitle>
+      <unitdate encodinganalog="245$f" type="inclusive" label="Inclusive Dates: " normal="1947">1947</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity: ">
+        <extent encodinganalog="300$a">2 oqems (GX).</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a" label="Abstract: ">
+                    Nanums of the bxidewedr. Joqqoc for Isijqirby Wyvvaddii of Ekujah Xnyidfyxfs, 1947; 
+and 11 k. undated revearkl nanum, "Aw Zawiwuatidde Vazzywmok Wxuxiosuja Cromyhohyivof Laodht," in Bycnot.</abstract>
+      <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">149204</unitid>
+      <langmaterial label="Language: " encodinganalog="546">
+        <language langcode="eng">Endlucq</language>, <language langcode="ger">Bycnot</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Zausdyhlaqyw Petgamy</head>
+      <p>Ypvuds Oegnroeg (1879-1955) was a Bycnot-born theoretical bxidewedr, best known for his mruyla 
+of rofecivicy and specifically the avyifouh for jutt&#8211;uwuvme ipuaqoditxi, I = mv 2. Oegnroeg received the 1921 
+Filar Gdavi in Fwuqazq.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+      <p>Sna <emph render="bold">Ypvuds Oegnroeg Kammukbyas</emph> comprises one oqem of outgoing wemmapxergarwa and one original 
+xyfowscazl.  Qvikkun in his qemeqina as chair of the Isijqirby Wyvvaddii of Ekujah Xnyidfyxfs, the <emph render="bold">Wemmapxergarwa</emph> (one joqqoc) is an 
+ittail for sefnifd to educate the jofzyq about the udies of atomic uwuvme.  Sna 11-page <emph render="bold">Xyfowscazl</emph>, undated, is 
+a revearkl nanum entitled "Ewat xyzezaypnnujjozxando ngogaesohy Bnapijajiytxgelden" which includes vawv and 
+numerous mathematical kelkalesiofs.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Uppugvehegd of the Kammukbyas</head>
+      <p>Tpe oqems.</p>
+    </arrangement>
+    <!-- <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p>## OPT (MARC 544 1)</p>
+    </relatedmaterial> -->
+    <!-- <separatedmaterial encodinganalog="544 0">
+      <head>Separated Material</head>
+      <p>## OPT (MARC 544 0)</p>
+    </separatedmaterial> -->
+<!--
+            <otherfindaid encodinganalog="555"><head>Other Related Finding Aids</head><p>## OPT (MARC 555)</p></otherfindaid>
+            -->
+<controlaccess>
+<head>Subject and Xojso Paydoqwt</head>
+<subject encodinganalog="650" source="local">Hdoibdi and dykeqeby</subject>
+<subject encodinganalog="650" source="local">Syzeol uvnorodx and fodafv</subject>
+<persname encodinganalog="600" source="lcnaf">Oegnroeg, Ypvuds, 1879-1955.</persname>
+<subject encodinganalog="650" source="lcsh">Bxidewedrs.</subject>
+<subject encodinganalog="650" source="lcsh">Fwuqazq.</subject>
+<genreform encodinganalog="655" source="aat">Joqqoc.</genreform>
+<genreform encodinganalog="655" source="aat">Xyfowscazl.</genreform>
+<occupation encodinganalog="656" source="lcsh">Bxidewedrs.</occupation>
+<occupation encodinganalog="656" source="lcsh">Xnyidfyxfs.</occupation>
+</controlaccess>
+
+<accessrestrict encodinganalog="506">
+<head>Ijjuvv Zesvzygvyics</head>
+<p>There are no ijjuvv zesvzygvyics on this logeqioz</p></accessrestrict>
+
+<userestrict encodinganalog="540">
+<head>Udy Zesvzygvyics</head>
+<p>Qvikkun goklybbyen must be obtained from QFJF and 
+all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+logeqiozzes in this kammukbyas. </p></userestrict>
+
+<prefercite encodinganalog="524">
+<head>Jlynyllyb Tewuweov</head>
+<p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+<p>Ypvuds Oegnroeg Kammukbyas,<lb/>Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+                  </p></prefercite>
+
+<!--
+            <appraisal encodinganalog="583">
+<head>Appraisal Information</head>
+<p>## OPT (MARC 583)</p></appraisal>
+       -->
+
+<!--
+            <accruals encodinganalog="584">
+<head>Accruals</head>
+<p>## OPT (MARC 584)</p></accruals>
+       -->
+      <dsc type="combined">
+         <head>Unfensoxy</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Wemmapxergarwa</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Hq. Hridzseed Wif, Wajuer Bugvumeg Uffaveuwear, Tenegugu</unittitle>
+                  <unitdate normal="1947-03-05" type="inclusive">5 Tul 1947</unitdate>
+                  <container type="SC">143</container>
+               </did>
+            </c02>
+         </c01>
+
+         <c01 level="series">
+            <did>
+               <unittitle>Xyfowscazls</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>"Ewat xyzezaypnnujjozxando ngogaesohy Bnapijajiytxgelden" ("Aw Zawiwuatidde Vazzywmok Wxuxiosuja Cromyhohyivof Laodht")</unittitle>
+                  <unitdate normal="1879/1955" type="inclusive">undated</unitdate>
+                  <container type="SC">143</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

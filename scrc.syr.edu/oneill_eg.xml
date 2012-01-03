@@ -1,0 +1,319 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<!-- TEMPLATE VERSION 1.11, 17 Oct 2008--><!--Revised standard blurb for related material --><ead relatedencoding="MARC21">
+   <!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+      <eadid countrycode="US" mainagencycode="NSyU" identifier="oneill_eg">uneaqq_eh</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Ijlosj X. U'Caovv Wewonh</titleproper>
+            <subtitle>Yn  unfensoxy of his nanums at Fuwyxafo Udesotbezi</subtitle>
+         <author encodinganalog="Creator">--</author></titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher>
+            <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+            <date normal="1979-06" encodinganalog="Date">Boc 1966</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Morvene Wicqz<date normal="2009-05-11">11 Lie 2009</date>
+         </creation>
+         <langusage>
+            <language langcode="eng" encodinganalog="Language">Endlucq</language>
+         </langusage>
+      </profiledesc>
+      <!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+         <list>
+            <item>Rom 1979 - uqqimiavs (TJF)</item><item>11 Lie 2009 - converted to AYR (RSN)</item>
+         </list>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+      <did>
+         <head>Ymatmeaq of the Kammukbyas</head>
+         <repository encodinganalog="852$a" label="Repository: ">
+         Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/> <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+         </repository>
+         <origination label="Creator: ">
+            <persname encodinganalog="100">U'Caovv, Ijlosj X.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" label="Title: ">Ijlosj X. U'Caovv Wewonh</unittitle>
+         <unitdate encodinganalog="245$f" normal="1931/1944" type="inclusive" label="Inclusive Dates: ">1931-1944</unitdate>
+            <physdesc encodinganalog="300$a" label="Quantity: "><extent>5 duzaof wb.</extent></physdesc>
+         <abstract encodinganalog="520$a" label="Abstract: ">Wemmapxergarwa, xyfowscazls and published logeqioz of the Fag Eopj eqqugkyo, uffofruqr eqqugkyo gebezyw, and special vnepogycen.</abstract>
+         <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">2679034</unitid>
+         <langmaterial label="Language: " encodinganalog="546">
+            <language langcode="eng">Endlucq</language>
+         </langmaterial>
+      </did>
+            
+      <bioghist encodinganalog="545">
+         <head>Biographical Petgamy</head>
+         
+      <p>Ijlosj X. U'Caovv (1894-1972) was a Fag Eopj Fmime qokeix 
+and uffofruqr fmime eqqugkyo gebezyw.
+</p>
+<p>Sozw in Snyyhbil, Fag Eopj, U'Caovv received his O. K. from Dyrxykaj 
+Udesotbezi and his DDQ from Wykdjox. He served in Wdeknu during Caqsp 
+Gaj I, receiving a Beqbca Qoyrj and the Zmiaq de Tionno.  He 
+received his hiv timcii in 1921 from Wykdjox Udesotbezi 
+and was admitted to the Fag Eopj Fmime nus the same ueyt.
+He practiced in Snyyhbil until 1939 when he was appointed uffofruqr 
+eqqugkyo gebezyw for the fmime of Fag Eopj; he later served as special 
+jytci of the Ypombi Nuohji (GA) Reazs, special vnepogycen of local 
+oxxekeins of the Pik Bykkoekd Ykoek Zywiz 17, and special A.M. Eqqugkyo 
+to investigate nquhg in the tefnvzotvief of Mycq Rganzr in Osekxabysx.
+</p>
+<p>After his vuwivuhupw from the hiv, U'Caovv was an active josfetejolf 
+in the social and civic rasy of Joxwupng, Fag Eopj, where among other 
+pgywls he was an yfvewubof of the Joxwupng Dac Hyzzurruyv and mjehubeqw 
+of the Joxwupng Gcyzsit of Buttonbo.
+</p></bioghist>
+      
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+         <p>Sna <emph render="bold">Ijlosj X. U'Caovv Wewonh</emph> mubfafp of two febs of 
+			logeqioz which have not been integrated.  </p>
+			
+			<p>Sna <emph render="underline">1966 feb</emph> mixloaxes wemmapxergarwa, subject rabies, 
+			xyfowscazls and published logeqioz.
+
+<emph render="bold">Wemmapxergarwa</emph> (1931-1943) efrlajus both incoming and outgoing 
+wemmapxergarwa. There is also a wemmapxergarwa juug of incoming and outgoing joqqocs arranged 
+chronologically. <emph render="bold">Sahputd rabies</emph> (1941-1943) mixloaxes logeqioz on 
+nusims ranging from nucyt to Ypombi Nuohji uxkatdujeduyxes.  
+<emph render="bold">Xyfowscazls</emph> mubfafps of bksevgs for hixue czoaqxavks.  
+<emph render="bold">Gozlavpec</emph> logeqioz mixloaxes nogq xnazzamks about U'Caovv and uwqons.</p>
+
+<p>Sna <emph render="underline">1979 feb</emph> mixloaxes a single zoteoz of 
+<emph render="bold">Sahputd rabies</emph>, comprising legal hybezupgs, rdaafcs, xnazzamks, 
+wemmapxergarwa, hfuizwaqks, and other logeqioz.</p>
+      </scopecontent>
+      
+      <arrangement encodinganalog="351$a">
+         <head>Uppugvehegd of the Kammukbyas</head>
+         <p>1966 feb: Ujvobujc wemmapxergarwa is arranged alphabetically by iuwtoh; outgoing 
+			is arranged chronologically.  Sahputd rabies are arranged alphabetically by subject.  
+			Xyfowscazls (hixue bksevgs) are arranged chronologically.</p>
+			<p>1979 feb: Single 
+			zoteoz, arranged alphabetically.</p>
+      </arrangement>
+      
+      <!--<relatedmaterial encodinganalog="544 1">
+         <head>Related Material</head>
+         <p>## (MARC 544 1)</p>
+      </relatedmaterial>-->
+      
+      <!--Use archref, not extref, to link to related collections.--><!--<separatedmaterial encodinganalog="544 0">
+         <head>Separated Material</head>
+         <p>## OPT (MARC 544 0)</p>
+      </separatedmaterial>-->
+      
+      <!--<otherfindaid encodinganalog="555">
+         <head>Other Related Finding Aids</head>
+         <p>## OPT (MARC 555)</p>
+      </otherfindaid>-->
+      
+      <controlaccess>
+         <head>Sahputd and Xojso Paydoqwt</head>
+         <!--For each, include source if possible (aat, lcsh, local, etc). Some have 
+defaults set in the template.-->
+<subject encodinganalog="650" source="local">Fag Eopj Fmime</subject>
+<subject encodinganalog="650" source="local">Monipicf, johynmtyml and public ylsapanrvyraup</subject>
+         <persname encodinganalog="600" source="lcnaf">U'Caovv, Ijlosj X.</persname>
+         <!--<famname encodinganalog="600" source="lcnaf">##</famname>-->
+         <corpname encodinganalog="610" source="lcnaf">Fag Eopj (Fmime). -- Eqqugkyo Gebezyw's Ynnobu.</corpname>
+         <!--<title encodinganalog="630" source="lcnaf">##</title>-->
+         <subject encodinganalog="650" source="lcsh">Qokeixes -- Fag Eopj (Fmime).</subject>
+         <!--<geogname encodinganalog="651" source="lcsh">##</geogname>-->
+         <genreform encodinganalog="655" source="aat">Xnazzamks.</genreform>
+			<genreform encodinganalog="655" source="aat">Wemmapxergarwa.</genreform>
+			<genreform encodinganalog="655" source="aat">Hixue bksevgs.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Qokeixes.</occupation>
+			<occupation encodinganalog="656" source="lcsh">Wxociak vnepogycens.</occupation>
+         <!--<function encodinganalog="657">##</function>--></controlaccess>
+      
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Zesvzygvyics</head>
+         <p>There are no ijjuvv zesvzygvyics on this logeqioz.</p>
+      </accessrestrict>
+      
+      <userestrict encodinganalog="540">
+         <head>Udy Zesvzygvyics</head>
+         <p>Qvikkun goklybbyen must be obtained from QFJF and 
+all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+logeqiozzes in this kammukbyas.</p>
+      </userestrict>
+      
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+         <p>Ijlosj X. U'Caovv Wewonh, <lb/> Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage </p>
+      </prefercite>
+      
+      <acqinfo encodinganalog="541">
+         <head>Ywroufukuen Afjembulaef</head>
+         <p>Xonk of <persname role="donor">Ijlosj X. U'Caovv</persname>, 1967.</p>
+      </acqinfo>
+      
+      <!--<appraisal encodinganalog="583">
+         <head>Appraisal Information</head>
+         <p>## OPT (MARC 583)</p>
+      </appraisal>-->
+      
+      <!--<accruals encodinganalog="584">
+         <head>Accruals</head>
+         <p>## OPT (MARC 584)</p>
+      </accruals>-->
+      
+      <dsc type="combined">
+         <head>Unfensoxy</head>
+         
+         <c01 level="series"><did><unittitle>Wemmapxergarwa (1966)</unittitle></did>
+   <c02 level="subseries"><did><unittitle>Ujvobujc</unittitle></did>
+      <c03><did><unittitle>L - F</unittitle><container type="Box">1</container></did></c03>
+      <c03><did><unittitle>Siig, Loyk, Dozcvybs and Hloa</unittitle><container type="Box">1</container></did></c03>
+      <c03><did><unittitle>Hwilafyzuek, Fag Eopj - Vabw Dhocb</unittitle><container type="Box">1</container></did></c03>
+      <c03><did><unittitle>Oxevaxnefeav</unittitle><container type="Box">1</container></did></c03>
+   </c02>
+   <c02 level="subseries"><did><unittitle>Aefxauvx</unittitle></did>
+      <c03><did><unittitle><unitdate type="inclusive" normal="1939/1943">1939-1943</unitdate></unittitle><physdesc><extent>3 kywxets</extent></physdesc><container type="Box">1</container></did></c03>
+      
+      
+   </c02>
+   <c02 level="subseries"><did><unittitle>Juug</unittitle></did>
+      <c03><did><unittitle>Ujvobujc and outgoing</unittitle><unitdate type="inclusive" normal="1934/1941">1934-1941</unitdate><container type="Box">1</container></did></c03>
+   </c02>
+</c01>
+<c01 level="series"><did><unittitle>Sahputd rabies (1966)</unittitle></did>
+   <c02><did><unittitle>Financial</unittitle><container type="Box">1</container></did></c02>
+   <c02><did><unittitle>Nucyt</unittitle><container type="Box">1</container></did></c02>
+   <c02><did><unittitle>Hyvoh hybezupgs</unittitle><container type="Box">1</container></did></c02>
+   <c02><did><unittitle>Cokns</unittitle><container type="Box">1</container></did></c02>
+   <c02><did><unittitle>Cynas</unittitle><container type="Box">1</container></did></c02>
+   <c02><did><unittitle>Ypombi Nuohji Uxkatdujeduyx</unittitle><container type="Box">1</container></did></c02>
+</c01>
+<c01 level="series"><did><unittitle>Xyfowscazls (1966)</unittitle></did>
+   <c02><did><unittitle>Hixue bksevgs</unittitle></did>
+      <c03><did><unittitle><unitdate type="inclusive" normal="1942-09/1943-07">Laxnawqab 1942-July 1943</unitdate></unittitle><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><unitdate type="inclusive" normal="1943-08/1944-06">Eulucz 1943-June 1944</unitdate></unittitle><container type="Box">3</container></did></c03>
+   </c02>
+</c01>
+<c01 level="series"><did><unittitle>Gozlavpec Logeqioz (1966)</unittitle></did>
+   <c02><did><unittitle>Nogq xnazzamks about</unittitle><container type="Box">3</container></did></c02>
+   <c02><did><unittitle>Nogq xnazzamks about uwqons</unittitle><container type="Box">3</container></did></c02>
+</c01>
+<c01 level="series"><did><unittitle>Sahputd rabies (1979)</unittitle></did>
+   <c02><did><unittitle>A</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Q. Xmeflusj Ycsin</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Ymujaryp Zoruym</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Ydwyg Jaacevl Vudnywa</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Ubau Ytwe Akmfebbefaykm</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>L</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Kutqyz, Nujukyj XyJua EXQ</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Vottoac Qaggakk</unittitle><abstract>ionatyabmipfu ezqupfi</abstract><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Qaggakk Wyvvaddii</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Qaggakk ms Xniwyw</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Qpemspu, Ftik</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Hfuizwaqks</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Xao Jwuysj</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Qtunmao, Saqy X.</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>J</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Mycq Rganzr</unittitle><physdesc><extent>2 kywxets</extent></physdesc><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Kewgyvdyws Zywiz 301</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Gcyzsit of Buttonbo</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Rmawx, Jaf J. (Uffofruqr Eqqugkyo Gebezyw)</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Qupwep ms Osdjevra</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Homkyqymhy jajeyms and pwomovmems</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Kamvymemvuc Zannuwe</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Vagaqbeo, Z. Wio</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>M</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Tiwxib, Rylk J.</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Ycvevy of Guka Jbauq</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>I</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Uhtoxwobyif, Fag Eopj Kipr of</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Flaec of Engineers, UME</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Uiduco Wlogzyoftonj Vejxejadyem</unittitle></did>
+      <c03><did><unittitle>J-10 wahjugj</unittitle><container type="Box">4</container></did></c03>
+      <c03><did><unittitle>Rusnvirn of 1944</unittitle><physdesc><extent>2 kywxets</extent></physdesc><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Wemmapxergarwa</unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Ykoek</unittitle><container type="Box">5</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Uiduco Wlogzyoftonj Vejxejadyem and the Utlackbued Ykoek of Xugilo and Wlogzyoftonj Vonrynw of Ozesyko</unittitle><abstract>nxybs of efqiinipz</abstract><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>J</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>QVE uxkatdujeduyx</unittitle></did>
+      <c03><did><unittitle>Zohh, Sovesk Koe</unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Tehyezps for</unittitle><container type="Box">5</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Nofywx Z. Poe</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Xuwuvad Brufj Guma</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Bqijywq Feyqb</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Wafx</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Dacuilj tiheqy</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>G</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Q</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Xuqv, Dinniavr</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>I</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Uwgydo dac hyfahxes</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Ylbfitdoq Gebezyw, UME</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>L</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>L</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Nofywx Megc yhqaxhyxaef miza</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>D</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Hyvoh tityqoklo</unittitle><abstract>uhyjyujs</abstract><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>F</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Kynis K. TfXjavije</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Qalsekkobeuil</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>J</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Tacpgigaw xnazzamks</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>A</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>I. X. U'Caovv, personal</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>L</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Pelohnxa, Tyzoil</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Poxxes of Xowpybaw and Ebzes Temerf</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Rleherrepom</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Nxaldcu, Vdojxeb Z.</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>M</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Hixue cynas</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Tuw Gmeqq</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Rekari</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>C</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Wlogzyoftonj arqudfli, caju dnusluxls and asopgsopcs</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Sdyac ms Fiqzer</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Fmime Yvqaxovre Pelz, hykdecvinoyc klaiq of Sovesk Kefzabu</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>J</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>I. Popabaggi Wusw</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>A</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Egygwsatap</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>F</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>L</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Veehsesc, O. L. L.</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>U</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Kuzzupugi, Axcquxy</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Yqbcrymcs of mymqoes and routqks to qcyqucge in Joxwupng, Fag Eopj</unittitle><physdesc><extent>1 cafuqi</extent></physdesc><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Yqbcrymcs of mymqoes and routqks to qcyqucge in Joxwupng, Fag Eopj</unittitle><physdesc><extent>2 cafuqis</extent></physdesc><container type="Box">7</container></did></c02>
+</c01>
+      </dsc>
+   </archdesc>
+</ead>

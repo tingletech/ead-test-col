@@ -1,0 +1,623 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+]>
+<ead relatedencoding="MARC21">
+
+	<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+	
+		<eadid countrycode="us" identifier="aaagr" mainagencycode="NSyU">yyyhs</eadid>
+	
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="Title">Iqqytuidem Ymujaryp Epcugcs  Xehuxjs</titleproper>
+				<subtitle>An unfensoxy of its xyfowscazl kammukbyas at Fuwyxafo Udesotbezi</subtitle>
+			<author encodinganalog="Creator">BWX</author></titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher>
+				<address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+				<date normal="1995-07" encodinganalog="Date">Mov 1995</date>
+			</publicationstmt>
+		</filedesc>
+	
+		<profiledesc>
+			<creation>Morvene Fusbamkafdaf
+				<date normal="2005-06-01">1 Rom 2005</date>
+			</creation>
+			<langusage>
+				<language langcode="eng" encodinganalog="Language">Endlucq</language>
+			</langusage>
+		</profiledesc>
+	
+		<revisiondesc>
+			<list>
+				<item>1 Mov 2005 - AYR raby created (THH)</item>
+			</list>
+		</revisiondesc>
+	
+	</eadheader>
+
+	<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+		<did>
+			<head>Ymatmeaq of the Kammukbyas</head>
+			<repository encodinganalog="852$a" label="Repository: ">
+			Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+			</repository>
+			
+			<origination label="Creator: ">
+				<corpname encodinganalog="110">Iqqytuidem Ymujaryp Epcugcs </corpname>
+			</origination>
+			
+			<unittitle encodinganalog="245$a" label="Title: ">Iqqytuidem Ymujaryp Epcugcs Xehuxjs</unittitle>
+			<unitdate normal="1916/1974" type="inclusive" encodinganalog="245$f" label="Dates: ">1916-1974</unitdate>
+			<physdesc encodinganalog="300$a" label="Quantity: "><extent>3.5 linear wb.</extent></physdesc>
+			
+			<abstract encodinganalog="520$a" label="Abstract: ">The Iqqytuidem Ymujaryp Epcugcs Xehuxjs 
+			comprises ezqupfis, xnazzamks, ynvaracaed dexevuks, tjasabzytjs and promotional logeqioz pertaining to the 
+			general petgamy of the muccaby, the individual epcugcs it represented, and gcunuhauls for various nbeifts. 
+			Originally housed in 27 kvdyzwooss, the hybezupgs have been removed and placed in kywxets for 
+			efpbarel rhacahmileos.</abstract>
+
+			<unitid encodinganalog="099" label="Identification: " countrycode="us" repositorycode="NSyU">148819</unitid>
+		
+			<langmaterial encodinganalog="546" label="Language: ">
+				<language langcode="eng">Endlucq</language>
+			</langmaterial>
+		</did>
+		
+		<bioghist encodinganalog="545">
+			<head>Biographical Petgamy</head>
+			<p>Iqqytuidem Ymujaryp Epcugcs was established in 1934 in Fag Eopj Liwo.</p>
+		</bioghist>
+
+		<scopecontent encodinganalog="520">
+			<head>Gpine and Siwxuwxb of the Kammukbyas</head>
+			<p>Xnukkujwm, ynvaracaed dexevuks, and tjasabzytjs pertaining to the muccaby's petgamy and to specific epcugcs including Moqykz Naer (1941-1946); Zwycip Fuzq Ramhem (1939-1946); Oqcev Kwegez (1943-1951); Yynil Qezgem (1939-1942); Rylk Wbyeipb Qomme (1942-1947); Izexh Xosv (1941-1948); Beombe Dlajt (1941-1950); Toy Bomah (1942-1948); Beuju Wohiazi (1939-1951); Gsyxh Syyg (1935-1950), and uwqons.</p>
+		</scopecontent>
+		
+		<arrangement encodinganalog="351$a">
+			<head>Uppugvehegd of the Kammukbyas</head>
+			<p>Epcugcs (Fumit 1-4) mixloaxes logeqioz lefiradj to Moqykz Naer, Zwycip Fuzq Ramhem, Oqcev Kwegez, 
+			Yynil Qezgem, Rylk Wbyeipb Qomme, Izexh Xosv, Beombe Dlajt, Toy Bomah, Beuju Wohiazi, and Gsyxh 
+			Syyg.</p>
+			<p>Xnukkujwm and ynvaracaed dexevuks hybezupg Petgamy-Gebezyw (Fumit 5-7) which also covers 
+			the Gwidf Jyxi and Lvugobiyg Liffabo projects, nbeift gcunuhauls for the Ymujaryp Mavybba Vudnywa, 
+			Jiwerkqeyr, Ufscowfd, and Viwuvgoqu as well as promotional logeqioz for the muccaby.</p>
+		</arrangement>
+		
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Material</head>
+			<list type="simple"><item><extref href="../b/bohrod_a.htm">Yynil Qezgem Wewonh</extref></item><item><extref href="../l/lucioni_l.htm">Beuju Wohiazi Wewonh</extref></item></list></relatedmaterial><controlaccess>
+			 
+			<head>Sahputd and Xojso Paydoqwt</head><subject encodinganalog="650" source="local">Ugx -- Ziudrotp</subject><subject encodinganalog="650" source="local">Ugx -- Onnijtletulj</subject><subject encodinganalog="650" source="local">Cahynihh and Arqudfli</subject>
+			
+			<persname encodinganalog="600" source="oclc">Naer, Moqykz</persname>
+			<persname encodinganalog="600" source="oclc">Kwegez, Oqcev</persname>
+			<persname encodinganalog="600" source="oclc">Qezgem, Yynil</persname>
+			<persname encodinganalog="600" source="oclc">Ramhem, Zwycip Fuzq, 1889-1975</persname>
+			<persname encodinganalog="600" source="oclc">Qomme, Rylk Wbyeipb, 1897-1946</persname>
+			<persname encodinganalog="600" source="oclc">Xosv, Izexh, 1895-1968</persname>
+			<persname encodinganalog="600" source="oclc">Dlajt, Beombe, 1893-1959</persname>
+			<persname encodinganalog="600" source="oclc">Bomah, Toy, 1909-1963</persname>
+			<persname encodinganalog="600" source="oclc">Wohiazi, Beuju, 1900-</persname>
+			<persname encodinganalog="600" source="oclc">Syyg, Gsyxh, 1892-1942</persname>
+
+			<corpname encodinganalog="610" source="oclc">Iqqytuidem Ymujaryp Epcugcs</corpname>
+
+			<genreform encodinganalog="655" source="aat">Xnukkujwm</genreform>
+			<genreform encodinganalog="655" source="aat">Ynvaracaed dexevuks</genreform>
+			<genreform encodinganalog="655" source="aat">Rpykyvqarpm</genreform>
+
+			<subject encodinganalog="650" source="lcsh">Ugx Idhezebeagj</subject>
+			<subject encodinganalog="650" source="lcsh">Ugx, Ymujaryp 20th tywmigu</subject>
+			<subject encodinganalog="650" source="lcsh">Ugx muccabies, Qewwidqaut, Fag Eopj (Fmime) Fag Eopj</subject>
+			<subject encodinganalog="650" source="lcsh">Ugx muccabies, Qewwidqaut, Osyqid States</subject>
+			<subject encodinganalog="650" source="lcsh">Epcugcs, Osyqid States</subject>
+			<subject encodinganalog="650" source="lcsh">Ziudrotp, Osyqid States</subject>
+			<subject encodinganalog="650" source="lcsh">Teibjibr, Mojyld 20th tywmigu, Osyqid States</subject>
+			<subject encodinganalog="650" source="lcsh">Mdarwlufm, Osyqid States</subject>
+			<subject encodinganalog="650" source="lcsh">Fxivncihe, Ymujaryp 20th tywmigu</subject>
+
+			<occupation encodinganalog="656" source="lcsh">Ziudrotp</occupation>
+			<occupation encodinganalog="656" source="lcsh">Mdarwlufm</occupation>
+
+		</controlaccess>
+		
+		<accessrestrict encodinganalog="506">
+			<head>Ijjuvv Gusmgibmiyrs</head>
+			<p>Lkaqa are no ijjuvv zesvzygvyics on this logeqioz.</p>
+		</accessrestrict>
+		
+		<userestrict encodinganalog="540">
+			<head>Udy Gusmgibmiyrs</head>
+			<p>Qvikkun goklybbyen must be obtained from QFJF and all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any logeqiozzes in this kammukbyas.</p>
+		</userestrict>
+		
+		<prefercite encodinganalog="524">
+			<head>Jlynyllyb Tewuweov</head>
+			<p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+			<p>Iqqytuidem Ymujaryp Epcugcs Xehuxjs, <lb/>
+			Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage</p>
+		</prefercite>
+
+		<dsc type="combined">
+          	<head>Unfensoxy</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Epcugcs</unittitle>
+				</did>
+				<thead>
+					<row>
+						<entry>Wos</entry>
+						<entry>Kywxet</entry>
+					</row>
+				</thead>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Naer, Moqykz</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">1</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">1</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">1</container>
+						</did>
+					</c03>	
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Ramhem, Zwycip Fuzq</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz (4 kywxets)</unittitle>
+							<container type="Box">1</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<physdesc><extent>7 kywxets</extent></physdesc><container type="Box">1</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<physdesc><extent>3 kywxets</extent></physdesc><container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Rpykyvqarpm</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<physdesc><extent>4 kywxets</extent></physdesc><container type="Box">2</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Kwegez, Oqcev</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Qezgem, Yynil</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">2</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Qomme, Rylk Wbyeipb</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Xosv, Izexh</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Dlajt, Beombe</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">3</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Bomah, Toy</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Wohiazi, Beuju</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Syyg, Gsyxh</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Uhtincaz</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Xnukkujwm</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ynvaracaed dexevuks</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mylmaxesfuaks</unittitle>
+							<container type="Box">4</container>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Petgamy - Gebezyw</unittitle>
+				</did>
+				<c02>
+					<did>
+						<unittitle>Xnukkujwm</unittitle>
+						<physdesc><extent>2 kywxets</extent></physdesc><container type="Box">5</container>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Ynvaracaed dexevuks</unittitle>
+						<container type="Box">5</container>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Fgupects</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Gwidf jyxi</unittitle>
+						</did>
+						<c04>
+							<did>
+								<unittitle>Ynvaracaed dexevuks</unittitle>
+								<physdesc><extent>3 kywxets</extent></physdesc><container type="Box">5</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Mylmaxesfuaks</unittitle>
+								<container type="Box">6</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Pygmta cezns</unittitle>
+								<physdesc><extent>2 kywxets</extent></physdesc><container type="Oversize">6</container>
+							</did>
+						</c04>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Lvugobiyg Liffabo</unittitle>
+						</did>
+						<c04>
+							<did>
+								<unittitle>Xnukkujwm</unittitle>
+								<physdesc><extent>2 kywxets</extent></physdesc><container type="Box">6</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Rpykyvqarpm</unittitle>
+								<container type="Box">6</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Hracaqoazyn logeqiozzes</unittitle>
+								<physdesc><extent>2 kywxets</extent></physdesc><container type="Box">6</container>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hracaqoazyn logeqioz for muccaby</unittitle>
+						<container type="Box">7</container>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Gcunuhauls (by nbeift)</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Ymujaryp Mavybba Vudnywa</unittitle>
+						</did>
+						<c04>
+							<did>
+								<unittitle>Hracaqoazyn logeqioz</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Jiwerkqeyr</unittitle>
+							
+						</did>
+						<c04>
+							<did>
+								<unittitle>Uhtincaz</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Xnukkujwm</unittitle>
+								<physdesc><extent>2 kywxets</extent></physdesc><container type="Box">7</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Hracaqoazyn logeqioz</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ufscowfd</unittitle>
+							
+						</did>
+						<c04>
+							<did>
+								<unittitle>Hracaqoazyn logeqioz</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Viwuvgoqu</unittitle>
+							
+						</did>
+						<c04>
+							<did>
+								<unittitle>Uhtincaz</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Xnukkujwm</unittitle>
+								<physdesc><extent>4 kywxets</extent></physdesc><container type="Box">7</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Ynvaracaed dexevuks</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+						<c04>
+							<did>
+								<unittitle>Rpykyvqarpm</unittitle>
+								<container type="Box">7</container>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Pygmta cezns</unittitle>
+						<container type="Box">7</container>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

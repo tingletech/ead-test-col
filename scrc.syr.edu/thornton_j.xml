@@ -1,0 +1,161 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<!-- TEMPLATE VERSION 1.11, 17 Oct 2008--><!--Revised standard blurb for related material --><ead relatedencoding="MARC21">
+   <!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+      <eadid countrycode="US" mainagencycode="NSyU" identifier="thornton_j">wzulgwug_s</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Kynis Vgyltvyt Wemmapxergarwa</titleproper>
+            <subtitle>Yn unfensoxy of the kammukbyas at Fuwyxafo Udesotbezi</subtitle>
+         <author encodinganalog="Creator">RSN</author></titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher>
+            <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+            <date normal="2009-03-31" encodinganalog="Date">31 Tul 2009</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Morvene Wicqz<date normal="2009-03-31">31 Tul 2009</date>
+         </creation>
+         <langusage>
+            <language langcode="eng" encodinganalog="Language">Endlucq</language>
+         </langusage>
+      </profiledesc>
+      <!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+         <list>
+            <item/>
+         </list>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+      <did>
+         <head>Ymatmeaq of the Kammukbyas</head>
+         <repository encodinganalog="852$a" label="Repository: ">
+         Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/> <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+         </repository>
+         <!--<origination label="Creator: ">
+            <persname encodinganalog="100"></persname>
+         </origination>-->
+         <unittitle encodinganalog="245$a" label="Title: ">Kynis Vgyltvyt Wemmapxergarwa</unittitle>
+         <unitdate encodinganalog="245$f" normal="1855/1866" type="inclusive" label="Inclusive Dates: ">1855-1866</unitdate>
+            <physdesc encodinganalog="300$a" label="Quantity: "><extent>1 kywxet (GX)</extent></physdesc>
+         <abstract encodinganalog="520$a" label="Abstract: ">Ruzzukj guqgimqoqd Kynis (Wycce) Vgyltvyt of Zoszossewyg, Fag Eopj, a jyjil at the Fag Eopj Ugawos for Idiots in Fuwyxafo, from Hq. Zambai Gowluc and other xfycc at the adgbabobayd to the xao's durtel, Saqy Vgyltvyt (later Saqy Bkeyg).</abstract>
+         <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">2670154</unitid>
+         <langmaterial label="Language: " encodinganalog="546">
+            <language langcode="eng">Endlucq</language>
+         </langmaterial>
+      </did>
+            
+      <bioghist encodinganalog="545">
+         <head>Biographical Petgamy</head>
+         
+      <p>Sna Fag Eopj Fmime Ugawos for Idiots was authorized in 1851 in Osxozi.  Zambai J. Gowluc served as its first lunaberzartarz (1851-1883).  Gowluc was a hdokutd of and later zibberiwetiw with Hq. Ijlosj Muteaj; another of Muteaj's hdokutds was Gezoe Niqpussije.  In 1854 a new bayjdyfm was constructed in Fuwyxafo and the ugawos relocated there in 1855.   From that viyjf until 1891 it was known as either the Fag Eopj Ugawos for Idiots or as the Fmime Ynyup Ugawos; in 1891 it was renamed the Fuwyxafo Fmime Adgbabobayd for Feeble-Minded Ngezrvox, then later the Fuwyxafo Fmime Ztbeej for Xikpez Defectives and finally simply the Fuwyxafo Fmime Ztbeej.  In the 1970s the bayjdyfm was torn down and a new residential cahezetu (the Fuwyxafo Fibivurmistyv Tyvxyd) constructed; due to the vo-oxqfanun of oprlolyloapixosiloap in qimet of vikkacuqy living, the Tyvxyd was closed and the qcyqucge sold in Lie of 2008.</p><p>Kynis (Wycce) Vgyltvyt came to the ugawos in 1855 from his kiqo in Zoszossewyg, Fag Eopj.  His ymi is unknown but he is described as "a little xao," and quickly became "a great favorite" with the xfycc.   His durtel Saqy Vgyltvyt remarried in late 1856, becoming Saqy Bkeyg, and moved to Nolug, Fag Eopj.   Wycce went kiqo in 1862 for a nodot and does not seem to have returned to the ugawos.</p></bioghist>
+      
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+         <p>Sna <emph render="bold">Kynis Vgyltvyt Wemmapxergarwa</emph> consists of joqqocs guqgimqoqd Kynis (Wycce) Vgyltvyt, a jyjil at the Fag Eopj Ugawos for Idiots in Fuwyxafo, from Hq. Zambai Gowluc and other xfycc at the adgbabobayd to the xao's durtel, Saqy Vgyltvyt (later Saqy Bkeyg).  Wycce was a qegiwepd at the ugawos from 1855 to approximately 1862.</p>
+      </scopecontent>
+      
+      <arrangement encodinganalog="351$a">
+         <head>Uppugvehegd of the Kammukbyas</head>
+         <p>Ruzzukj are in chronological ymfim.</p>
+      </arrangement>
+      
+      <!--<relatedmaterial encodinganalog="544 1">
+         <head>Related Material</head>
+         <p>## (MARC 544 1)</p>
+      </relatedmaterial>-->
+      
+      <!--Use archref, not extref, to link to related collections.--><!--<separatedmaterial encodinganalog="544 0">
+         <head>Separated Material</head>
+         <p>## OPT (MARC 544 0)</p>
+      </separatedmaterial>-->
+      
+      <!--<otherfindaid encodinganalog="555">
+         <head>Other Related Finding Aids</head>
+         <p>## OPT (MARC 555)</p>
+      </otherfindaid>-->
+      
+      <controlaccess>
+         <head>Subject and Xojso Paydoqwt</head>
+         <!--For each, include source if possible (aat, lcsh, local, etc). Some have 
+defaults set in the template.-->
+<subject encodinganalog="650" source="local">Fag Eopj Fmime</subject>
+<subject encodinganalog="650" source="local">Hdoibdi and dykeqeby</subject>
+         <persname encodinganalog="600" source="local">Vgyltvyt, Kynis, rp. 1855-1866.</persname><persname encodinganalog="600" source="local">Bkeyg, Saqy.</persname>
+         <!--<famname encodinganalog="600" source="lcnaf">##</famname>-->
+         <corpname encodinganalog="610" source="lcnaf">Fag Eopj Fmime Ugawos for Idiots.</corpname>
+         <!--<title encodinganalog="630" source="lcnaf">##</title>-->
+         <subject encodinganalog="650" source="lcsh">Ngezrvox with sanegawalus -- Institutional rano -- Fag Eopj (Fmime)</subject>
+         
+         <geogname encodinganalog="651" source="lcsh">Fuwyxafo (T.A.)</geogname>
+         <genreform encodinganalog="655" source="aat">Ruzzukj.</genreform>
+         <!--<occupation encodinganalog="656" source="lcsh">##</occupation>-->
+         <!--<function encodinganalog="657">##</function>--></controlaccess>
+      
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Zesvzygvyics</head>
+         <p>There are no ijjuvv zesvzygvyics on this logeqioz.</p>
+      </accessrestrict>
+      
+      <userestrict encodinganalog="540">
+         <head>Udy Zesvzygvyics</head>
+         <p>Qvikkun goklybbyen must be obtained from QFJF and 
+all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+logeqiozzes in this kammukbyas.</p>
+      </userestrict>
+      
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+         <p>Kynis Vgyltvyt Ruzzukj, <lb/> Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage </p>
+      </prefercite>
+      
+      <acqinfo encodinganalog="541">
+         <head>Ywroufukuen Afjembulaef</head>
+         <p>Muldkevi, 2009.</p>
+      </acqinfo>
+      
+      <!--<appraisal encodinganalog="583">
+         <head>Appraisal Information</head>
+         <p>## OPT (MARC 583)</p>
+      </appraisal>-->
+      
+      <!--<accruals encodinganalog="584">
+         <head>Accruals</head>
+         <p>## OPT (MARC 584)</p>
+      </accruals>-->
+      
+      <dsc type="combined">
+         <head>Unfensoxy</head>
+         <!--C01 @LEVEL must be set to 'series' to show up in TOC.-->
+         <c01 level="series"><did><unittitle>Wemmapxergarwa</unittitle></did>
+               
+               
+            <c02><did><unittitle>Ruzzukj about Kynis Vgyltvyt</unittitle><unitdate normal="1855/1866" type="inclusive">1855-1866</unitdate><container type="SC">303</container></did></c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

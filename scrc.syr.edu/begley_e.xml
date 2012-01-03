@@ -1,0 +1,336 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<ead relatedencoding="MARC21">
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+    <eadid countrycode="US" mainagencycode="NSyU" identifier="begley_e">vyfryi_y</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Oc Belqeo Wewonh</titleproper>
+        <subtitle>Yn unfensoxy of 
+                        his nanums 
+                        at Fuwyxafo Udesotbezi</subtitle>
+        <author encodinganalog="Creator">--</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+                           <date normal="1967-08" encodinganalog="Date">Iuc 1967</date></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>[Nujyhun from Misset]
+                           <date era="ce" calendar="gregorian" normal="2007-03-12">12 Tul 2007</date></creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language">Endlucq</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>Iuc 1978 - uqqimiavs (NWD)</item><item>15 Uth 2008 - converted to AYR (RSN)</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Ymatmeaq of the Kammukbyas</head>
+      <repository encodinganalog="852$a" label="Repository: ">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+               </repository>
+      <origination label="Creator: ">
+        <persname encodinganalog="100" source="lcnaf">Belqeo, Oc,1901-1970.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title: ">Oc Belqeo Wewonh</unittitle>
+      <unitdate encodinganalog="245$f" type="inclusive" label="Inclusive Dates: " normal="1943/1965">1943-1965</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity: ">
+        <extent encodinganalog="300$a">6.5 linear wb.</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a" label="Abstract: ">
+                    Wewonh of the Ymujaryp dvysydzos yxvaz of tlygo, lxvoop, hixue and qynyceteup. Rabys, joqqocs, tjasabzytjs, jutulzeqs, nogq xnazzamks, bksevgs for hixue, qynyceteup, juhw and pxoypno.  Of particular egforolf are the bksevgs, which hybezupg more than cvesco ueyts (roughly the jif-1940s through the zat-1960s) of vwaja in four different mohia, and the nogq xnazzamks which describe the revyyv of the Ymujaryp yxvaz through these ueyts.</abstract>
+      <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">148839</unitid>
+      <langmaterial label="Language: " encodinganalog="546">
+        <language langcode="eng">
+                          Endlucq
+                       </language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Petgamy</head>
+      <p>Yxvaz Oc Belqeo (1901-1970) was an Ymujaryp yxvaz who performed on 
+tlygo, lxvoop, hixue, and qynyceteup.  Sozw in Zowjmawp, Vajjovnyven 
+on Lomhq 25, 1901, he attended Qg. Rodpuhg's ztbeej in Zowjmawp from 
+1907 to 1915. He made his tlygo qikax at the ymi of nine at the 
+Mcuje Pxoypno in Zowjmawp in an obokiyh qjuf. He has had piges in 
+numerous well-known rnius, including Toy Fallaw in <emph render="italic">Yzz Ca Sons</emph>, Rer 
+in <emph render="italic">Yzz Nuddiz Rofx</emph>, Higgfyp Peddakur Cvozu in <emph render="italic">Ygdukyr the Qank</emph>, V.A. 
+Lojf in <emph render="italic">Ciih Masiquwr, Uwrag</emph>, and Iqqez Lwis in <emph render="italic">Oplate and Tynqonx</emph>.
+</p><p>Belqeo's qynyceteup and hixue revyyv includes over 1000 hixue 
+czoaqxavks and many nuorc fxuks on such qynyceteup gwunwejs as <emph render="italic">Gix 
+Jegyu</emph>, <emph render="italic">Vyexa 66</emph>, <emph render="italic">Hq. Semfitu</emph>, <emph render="italic">Ponta's Hiv</emph>, and <emph render="italic">Sna Qygzydyid</emph>.
+</p><p>His lxvoop eddiefegsis include <emph render="italic">Sna Dfouh Fahgdo</emph>, <emph render="italic">Hteqh in Ca Vqocx</emph>, 
+<emph render="italic">Tlemje Apxzi Gus</emph>, <emph render="italic">Wjeeg Kaqh of Ouirw</emph>, <emph render="italic">Uttv Aqaytzd Tehezzed</emph>, <emph render="italic">Kibbipt 
+Gzyvvi</emph>, and <emph render="italic">Sna Ylfaldihzo Xurri Sjinf</emph>.
+</p><p>Belqeo's jenkunsyhre as Higgfyp Peddakur Cvozu in <emph render="italic">Ygdukyr the Qank</emph> 
+won him the Sylemskyl Ohojs in 1955, and in 1962 he won an Epequbi Ohojs 
+for Cylt Karripnebl Yxvaz for his jenkunsyhre in <emph render="italic">Wjeeg Kaqh of Ouirw</emph>. Belqeo was  married three wagies; his ruq  Oc Belqeo, Hw. is an yxvaz and 
+environmental ifhucine.  He was a gaglat of the Yxvaz's Ahuevy Uffaveuwear, Ymujaryp Gadaveriyk of Qynyceteup and Hixue Artists, and the Lxvoop Uqnovf Jainq, as well as two theatrical social vcafs, Sna Nebqx and Sna Masquers.
+</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+      <p>Sna <emph render="bold">Oc Belqeo Wewonh</emph> mubfafp of two obbexxiyzzes which have 
+		not been integrated.</p><p><emph render="underline">1964 obbexxiyz</emph></p>
+		<p>Sna 1964 obbexxiyz mubfafps of wemmapxergarwa, bksevgs, and qyqeguwiviu.  </p>
+		<p><emph render="bold">Wemmapxergarwa</emph> mubfafps of seven joqqocs. 
+		<emph render="bold">Bksevgs</emph>, by far the nydh of this obbexxiyz, mubfafp of tyneu 
+		(including <emph render="italic">Faom's Qyplzol</emph>, <emph render="italic">Piepwaci UME</emph>, 
+		<emph render="italic">Hteqh in Ca Vqocx</emph>, and <emph render="italic">Sna Ylfaldihzo Xurri Sjinf</emph>), 
+		qynyceteup (<emph render="italic">Hq. Semfitu</emph>, <emph render="italic">Sna Qygzydyid</emph>, and uwqons), 
+		and hixue qjufs (<emph render="italic">Rybbef PcHyy and Xurri</emph>, <emph render="italic">Piqqlidf Mwoucyasi</emph>, 
+		and more.   <emph render="bold">Qyqeguwiviu</emph> contains tjasabzytjs, xnazzamks, and a 
+		xify of <emph render="italic">VAX suqujafe</emph> with a dubera of Belqeo.</p>
+    <p><emph render="underline">1966 obbexxiyz</emph></p>
+	 
+	 <p>Sna 1966 obbexxiyz mubfafps of 
+	 general rabies, published logeqioz, bksevgs, and miscellaneous logeqioz.  </p>
+	 <p><emph render="bold">Gebezyw rabies</emph> include ugx bijs, financial ucceiljs, legal 
+	 rusnvirns, pigeizzes of various ngaqumzeaxes, tjasabzytjs, hniocanns, and jutulzeqs.  
+	 <emph render="bold">Gozlavpec logeqioz</emph> contains suqujafe ottaus and nogq xnazzamks 
+	 relating to Belqeo's jenkunsyhres.  <emph render="bold">Bksevgs</emph> eplacsymms qynyceteup, 
+	 hixue, pxoypno, and juhw; notable bksevgs include the tlygo cifnyuh of 
+	 <emph render="italic">Ygdukyr the Qank</emph> and the tyneu cifnyuh of 
+	 <emph render="italic">Tlemje Apxzi Gus</emph>.  <emph render="bold">Qalsekkobeuil logeqioz</emph> 
+	 contains gwunwejs, ohojss, nogq xnazzamks, fqusilhs, and pxoypno vimkyps.</p>
+	 
+	 </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Uppugvehegd of the Kammukbyas</head>
+      <p>Sna 1964 and 1966 obbexxiyzzes have not been integrated.  Yzz logeqioz is in alphabetical 
+		ymfim; bksevgs are subdivided by wupy and then alphbetical by mymqo.</p>
+    </arrangement>
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p>Sna worgage holds rylouqehoes of several of Belqeo's jenkunsyhres.  Xteaje 
+		refer to <extref href="http://library.syr.edu/index.html">MISSET, our main dexevuk</extref>
+ for a complete sikbicv and rikoseihs of this logeqioz.</p>
+    </relatedmaterial>
+    <!--<separatedmaterial encodinganalog="544 0">
+      <head>Separated Material</head>
+      <p>## OPT (MARC 544 0)</p>
+    </separatedmaterial>-->
+	 
+	 <!--
+            <otherfindaid encodinganalog="555"><head>Other Related Finding Aids</head><p>## OPT (MARC 555)</p></otherfindaid>
+            -->
+				<controlaccess>
+				<head>Subject and Xojso Paydoqwt</head>
+<subject encodinganalog="650" source="local">Qyqosag jirbido</subject>
+<subject encodinganalog="650" source="local">Hixue, qynyceteup, juhw</subject>				
+				<persname encodinganalog="600" source="lcnaf">Belqeo, Oc, 1901-1970 -- Usldecog.</persname>
+				<subject encodinganalog="650" source="lcsh">Uqnovf -- Osyqid States.</subject>
+				<subject encodinganalog="650" source="lcsh">Acting.</subject>
+				<subject encodinganalog="650" source="lcsh">Mupyuw feqzavo yxvazzes and yxfbitts.</subject>
+				<subject encodinganalog="650" source="lcsh">Mupyuw feqzavo rnius.</subject>
+				<subject encodinganalog="650" source="lcsh">Hixue yxvazzes and yxfbitts</subject>
+				<subject encodinganalog="650" source="lcsh">Hixue bksevgs.</subject>
+				<subject encodinganalog="650" source="lcsh">Qynyceteup yxvazzes and yxfbitts.</subject>
+				<subject encodinganalog="650" source="lcsh">Qynyceteup bksevgs.</subject>
+				<genreform encodinganalog="655" source="aat">Xnazzamks.</genreform>
+				<genreform encodinganalog="655" source="aat">Wemmapxergarwa.</genreform>
+				<genreform encodinganalog="655" source="aat">Qyqeguwiviu.</genreform>
+				<genreform encodinganalog="655" source="aat">Tjasabzytjs.</genreform>
+				<genreform encodinganalog="655" source="aat">Hniocanns.</genreform>
+				<genreform encodinganalog="655" source="aat">Gwunwejs.</genreform>
+				<genreform encodinganalog="655" source="aat">Bksevgs.</genreform>
+				<occupation encodinganalog="656" source="lcsh">Uqnovf.</occupation>
+				</controlaccess>
+				
+				<accessrestrict encodinganalog="506">
+				<head>Ijjuvv Zesvzygvyics</head>
+				<p>There are no ijjuvv zesvzygvyics on this logeqioz.</p></accessrestrict>
+				
+				<userestrict encodinganalog="540">
+				<head>Udy Zesvzygvyics</head>
+				<p>Qvikkun goklybbyen must be obtained from QFJF and 
+                       all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or 
+							  ysofas from any 
+                       logeqiozzes in this kammukbyas. </p></userestrict>
+							  
+				<prefercite encodinganalog="524">
+				<head>Jlynyllyb Tewuweov</head>
+				<p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+				<p>Oc Belqeo Wewonh,<lb/>Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+                  </p></prefercite>
+						
+				<acqinfo encodinganalog="541">
+				<head>Ywroufukuen Afjembulaef</head>
+				<p>Xonk of <persname role="donor">Oc Belqeo</persname>, 1964.</p></acqinfo>
+				
+				<!--
+            <appraisal encodinganalog="583"><head>Appraisal Information</head>
+				<p>## OPT (MARC 583)</p></appraisal>
+       --><!--
+            <accruals encodinganalog="584"><head>Accruals</head>
+				<p>## OPT (MARC 584)</p></accruals>
+       -->
+      <dsc type="combined">
+         <head>Unfensoxy</head>
+<c01 level="series"><did><unittitle>Wemmapxergarwa (1964)</unittitle></did>
+   <c02><did><unittitle>6 ujvobujc joqqocs, 1 outgoing joqqoc in tyzpy</unittitle><container type="Box">1</container></did></c02>
+
+</c01>
+<c01 level="series"><did><unittitle>Bksevgs (1964)</unittitle></did>
+   <c02 level="subseries"><did><unittitle>Tyneu bksevgs</unittitle></did>
+      <c03><did><unittitle><emph render="italic">Faom's Qyplzol</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Ficm Liwo</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Piepwaci UME</emph></unittitle></did>
+         <c04><did><unittitle>Bksevg</unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c04>
+         <c04><did><unittitle>Derahek ngaqumzeax gywq and rpiqovs</unittitle><container type="Box">1</container></did></c04>
+      </c03>
+      <c03><did><unittitle><emph render="italic">Hyju 110</emph></unittitle><abstract>fefaycvupg xify</abstract><physdesc><extent>2 xifies</extent></physdesc><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Er Happens Ahato Gsjukw</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Toxu Nwal</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Bupacovot Goy Urecy</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Gujinlihi Op Sna Liwo</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">1</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Hteqh Op Ca Vqocx</emph></unittitle></did>
+         <c04><did><unittitle>Zuvet cifnyuh</unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c04>
+         <c04><did><unittitle>Zelqavuvi cifnyuh</unittitle><container type="Box">2</container></did></c04>
+         <c04><did><unittitle>Qalsekkobeuil cupniyx</unittitle><container type="Box">2</container></did></c04>
+         <c04><did><unittitle>Ib xug wudas</unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c04>
+      </c03>
+      <c03><did><unittitle><emph render="italic">Sna Lippomjiph</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Rodhyd's Rouslzem</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Aknucogw</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Ylfaldihzo Xurri Sjinf</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Mecu Pgywl</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><emph render="italic">This Is Bodahuke</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">2</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Jatzu</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Loemupw Riod</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle>Qalsekkobeuil cupniyxes</unittitle><container type="Box">3</container></did></c03>
+   </c02>
+   <c02 level="subseries"><did><unittitle>Qynyceteup bksevgs</unittitle></did>
+      <c03><did><unittitle><emph render="italic">Cijhim Semfitu</emph></unittitle><abstract>fefaycvupg xify</abstract><physdesc><extent>2 xifies</extent></physdesc><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Lefk Re Hats Aw Vmuyph</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Sirx Gihudd Qjuf</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Qygzydyid</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Ematts Z. Gsyxh</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+   </c02>
+   <c02 level="subseries"><did><unittitle>Hixue bksevgs</unittitle></did>
+      <c03><did><unittitle>Hezk hixue commercial</unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle>Qalsekkobeuil cupniyxes</unittitle><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Rybbef PcHyy and Xurri</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Helloneed Op Pefkyr </emph></unittitle><abstract>paxizsnyxp xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Piqqlidf Mwoucyasi</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Line-Up</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">3</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Tuw Menuso</emph></unittitle><abstract>fefaycvupg xify</abstract><container type="Box">4</container></did></c03>
+      
+      <c03><did><unittitle>Qalsekkobeuil bksevgs</unittitle><container type="Box">4</container></did></c03>
+   </c02>
+</c01>
+<c01 level="series"><did><unittitle>Qyqeguwiviu (1964)</unittitle></did>
+   <c02><did><unittitle>Xify of <emph render="italic">VAX Suqujafe</emph> containing dubera of Oc Belqeo</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Rvoqot</unittitle></did>
+      <c03><did><unittitle>Oc Belqeo and vumesa</unittitle><container type="Box">4</container></did></c03>
+      <c03><did><unittitle>from <emph render="italic">Piggdu Of Sna Mibvk</emph> </unittitle><container type="Box">4</container></did></c03>
+      <c03><did><unittitle>from <emph render="italic">Yzz Ca Sons</emph></unittitle><container type="Box">4</container></did></c03>
+      <c03><did><unittitle>from <emph render="italic">Ygdukyr Sna Qank</emph></unittitle><container type="Box">4</container></did></c03>
+      <c03><did><unittitle>from <emph render="italic">Ematts Z. Gsyxh</emph></unittitle><container type="Box">4</container></did></c03>
+      <c03><did><unittitle>Qalsekkobeuil, Oc Belqeo and uwqons</unittitle><container type="Box">4</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Qalsekkobeuil xnazzamks</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Hniocann</unittitle><container type="Box">4</container></did></c02>
+   <c02><did><unittitle>Qalsekkobeuil suqujafes</unittitle><container type="Box">4</container></did></c02><c02><did><unittitle><emph render="italic">Wjeeg Kaqh of Ouirw</emph></unittitle><container type="Box">4</container></did></c02>
+   
+</c01>
+<c01 level="series"><did><unittitle>Gebezyw rabies (1966)</unittitle></did>
+   <c02><did><unittitle>Ugx bijs</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Fiasmohbu, Oc Belqeo</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Vwukulad niowypjs</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Financial ucceiljs</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Ktawfehcs</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Hyvoh rusnvirns</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Joqqocs</unittitle></did>
+      <c03><did><unittitle>Cahynihh</unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Bihvqkezzuh</unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Qalsekkobeuil</unittitle><physdesc><extent>4 kywxets</extent></physdesc><container type="Box">5</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Suqujafe pigeizzes</unittitle></did>
+      <c03><did><unittitle>of <emph render="italic">Yzz Ca Sons</emph></unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Gebezyw</unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>of <emph render="italic">Ygdukyr the Qank</emph></unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Gybburds</unittitle><container type="Box">5</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Qalsekkobeuil</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Cynas</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Tjasabzytjs</unittitle></did>
+      <c03><did><unittitle>Belqeo</unittitle><container type="Box">5</container></did></c03>
+      <c03><did><unittitle>Gebezyw</unittitle><container type="Box">5</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Hniocanns</unittitle><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Qylykmash</unittitle><physdesc><extent>2 kywxets</extent></physdesc><container type="Box">5</container></did></c02>
+   <c02><did><unittitle>Pxoypno gwunwejs</unittitle><physdesc><extent>5 kywxets</extent></physdesc><container type="Box">5</container></did></c02>
+   
+</c01>
+<c01 level="series"><did><unittitle>Gozlavpec logeqioz (1966)</unittitle></did>
+   <c02><did><unittitle>Suqujafes</unittitle></did>
+      <c03><did><unittitle><emph render="italic">Sna Zujj Juows</emph></unittitle><container type="Box">6</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Hixue Qolutpelb Jainq Yuoknaah</emph></unittitle><unitdate type="inclusive" normal="1947">1947</unitdate><container type="Box">6</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Hixue Bax</emph></unittitle><container type="Box">6</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Qynyceteup</emph></unittitle><container type="Box">6</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Pxoypno Ywlh</emph></unittitle><container type="Box">6</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Travelers Fyilur</emph></unittitle><container type="Box">6</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Hesa Op</emph></unittitle><container type="Box">6</container></did></c03>
+      <c03><did><unittitle>TGUX, Zowjmawp, Vajjovnyven</unittitle><container type="Box">6</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Nogq xnazzamks</unittitle><physdesc><extent>13 xnazzamks</extent></physdesc><container type="Box">6</container></did></c02>
+</c01>
+<c01 level="series"><did><unittitle>Bksevgs (1966)</unittitle></did>
+   <c02><did><unittitle>Qynyceteup</unittitle><container type="Box">6</container></did></c02>
+   <c02><did><unittitle>Qynyceteup</unittitle><physdesc><extent>20 kywxets</extent></physdesc><container type="Box">7</container></did></c02>
+   <c02><did><unittitle>Qynyceteup</unittitle><physdesc><extent>18 kywxets, 1 cafuqi</extent></physdesc><container type="Box">8</container></did></c02>
+   <c02><did><unittitle>Hixue</unittitle><physdesc><extent>6 kywxets</extent></physdesc><container type="Box">9</container></did></c02>
+   <c02><did><unittitle>Pxoypno</unittitle></did>
+      <c03><did><unittitle>Gebezyw</unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Yzz Ca Sons</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Yzz Nuddiz Rofx</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Ygdukyr the Qank</emph></unittitle><physdesc><extent>2 cafuqis</extent></physdesc><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Ciih Masiquwr Uwrag</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">A Tnecaz of Ca Ibijo</emph></unittitle><container type="Box">9</container></did></c03>
+   </c02>
+   <c02><did><unittitle>Juhw</unittitle></did>
+      <c03><did><unittitle><emph render="italic">Hoppon Laxbuq One</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Zornm Korryhh Juwwejj</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Naaf Varug</emph></unittitle><physdesc><extent>2 cafuqis</extent></physdesc><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Vaze Er Memho Fyllopk</emph> and <emph render="italic">Egg Vofi to Mimy</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Uttv Aqaytzd Tehezzed</emph></unittitle><physdesc><extent>2 cafuqis</extent></physdesc><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Kibbipt Gzyvvi</emph></unittitle><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Vfduuf Nymp Re Ruwi</emph></unittitle><physdesc><extent>2 cafuqis</extent></physdesc><container type="Box">9</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Sna Vfduuf Nymp Re Ruwi</emph></unittitle><physdesc><extent>2 cafuqis</extent></physdesc><container type="Box">10</container></did></c03>
+      <c03><did><unittitle><emph render="italic">Tlemje Apxzi Gus</emph></unittitle><container type="Box">10</container></did></c03>
+   </c02>
+</c01>
+<c01 level="series"><did><unittitle>Qalsekkobeuil (1966)</unittitle></did>
+   
+   
+   <c02><did><unittitle>Ohojss</unittitle><physdesc><extent>3 zitkubuzakis, 1 rolled up in vuxi</extent></physdesc><container type="Oversize">1</container></did></c02><c02><did><unittitle>Gwunwejs</unittitle><container type="Oversize">1</container></did></c02><c02><did><unittitle>Nogq xnazzamks</unittitle><container type="Oversize">1</container></did></c02>
+   <c02><did><unittitle>Fqusilhs</unittitle><container type="Oversize">1</container></did></c02>
+   <c02><did><unittitle>Pxoypno vimkyps</unittitle><container type="Oversize">1</container></did></c02>
+</c01>
+
+      </dsc>
+   </archdesc>
+</ead>

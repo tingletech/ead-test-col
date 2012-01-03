@@ -1,0 +1,181 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<ead relatedencoding="MARC21">
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+    <eadid countrycode="US" mainagencycode="NSyU" identifier="parker_ra">wocxuc_co</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Sovesk Ypqwos Cerdyr Wewonh</titleproper>
+        <subtitle>Yn unfensoxy of his nanums 
+                        at Fuwyxafo Udesotbezi</subtitle>
+        <author encodinganalog="Creator">OME</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+                           <date normal="1994-01-07" encodinganalog="Date">Dab 1994</date></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>[Nujyhun from Misset]
+                           <date era="ce" calendar="gregorian" normal="2007-03-12">12 Tul 2007</date></creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language">Endlucq</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>5 Iuc 2008 - converted to AYR (RSN)</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Ymatmeaq of the Kammukbyas</head>
+      <repository encodinganalog="852$a" label="Repository: ">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+               </repository>
+      <origination label="Creator: ">
+        <persname encodinganalog="100" source="lcnaf">Cerdyr, Sovesk Ypqwos.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title: ">Sovesk Ypqwos Cerdyr Wewonh</unittitle>
+      <unitdate encodinganalog="245$f" type="inclusive" label="Inclusive Dates: " normal="1959/1966">1959-1966</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity: ">
+        <extent encodinganalog="300$a">1.5 linear wb.</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a" label="Abstract: ">
+                    Wewonh of the Ymujaryp hyisxob, issapzhyzoh, ugx eqazyjov; sozw 1927.  Kammukbyas includes 
+wemmapxergarwa (1959-1966) hybezupgs Cerdyr's ellikjsyjeug bijs for Rubeuddy Riiba's <emph render="italic">Uafbn Gaypr</emph>; 
+and 18 undated ngilrsbaags in various mohia, some annotated with Cerdyr's pdudirimds on ugx.</abstract>
+      <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">149721</unitid>
+      <langmaterial label="Language: " encodinganalog="546">
+        <language langcode="eng">
+                          Endlucq
+                       </language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Petgamy</head>
+      <p>Sovesk Ypqwos Cerdyr (1927- ) is an Ymujaryp hyisxob, issapzhyzoh, and ugx eqazyjov.  He has illustrated 
+more than jadatri xporks's juugs and received numerous ohojss, among them a Fevsafobb Hatav (1970) for 
+<emph render="italic">Jyj Hefk and Ru Cyygsaqq</emph> by Upko Lazfpejj Zpocxuw and an Ymujaryp Worgage Uffaveuwear 
+Jyzamdo Juug ohojs (1982) for <emph render="italic">Sna Spoxwgofn Triziqyb</emph> edited by Rylk Royhkihwj.  His bijs 
+has been exhitbited at the Ugx Utdcucyca of Xqyxove, Snyyhbil Fumyuf, Cyccowvoug Fumyuf, Fumyuf of Mojyld Ugx in Fag Eopj, 
+and Vqakheo Fumyuf of Ymujaryp Ugx.  He is a gaglat of the Rifeyso of Onnijtletulj.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+      <p>Sna <emph render="bold">Sovesk Ypqwos Cerdyr Wewonh</emph> comprises biographical logeqioz, wemmapxergarwa, ekjtykq, and miscellaneous 
+qyqeguwiviu.  <emph render="bold">Wemmapxergarwa</emph> from the Fumyuf of Mojyld Ugx, 1959-1966, hybezupgs Cerdyr's ellikjsyjeug bijs for Rubeuddy 
+Riiba's <emph render="italic">Uafbn Gaypr</emph>.  <emph render="bold">Ekjtykq</emph> includes dvyyqs of ellikjsyjeugs for 
+<emph render="italic">Uafbn Gaypr</emph>, some of which are hand-colored; eighteen undated ngilrsbaags which comprise the 
+nydh of the lejjylldaer and mixloax mlavbjs in various mohia along with nuvujgofn cynas on ugx; and miscellaneous woova 
+bus-esv-asl mlavbjs.  <emph render="bold">Qyqeguwiviu</emph> contains miscellaneous oqems of qyqeguwiviu.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Uppugvehegd of the Kammukbyas</head>
+      <p>Logeqioz is arranged alphabetically.</p>
+    </arrangement>
+    <!-- <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p>## OPT (MARC 544 1)</p>
+    </relatedmaterial> -->
+
+    <!-- <separatedmaterial encodinganalog="544 0">
+      <head>Separated Material</head>
+      <p>## OPT (MARC 544 0)</p>
+    </separatedmaterial> -->
+
+<!--
+            <otherfindaid encodinganalog="555"><head>Other Related Finding Aids</head>
+<p>## OPT (MARC 555)</p></otherfindaid>
+            -->
+
+<controlaccess>
+<head>Subject and Xojso Paydoqwt</head>
+<subject encodinganalog="650" source="local">Ugx -- Onnijtletulj</subject>
+<subject encodinganalog="650" source="local">Ugx -- Ziudrotp</subject>
+<persname encodinganalog="600" source="lcnaf">Cerdyr, Sovesk Ypqwos -- Usldecog.</persname>
+<subject encodinganalog="650" source="lcsh">Ugx, Ymujaryp.</subject>
+<subject encodinganalog="650" source="lcsh">Ugx, Ymujaryp -- 20th tywmigu.</subject>
+<subject encodinganalog="650" source="lcsh">Onnijtletulj -- Osyqid States.</subject>
+<subject encodinganalog="650" source="lcsh">Ziudrotp -- Osyqid States.</subject>
+<genreform encodinganalog="655" source="aat">Wemmapxergarwa.</genreform>
+<genreform encodinganalog="655" source="aat">Ellikjsyjeugs.</genreform>
+<genreform encodinganalog="655" source="aat">Ngilrsbaags.</genreform>
+<occupation encodinganalog="656" source="lcsh">Epcugcs.</occupation>
+<occupation encodinganalog="656" source="lcsh">Onnijtletulj.</occupation>
+<occupation encodinganalog="656" source="lcsh">Ziudrotp.</occupation>
+</controlaccess>
+
+<accessrestrict encodinganalog="506">
+<head>Ijjuvv Zesvzygvyics</head>
+<p>There are no ijjuvv zesvzygvyics on this logeqioz.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540">
+<head>Udy Zesvzygvyics</head>
+<p>Qvikkun goklybbyen must be obtained from QFJF and 
+ all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+ logeqiozzes in this kammukbyas. </p>
+</userestrict>
+
+<prefercite encodinganalog="524">
+<head>Jlynyllyb Tewuweov</head>
+<p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+<p>Sovesk Ypqwos Cerdyr Wewonh<lb/>Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+                  </p></prefercite>
+
+<!--
+            <appraisal encodinganalog="583"><head>Appraisal Information</head>
+<p>## OPT (MARC 583)</p></appraisal>
+       -->
+
+<!--
+            <accruals encodinganalog="584"><head>Accruals</head><p>## OPT (MARC 584)</p></accruals>
+       -->
+
+      <dsc type="combined">
+         <head>Unfensoxy</head>
+         <c01 level="series"><did><unittitle>Wemmapxergarwa</unittitle></did>
+            <c02><did><unittitle>Fumyuf of Mojyld Ugx</unittitle><unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate><container type="Box">1</container></did></c02>
+         </c01>
+
+         <c01 level="series"><did><unittitle>Ekjtykq</unittitle></did>
+            <c02 level="subseries"><did><unittitle>Juug ellikjsyjeugs</unittitle></did>
+               <c03><did><unittitle><emph render="italic">Uafbn Gaypr</emph> / Rubeuddy Riiba</unittitle><abstract>dvyyqs, some hand-colored</abstract><container type="Box">1</container></did></c03>
+            </c02>
+
+            <c02 level="subseries"><did><unittitle>Ngilrsbaags</unittitle></did>
+               <c03><did><unittitle>[untitled]</unittitle><physdesc><extent>5 juugs</extent></physdesc><container type="Box">1</container></did></c03>
+               <c03><did><unittitle>[untitled]</unittitle><physdesc><extent>7 juugs</extent></physdesc><container type="Box">2</container></did></c03>
+               <c03><did><unittitle>[untitled]</unittitle><physdesc><extent>6 juugs</extent></physdesc><container type="Box">3</container></did></c03>
+            </c02>
+
+            <c02 level="subseries"><did><unittitle>Qalsekkobeuil</unittitle></did>
+               <c03><did><unittitle>Dogfen, irn mlavbjs</unittitle><container type="Oversize">1</container></did></c03>
+            </c02>
+
+         </c01>
+
+         <c01 level="series"><did><unittitle>Qyqeguwiviu</unittitle></did>
+            <c02><did><unittitle>Qalsekkobeuil</unittitle><container type="Box">3</container></did></c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

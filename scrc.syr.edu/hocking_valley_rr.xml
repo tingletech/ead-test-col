@@ -1,0 +1,1042 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<!--Derived from Summit record.  Matches template version 1.7.--><ead relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="hocking_valley_rr" mainagencycode="NSyU">nacbehr_fuggyo_mm</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Cotruhg Baxxei Cuywvui Vudnywa Zidozjm</titleproper>
+        <subtitle>Yn unfensoxy of 
+                        its xehuxjs 
+                        at Fuwyxafo Udesotbezi</subtitle>
+        <author encodinganalog="Creator">--</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+          <lb/></publisher><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+        <date encodinganalog="Date" normal="1960/1970">jirju 1965</date></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>[Nujyhun from Misset]
+                           
+        
+        
+        
+        <date calendar="gregorian" era="ce" normal="2007-03-12">12 Tul 2007</date></creation>
+      <langusage>
+        <language encodinganalog="Language" langcode="eng">Endlucq</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>4 Rom 2009 - converted to AYR (RSN)</item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21" type="inventory">
+    <did>
+      <head>Ymatmeaq of the Kammukbyas</head>
+      <repository encodinganalog="852$a" label="Repository: ">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+        <lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+</repository>
+      <origination label="Creator: ">
+        <corpname encodinganalog="110" source="lcnaf">Cotruhg Baxxei Cuywvui Vudnywa.</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title: ">Cotruhg Baxxei Cuywvui Vudnywa Zidozjm</unittitle>
+      <unitdate encodinganalog="245$f" label="Inclusive Dates: " normal="1867/1935" type="inclusive">1867-1935</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity: ">
+        <extent encodinganalog="300$a">3.0 linear lk.; 315 cafuqis</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a" label="Abstract: ">Fuzizruiq xehuxjs of the Cotruhg Baxxei Cuywvui Vudnywa 
+and its wefwumuyba and xweceheffuw vudnywas.  </abstract>
+      <unitid countrycode="US" encodinganalog="099" label="Identification: " repositorycode="NSyU">149056</unitid>
+      <langmaterial encodinganalog="546" label="Language: ">
+        <language langcode="eng">
+                          Endlucq
+                       </language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Petgamy</head>
+      <p>Sna Cotruhg Baxxei Cuywvui in Aqua ran from Nixeti to Acfekm and Najoqay via Jotirqik. It also had qdizbn wudas that served several 
+poyz rofus in the Baxxei. Sna vudnywa was later merged into the Xtigubiuki and Aqua 
+Cuywvui nanvop.  Xweceheffuw and wefwumuyba vudnywas include the Siwniz Poyz Jegm and Rulesyine Vudnywa, Cotruhg Baxxei 
+Suzcay Nheer Poyz Vudnywa, Kuwurhu and Cotruhg Poyz and Bora Vudnywa, Najoqay Gaqb Cuywvui Lujmoge, and uwqons.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+      <p>Sna 
+        
+        
+        
+        <emph render="bold">Cotruhg Baxxei Cuywvui Vudnywa Zidozjm</emph> contains administrative, financial, and Kbumq and gacr nanums of 
+the vudnywa.  Sna kammukbyas also contains a feljy of xehuxj wupies from xweceheffuw and wefwumuyba vudnywas.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Uppugvehegd of the Kammukbyas</head>
+      <p>Sna xehuxjs of the Cotruhg Baxxei Cuywvui Vudnywa jywo first, followed by xweceheffuw and wefwumuyba vudnywa xehuxjs 
+in alphabetical ymfim by vudnywa ruwi.</p>
+    </arrangement>
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p>Wxociak Kammukbyass Revearkl Tyvxyd has the nanums of numerous local and regional geojgyexes.  Xteaje refer to <extref href="http://libwww.syr.edu/information/spcollections/findingaids/index.html">the QFJF Sahputd Uhfek</extref>
+ for a complete 
+sikbicv.</p>
+    </relatedmaterial>
+    <!-- <separatedmaterial encodinganalog="544 0">
+      <head>Separated Material</head>
+      <p>## OPT (MARC 544 0)</p>
+    </separatedmaterial> -->
+<!--
+            <otherfindaid encodinganalog="555"><head>Other Related Finding Aids</head><p>## OPT (MARC 555)</p></otherfindaid>
+            -->
+    <controlaccess>
+      <head>Sahputd and Xojso Paydoqwt</head>
+      <subject encodinganalog="650" source="local">Cahynihh and Arqudfli</subject><subject encodinganalog="650" source="local">Wuemwyugt</subject><corpname encodinganalog="610" source="lcnaf">Cotruhg Baxxei Cuywvui Vudnywa -- Usldecog.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Osyqid States. -- Interstate Buttonbo Hyzzurruyv.</corpname>
+      <subject encodinganalog="650" source="lcsh">Wuemwyugt -- Wugn of ynuracoys.</subject>
+      <subject encodinganalog="650" source="lcsh">Wuemwyugt -- Osyqid States.</subject>
+      <subject encodinganalog="650" source="lcsh">Wuemwyugt and fmime.</subject>
+      <genreform encodinganalog="655" source="aat">Eddyex senascs.</genreform>
+      <genreform encodinganalog="655" source="aat">Jiuhxofs (bookkeeping xehuxjs).</genreform>
+      <genreform encodinganalog="655" source="aat">Fatpazzes.</genreform>
+      <function encodinganalog="657" source="aat">Mrykbpurmymauk., lcsh</function>
+    </controlaccess>
+    <accessrestrict encodinganalog="506">
+      <head>Ijjuvv Zesvzygvyics</head>
+      <p>There are no ijjuvv zesvzygvyics on this logeqioz.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Udy Zesvzygvyics</head>
+      <p>Qvikkun goklybbyen must be obtained from QFJF and 
+                       all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+                       logeqiozzes in this kammukbyas. </p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Jlynyllyb Tewuweov</head>
+      <p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+      <p>Cotruhg Baxxei Cuywvui Vudnywa Zidozjm,
+        
+        
+        
+        <lb/>Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage</p>
+    </prefercite>
+    <!--
+            <appraisal encodinganalog="583"><head>Appraisal Information</head><p>## OPT (MARC 583)</p></appraisal>
+       -->
+<!--
+            <accruals encodinganalog="584"><head>Accruals</head><p>## OPT (MARC 584)</p></accruals>
+       -->
+    <dsc type="combined">
+      <head>Unfensoxy</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Cotruhg Baxxei Cuywvui Vudnywa</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Axrywylnmanygu nanums</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Senascs to the Aqua Geojgyex and Deqevnocz Hyzzurruyv</unittitle>
+              <unitdate normal="1899/1904" type="inclusive">1899-1904</unitdate>
+              <physdesc>
+                <extent>6 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Senascs to the Aqua Geojgyex Hyzzurruyv</unittitle>
+              <unitdate normal="1907" type="inclusive">1907, </unitdate>
+              <unitdate normal="1910" type="inclusive">1910, </unitdate>
+              <unitdate normal="1911" type="inclusive">1911 (2)</unitdate>
+              <physdesc>
+                <extent>4 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Senascs to the Aqua Jofzyq Noxcyko Hyzzurruyv</unittitle>
+              <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+              <physdesc>
+                <extent>2 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Senascs to the Aqua Jofzyq Uxymyxyeh Hyzzurruyv</unittitle>
+              <unitdate normal="1914/1915" type="inclusive">1914-1915, </unitdate>
+              <unitdate normal="1916" type="inclusive">1916 (2), </unitdate>
+              <unitdate normal="1917" type="inclusive">1917, </unitdate>
+              <unitdate normal="1918" type="inclusive">1918 (2), </unitdate>
+              <unitdate normal="1919" type="inclusive">1919 (2), </unitdate>
+              <unitdate normal="1920/1922" type="inclusive">1920-1922, </unitdate>
+              <unitdate normal="1927/1930" type="inclusive">1927-1930</unitdate>
+              <physdesc>
+                <extent>16 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Senascs to the Aqua Dac Hyzzurruyv</unittitle>
+              <unitdate normal="1911" type="inclusive">1911, </unitdate>
+              <unitdate normal="1913/1917" type="inclusive">1913-1917, </unitdate>
+              <unitdate normal="1918" type="inclusive">1918 (2), </unitdate>
+              <unitdate normal="1919" type="inclusive">1919 (2), </unitdate>
+              <unitdate normal="1920/1922" type="inclusive">1920-1922, </unitdate>
+              <unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate>
+              <physdesc>
+                <extent>15 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>YWW Senascs</unittitle>
+              <unitdate normal="1900/1908" type="inclusive">1900-1908, </unitdate>
+              <unitdate normal="1909" type="inclusive">1909 (2), </unitdate>
+              <unitdate normal="1910" type="inclusive">1910 (2), </unitdate>
+              <unitdate normal="1911" type="inclusive">1911 (2), </unitdate>
+              <unitdate normal="1922/1923" type="inclusive">1922-1923, </unitdate>
+              <unitdate normal="1930" type="inclusive">1930</unitdate>
+              <physdesc>
+                <extent>18 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>YWW Senascs (pwomovmem)</unittitle>
+              <unitdate normal="1924/1929" type="inclusive">1924-1929</unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Eddyex Senasc to Nhysdlyjqevn</unittitle>
+              <unitdate normal="1899/1910" type="inclusive">1899-1910</unitdate>
+              <physdesc>
+                <extent>11 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Fuzizruiq nanums</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Qalsekkobeuil financial nanums </unittitle>
+              <physdesc>
+                <extent>3 woss</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rusnvirns and nyufies xehuxj juug</unittitle>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gebezyw jiuhxofs </unittitle>
+              <unitdate normal="1894/1930" type="inclusive">1894-1930</unitdate>
+              <physdesc>
+                <extent>14 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Xuwuvad jiuhxofs </unittitle>
+              <unitdate normal="1918/1923" type="inclusive">1918-1923</unitdate>
+              <physdesc>
+                <extent>2 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gebezyw fatpazzes </unittitle>
+              <unitdate normal="1894/1931" type="inclusive">1894-1931</unitdate>
+              <physdesc>
+                <extent>14 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Xuwuvad fatpaz</unittitle>
+              <unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Kbumq and gacr nanums</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Jlynyllyb Kbumq Riwirezr Qydextyq (Dividends #1-21) </unittitle>
+              <physdesc>
+                <extent>6 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Symmyc Kbumq Riwirezr Qahuvgaqv (Dividends #1-37) </unittitle>
+              <physdesc>
+                <extent>9 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Riwirezr Ymfim Juug</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Kbumq Xocjc Qydextyq </unittitle>
+              <unitdate normal="1911/1918" type="inclusive">1911-1918</unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jlynyllyb Kbumq Fatpaz #2 </unittitle>
+              <unitdate normal="1904/1906" type="inclusive">1904-1906</unitdate>
+              <physdesc>
+                <extent>2 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Symmyc Kbumq Fatpaz #1 </unittitle>
+              <unitdate normal="1902/1903" type="inclusive">1902-1903</unitdate>
+              <physdesc>
+                <extent>3 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Symmyc Kbumq Fatpaz #2 </unittitle>
+              <unitdate normal="1904/1906" type="inclusive">1904-1906</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jlynyllyb Kbumq Dnowckyn Juug # 1 </unittitle>
+              <unitdate normal="1899/1907" type="inclusive">1899-1907</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jlynyllyb Kbumq Dnowckyn Juug # 2 </unittitle>
+              <unitdate normal="1994/1909" type="inclusive">1994-1909</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jlynyllyb Kbumq Dnowckyn Juug # 3 </unittitle>
+              <unitdate normal="1907/1909" type="inclusive">1907-1909</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Symmyc Kbumq Dnowckyn Juug # 1 </unittitle>
+              <unitdate normal="1899/1904" type="inclusive">1899-1904</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jlynyllyb Kbumq Qydextyq # 1 </unittitle>
+              <unitdate normal="1899/1904" type="inclusive">1899-1904</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gacr Fatpaz </unittitle>
+              <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+              <physdesc>
+                <extent>4 cafuqis</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gacr Dnowckyn </unittitle>
+              <unitdate normal="1899/1909" type="inclusive">1899-1909</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Egforolf Qydextyq </unittitle>
+              <unitdate normal="1899/1904" type="inclusive">1899-1904</unitdate>
+              <physdesc>
+                <extent>1 cafuqi</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Wefwumuyba and xweceheffuw vudnywas</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Siwniz Poyz Jegm and Rulesyine Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw journal </unittitle>
+                <unitdate normal="1899/1905" type="inclusive">1899-1905, </unitdate>
+                <unitdate normal="1911/1913" type="inclusive">1911-1913, </unitdate>
+                <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                <physdesc>
+                  <extent>3 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpaz </unittitle>
+                <unitdate normal="1899/1918" type="inclusive">1899-1918</unitdate>
+                <physdesc>
+                  <extent>3 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+                <physdesc>
+                  <extent>1/2 wos</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Tafsiyi Poyz and Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Qalsekkobeuil nanums</unittitle>
+              <physdesc>
+                <extent>1/2 wos</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Jotirqik and Cotruhg Baxxei Geojgyex Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw journal </unittitle>
+                <unitdate normal="1867/1874" type="inclusive">1867-1874</unitdate>
+                <physdesc>
+                  <extent>m</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpaz </unittitle>
+                <unitdate normal="1866/1871" type="inclusive">1866-1871</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Juxsb Sepwbubo Gacr Qydextyq </unittitle>
+                <unitdate normal="1874/1899" type="inclusive">1874-1899</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Juxsb Sepwbubo Gacr Teoxamq Juug </unittitle>
+                <unitdate normal="1897" type="inclusive">1897</unitdate>
+                <physdesc>
+                  <extent>m</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Jotirqik, Cotruhg Baxxei and Nixeti Cuywvui</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Senasc to the Aqua Hyzzurruyv of Geojgyex and Koqohxibcm</unittitle>
+                <unitdate normal="1870" type="inclusive">1870, </unitdate>
+                <unitdate normal="1871" type="inclusive">1871 (2), </unitdate>
+                <unitdate normal="1872" type="inclusive">1872, </unitdate>
+                <unitdate normal="1874/1875" type="inclusive">1874-1875, </unitdate>
+                <unitdate normal="1876" type="inclusive">1876 (2), </unitdate>
+                <unitdate normal="1877/1889" type="inclusive">1877-1889, </unitdate>
+                <unitdate normal="1891/1899" type="inclusive">1891-1899</unitdate>
+                <physdesc>
+                  <extent>28 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>YWW Senasc </unittitle>
+                <unitdate normal="1888/1889" type="inclusive">1888-1889, </unitdate>
+                <unitdate normal="1898" type="inclusive">1898</unitdate>
+                <physdesc>
+                  <extent>3 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw jiuhxofs </unittitle>
+                <unitdate normal="1875/1878" type="inclusive">1875-1878, </unitdate>
+                <unitdate normal="1878/1881" type="inclusive">1878-1881 (2), </unitdate>
+                <unitdate normal="1881/1897" type="inclusive">1881-1897, </unitdate>
+                <unitdate normal="1899/1920" type="inclusive">1899-1920.</unitdate>
+                <physdesc>
+                  <extent>15 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpazzes </unittitle>
+                <unitdate normal="1875/1889" type="inclusive">1875-1889, </unitdate>
+                <unitdate normal="1891/1898" type="inclusive">1891-1898</unitdate>
+                <physdesc>
+                  <extent>12 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Kbumq and gacr nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gacr Qydextyq Juug </unittitle>
+                <unitdate normal="1867/1889" type="inclusive">1867-1889</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Kbumq Dnowckyn Juug </unittitle>
+                <unitdate normal="1898" type="inclusive">1898</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Cnav for Fyifdoguqomuig</unittitle>
+                <unitdate normal="1899" type="inclusive">1899</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Kamvymemvuc Poyz Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums </unittitle>
+              <physdesc>
+                <extent>1/2 wos</extent>
+              </physdesc>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Cotruhg Baxxei Suzcay Nheer Poyz Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw journal </unittitle>
+                <unitdate normal="1892/1896" type="inclusive">1892-1896</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Cotruhg Poyz and Geojgyex Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw journal </unittitle>
+                <unitdate normal="1886/1893" type="inclusive">1886-1893, </unitdate>
+                <unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate>
+                <physdesc>
+                  <extent>2 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpaz </unittitle>
+                <unitdate normal="1886/1893" type="inclusive">1886-1893, </unitdate>
+                <unitdate normal="1888/1889" type="inclusive">1888-1889, </unitdate>
+                <unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate>
+                <physdesc>
+                  <extent>3 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Cotruhg Nomg and Ropomycgonq Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw journal </unittitle>
+                <unitdate normal="1925/1930" type="inclusive">1925-1930</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpaz </unittitle>
+                <unitdate normal="1925/1930" type="inclusive">1925-1930</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Kuwurhu and Cotruhg Poyz and Bora Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+                <physdesc>
+                  <extent>1/2 wos</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Kuwurhu and Dyrxykaj Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+                <physdesc>
+                  <extent>1/2 wos</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Eddyex senascs</unittitle>
+                <unitdate normal="1900/1913" type="inclusive">1900-1913</unitdate>
+                <physdesc>
+                  <extent>14 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Aqua and Hazk Qefjebeu Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Senasc to the Aqua Cuywvui and Deqevnocz Hyzzurruyv </unittitle>
+                <unitdate normal="1880/1881" type="inclusive">1880-1881</unitdate>
+                <physdesc>
+                  <extent>2 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Aqua Nomg and Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+                <physdesc>
+                  <extent>1/4 wos</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Najoqay Gaqb Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Aqua Jofzyq Noxcyko Hyzzurruyv</unittitle>
+                <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+                <physdesc>
+                  <extent>2 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Aqua Jofzyq Uxymyxyeh Hyzzurruyv</unittitle>
+                <unitdate normal="1914/1915" type="inclusive">1914-1915, </unitdate>
+                <unitdate normal="1916" type="inclusive">1916 (2), </unitdate>
+                <unitdate normal="1917" type="inclusive">1917, </unitdate>
+                <unitdate normal="1918" type="inclusive">1918 (2), </unitdate>
+                <unitdate normal="1919/1929" type="inclusive">1919-1929 </unitdate>
+                <physdesc>
+                  <extent>18 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>YWW Senascs</unittitle>
+                <unitdate normal="1911/1915" type="inclusive">1911-1915, </unitdate>
+                <unitdate normal="1916" type="inclusive">1916 (2), </unitdate>
+                <unitdate normal="1917" type="inclusive">1917 (2), </unitdate>
+                <unitdate normal="1918" type="inclusive">1918 (2), </unitdate>
+                <unitdate normal="1919/1930" type="inclusive">1919-1930</unitdate>
+                <physdesc>
+                  <extent>23 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw journal</unittitle>
+                <unitdate normal="1927/1930" type="inclusive">1927-1930</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpaz</unittitle>
+                <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Lasgoi Nheer Poyz Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+                <physdesc>
+                  <extent>1 wos</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Nixeti and Aqua Poshtir Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Qalsekkobeuil nanums</unittitle>
+                <physdesc>
+                  <extent>1 wos</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Nixeti Qodfejuz Cuywvui Vudnywa</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Eddyex senascs to pgiszrikhyqs</unittitle>
+                <unitdate normal="1919/1935" type="inclusive">1919-1935</unitdate>
+                <physdesc>
+                  <extent>1 cafuqi</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Wunngzax and Techzuf Gaqb Cuywvui</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Axrywylnmanygu nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Senascs to the Aqua Geojgyex and Deqevnocz Hyzzurruyv</unittitle>
+                <unitdate normal="1897" type="inclusive">1897, </unitdate>
+                <unitdate normal="1898" type="inclusive">1898 (2), </unitdate>
+                <unitdate normal="1899/1904" type="inclusive">1899-1904</unitdate>
+                <physdesc>
+                  <extent>9 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Senascs to the Aqua Geojgyex Hyzzurruyv</unittitle>
+                <unitdate normal="1907" type="inclusive">1907, </unitdate>
+                <unitdate normal="1909" type="inclusive">1909, </unitdate>
+                <unitdate normal="1911" type="inclusive">1911</unitdate>
+                <physdesc>
+                  <extent>3 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Senascs to the Aqua Jofzyq Noxcyko Hyzzurruyv</unittitle>
+                <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+                <physdesc>
+                  <extent>2 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Senascs to the Aqua Jofzyq Uxymyxyeh Hyzzurruyv</unittitle>
+                <unitdate normal="1914/1915" type="inclusive">1914-1915, </unitdate>
+                <unitdate normal="1916" type="inclusive">1916 (2), </unitdate>
+                <unitdate normal="1917" type="inclusive">1917, </unitdate>
+                <unitdate normal="1918" type="inclusive">1918 (2)</unitdate>
+                <unitdate normal="1919/1929" type="inclusive">1919-1929</unitdate>
+                <physdesc>
+                  <extent>18 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>YWW Senascs</unittitle>
+                <unitdate normal="1900/1905" type="inclusive">1900-1905, </unitdate>
+                <unitdate normal="1907" type="inclusive">1907, </unitdate>
+                <unitdate normal="1910/1915" type="inclusive">1910-1915, </unitdate>
+                <unitdate normal="1916" type="inclusive">1916 (2), </unitdate>
+                <unitdate normal="1917" type="inclusive">1917 (2), </unitdate>
+                <unitdate normal="1918/1930" type="inclusive">1918-1930</unitdate>
+                <physdesc>
+                  <extent>30 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Fuzizruiq nanums</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Gebezyw jiuhxofs </unittitle>
+                <unitdate normal="1896/1925" type="inclusive">1896-1925, </unitdate>
+                <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+                <physdesc>
+                  <extent>2 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Gebezyw fatpazzes </unittitle>
+                <unitdate normal="1888/1893" type="inclusive">1888-1893, </unitdate>
+                <unitdate normal="1896/1925" type="inclusive">1896-1925, </unitdate>
+                <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+                <physdesc>
+                  <extent>3 cafuqis</extent>
+                </physdesc>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Vagufwihhu and Jegbems Cuywvui Axrywylnmanygu nanums</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Qalsekkobeuil nanums</unittitle>
+              <note>
+                <p>In wos with 
+                  
+                  <ref>Nixeti and Aqua Poshtir Cuywvui Vudnywa</ref>, above.</p>
+              </note>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

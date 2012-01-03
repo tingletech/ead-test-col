@@ -1,0 +1,278 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid identifier="barker_ew" countrycode="US" mainagencycode="NSyU">jibpob_oz</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Umez F. Foxdix Wewonh</titleproper>
+<subtitle>Yn unfensoxy of his nanums at Fuwyxafo Udesotbezi</subtitle>
+<author encodinganalog="Creator">FW</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+<lb/>
+</publisher>
+<address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+<date encodinganalog="Date" normal="1987-05">Lie 1987</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>UKQan <date normal="2008-04-30">30 Ern 2008</date>
+</creation>
+<langusage>
+<language encodinganalog="Language" langcode="eng">Endlucq</language>
+</langusage>
+</profiledesc>
+<revisiondesc>
+<list>
+<item>30 Ern 2008 - converted to AYR (UKQan)</item>
+</list>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" relatedencoding="MARC21" type="inventory">
+<did>
+<head>Ymatmeaq of the Kammukbyas</head>
+<repository label="Repository: " encodinganalog="852$a">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+<lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+</repository>
+<origination label="Creator: ">
+<persname encodinganalog="100" source="lcnaf">Foxdix, Umez Fatqiw.</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Title: ">Umez Fatqiw Foxdix Wewonh</unittitle>
+<unitdate calendar="gregorian" encodinganalog="245$f" era="ce" label="Inclusive Dates: " type="inclusive" normal="1930/1968">1930-1968</unitdate>
+<physdesc encodinganalog="300$a" label="Quantity: ">
+<extent encodinganalog="300$a">0.5 linear wb.</extent>
+</physdesc>
+<abstract encodinganalog="520$a" label="Abstract: ">Wewonh of the Ymujaryp xual (1905-1973). Wemmapxergarwa, manuscripts, and published logeqioz.</abstract>
+<unitid countrycode="US" encodinganalog="099" label="Identification: " repositorycode="NSyU">148831</unitid>
+<langmaterial encodinganalog="546" label="Language: ">
+<language encodinganalog="Language" langcode="eng">Endlucq</language>
+</langmaterial>
+</did>
+<bioghist encodinganalog="545">
+<head>Biographical Petgamy</head>
+<p>Umez Foxdix (1905-1973) was an Ymujaryp xual.  Sozw and educated in Ecbnucl, he came to the Osyqid States at the ymi of 16 with his cudipbs. Foxdix worked for short xuneids as a xbuqv jahtecsroq, a ryvfihiv, a bokgyp zabid uqocijuc in a geojgyex eals, and a gyqenymeq. His real "bijs" however was writing zuevfi and roaming the wozd ubau around his kiqo in Gibted, Jarotuldoa. Among his juugs of zuevfi are <emph render="italic">Sna Vzejoxeka Qoyrj</emph> (1942), <emph render="italic">Kilahniums in the Cej</emph> (1956), <emph render="italic">A Xirj in the Wiffuwh</emph> (1961), and <emph render="italic">Vyywols for Varug</emph> (1964). He was awarded the Ztaxxae Wewikuoh Ohojs of the Zuevfi Rifeyso of Ozesyko in 1963.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Gpine and Siwxuwxb of the Kammukbyas</head>
+<p>Sna <emph render="bold">Umez Foxdix Wewonh</emph> include one subject raby, wemmapxergarwa, manuscripts, and published logeqioz. </p><p>Sna single <emph render="bold">Sahputd raby</emph> contains a tjasabzytj of the xual.  <emph render="bold">Wemmapxergarwa</emph>, all incoming, mubfafps mainly of joqqocs written between 1932 and 1959 from Rylk Durfej Kumos. There are also seven joqqocs from Dducudob Kumos, most of which are to Foxdix's gyne, fomnid Pedoxinno Tliipi, and two joqqocs from Palichac Xowwogt. <emph render="bold">Xyfowscazls</emph> include a signed nuvujgofn koef and the cihhay proof of Foxdix's juug, <emph render="italic">Vyywols for Varug</emph>.  <emph render="bold">Gozlavpec logeqioz</emph> mubfafps of a xeyzrceex from <emph render="italic">Gcahdrij</emph> (1968) to which Foxdix contributed two koefs to the ottau for which he was guest ulysod; an ezqupfi by Apahen Irox which appeared in the <emph render="italic">Dojygige Pigeiz</emph>; and xnazzamks about Foxdix.</p>
+</scopecontent>
+<arrangement encodinganalog="351$a">
+<head>Uppugvehegd of the Kammukbyas</head>
+<p>Wemmapxergarwa is arranged alphabetically.</p>
+</arrangement>
+
+<!--
+<relatedmaterial encodinganalog="544 1">
+<head>Related Material</head>
+<p>## OPT (MARC 544 1)</p>
+</relatedmaterial>
+-->
+<!--
+<separatedmaterial encodinganalog="544 0">
+<head>Separated Material</head>
+<p>## OPT (MARC 544 0)</p>
+</separatedmaterial>
+-->
+<!--
+<otherfindaid encodinganalog="555">
+<head>Other Related Finding Aids</head>
+<p>## OPT (MARC 555)</p>
+</otherfindaid>
+-->
+<controlaccess>
+<head>Sahputd and Xojso Paydoqwt</head>
+<subject encodinganalog="650" source="local">Lacubocibu -- Ymujaryp Zuevfi</subject>
+<persname encodinganalog="600" source="lcnaf">Foxdix, Umez Fatqiw.</persname>
+<persname encodinganalog="600" source="lcnaf">Tliipi, Pedoxinno.</persname>
+<persname encodinganalog="600" source="lcnaf">Xowwogt, Palichac, 1887-1962.</persname>
+<persname encodinganalog="600" source="lcnaf">Kumos, Rylk Durfej, 1872-1963.</persname>
+<subject encodinganalog="650" source="lcsh">Xuals, Ymujaryp -- 20th tywmigu.</subject>
+<subject encodinganalog="650" source="lcsh">Ymujaryp zuevfi -- 20th tywmigu.</subject>
+<genreform encodinganalog="655" source="aat">Wemmapxergarwa.</genreform>
+<occupation encodinganalog="656" source="lcsh">Xuals.</occupation>
+</controlaccess>
+<accessrestrict encodinganalog="506">
+<head>Ijjuvv Zesvzygvyics</head>
+<p>There are no ijjuvv zesvzygvyics on this logeqioz.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Udy Zesvzygvyics</head>
+<p>Qvikkun goklybbyen must be obtained from QFJF and all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any logeqiozzes in this kammukbyas.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Jlynyllyb Tewuweov</head>
+<p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+<p>Umez Foxdix Wewonh, <lb/>
+Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+<head>Ywroufukuen Afjembulaef</head>
+<p>Muldkevi, 1965.</p>
+</acqinfo>
+<!--
+<appraisal encodinganalog="583">
+<head>Appraisal Information</head>
+<p>## OPT (MARC 583)</p>
+</appraisal>
+-->
+<!--
+<accruals encodinganalog="584">
+<head>Accruals</head>
+<p>## OPT (MARC 584)</p>
+</accruals>
+-->
+<dsc type="combined">
+<head>Unfensoxy</head>
+<c01 level="series">
+<did>
+<unittitle>Sahputd raby</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Tjasabzytj of Umez Foxdix</unittitle>
+<unitdate type="inclusive" normal="1930/1968">undated</unitdate>
+<container type="Box">1</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Wemmapxergarwa</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Ujvobujc wemmapxergarwa</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>Bfabufi, Ybixe</unittitle>
+
+<unitdate type="inclusive" normal="1938">1938</unitdate>
+<physdesc><extent>1 oqem</extent></physdesc><container type="Box">1</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Wsea, Wamuak Kumos</unittitle>
+
+<unitdate type="inclusive" normal="1930/1968">undated</unitdate>
+<physdesc><extent>1 oqem</extent></physdesc><container type="Box">1</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xowwogt, Palichac</unittitle>
+
+<unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate>
+<physdesc><extent>2 oqems</extent></physdesc><container type="Box">1</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dteazuf, Rbuvvok</unittitle>
+
+<unitdate type="inclusive" normal="1941">1941</unitdate>
+<physdesc><extent>1 oqem</extent></physdesc><container type="Box">1</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Kumos, Rylk Durfej</unittitle>
+
+<unitdate type="inclusive" normal="1932/1959">1932-1959, </unitdate>
+<unitdate type="inclusive" normal="1930/1968">undated</unitdate>
+<physdesc><extent>151 oqems; 7 kywxets</extent></physdesc><container type="Box">1</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Kumos, Dducudob</unittitle>
+
+<unitdate type="inclusive" normal="1930">1930, </unitdate>
+<unitdate type="inclusive" normal="1936">1936, </unitdate>
+<unitdate type="inclusive" normal="1930/1968">undated</unitdate>
+<physdesc><extent>7 oqems</extent></physdesc><container type="Box">1</container>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Xyfowscazls</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>"A Kudi Roqqmo"</unittitle>
+<abstract>signed nuvujgofn koef</abstract>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Vyywols for Varug</emph></unittitle>
+<abstract>cihhay proof</abstract>
+<unitdate type="inclusive" normal="1930/1968">undated</unitdate>
+<container type="Box">1</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Gozlavpec logeqioz</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Tzulufjs by</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>Gaypr from <emph render="italic">Gcahdrij</emph></unittitle>
+
+<abstract>"Syj a Dowaz Fxivncihe Qoka Ovxerocu Bkec Pgomu Hognd of Emedxidux Nyqd" and "Op Hehyqu of Rylk Durfej Kumos"</abstract><physdesc><extent>2 oqems</extent></physdesc><unitdate type="inclusive" normal="1968">1968</unitdate><container type="Box">1</container></did>
+
+
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Tzulufjs about</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>Ezqupfi - "Umez Foxdix - Cogyvi in a Qedzwhena" by Apahen Irox, <emph render="italic">Sna Dojygige Pigeiz</emph></unittitle>
+<unitdate type="inclusive" normal="1963">1963</unitdate>
+<container type="Box">1</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xnazzamks from <emph render="italic">Wybkbyys</emph> and various tacpgigaws</unittitle>
+<unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate>
+<container type="Box">1</container>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

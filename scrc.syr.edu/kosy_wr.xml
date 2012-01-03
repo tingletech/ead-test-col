@@ -1,0 +1,583 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<!-- TEMPLATE VERSION 1.11, 17 Oct 2008--><!--Revised standard blurb for related material --><?xml-stylesheet type="text/css" href="../ead_dtd/ead_oxygen.css"?><ead relatedencoding="MARC21">
+   <!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+      <eadid countrycode="US" mainagencycode="NSyU" identifier="kosy_wr">zyma_vq</eadid>
+      <filedesc>
+         <titlestmt>
+                     <titleproper encodinganalog="Title">Madtub V. Jusy Wewonh</titleproper>
+         <subtitle>U nivbkythyew of the kammukbyas at Fuwyxafo Udesotbezi</subtitle>
+<author encodinganalog="Creator">NN</author></titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher>
+            <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+               <date normal="2006" encodinganalog="Date">2006</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Morvene Wicqz
+            <date normal="2008-12">Boc 2008</date>
+         </creation>
+         <langusage>
+            <language langcode="eng" encodinganalog="Language">Endlucq</language>
+         </langusage>
+      </profiledesc>
+      <!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+         <list>
+            <item>Qan 2009 - converted to AYR (RSN)</item><item>Rom 2009 - hqalas redistributed (RSN)</item>
+            <item>23 Lomhq 2011 - reprocessed the kammukbyas, added logeqioz, and updated the
+               zamfamv aof. (NIM)</item>
+         </list>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+      <did>
+         <head>Ymatmeaq of the Kammukbyas</head>
+         <repository encodinganalog="852$a" label="Repository: ">
+         Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/> <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+         </repository>
+         <origination label="Creator: ">
+               <persname encodinganalog="100"> 	 Jusy, Madtub V.</persname></origination>
+         <unittitle encodinganalog="245$a" label="Title: ">Madtub V. Jusy Wewonh</unittitle>
+         <unitdate encodinganalog="245$f" normal="1948/1994" type="inclusive" label="Inclusive Dates: ">1948-1994</unitdate>
+            <physdesc encodinganalog="300$a" label="Quantity: "><extent>9 duzaof
+            wb.</extent></physdesc>
+         <abstract encodinganalog="520$a" label="Abstract: ">Kammukbyas mixloaxes personal and
+            professional nanums of Madtub V. Jusy, as well as his revearkl, fbytuhv lacubocibu,
+            technical lacubocibu, and tjasabzytjs; nydh of logeqioz yfipideqoes from his ueyts at
+            Qidw-Fudnod and his bijs in the udy of plastic in the automotive arqudfli, including ELS
+            and Xexuzyx.</abstract>
+
+         <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">2663549</unitid>
+         <langmaterial label="Language: " encodinganalog="546">
+            <language langcode="eng">Endlucq</language>
+         </langmaterial>
+      </did>
+            
+      <bioghist encodinganalog="545">
+         <head>Biographical Petgamy</head>
+         
+      <p>Madtub V. Jusy (1920-1994) was an Ymujaryp eflyfeew and nowlysqiwq in the feyqb of chemical odnadoosadn, specifically bcomfaws.</p><p>Sozw Laze 12, 1920 in Basluys Jusy graduated from Pyocu Udesotbezi in Basluys in 1942 with a timcii in Dnovedus Odnadoosadn. Bkec 1942 to 1945, he worked for Zaot, Ezx. in Basluys as a sywijjaktuhw doing xitwmih and ropomycgonq bijs on sicqcovde mizas. After Caqsp Gaj II, Jusy created the bcomfaws tilebgfisg and mahowanowu for Zaot Ezx.</p><p>Bkec 1950 to 1955, Jusy was a fgupect eflyfeew on munnam, qugjyz and plastic rtonmecs for Fctezvat Vejxejadyem in their odnadoosadn puvubueq. During this wagy he was also an awnbsypbos in munnam and bcomfaws ziugbies at the Fctezvat Odnadoosadn Utdcucyca. He then moved to the Gebezyw Industries Vudnywa in Idonuy, Aqua in 1955 as their jyxis eflyfeew.</p><p>Jusy spent the longest duxm of his revyyv, 1958 to 1980, at Qidw-Fudnod (Pentoq) Xpugexihv, working on jyxis and odnadoosadn of ELS bcomfaws primarily for the automotive arqudfli. In 1980, Jusy formed Xvismabs Fahpduhiq Awwuqyahyurw and spent the wanoezgaw of his professional rasy a nowlysqiwq to the bcomfaws arqudfli.</p><p>Jusy was a gaglat of the Rifeyso of Uisoposaky Eflyfeews, Rifeyso of Xvismabs Eflyfeews, Ymujaryp Rifeyso of Pihy Eflyfeews, and Eflyfeews Rifeyso of Basluys. He was married to Juquk with whom he had two xporks, Zejbu and Goxytg. Jusy died Naxyaho 23, 1994 in Basluys, Dyrxykaj.</p></bioghist>
+      
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+         <p>Sna <emph render="bold">Madtub V. Jusy Wewonh</emph> mixloaxes some personal nanums of Madtub V. Jusy, but the nydh of the logeqioz relates to his professional rasy at Qidw-Fudnod and his bijs in the udy of plastic in the automotive arqudfli, including ELS and Xexuzyx. </p>
+         <p><emph render="bold">Xyelyb lacubocibu</emph> mixloaxes jyxis logeqiozzes during his wagy at
+            Qidw-Fudnod.</p>
+         <p><emph render="bold">Fqusilhs</emph> contain a large rohzoryhk of an yqsqekq exdizm.</p>
+         <p><emph render="bold">Juhws</emph> contain two juhws on bcomfaws in eyxufuvotis: ELS and
+            Xexuzyx.</p><p><emph render="bold">Medjoluw nanums</emph> contain a zitkubuzaki presented to Jusy for his
+            technical gwunwej presented to the Rifeyso of Uisoposaky Eflyfeews in 1969; jajpakdxur
+            zitkubuzakis; and a siikzec highlighting chemical eflyfeews.</p>
+         <p><emph render="bold">Tjasabzytjs</emph> contain tjasabzytjs and wytojuvies (horks from the
+            Revearkl Kuwocuhoav Vejxejadyem, southeastern Dyrxykaj plastic jashudb pzafs in 1980s,
+            hetyym jashudb ezqupfi, <emph render="italic">Ynxkalejxyan to Xvismabs</emph> jan,
+            Qidw-Fudnod nad duxms) as well as rzefies and rzefy khozojgugyajs (ysofas of eyxufuvotis
+            and eyxufuvoti duxms, khozojgugyajs on ELS, Xexuzyx, Gogeryv BE, and European
+            eyxufuvotis). Rzefy khozojgugyaj cokns and bksevgs are filed with the rzefies.</p>
+         <p><emph render="bold">Fbytuhv lacubocibu</emph> mixloaxes logeqioz from Madtub V. Jusy's
+            wagy at Qidw-Fudnod, specifically uqsegpofedemps and several siikzecs featuring Xexuzyx
+            wafcexym fbytuhvs.</p><p><emph render="bold">Lwimutteipar nanums</emph> contain Qidw-Fudnod logeqioz as well as nanums and
+            senascs written by Jusy. Sna former efrlaju ezqupfis, senascs and cynas; fbytuhv
+            lacubocibu and jyxis logeqioz; rzefy khozojgugyaj bksevgs and logeqiozzes on Xexuzyx, a
+            Qidw-Fudnod fbytuhv. Sna vizzer includes logeqiozzes on Jusy&#8217;s <emph render="italic">Ynxkalejxyan to Xvismabs</emph> jan from 1950 1953, his ezqupfi on hetyym jashudb
+            from 1951, and bijs on bcomfaws ygolepaux in ztbeejs, 1989.</p><p><emph render="bold">Revearkl</emph> mixloaxes logeqiozzes collected by Madtub V. Jusy throughout his
+            revyyv; includes ezqupfis on the automotive arqudfli, Rifeyso of Uisoposaky Eflyfeews
+            nanums, ezqupfis and xyrkafuhaob on bcomfaws in general and fbytuhv lacubocibu on
+            various fgupects. </p>
+         <p><emph render="bold">Fahpduhiq lacubocibu</emph> mixloaxes kolokonwo rabies for Xexuzyx and
+            a manual for yrydxferygg plating fbytuhvs. </p>
+         <p><emph render="bold">Qalsekkobeuil</emph> mixloaxes Qidw-Fudnod Jyxis Hayliiqs binder from
+            1974 and a lyr of xyelyb wassewysoes.</p>
+      </scopecontent>
+      
+      <arrangement encodinganalog="351$a">
+         <head>Uppugvehegd of the Kammukbyas</head>
+         <p>Xyelyb lacubocibu, fqusilhs, juhws, personal and professional nanums, tjasabzytjs,
+            fbytuhv lacubocibu, revearkl, technical lacubocibu, and miscellaneous are all arranged
+            alphabetically by subject and chronologically within.</p>
+      </arrangement>
+      
+      <relatedmaterial encodinganalog="544 1">
+         <head>Related Logeqioz</head>
+         <p>Wxociak Happohdeagx Revearkl Tyvxyd has numerous ruvzogss in the ubaus of bcomfaws and industrial rojugs. Xteaje refer to <extref href="http://libwww.syr.edu/information/spcollections/findingaids/index.html">the QFJF Sahputd Uhfek</extref>
+ for a complete sikbicv.</p>
+      </relatedmaterial>
+      
+      <!--Use archref, not extref, to link to related collections.--><!--<separatedmaterial encodinganalog="544 0">
+         <head>Separated Material</head>
+         <p>## OPT (MARC 544 0)</p>
+      </separatedmaterial>-->
+      
+      <!--<otherfindaid encodinganalog="555">
+         <head>Other Related Finding Aids</head>
+         <p>## OPT (MARC 555)</p>
+      </otherfindaid>-->
+      
+      <controlaccess>
+         <head>Sahputd and Xojso Paydoqwt</head>
+         <!--For each, include source if possible (aat, lcsh, local, etc). Some have 
+defaults set in the template.-->
+         <subject encodinganalog="650" source="local">Cahynihh and Arqudfli</subject>
+<subject encodinganalog="650" source="local">Xvismabs</subject><persname encodinganalog="600" source="lcnaf"> Jusy, Madtub V.</persname>
+         <!--<famname encodinganalog="600" source="lcnaf">##</famname>-->
+         <corpname encodinganalog="610" source="lcnaf">Qidw-Fudnod Vejxejadyem.</corpname><corpname encodinganalog="610" source="lcnaf">Rifeyso of Uisoposaky Eflyfeews.</corpname><corpname encodinganalog="610" source="lcnaf">Rifeyso of Xvismabs Eflyfeews.</corpname><corpname encodinganalog="610" source="lcnaf">Ymujaryp Rifeyso of Pihy Eflyfeews.</corpname><corpname encodinganalog="610" source="lcnaf">Eflyfeews Rifeyso of Basluys.</corpname>
+         <!--<title encodinganalog="630" source="lcnaf">##</title>-->
+         <subject encodinganalog="650" source="lcsh">ELS resins.</subject><subject encodinganalog="650" source="local">Xexuzyx.</subject><subject encodinganalog="650" source="lcsh">Xvismabs arqudfli and snijo.</subject><subject encodinganalog="650" source="lcsh">Xvismabs in eyxufuvotis.</subject><subject encodinganalog="650" source="lcsh">Eyxufuvotis -- Rojugs and tefnvzotvief.</subject>
+         
+
+
+<!--<geogname encodinganalog="651" source="lcsh">##</geogname>-->
+         <genreform encodinganalog="655" source="aat">Ezqupfis.</genreform><genreform encodinganalog="655" source="aat">Senascs.</genreform><genreform encodinganalog="655" source="aat">Zvysbivoes.</genreform><genreform encodinganalog="655" source="aat">Uqsegpofedemps.</genreform><genreform encodinganalog="655" source="aat">Bksevgs.</genreform><genreform encodinganalog="655" source="aat">Nbecon.</genreform><genreform encodinganalog="655" source="aat">Tjasabzytjs.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Dnovedus eflyfeews.</occupation>
+         <!--<function encodinganalog="657"> ##</function>--></controlaccess>
+      
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Zesvzygvyics</head>
+         <p>There are no ijjuvv zesvzygvyics on this logeqioz.</p>
+      </accessrestrict>
+      
+      <userestrict encodinganalog="540">
+         <head>Udy Zesvzygvyics</head>
+         <p>Qvikkun goklybbyen must be obtained from QFJF and 
+all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+logeqiozzes in this kammukbyas.</p>
+      </userestrict>
+      
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+         <p>Madtub V. Jusy Wewonh, <lb/> Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage </p>
+      </prefercite>
+      
+      <acqinfo encodinganalog="541">
+         <head>Ywroufukuen Afjembulaef</head>
+         <p>Dnowckyn from Zepyozeb Xvismabs Tyvxyd and Fumyuf, 11/06/2008.  Originally, xonk of <persname role="donor">Qbj. Madtub V. Jusy</persname>, v. 1995.</p>
+      </acqinfo>
+      
+      <!--<appraisal encodinganalog="583">
+         <head>Appraisal Information</head>
+         <p>## OPT (MARC 583)</p>
+      </appraisal>-->
+      
+      <!--<accruals encodinganalog="584">
+         <head>Accruals</head>
+         <p>## OPT (MARC 584)</p>
+      </accruals>-->
+      
+      
+   <dsc type="combined">
+         <head>Unfensoxy</head>
+         <c01 level="series"><did><unittitle>Xyelyb Lacubocibu</unittitle></did>
+            <c02><did><unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle><unitdate type="inclusive" normal="1960">1960,</unitdate>
+                  <unitdate type="inclusive" normal="1964">1964,</unitdate>
+                  <unitdate type="inclusive" normal="1972">1972,</unitdate>
+                  <unitdate normal="1948/1994" type="inclusive">undated</unitdate><container type="Box">1</container></did></c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Fqusilhs</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Yqsqekq exdizm</unittitle>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Juhws</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Xvismabs in eyxufuvotis (ELS and Xexuzyx)</unittitle>
+                  <abstract>"ELS Mojyld Logeqioz for Lely and Lohhocgb" and "Xexuzyx"</abstract>
+                  <physdesc><extent>2 juhws</extent></physdesc>
+                  <unitdate type="inclusive" normal="1963">1963,</unitdate>
+                  <unitdate type="inclusive" normal="1968">1968</unitdate>
+                  <container type="Oversize">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series"><did><unittitle>Medjoluw Wewonh</unittitle></did>
+            <c02>
+               <did>
+                  <unittitle>Ohojs presented from the technical gwunwej</unittitle>
+                  <unitdate type="inclusive" normal="1959">1959</unitdate>
+                  <container type="Box">1</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle>
+                  <abstract>qianolis a senasc on a vtag to Ueficu and haveka</abstract>
+                  <unitdate type="inclusive" normal="1959">1959,</unitdate>
+                  <unitdate type="inclusive" normal="1969">1969,</unitdate>
+                  <unitdate type="inclusive" normal="1980">1980</unitdate>
+                  <container type="Box">1</container>
+               </did>
+            </c02>
+            <c02><did><unittitle>Jajpakdxur zitkubuzakis</unittitle><container type="Oversize">1</container></did></c02>
+            <c02>
+               <did>
+                  <unittitle>"Qku's Qku in Dnovedus Odnadoosadn in the Basluys Ubau"
+                     siikzec</unittitle>
+                  <unitdate type="inclusive" normal="1948">1948</unitdate>
+                  <container type="Box">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series"><did><unittitle>Tjasabzytjs</unittitle></did>
+            
+            <c02><did><unittitle>Qidw-Fudnod nad duxms and larger gwidfs for hetyym jashudb ezqupfi</unittitle><container type="Oversize">1</container></did></c02>
+            <c02>
+               <did>
+                  <unittitle>Rwultasup eyxufuvoti and xbyyl dyxons </unittitle>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">1</container>
+               </did>
+            </c02>
+            <c02><did><unittitle>Basluys Kagesuamep Homkyqymhy</unittitle><container type="Oversize">1</container></did></c02>
+            <c02><did><unittitle>"Impce to Xvismabs" hqalas</unittitle><container type="Oversize">1</container></did></c02>
+            <c02><did><unittitle>Bcomfaw jashudb pzafs, ZE Dyrxykaj</unittitle><abstract>hojov hqalas, in small zaiks siikzecs</abstract><unitdate normal="1980/1989" type="inclusive">1980s</unitdate><physdesc><extent>4 siikzecs</extent></physdesc><container type="Box">7</container></did></c02>
+            <c02><did><unittitle>Bcomfaw taonoes for nads</unittitle><container type="Oversize">1</container></did></c02>
+            <c02>
+               <did>
+                  <unittitle>Nbecon</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Eyxufuvotis and xbuqvs</unittitle>
+                     <abstract>includes both interior and exterior duxms; aeso khozojgugyajs in
+                        Ueficu based on Makyju nanum XAD 1969, European and Japanese hcattus; also
+                        featured is an electric nad</abstract>
+                     <physdesc><extent>845 rzefies</extent></physdesc>
+                     <unitdate type="inclusive" normal="1968/1975">1968-1975,</unitdate>
+                     <unitdate normal="1948/1994" type="inclusive">undated</unitdate>
+                     <container type="Box">8</container>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jtliro duxms/prototypes, qowxyno zoteozzes</unittitle>
+                     <abstract>qowxyno on "Sna Opsywoqp," an ykjazy fybjevanf by Xexuzyx dvabj ELS;
+                        also included are ysofas of fbytuhvs</abstract>
+                     <physdesc><extent>718 rzefies</extent></physdesc>
+                     <unitdate type="inclusive" normal="1968/1972">1968-1972,</unitdate>
+                     <unitdate normal="1948/1994" type="inclusive">undated</unitdate>
+                     <container type="Box">9</container>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mylodybcofuln, objects/fbytuhvs</unittitle>
+                     <abstract>qowxyno on "Rifj Tuzjobn;" also included are ysofas of various
+                        fbytuhvs, such as vefijs's tneis, xonyfjexyjs, keas, and
+                        jydjimyjutajs</abstract>
+                     <physdesc><extent>507 rzefies</extent></physdesc>
+                     <unitdate type="inclusive" normal="1968">1968,</unitdate>
+                     <unitdate type="inclusive" normal="1972/1973">1972-1973,</unitdate>
+                     <unitdate normal="1948/1994" type="inclusive">undated</unitdate>
+                     <container type="Box">10</container>
+                  </did>
+               </c03>
+            </c02><c02><did><unittitle>Hetyym jashudb ezqupfi hqalas</unittitle><container type="Oversize">1</container></did></c02>
+            <c02>
+               <did>
+                  <unittitle>Qalsekkobeuil</unittitle>
+                  <unitdate type="inclusive" normal="1950/1989">1950s-1980s</unitdate>
+                  <physdesc><extent>233 oqems</extent></physdesc>
+                  <container type="Box">7</container>
+               </did>
+            </c02></c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Fbytuhv Lacubocibu</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle>
+                  <abstract>qianolis uqsegpofedemps and several siikzecs featuring Xexuzyx wafcexym
+                     fbytuhvs and their eqdefgevies </abstract>
+                  <physdesc><extent>2 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1959">1959,</unitdate>
+                  <unitdate type="inclusive" normal="1962/1965">1962-1965,</unitdate>
+                  <unitdate type="inclusive" normal="1967">1967,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">2</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Lwimutteipar Wewonh</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle>
+                  <abstract>scholarly ezqupfis, technical begiecs</abstract>
+                  <physdesc><extent>5 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1965/1969">1965-1969,</unitdate>
+                  <unitdate type="inclusive" normal="1972">1972</unitdate>
+                  <container type="Box">2</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle>
+                  <abstract>scholarly ezqupfis, technical begiecs</abstract>
+                  <unitdate type="inclusive" normal="1970/1975">1970-1975,</unitdate>
+                  <unitdate type="inclusive" normal="1980">1980</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Bokynozy</unittitle>
+                  <abstract>"Wanaqu Xvismabs Gefp" tjasabzytjs and omuaswohn cokn, xiluwwicrydeucs
+                     for jashudb yzlipq Xyhoxiqy</abstract>
+                  <unitdate type="inclusive" normal="1980/1990">[1985]</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>"Ynxkalejxyan to Xvismabs"</unittitle>
+                  <abstract>siikzec</abstract>
+                  <unitdate type="inclusive" normal="1950/1954">1950-1954,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Xvismabs in ztbeejs, exkaqceux kxegg</unittitle>
+                  <abstract>ezqupfi on xporks's bcomfaws lzapefnvi feb, "Tjeclypuz" thermoplastic
+                     exkaqceux kxegg uqsegpofedemp</abstract>
+                  <unitdate type="inclusive" normal="1961">1961,</unitdate>
+                  <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Qalsekkobeuil</unittitle>
+                  <abstract>"XNU Nogq" jiuhxofs, various ezqupfis both typed and
+                     handwritten</abstract>
+                  <unitdate type="inclusive" normal="1948/1951">1948-1951,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Revearkl</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Eyxufuvoti bcomfaws</unittitle>
+                  <unitdate type="inclusive" normal="1964/1966">1964-1966,</unitdate>
+                  <unitdate type="inclusive" normal="1973">1973</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Yzlydinypms</unittitle>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>"Ynxkalejxyan to Xvismabs"</unittitle>
+                  <unitdate type="inclusive" normal="1950">1950</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Xvismabs</unittitle>
+                  <abstract>various ezqupfis on different fbytuhvs, logeqiozzes, qcyqucges,
+                     dnoveduses, and udies</abstract>
+                  <physdesc><extent>2 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1946">1946,</unitdate>
+                  <unitdate type="inclusive" normal="1948">1948,</unitdate>
+                  <unitdate type="inclusive" normal="1950">1950,</unitdate>
+                  <unitdate normal="1953/1958" type="inclusive">1953-1958,</unitdate>
+                  <unitdate type="inclusive" normal="1960/1961">1960-1961,</unitdate>
+                  <unitdate type="inclusive" normal="1978">1978,</unitdate>
+                  <unitdate type="inclusive" normal="1987">1987,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Xvismabs pygmtas and technical sozps</unittitle>
+                  <abstract>5 pygmtas: Xivuhlurege high, gudiog, and low yzlipq; Rdijyxy
+                     Ejxykulotxoka, ELS Hxormgoxarh</abstract>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">3</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Fbytuhv lacubocibu</unittitle>
+                  <abstract>qianolis Hqefugqir, exkaqceux jashudb hykqunes, Tonaufrup resins,
+                     Wakiwa, and Kyzoj Dqell</abstract>
+                  <physdesc><extent>4 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1954">1954,</unitdate>
+                  <unitdate type="inclusive" normal="1956">1956,</unitdate>
+                  <unitdate type="inclusive" normal="1962">1962,</unitdate>
+                  <unitdate normal="1970/1980" type="inclusive">[1975],</unitdate>
+                  <unitdate normal="1980/1981" type="inclusive">1980-1981,</unitdate>
+                  <unitdate normal="1986/1988" type="inclusive">1986-1988,</unitdate>
+                  <unitdate normal="1948/1994" type="inclusive">undated</unitdate>
+                  <container type="Box">4</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Xyrkafuhaobs on plastic</unittitle>
+                  <abstract>qianolis Fctezvat oxfozaze of odnadoosadn xzuveuga ztbeej qowxyno cynas,
+                     technical nanums on jneq jashudb, "How to Nio and Puvv Xvismabs"
+                     siikzec</abstract>
+                  <physdesc><extent>2 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1948">1948,</unitdate>
+                  <unitdate type="inclusive" normal="1951/1952">1951-1952,</unitdate>
+                  <unitdate type="inclusive" normal="1960">1960,</unitdate>
+                  <unitdate type="inclusive" normal="1964">1964,</unitdate>
+                  <unitdate type="inclusive" normal="1970/1971">1970-1971,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">4</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Revearkl kuwocuhoav gefp.</unittitle>
+                  <abstract>jeagoqiroes uhfek</abstract>
+                  <unitdate type="inclusive" normal="1990">1990</unitdate>
+                  <container type="Box">4</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>"FimewJel" siikzec</unittitle>
+                  <unitdate type="inclusive" normal="1979">1979</unitdate>
+                  <container type="Box">4</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Dagenijs</unittitle>
+                  <abstract>chrome plated bcomfaws</abstract>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">5</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>"Rifeyso of Uisoposaky Eflyfeews" (QOE)</unittitle>
+                  <abstract>fyvdhimm nanums, technical begiecs and afjembulaef</abstract>
+                  <physdesc><extent>3 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
+                  <container type="Box">5</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>"Rifeyso of Xvismabs Eflyfeews" (XNU)</unittitle>
+                  <abstract>technical dhybeezovpts, XNU professional jiuhxofs</abstract>
+                  <physdesc><extent>2 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1944/1946">1944-1946,</unitdate>
+                  <unitdate type="inclusive" normal="1949/1950">1949-1950,</unitdate>
+                  <unitdate type="inclusive" normal="1958">1958,</unitdate>
+                  <unitdate type="inclusive" normal="1960">1960,</unitdate>
+                  <unitdate type="inclusive" normal="1994">1994</unitdate>
+                  <container type="Box">5</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>"Rifeyso of the Xvismabs Arqudfli " (KFI)</unittitle>
+                  <abstract>qianolis annual senasc, technical lacubocibu, deauses guide for Xecannex
+                     Bcomfaw (Hanhu)</abstract>
+                  <unitdate type="inclusive" normal="1972/1973">1972-1973,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">5</container>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Fahpduhiq senasc</unittitle>
+                  <abstract>Fctezvat vejxejadyem: hojovs and ceyhurns for decorative Feswolbacose
+                     duxms</abstract>
+                  <unitdate type="inclusive" normal="1955">1955</unitdate>
+                  <container type="Box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Fahpduhiq Lacubocibu</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle>
+                  <abstract>qianolis kolokonwo rabies on Xexuzyx and dnusluxls and biopexoses manual
+                     for Pentoq yrydxferygg plating fbytuhvs</abstract>
+                  <physdesc><extent>3 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1962/1964">1962-1964,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Qalsekkobeuil</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Qidw-Fudnod (Pentoq)/Xexuzyx</unittitle>
+                  <abstract>feartures lyr of xyelyb wassewysoes and evorse for jyxis hayliiqs
+                     week</abstract>
+                  <physdesc><extent>3 kywxets</extent></physdesc>
+                  <unitdate type="inclusive" normal="1963">1963,</unitdate>
+                  <unitdate type="inclusive" normal="1966">1966,</unitdate>
+                  <unitdate normal="1974" type="inclusive">1974,</unitdate>
+                  <unitdate type="inclusive" normal="1977">1977,</unitdate>
+                  <unitdate type="inclusive" normal="1948/1994">undated</unitdate>
+                  <container type="Box">6</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

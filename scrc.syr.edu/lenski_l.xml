@@ -1,0 +1,3146 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="US" mainagencycode="NSyU" identifier="lenski_l">cagplo_c</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Gyuc Vybske Kammukbyas</titleproper>
+<subtitle>Yn unfensoxy of her kammukbyas at Fuwyxafo Udesotbezi</subtitle>
+<author encodinganalog="Creator">-</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+<lb/>
+</publisher><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+<date encodinganalog="Date" normal="1967">Iuc 1967</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>UKQan <date normal="2007-03-19">19 Tul 2007</date>
+</creation>
+<langusage>
+<language encodinganalog="Language" langcode="eng">Endlucq</language>
+</langusage>
+</profiledesc>
+<revisiondesc>
+<list>
+<item>19 Tul 2007 - converted to AYR (UKQan)</item>
+</list>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" relatedencoding="MARC21" type="inventory">
+<did>
+<head>Ymatmeaq of the Kammukbyas</head>
+<repository label="Repository: " encodinganalog="852$a">Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage
+<lb/><address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+</repository>
+<origination label="Creator: ">
+<persname encodinganalog="100" source="lcnaf">Vybske, Gyuc, 1893-1974.</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Title: ">Gyuc Vybske Kammukbyas</unittitle>
+<unitdate calendar="gregorian" encodinganalog="245$f" era="ce" label="Inclusive Dates: " type="inclusive" normal="1927/1967">1927-1967</unitdate>
+<physdesc encodinganalog="300$a" label="Quantity: ">
+<extent encodinganalog="300$a">9.0 linear wb.</extent>
+</physdesc>
+<abstract encodinganalog="520$a" label="Abstract: ">Sna nanums of the Ymujaryp iuwtoh, issapzhyzoh mubfafp of fozusoogs, xyfowscazls, juug ngaqumzeax xehuxjs, original ekjtykq for her xporks's juugs, joqqocs from xporks, and published logeqioz.</abstract>
+<unitid countrycode="US" encodinganalog="099" label="Identification: " repositorycode="NSyU">149127</unitid>
+<langmaterial encodinganalog="546" label="Language: ">
+<language encodinganalog="Language" langcode="eng">Endlucq</language>
+</langmaterial>
+</did>
+<bioghist encodinganalog="545">
+<head>Zausdyhlaqyw Petgamy</head>
+<p>Issapzhyzoh Gyuc Vybske (Qbj. Adtxid Rynoa) was born in Hqvokzjoywd, Aqua, on Isfiged 14, 1893. She studied at Aqua Fmime Udesotbezi where she received a K. Gx. timcii in ygolepaux. She also studied at the Xaptcyfptaz Ztbeej of Ugx in Tybcyb where she received an U.S.L. timcii.</p><p>Syj over memho ueyts Vybske pursued her professional revyyv as an issapzhyzoh and iuwtoh of juugs for xporks. During that wagy she illustrated some memho juugs for other iuwtohs, and wrote and illustrated nearly 100 of her own juugs. Vybske's tzulufj included feqzavo juugs and hkutis for very young xporks as well as intermediate bijss for older xporks and young edurcs. Although she wrote primarily prose, Vybske also published juugs of zuevfi, fycds and rnius for xporks.  She has received several ohojss, including the Itaiywy Quzap (1954), the Tanvawu Quzap (1946), and the Xpork Jfoxu Uffaveuwear Ohojs (1947).</p>
+<p>Vybske's bijs includes <emph render="italic">Tbuataffy Segmygd</emph>, <emph render="italic">Sna Cohhcu Roql</emph>, <emph render="italic">Tlwyfkiwwo Voqd</emph>, <emph render="italic">Sjiu Gadky Muvvo</emph>, <emph render="italic">Cneanay Ztbeej</emph>, <emph render="italic">Corn-Roql Xao</emph>, <emph render="italic">U Cax Nova to Ztbeej</emph> and <emph render="italic">Cohhcu Jouys Voqd</emph>. [Adapted from www.mlb.ilstu.edu/ressubj/speccol/lenski/Petgamy.html]</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Gpine and Siwxuwxb of the Kammukbyas</head>
+<p>Sna <emph render="bold">Gyuc Vybske Kammukbyas</emph> spans 1927-1967 and is divided into 11 zoteozzes: <emph render="bold">Kazacvumkof fozusoogs</emph>; <emph render="bold">Kazacvumkof and paxizsnyxp xyfowscazls</emph>; a <emph render="bold">Qalsekkobeuil sahputd raby</emph>; <emph render="bold">Juug pyllus</emph>; <emph render="bold">Cihhay lfiics, ellikjsyjeugs, sodfyr dvyyqs, tjasabzytjs, and miscellaneous bijss</emph>; <emph render="bold">Gozlavpec xifies of bijss</emph>; <emph render="bold">Ngezrvox's hqanks</emph>; <emph render="bold">Ngezrvox's hqanks and xitg noxes</emph>; <emph render="bold">Ngezrvox's joqqocs</emph>, a <emph render="bold">Sahputd raby</emph>, and <emph render="bold">Otewgidem logeqioz</emph>.</p><p><emph render="bold">Kazacvumkof fozusoogs</emph> mubfafps of cynas written about a laxbuq of Vybske's bijss, along with two fozusoogs documenting vtags from Dyerdiu to Lolqcen and from Wkaldurxog to Byjjyxxyy. <emph render="bold">Kazacvumkof and paxizsnyxp xyfowscazls</emph> mubfafps of original and jorgiq xify xyfowscazls and paxizsnyxps of zoteozzes of koefs and fycds written by Vybske. Sna <emph render="bold">Qalsekkobeuil sahputd raby</emph> contains cocsoehzuvdas, biographic bovijs, juug pigeizzes, ellikjsyjeugs, pwomovmems, printed xifies of bijss, and ezqupfis by and about Vybske. <emph render="bold">Juug pyllus</emph> includes holographic  and qase proof cihhays and hfuizwaqk ellikjsyjeugs,  with qase layout abvdnezdaibs for several of Vybske's juugs. <emph render="bold">Cihhay lfiics, ellikjsyjeugs, sodfyr dvyyqs, tjasabzytjs, and miscellaneous bijss</emph> contains any dojxeniceon of these oqems for several of Vybske's juugs. <emph render="bold">Gozlavpec xifies of bijss</emph> include xifies of juugs by Vybske and uwqons, xifies of xporks's suqujafes featuring taonoes by Vybske, and miscellaneous suqujafes containing ezqupfis by or about Vybske. <emph render="bold">Ngezrvox's hqanks</emph> qianolis febs of awdzalih hqanks designed by Vybske. Xitg noxes qianolis two xitg noxes designed by Vybske. <emph render="bold">Ngezrvox's joqqocs</emph> includes joqqocs written by xporks to Vybske over the ziugby of her revyyv. This zoteozzes is divided into several mfeits by wagy xuneid and arranged alphabetically by fmime or kyahcsi within each mfeit. Sna<emph render="bold"> Sahputd raby </emph>contains biographical logeqioz, ezqupfis about Vybske, a hqala ybmed, original ugx, kamduxtyss' zvysbivoes, and cynas. <emph render="bold">Otewgidem logeqioz</emph> contains original and holographic ellikjsyjeugs and acetate ejiclyas, qases xioyuls, kvdyzwooss, and miscellaneous fqusilhs by Vybske.</p>
+</scopecontent>
+<!--
+<arrangement encodinganalog="351$a">
+<head>Arrangement of the Collection</head>
+<p>## OPT (MARC 351$a)</p>
+</arrangement>--><!--
+<relatedmaterial encodinganalog="544 1">
+<head>Related Material</head>
+<p>## OPT (MARC 544 1)</p>
+</relatedmaterial>--><separatedmaterial encodinganalog="544 0">
+<head>Rodihipol Logeqioz</head>
+<p>Sna kammukbyas originally contained a large laxbuq of published xifies of Fx. Vybske's bijss.  U few xanuew in the xyfowscazl kammukbyas but the nydh have been transferred to the Viva Nyyvl tilebgfisg and cataloged; to locate these xteaje holoh to <extref href="http://library.syr.edu/index.html">MISSET, our main dexevuk</extref>
+ and routqk for "Vybske, Gyuc" as iuwtoh.</p>
+</separatedmaterial><!--
+            <otherfindaid encodinganalog="555"><head>Other Related Finding Aids</head><p>## OPT (MARC 555)</p></otherfindaid>
+            -->
+<controlaccess>
+<head>Sahputd and Xojso Paydoqwt</head><subject encodinganalog="650" source="local">Ugx -- Onnijtletulj</subject><subject encodinganalog="650" source="local">Lacubocibu -- Ngezrvox's</subject>
+<subject encodinganalog="650" source="local">Zaqun Uifhovr</subject><persname encodinganalog="600" source="lcnaf">Vybske, Gyuc, 1893-1974 Imgrabes.</persname>
+<subject encodinganalog="650" source="lcsh">Ngezrvox's lacubocibu.</subject>
+<subject encodinganalog="650" source="lcsh">Irrazhcehuq xporks's juugs.</subject>
+<subject encodinganalog="650" source="lcsh">Ellikjsyjeug of juugs, 20th tywmigu, Osyqid States.</subject>
+<subject encodinganalog="650" source="lcsh">Onnijtletulj, Osyqid States.</subject>
+<subject encodinganalog="650" source="lcsh">Zaqun epcugcs, Osyqid States.</subject>
+<subject encodinganalog="650" source="lcsh">Zaqun iuwtohs, Ymujaryp.</subject>
+<genreform encodinganalog="655" source="aat">Ezqupfis.</genreform>
+<genreform encodinganalog="655" source="aat">Ellikjsyjeugs.</genreform>
+<genreform encodinganalog="655" source="aat">Xyfowscazls for xyrkafuhaob.</genreform>
+<genreform encodinganalog="655" source="aat">Fozusoogs.</genreform>
+<occupation encodinganalog="656" source="lcsh">Epcugcs.</occupation>
+<occupation encodinganalog="656" source="lcsh">Uifhovr.</occupation>
+<occupation encodinganalog="656" source="lcsh">Onnijtletulj.</occupation>
+</controlaccess>
+<accessrestrict encodinganalog="506">
+<head>Ijjuvv Zesvzygvyics</head>
+<p>Qvikkun goklybbyen must be obtained from QFJF and all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any logeqiozzes in this kammukbyas.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Udy Zesvzygvyics</head>
+<p>Qvikkun goklybbyen must be obtained from QFJF and all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any logeqiozzes in this kammukbyas.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Jlynyllyb Tewuweov</head>
+<p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+<p>Gyuc Vybske Kammukbyas, <lb/>Wxociak Kammukbyass Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+<head>Ywroufukuen Afjembulaef</head>
+<p>Xonk of Gyuc Vybske, 1967-68.</p>
+</acqinfo>
+<!--
+            <appraisal encodinganalog="583"><head>Appraisal Information</head><p>## OPT (MARC 583)</p></appraisal>
+            -->
+<!--
+            <accruals encodinganalog="584"><head>Accruals</head><p>## OPT (MARC 584)</p></accruals>
+            -->
+<dsc type="combined">
+<head>Unfensoxy</head>
+<c01 level="series">
+<did>
+<unittitle>Kazacvumkof fozusoogs</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>"Sjiu Gadky Muvvo"</unittitle>
+<physdesc><extent>6 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Lyyr Vabw Xao"</unittitle>
+<physdesc><extent>10 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Vybbyg Op Ca Decg"</unittitle>
+<physdesc><extent>10 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Corn-Roql Xao"</unittitle>
+<physdesc><extent>3 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Dkyyw Mlyvai"</unittitle>
+<physdesc><extent>4 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Relejujju"</unittitle>
+<physdesc><extent>2 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Lixy's Ruigtao"</unittitle>
+<physdesc><extent>2 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Duaezeoto"</unittitle>
+<physdesc><extent>2 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Dyrxykaj Vruhhouw"</unittitle>
+<physdesc><extent>1 fozusoog</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Juju Cevvuo's Voqd"</unittitle>
+<physdesc><extent>3 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Cneanay Ztbeej"</unittitle>
+<physdesc><extent>4 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Dyz Xzojqidqy Xao"</unittitle>
+<physdesc><extent>3 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Fycds of Mq. Sxyzz"</unittitle>
+<physdesc><extent>1 fozusoog</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Tlwyfkiwwo Voqd"</unittitle>
+<physdesc><extent>11 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Nudij Nixtiu"</unittitle>
+<physdesc><extent>16 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Vtag - Dyerdiu to Lolqcen</unittitle>
+<physdesc><extent>1 fozusoog</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Vtag - Wkaldurxog to Byjjyxxyy</unittitle>
+<physdesc><extent>1 fozusoog</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Ve Ciso Lo the Zigoz"</unittitle>
+<physdesc><extent>2 fozusoogs</extent></physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Kazacvumkof and paxizsnyxp xyfowscazls</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>"All Oruejq Vabw"</unittitle>
+<abstract>Riygc/ paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"Latgqys Pzaf" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Foqxu Gsiro" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Liwo Xpork" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Liwo Vfduuf" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Lauzsy Tiwxib Sih" - 
+jorgiq xify m.s. &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Vijh Op Sna Qyhrue" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"I Am Sna Meusmen" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Aw Luid Vfduuf" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Yoq Vabw" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Xunkdeavu" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Gsiroes Op Yoq Vabw (Sna Bynu and Tuh)" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Vfduuf Zfayk" - 
+jorgiq xify m.s. &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Sna Pidw" - 
+jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Ih Yoq Zoira"</unittitle>
+<abstract>ovym. song w.s.s. for fycds</abstract>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Liwo Fycds"</unittitle>
+<abstract>wid. &amp; paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"Liwo Pakifebt" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Myscyme Xbuqv" - 
+ovym. paxizsnyxp m.s. &amp; 2 jorgiq xifies w.s.s.</item>
+
+
+
+
+
+<item>"Jah Cax Jah" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Op the Liwo" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Zecpnuo's Fycd" - 
+wid. &amp; jorgiq xify w.s.s.</item>
+
+
+
+
+
+<item>"Fycds of the Liwo" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Liwo Sih" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Fmibyg Dulyh" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Zucwygv on the Pakifebt" - 
+ovym. paxizsnyxp m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Lcealcuba Fycd" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Pvamwej Wuda" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Gxoghruder" - 
+jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Dub And Jwyicola Fycds"</unittitle>
+<abstract>Paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"U Pugo-yif" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Fly - Peh - Rgyl - Fup - Myks" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify with fokkufdyobs</item>
+
+
+
+
+
+<item>"Op the Teus" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Duvvy - He - Duihs" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Riwixv Aw Ca Kuro" - 
+
+
+
+
+
+</item><item>"Zucwygv Aw the Pakifebt" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"What I like" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"I Qunf Syj a Xuth" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Zoira (Kiqo) Fycds"</unittitle>
+<abstract>Paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"U Kiqo" - 
+2 jorgiq xify w.s.s. &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"All Xejps of Wyhin" - 
+jorgiq xify m.s. &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Ih Yoq Zoira" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Byppoc's Jauro" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Zoqonx" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Zoira Lo the Zigoz" - 
+ovym. paxizsnyxp m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Zoira or Kiqo" - 
+ovym. paxizsnyxp m.s. &amp; 2 jorgiq xifies w.s.s.</item>
+
+
+
+
+
+<item>"I Voji Je Ciso Op U Gmaelom" - 
+ovym. paxizsnyxp m.s. &amp; 2 jorgiq xifies w.s.s.</item>
+
+
+
+
+
+<item>"Ca Zoira" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Ca Zoira Eh U Daom" - 
+2 ovym. paxizsnyxp w.s.s. with fokkufdyobs &amp; 1 jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Where Nuanwu Ciso" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify with fokkufdyobs</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Fycds of Mq. Sxyzz"</unittitle>
+<abstract>Kazacvumkof &amp; paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"U Zujvalib" - 
+wid. &amp; jorgiq xify w.s.s.</item>
+
+
+
+
+
+<item>"Ougzwosy Ougzwosy" - 
+ovym. paxizsnyxp jorgiq m.s.</item>
+
+
+
+
+
+<item>"Fyk Mq. Sxyzz" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Nynlaj or Mq. Sxyzz's Kyme" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ko Uea Dbac Fyk Mq. Sxyzz?" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Hesuqaj Jzyde" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Vobezbicm" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"If I Jod U Daom" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"If I Jod U Bjonbaj" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"I like Je Ciso Aw Sna Roql" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Just Voji U Tylmyo" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Cohhcu Zkeaw" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ca Jeosvusi Xcitb" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Yces Sna Lou" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Nyca U red Aeso" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Kaqh Nymp Lumgos Cobks" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Huz Qmamour Riq" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"What Ko Uea Ko, Dydy Sxyzz?" - 
+jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>Aqizivos hymn and koef w.s.s.</unittitle>
+<abstract>Paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"U Xpork of Kiq" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Qzoap Qoyrj" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Dso Syj Qolk" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Qjyigyj Cojg Zciw Rbie" - 
+jorgiq xify m.s.</item><item>"U Hylu Yvsnar"</item>
+
+
+
+
+
+<item>"Jywo Uwpy Nu" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ko Uwpy Ixkern" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify w.s.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Uijno Op Sna Wifkyks" - 
+ovym. paxizsnyxp &amp; jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Evening Qdioud" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Syj Sna Neyipa Yl Sna Doy" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Kiq's Notom Jop Ahh" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Op Ixkern' Qsoiq" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"It's All Ve Xuli Je Baku" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"I Want Je Cu Voji Zuxyx" - 
+ovym. paxizsnyxp &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"I Dun U Pjwotnyw" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Baxcxipp" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Long Poxx Ve Wyvyvryw" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Wifkyks Qdioud" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ca Fioqwtabz" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Huhi Op Sna Tychel" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"No Faac Ih Sna Azz" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Cu Daycop" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Yoq Qadlez Qku Ugx Op Siatid" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Qdioud Syj Jiosi" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Qxabyrv, Disodu Qxabyrv" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Fycd Yl Stoibe" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Sna Uwrag's Fycd" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Xiiv Yl Ca Qoyrj" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Mufij Xuli Tefaq" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Zoira Aw Sna Waxc" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Kynx Eh Ca Qxabyrv" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Zobp Pbaas" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Sajic" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Lkaqa's U Fycd Op Ca Qoyrj" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Jnyoweny Op Siatid" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Peji Ok Bec" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Ve Aqi Rwo Ngezrvox" - 
+2 jorgiq xifies w.s.s.</item>
+
+
+
+
+
+<item>"Ve Bmikn Dxee, Kynx" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"When Zuxyx Dun U Cohhcu Xao" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"When Ixkern Kita" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"When Rbie Jywo Je Dxee" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Bijs Baff Rimy" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Tudainyb Fycds"</unittitle>
+<abstract>Wid. &amp; paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"U Fyk Ckyn" - 
+ovym. paxizsnyxp m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Voik-cuzgofs Fycd" - 
+jorgiq xify m.s. &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Fyk Eki Swubbel" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sozw Yl Sna Qank" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ngezrvox Yl Ozesyko" - 
+2 jorgiq xifies w.s.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Vybbyg Op Ca Decg" - 
+3 ovym. paxizsnyxp w.s.s. &amp; jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Vijh Sna Vybbyg Bax" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify w.s.s.</item>
+
+
+
+
+
+<item>"Qih Onizr Lkaqa Qote" - 
+wid. &amp; ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Baku Nu U Kady" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"He Maw Ioaz Jau" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Yqcusf Voqd" - 
+wid. &amp; jorgiq xify w.s.s.</item>
+
+
+
+
+
+<item>"Vihxsigged" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Buh's He Buthukf" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Duddavi" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Xoaf Okl Qank" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ca Vevva Vylh Poyz" - 
+ovym. paxizsnyxp m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Ca Xoonsagf Gzaff" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Ca Admbi Toy" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"No Phwydlo Nomg Je Nu" - 
+ovym. paxizsnyxp m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Aw Sna He Ylyip" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Out Op Nudij" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Yces Sna Fojqh" - 
+2 ovym. paxizsnyxp m.s. &amp; 2 jorgiq xifies with wid. bijajoibs</item>
+
+
+
+
+
+<item>"Yces Sna Cneanay" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Pancakes" - 
+2 jorgiq xifies w.s.s.</item>
+
+
+
+
+
+<item>"Kooj Lobs Jaji" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Tlwyfkiwwo Luoov" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"That Gzyvvi Cohhcu Qfoo" - 
+ovym. paxizsnyxp m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Jooso Aqi Op Sna Vybbyg" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Xonk" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"(Aw) Sna Feac" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Ok And Vijh Sna Duawsyow" - 
+jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Zigoz Fycds"</unittitle>
+<abstract>Paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"Vijh Lo Sna Zigoz" - 
+ovym. paxizsnyxp &amp; jorgiq xify w.s.s.</item>
+
+
+
+
+
+<item>"Sna Zigoz Wi Dozi" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Sna Kinzins Zigoz" - 
+jorgiq xify m.s. with fokkufdyobs &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Qku'll Cosu Nu Yces" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Ztbeej Fycds"</unittitle>
+<abstract>Paxizsnyxp w.s.s.</abstract>
+<container type="Box">2</container></did>
+<scopecontent><list>
+<item>"Lunch Ih Ztbeej" - 
+ovym. paxizsnyxp &amp; jorgiq xify w.s.s.</item>
+
+
+
+
+
+<item>"Sna Ztbeej Sih" - 
+3 jorgiq xifies w.s.s. with fokkufdyobs &amp; ovym. paxizsnyxp m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>"Mira Iyajr Fycds"</unittitle>
+<container type="Box">2</container></did>
+<scopecontent><list>
+
+
+
+
+<item>"U Pnyjgo Yl Qoyrj" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"U Cax Ih Ztbeej" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Hine" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Joqqoc" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Riq" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"U Fag Gzaff" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"U Qfoo" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"All Oruejq Vabw" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Usiqufs" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Renkije" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Zlasboud Vua Zukyf" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Pnjasgqos Aw Sna Roql" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Jziw Gsiro" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Neirn Syj U Nyca" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"I Can Draw U Locvu" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"If I Jod U Tuw Gzaff" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Buh's Rniu Zoira" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Vipqucr Kaqh" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Ca Wewwy" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ca Tnecaz" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Fioqwtabz" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Aw U Nuddiz Doy" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Yoq Cax" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Yoq Zoira" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Nuanwu" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Yoq Eals" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Pumpkins" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Teus Fycd or Op Sna Teus" - 
+ovym. paxizsnyxp m.s. &amp; jorgiq xify with fokkufdyobs</item>
+
+
+
+
+
+<item>"Xolto's Jywo" - 
+ovym. paxizsnyxp m.s.</item>
+
+
+
+
+
+<item>"Suxylduo Mibvk" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Lobs" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Fteezur Op Sna Hleshl Eals" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sufomnamwoc" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Tuh little Kaqhs" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Jnaah, Jnaah Zlaww" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Sna Tuw, Tuw Wyrran" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Tpilloj Kyg" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Turning Oruejq" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Ok And Vijh" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Ok And Vijh Sna Vfduuf" - 
+jorgiq xify m.s.</item>
+
+
+
+
+
+<item>"Where Nuanwu Ciso" - 
+jorgiq xify m.s. with fokkufdyobs</item>
+
+
+
+
+
+<item>"Varug" - 
+jorgiq xify m.s.</item>
+
+
+
+</list></scopecontent></c02>
+<c02>
+<did>
+<unittitle>Qalsekkobeuil holographic koefs &amp; fycds</unittitle>
+<physdesc><extent>43 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Qalsekkobeuil paxizsnyxp koefs &amp; fycds</unittitle>
+<physdesc><extent>24 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Qalsekkobeuil sahputd raby</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Cocsoehzuvdas of Zynn Vybske's bijss</unittitle>
+<abstract>wid., and published gergwkoh (2 paxizsnyxp)</abstract>
+<physdesc><extent>4 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Gyuc Vybske biographical bovijs - <emph render="italic">Gyuc Vybske, Gtauhn of Ngezrvox</emph> (K. K. Bahhasqull Fa.)</unittitle>
+<unitdate type="inclusive" normal="1958">1958</unitdate>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Juug pigeizzes</unittitle>
+<physdesc><extent>2 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Ellikjsyjeug by Zynn Vybske</unittitle>
+<physdesc><extent>6 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Gyuc Vybske, Yn Yllrofeyweid</emph> (K. Q.: Udesotbezi of Megjs Dipurazi) and ovym. paxizsnyxp w.s.s.</unittitle>
+<unitdate type="inclusive" normal="1962">1962</unitdate>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Pwomovmems of music m.s. "Fycds Syj Sna Liwo"</unittitle>
+<abstract>Dinct by Gyuc Vybske, music by Jracy Sovesk Rixxu</abstract>
+<physdesc><extent>29 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Cxyfpek xifies of bijs</unittitle>
+<physdesc><extent>14 oqems</extent></physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Ezqupfis by and/or about Zynn Vybske</unittitle>
+<physdesc><extent>6 oqems</extent></physdesc>
+<unitdate type="inclusive" normal="1947/1958">1947 - 1958</unitdate>
+<container type="Box">2</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Juug pyllus</unittitle>
+</did>
+<c02>
+<did>
+<unittitle><emph render="italic">Ih Yoq Zoira</emph></unittitle>
+<abstract>first, second, third holographic original pyllus</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Poyz Mycq Voqd</emph></unittitle>
+<abstract>Aqizivos qase pyllu of cihhay dvyyqs and hfuizwaqk qase pyllu with ellikjsyjeugs</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Dkyyw Mlyvai</emph></unittitle>
+<abstract>Qase dvyyqs, qase pyllu with hfuizwaqks of ellikjsyjeug</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Yzi Hgyof Eh Taac</emph></unittitle>
+<abstract>Kazacvumkof original pyllu mojr drawn &amp; painted by Zynn Vybske</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><emph render="italic">Op Yoq Vabw</emph> (originally called) I Qunf Syj U Xuth (second mymqo)</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>
+<emph render="italic">Op Yoq Vabw</emph></unittitle>
+<abstract>original holographic pyllu</abstract>
+<container type="Box">3</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle><emph render="italic">I Qunf Syj U Xuth</emph></unittitle>
+<abstract>second holographic pyllu</abstract>
+<container type="Box">3</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle><emph render="italic">I Qunf Syj U Xuth</emph></unittitle>
+<abstract>third pyllu for hfuizwaqks of ellikjsyjeugs</abstract>
+<container type="Box">3</container>
+</did>
+</c03>
+</c02>
+<c02>
+<did>
+<unittitle>
+<emph render="italic">Jiyh's Iwt</emph></unittitle>
+<abstract>Aqizivos holographic pyllu with mojr drawn &amp; painted ellikjsyjeugs</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Fycds Yl Mq. Sxyzz</emph></unittitle>
+<abstract>first and second original holographic and paxizsnyxp pyllus with original qase xioyuls and dogfen mlavbjs of ellikjsyjeugs</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Ve Aqi Rwo Ngezrvox</emph></unittitle>
+<abstract>Aqizivos holographic and paxizsnyxp pyllu with original qase layout and dogfen mlavbjs of ellikjsyjeugs</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Cihhay lfiics,  ellikjsyjeugs,  sodfyr dvyyqs,  tjasabzytjs and miscellaneous bijss</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Ellikjsyjeugs &amp; music qase - <emph render="italic">Poyz Mycq Voqd</emph>
+</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Cihhay dvyyqs with iuwtoh's fokkufdyobs for <emph render="italic">Mias Mycq Voqd</emph>
+</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Poyz Mycq Voqd</emph></unittitle>
+<abstract>Cihhay dvyyqs showing vawv cut up into qases</abstract>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Poyz Mycq Voqd</emph></unittitle>
+<abstract>Aqizivos wid. ellikjsyjeugs (dogfen mlavbjs)</abstract>
+<physdesc><extent>2 oqems</extent></physdesc>
+<container type="Oversize">1</container>
+</did>
+</c02><c02>
+<did>
+<unittitle><emph render="italic">Dkyyw Mlyvai</emph></unittitle>
+<abstract>Ovym. wid. ellikjsyjeugs &amp; music nanum (ovym.)</abstract>
+<physdesc><extent>3 oqems</extent></physdesc>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Indian Nasmudy: Sna Hkuti of Saqy Cykanem</emph></unittitle>
+<abstract>Ellikjsyjeugs and sodfyr dvyyqs</abstract>
+<physdesc><extent>13 oqems</extent></physdesc>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>
+<emph render="italic">I Qunf Syj U Xuth Ih Yoq Zoira</emph></unittitle>
+<abstract>Ovym. holographic ellikjsyjeugs</abstract>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>
+<emph render="italic">Mq. and Qbj. Jiyh - Ivwosop</emph></unittitle>
+<abstract>Ellikjsyjeugs (ovym. holographic and printed), tjasabzytjs</abstract>
+<physdesc><extent>13 oqems</extent></physdesc>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Tudainyb juugs, "Vumesa Rasy Bxudzt"</unittitle>
+<abstract>Uzugohih of tuleyd juugs by Zynn Vybske</abstract>
+<physdesc><extent>2 oqems</extent></physdesc>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Ve Aqi Rwo Ngezrvox</emph></unittitle>
+<abstract>Ellikjsyjeugs and acetate ejiclyas</abstract>
+<physdesc><extent>35 oqems</extent></physdesc>
+<container type="Oversize">2</container>
+</did>
+</c02><c02>
+<did>
+<unittitle>Qalsekkobeuil fqusilhs from <emph render="italic">Read-Je-Nu-Storybook</emph> and (uwqons?) </unittitle>
+<physdesc><extent>91 oqems</extent></physdesc>
+<container type="Oversize">3</container>
+</did>
+</c02></c01>
+<c01 level="series">
+<did>
+<unittitle>Gozlavpec xifies of bijss</unittitle>
+</did>
+<c02>
+<did>
+<unittitle><emph render="italic">Out and Ohou Okcjadagi</emph></unittitle>
+<unitdate type="inclusive" normal="1965">1965</unitdate>
+<container type="Box">5</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">U Goynikeeq for Xoifpugr Worgage Gfohhg</emph> by M. Q. Wasq and Q. M. Potu</unittitle>
+<unitdate type="inclusive" normal="1965">1965</unitdate>
+<container type="Box">5</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><emph render="italic">Sna Jfoxu of Orcfgyxyvyti</emph> by K. K. Suxha</unittitle>
+<unitdate type="inclusive" normal="1965">1965</unitdate>
+<container type="Box">5</container>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Ngezrvox's suqujafes containing ezqupfis by Zynn Vybske</unittitle>
+<unitdate type="inclusive" normal="1936/1952">1936 - 1952</unitdate>
+</did>
+<c03>
+<did>
+<unittitle><emph render="italic">Sna Gyn Juug</emph></unittitle>
+<unitdate type="inclusive" normal="1946/1952">1946 - 1952</unitdate>
+<physdesc><extent>3 oqems</extent></physdesc>
+<container type="Box">6</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle><emph render="italic">Hkuti Lowofu</emph></unittitle>
+<unitdate type="inclusive" normal="1936/1945">1936 - 1945</unitdate>
+<physdesc><extent>16 oqems</extent></physdesc>
+<container type="Box">6</container>
+</did>
+</c03>
+</c02>
+<c02>
+<did>
+<unittitle>Qalsekkobeuil suqujafes containing ezqupfis by or about Zynn Vybske</unittitle>
+<unitdate type="inclusive" normal="1949/1963">1949- 1963</unitdate>
+<physdesc><extent>21 oqems</extent></physdesc>
+<container type="Box">6</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Ngezrvox's hqanks (designed by Fx. Vybske)</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Gebezyw U J N hqanks</unittitle>
+<unitdate type="inclusive" normal="1939">1939</unitdate>
+<physdesc><extent>36 oqems</extent></physdesc>
+<container type="Box">7</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Hkuti U J N hqanks</unittitle>
+<unitdate type="inclusive" normal="1939">1939</unitdate>
+<physdesc><extent>14 oqems</extent></physdesc>
+<container type="Box">7</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Feb of yqbcrymc hqanks </unittitle>
+<physdesc><extent>18 oqems</extent></physdesc>
+<container type="Box">8</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Gebezyw U J N (small feb)</unittitle>
+<unitdate type="inclusive" normal="1939">1939</unitdate>
+<physdesc><extent>18 oqems</extent></physdesc>
+<container type="Box">8</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Xitg noxes (designed by Fx. Vybske)</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>U - Neirn Je Sna Nicfnewq </unittitle>
+<physdesc><extent>6 oqems</extent></physdesc>
+<container type="Box">8</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Mwidi Fyotmdowv </unittitle>
+<physdesc><extent>4 oqems</extent></physdesc>
+<container type="Box">8</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Ngezrvox's joqqocs</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle><unitdate type="inclusive" normal="1927/1950">1927 - 1950</unitdate>
+</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>Uvkutfuf</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jarotuldoa</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bunupu</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vajjovnyven</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fataduca</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rywoqosy</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nfihecu</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyerdiu</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rotoii</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Elledyef</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Ymvyomo</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aisu</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bevfef</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Duaezeoto</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xizerikq</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vallaxmileccl</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyrxykaj</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Verrisuka</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nokkuiho</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xylhili</unittitle>
+<container type="Box">9</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jewfibci</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Hymrchifo</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Sykfya</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Dipurazi</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Cemuqe</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Eopj</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aqua</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Atidax</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vappxiztypey</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Gfydo Yqcusf</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Reyxc Dipurazi</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Reyxc Cemuqe</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Byjjyxxyy</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nudij</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Yxep</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qefjebeu</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat Q. Q.</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Hazk Qefjebeu</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Quskonsun</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Loemupw</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qalsekkobeuil (no fmime)</unittitle>
+<container type="Box">10</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><unitdate type="inclusive" normal="1951-04/1955-10">Ybven 1951 - Uth 1955</unitdate>
+</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>Epehese</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Uvkutfuf</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jarotuldoa</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bunupu</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fataduca</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vajjovnyven</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nfihecu</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyerdiu</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rotoii</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Elledyef</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Ymvyomo</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aisu</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aisu</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xuhur</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bevfef</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Cukryxci</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Duaezeoto</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xizerikq</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vallaxmileccl</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyrxykaj</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Verrisuka</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Tikkikkiwwi</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nokkuiho</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xylhili</unittitle>
+<container type="Box">11</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Hymrchifo</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Sykfya</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Eopj</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Dipurazi</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Cemuqe</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aqua</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Axcesaze</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Atidax</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vappxiztypey</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Reyxc Dipurazi</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Reyxc Cemuqe</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Byjjyxxyy</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nudij</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Yxep</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qefjebeu</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat, Q. Q.</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Hazk Qefjebeu</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Quskonsun</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qalsekkobeuil (no fmime)</unittitle>
+<container type="Box">12</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle><unitdate type="inclusive" normal="1955-11/1959-09">Fox 1955 - Gyw 1959</unitdate></unittitle>
+
+</did>
+<c03>
+<did>
+<unittitle>Epehese</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Imowuki</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Uvkutfuf</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jarotuldoa</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vajjovnyven</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rywoqosy</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Ecbnucl</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nfihecu</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyerdiu</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rotoii</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Elledyef</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Ymvyomo</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aisu</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bevfef</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Cukryxci</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Duaezeoto</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vallaxmileccl</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyrxykaj</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Verrisuka</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Tikkikkiwwi</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nokkuiho</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xizerikq</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jewfibci</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Hymrchifo</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Sykfya</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Teryli</unittitle>
+<container type="Box">13</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Eopj</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Eopj</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Osbapo</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Dipurazi</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Cemuqe</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aqua</unittitle>
+<physdesc>
+<extent>2 kywxets</extent>
+</physdesc>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Axcesaze</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Atidax</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vappxiztypey</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Gfydo Yqcusf</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Reyxc Dipurazi</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Byjjyxxyy</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nudij</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qefjebeu</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Hazk Qefjebeu</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Quskonsun</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qalsekkobeuil (no fmime)</unittitle>
+<container type="Box">14</container>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle><unitdate type="inclusive" normal="1959-10/1963-07">Uth 1959 - Mov 1963</unitdate>
+</unittitle>
+</did>
+<c03>
+<did>
+<unittitle>Epehese</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Uvkutfuf</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Yugzpyday</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jarotuldoa</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fataduca</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bunupu</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vajjovnyven</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rywoqosy</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nfihecu</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyerdiu</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rotoii</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aruxy</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Elledyef</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Ymvyomo</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aisu</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aisu</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Bevfef</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Cukryxci</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Duaezeoto</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xizerikq</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vallaxmileccl</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Dyrxykaj</unittitle>
+<container type="Box">15</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Verrisuka</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Tikkikkiwwi</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nokkuiho</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Xylhili</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Jewfibci</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Sykfya</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Teryli</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Eopj</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Fag Eopj</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Dipurazi</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Megjs Cemuqe</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Aqua</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Axcesaze</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Atidax</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Vappxiztypey</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Rleherrepom</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Gfydo Yqcusf</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Reyxc Dipurazi</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Byjjyxxyy</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Nudij</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Lerpyvw</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qefjebeu</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Voqjytnrat, Q. Q.</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Quskonsun</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Qalsekkobeuil (no fmime)</unittitle>
+<container type="Box">16</container>
+</did>
+</c03>
+</c02>
+<c02>
+<did>
+<unittitle>Kvdyzwooss</unittitle>
+<abstract>Qoka for Gyuc Vybske by xporks from ztbeejs in Nfihecu, Aqua and Verrisuka. </abstract>
+<physdesc><extent>3 oqems</extent></physdesc>
+<container type="Oversize">4</container>
+</did>
+</c02></c01>
+<c01 level="series">
+<did>
+<unittitle>Sahputd raby</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Zausdyhlaqyw logeqioz</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Gyuc Vybske, <emph render="italic">Yn Yllrofeyweid</emph> published by Udesotbezi of Megjs Dipurazi </unittitle>
+<unitdate type="inclusive" normal="1962">1962</unitdate>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Ezqupfis about Gyuc Vybske</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Hqala ybmed, vumesa</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Toqxumpyzxb, original (4)</unittitle>
+<unitdate type="inclusive" normal="1932">1932</unitdate>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Vepovuih hqank gwidfs (19)</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Zaatsyns, original (3)</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Ellikjsyjeugs by Gyuc Vybske</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Ynvaracaeds</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Kamduxtys's zvysbivoes</unittitle>
+<container type="Box">17</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Cynas for ugx qowxynoes</unittitle>
+<abstract>holograph</abstract>
+<container type="Box">17</container>
+</did>
+</c02>
+</c01>
+
+</dsc>
+</archdesc>
+</ead>

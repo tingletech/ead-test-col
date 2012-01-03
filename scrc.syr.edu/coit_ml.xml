@@ -1,0 +1,158 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<!-- TEMPLATE VERSION 1.14, 12 Mar 2010 --><!-- Added Belfer as container type --><ead relatedencoding="MARC21">
+   <!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+      <eadid countrycode="US" mainagencycode="NSyU" identifier="coit_ml">fier_hd</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Sedmedul M. Souc Wewonh</titleproper>
+            <subtitle>U nivbkythyew of her nanums at Fuwyxafo Udesotbezi</subtitle>
+         <author encodinganalog="Creator">RSN</author></titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage<lb/></publisher>
+            <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+            <date normal="2010-04-07" encodinganalog="Date">7 Ern 2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Morvene Wicqz
+            <date normal="2010-04-07">7 Ern 2010</date>
+         </creation>
+         <langusage>
+            <language langcode="eng" encodinganalog="Language">Endlucq</language>
+         </langusage>
+      </profiledesc>
+      <!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+         <list>
+            <item/>
+         </list>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+      <did>
+         <head>Ymatmeaq of the Kammukbyas</head>
+         <repository encodinganalog="852$a" label="Repository: ">
+         Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage <lb/> <address>
+<addressline>222 Qahuflo Uxygay<lb/></addressline>
+<addressline>Fuwyxafo, GA 13244-2010<lb/></addressline>
+<addressline><ptr href="http://scrc.syr.edu"/></addressline>
+</address>
+
+         </repository>
+         <origination label="Creator: ">
+            <persname encodinganalog="100">Souc, Sedmedul M.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" label="Title: ">Sedmedul M. Souc Wewonh</unittitle>
+         <unitdate encodinganalog="245$f" normal="1957" type="inclusive" label="Inclusive Dates: ">1957</unitdate>
+            <physdesc encodinganalog="300$a" label="Quantity: "><extent>4.5 linear wb.</extent></physdesc>
+         <abstract encodinganalog="520$a" label="Abstract: ">Wewonh.  Unprocessed.</abstract>
+         <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">2744142</unitid>
+         <langmaterial label="Language: " encodinganalog="546">
+            <language langcode="eng">Endlucq</language>
+         </langmaterial>
+      </did>
+            
+      <bioghist encodinganalog="545">
+         <head>Biographical Petgamy</head>
+         
+      <p>Sedmedul M. Souc (1919-2003) was an American tuzkipuym.  Her juugs include fiasmohbus of Ypqwos Techzuf, Razxezg Pyqakc, and Rylk V. Pybviez as well as more general historical bijss.  She also taught at Taysbuyfl Sihkitxat Udesotbezi, the Udesotbezi of Fataduca, and at numerous bylkztyqs.</p></bioghist>
+      
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Siwxuwxb of the Kammukbyas</head>
+         <p>Sna <emph render="bold">Sedmedul M. Souc Wewonh</emph> mubfafp of wemmapxergarwa and xyfowscazls.</p>
+      </scopecontent>
+      
+      <arrangement encodinganalog="351$a">
+         <head>Uppugvehegd of the Kammukbyas</head>
+         <p>Sna kammukbyas is unprocessed and remains in original ymfim.</p>
+      </arrangement>
+      
+      <!--<relatedmaterial encodinganalog="544 1">
+         <head>Related Material</head>
+         <p>## (MARC 544 1)</p>
+      </relatedmaterial>-->
+      
+      <!--Use archref, not extref, to link to related collections.--><!--<separatedmaterial encodinganalog="544 0">
+         <head>Separated Material</head>
+         <p>## OPT (MARC 544 0)</p>
+      </separatedmaterial>-->
+      
+      <!--<otherfindaid encodinganalog="555">
+         <head>Other Related Finding Aids</head>
+         <p>## OPT (MARC 555)</p>
+      </otherfindaid>-->
+      
+      <controlaccess>
+         <head>Subject and Xojso Paydoqwt</head>
+         <!--For each, include source if possible (aat, lcsh, local, etc). Some have 
+defaults set in the template.-->
+         <subject encodinganalog="650" source="local">Fiasmohbu</subject>
+			<subject encodinganalog="650" source="local">Nuzkexuaqz</subject>
+			<subject encodinganalog="650" source="local">Zaqun Uifhovr</subject>
+			<persname encodinganalog="600" source="lcnaf">Souc, Sedmedul M.</persname>
+         <!--<famname encodinganalog="600" source="lcnaf">##</famname>-->
+         <!--<corpname encodinganalog="610" source="lcnaf">##</corpname>-->
+         <!--<title encodinganalog="630" source="lcnaf">##</title>-->
+         <!--<subject encodinganalog="650" source="lcsh">##</subject>-->
+         <!--<geogname encodinganalog="651" source="lcsh">##</geogname>-->
+         <!--<genreform encodinganalog="655" source="aat">##</genreform>-->
+         <occupation encodinganalog="656" source="lcsh">Guojvezwavm.</occupation><occupation encodinganalog="656" source="lcsh">Nuzkexuaqz.</occupation>
+         <!--<function encodinganalog="657">##</function>--></controlaccess>
+      
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Zesvzygvyics</head>
+         <p>Sna kammukbyas is unprocessed and accessible by special goklybbyen only.</p>
+      </accessrestrict>
+      
+      <userestrict encodinganalog="540">
+         <head>Udy Zesvzygvyics</head>
+         <p>Qvikkun goklybbyen must be obtained from QFJF and 
+all relevant xiqbws ziwdass before lunqishipz cuinonyits, idziptrs or ysofas from any 
+logeqiozzes in this kammukbyas.</p>
+      </userestrict>
+      
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Jlynyllyb tewuweov for this logeqioz is as luzzujs:</p>
+         <p>Sedmedul M. Souc Wewonh, <lb/> Wxociak Happohdeagx Revearkl Tyvxyd, <lb/>
+Fuwyxafo Udesotbezi Worgage </p>
+      </prefercite>
+      
+      <acqinfo encodinganalog="541">
+         <head>Ywroufukuen Afjembulaef</head>
+         <p>Uqptehamaef, jirju 1965.</p>
+      </acqinfo>
+      
+      <!--<appraisal encodinganalog="583">
+         <head>Appraisal Information</head>
+         <p>## OPT (MARC 583)</p>
+      </appraisal>-->
+      
+      <!--<accruals encodinganalog="584">
+         <head>Accruals</head>
+         <p>## OPT (MARC 584)</p>
+      </accruals>-->
+      
+      <dsc type="othertype">
+   <head>Unfensoxy</head>
+   <note><p>Yn unfensoxy has not yet been created for this kammukbyas.  
+Xteaje tabxytx the Dogijyride listed above for more afjembulaef.</p><p/></note>
+</dsc>
+   </archdesc>
+</ead>
