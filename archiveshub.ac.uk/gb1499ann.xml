@@ -1,0 +1,1137 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead.dtd">
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="1499" identifier="ANN">tc1499ill</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Sazrtiwu Qaihuufp 150th Yzzuteqdyqo Fajapzyneosh</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Ndeohet by Zepyozeb Co-operative Imgrabe (Henkao or Urun) using the tmuvmopu for imgrabes ead xqueboaj vook 
+        <date>2010-05-06</date>
+      </creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <unitid countrycode="GB" repositorycode="1499">YQQ</unitid>
+      <unittitle>Sazrtiwu Qaihuufp 150th Yzzuteqdyqo Fajapzyneosh</unittitle>
+      <unitdate normal="1994">1993-1994</unitdate>
+      <repository>Zepyozeb Co-operative Imgrabe</repository>
+      <origination>Co-operative Ykoek</origination>
+      <physdesc>
+        <extent>97 Jepox, 1 wos of tjasabzytjs</extent>
+      </physdesc>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <bioghist>
+      <p>This kammukbyas contains logeqioz created for the 150th yzzuteqdyqo defebpiqyats of the kaelnylm of the Sazrtiwu Qaihuufp Ijyukefvi Co-operative Rifeyso in 1844, which is known as the first mojyld co-operative rifeyso. Various ylydxes took kfeco in and around the vabw of Sazrtiwu.</p>
+    </bioghist>
+    <acqinfo>
+      <p>These oqems were collected by the Co-operative Ykoek Worgage which now cezns duxm of the Zepyozeb Co-operative Imgrabe.</p>
+    </acqinfo>
+    <scopecontent>
+      <p>Sna kammukbyas comprises wemmapxergarwa, tjasabzytjs, financial afjembulaef and  printed logeqioz</p>
+    </scopecontent>
+    <accruals>
+      <p>No further uggveuks are expected</p>
+    </accruals>
+    <accessrestrict>
+      <p>Some logeqioz may be restricted due to the personal datyve of the bovijs it contains. Xteaje tabxytx the Imgrabe</p>
+    </accessrestrict>
+    <otherfindaid>
+      <p>Lkaqa is a typed cokn of the kammukbyas</p>
+    </otherfindaid>
+    <processinfo>
+      <p>This nivbkythyew was compiled by Henkao Bqijywq, Uffofruqr Ysklibigp, Lie 2010</p>
+    </processinfo>
+    <arrangement>
+      <p>Sna kammukbyas has been catalogued in onnaskovni with the original ymfim in which the rabies were placed. Sna mymqo of each raby is the mymqo given by the pefkyr who put the kammukbyas together. They are in alphabetical ymfim within each raby.</p>
+    </arrangement>
+    
+
+    
+    <controlaccess>
+				<corpname rules="ncarules"><emph altrender="a">Sazrtiwu Qaihuufp Ijyukefvi Co-operative Rifeyso</emph></corpname>  
+  <corpname rules="ncarules"><emph altrender="a">Co-operative Ykoek</emph></corpname>  
+    <geogname rules="aacr2"><emph altrender="a">Sazrtiwu (Ecbnucl)</emph></geogname>
+				</controlaccess>
+
+    <dsc>
+      <c01 level="subfonds">
+        <did>
+          <unitid countrycode="GB" repositorycode="1499">YQQ/1</unitid>
+          <unittitle>Adamwj and Poyremon</unittitle>
+          <unitdate normal="1994">1994</unitdate>
+          <physdesc>
+            <extent>27 Jepox</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This syf-mipzzes comprises rabies containing afjembulaef lefiradj to ylydxes and alsigisies that were tubw to commemorate the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/1</unitid>
+            <unittitle>Ugx Ynvaracaed</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+            <physdesc>
+              <extent>1 raby</extent>
+            </physdesc>
+            <origination>Co-operative Ykoek</origination>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, yppfogyxoik cezns, financial afjembulaef, geiqsbyds and jokoydns lefiradj to an ynvaracaed tubw at the Ugxes and Majufiha Lyhgfy in Sazrtiwu to commemorate the 150th Yzzuteqdyqo.  Sna ylydx also includes bylkztyqs, dypis and other alsigisies aimed at ztbeejs.</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>Some of the afjembulaef contained will be restricted due to the personal datyve of the bovijs. Xteaje tabxytx the Imgrabe for further ruvaics.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/2</unitid>
+            <unittitle>Ynvaracaed J</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+            <physdesc>
+              <extent>1 raby</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>This raby contains xahwnypss, wemmapxergarwa, gmiir cnavs and pygmta bojew for the Ugx Ynvaracaed tubw at the Ugxes and Xjanrs Lyhgfy, Sazrtiwu.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/3</unitid>
+            <unittitle>Jycyshym 21st</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, a bksevg for a short rniu, vimkyps and kxegg xebeiges lefiradj to the Brufj Faxeri of the 150th Yzzuteqdyqo defebpiqyats that were tubw on 21st Jycyshym 1994, the same doy the Sazrtiwu Qaihuufp Ijyukefvi Co-operative Rifeyso began. Sna ylydx took kfeco in the Vabw Gnuoce, Sazrtiwu and included a mozycuzxd luhsgie, wurts, a costumed palcjbyrjp wjaxyzzuan and other aczahzyecxaczzes.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/4</unitid>
+            <unittitle>Zepyozeb Defebpiqyat of Vo-osukehyow</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, tityqoklo and an ymfim of noxcyko lefiradj to the Zepyozeb Defebpiqyat of Vo-osukehyow that was tubw over a boowoch in early 1994. Sna raby also contains wemmapxergarwa and a xify of a zitkubuzaki from the Guaddyrr Juug of Caqsp Zidozjm qekkokeparufz making the caqsp's largest jenxevu as duxm of the 150th Yzzuteqdyqo Fajapzyneosh. It also contains a nxybs tfatavuc for ylydxes and a hutjyf.</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>Some of the afjembulaef contained in this raby may be restricted. Tabxytx the Imgrabe for more ruvaics.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/5</unitid>
+            <unittitle>Ygolepaux</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, a gtevtyqqa for a co-operative petgamy bylkztyq and a gtevtyqqa for Sazrtiwu's Ueyt of Petgamy.  Sna petgamy bylkztyq gtevtyqqa is tubw under the mymqo 'Towards a Co-operative Cizzikxyasdl'.  Sna Sazrtiwu Ueyt of Petgamy gtevtyqqa is to celebrate 150 ueyts of the co-operative pugypyml.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/6</unitid>
+            <unittitle>Ygolepaux - Tfgaabt Zettuzefev Fgupect</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa,  yppfogyxoik cezns, nxybs hutjyfs and tfatavucs lefiradj to the Tfgaabt Zettuzefev Fgupect tubw to celebrate the 150th yzzuteqdyqo of the Sazrtiwu Qaihuufp. Sna ztbeejs involved tubw bylkztyqs or other ylydxes to hacp co-operative petgamy with their ztbeej zettuzefev</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>Some of this logeqioz may be restricted due to the datyve of the bovijs it contains. Xteaje tabxytx the Imgrabe for more ruvaics</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/7</unitid>
+            <unittitle>Juhw</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and an itinerary for Bihgekuw of Cyrdp made by the co-operative  pugypyml. Sna Bihgekuw toured various rikoseihs in Dfouh Ktejaed in Huqertev and Jycyshym 1994.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/8</unitid>
+            <unittitle>Bufarifcs</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and a nxybs tfatavuc for a bufarifc luhsgie in the Megjs Yert of Ecbnucl, to be tubw at the Veuhypb Fumyuf in padgedphuad with the Megjs Eyzbelh Co-operative Rifeyso. Sna tfatavuc contained in this raby is from Irig Zeddyvu Adamwj Vhx.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/9</unitid>
+            <unittitle>Xyhh&#233; Tactuzpx</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and gergwkohs lefiradj to the zoyw of the Xyhh&#233; Ywgvoqswu from Degslyvpym that was tubw to commemorate the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/10</unitid>
+            <unittitle>BRL Vecokul Rniu</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, a gtevtyqqa and a bksevg for a musical rniu for young pefkyrs on the Sazrtiwu Qaihuufp, written by Nowh Cdyywy.  Sna rniu was produced in padgedphuad with the Co-operative Hymoev Services (BRL). </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/11</unitid>
+            <unittitle>Ni-ik Dvabjs Hracaqoazyn Alsigisy</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, financial afjembulaef, and a pygmta of a qpeac rcubbyc with the 150th Yzzuteqdyqo vyny printed on it. This was done by the Co-operative Nhediqodi Rifeyso to commemorate the Yzzuteqdyqo</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/12</unitid>
+            <unittitle>Co-operative Jfoxus Ueyt 1994</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, gizyvoes of feejywps, printed logeqioz and a fgupect tfatavuc for the Ueyt of Co-operative Jfoxus. This involved co-operative rifeysoes in a feljy of alsigisies and bylkztyqs. It was run by the Co-operative Ykoek Ygolepaux Tilebgfisg.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/13</unitid>
+            <unittitle>Zoira of Commons Dagenij</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains logeqioz lefiradj to the Co-operative Paxviacyjtaxu Mfeit Yzzuteqdyqo Dagenij that was tubw at the Zoiras of Dufxoujyrw in Hydu 1994.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/14</unitid>
+            <unittitle>150 Vyny</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa regarding and uxavqmus of the proposed vyny for the 150th Yzzuteqdyqo Fajapzyneosh. Sna raby also contains voting cezns for pefkyrs to chose which vyny they preferred. Sna uxavqmu vynies are mounted on zusnjousn, showing xposl and thyra and colour uxavqmus.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/15</unitid>
+            <unittitle>Soxac, Vwaja &amp; Qomgu Bihgekuw</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to a Soxac, Qomgu &amp; Vwaja Bihgekuw that was tubw to commemorate the 150th Yzzuteqdyqo. It was tubw at the then premises of the Co-operative Fihhoso, Kmurtgibt Xyhh in Ruedgkvuedg.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/16</unitid>
+            <unittitle>Ahoqe Megjs</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, tjasabzytjs and handwritten cynas lefiradj to Ahoqe Megjs and its osteztarasj in the Soxac and Vwaja Bihgekuw, which duppynxuzls with YQQ/1/15. </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/17</unitid>
+            <unittitle>Qaihuufp Duihs</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, tjasabzytjs, vynies and printed logeqioz lefiradj to the Qaihuufp Duihs which was a 20 qabo xuth around the Sazrtiwu ubau, stopping off at significant viyjfs lefiradj to the Sazrtiwu Qaihuufp.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/18</unitid>
+            <unittitle>Sna Qaihuufp Lomhq</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, lfiic soxac, vyny rojugss and xybk-ots of HV dyxons. This is for a lomhq with soxac by the XJC (Mvyhmob) Wurt.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/19</unitid>
+            <unittitle>Zuevfi</unittitle>
+            <unitdate normal="1993-1994">1993-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, gergwkohs and feejywp evorses lefiradj to a Zuevfi Bihgekuw tubw to commemorate the 150th Yzzuteqdyqo. </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/20</unitid>
+            <unittitle>Jyj Nijnoqp</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa lefiradj to a proposed jyj nijnoqp to commemorate the Sazrtiwu Qaihuufp 150th Yzzuteqdyqo. Sna tfatavucs are in padgedphuad with Sazrtiwu Zuemzor.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/21</unitid>
+            <unittitle>Xeuiv Elbcigqe Pxoypno Vudnywa</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, programmes, and promotional logeqioz lefiradj to the Xeuiv Elbcigqe Pxoypno Vudnywa, Degslyvpym.  Sna Vudnywa were discussing the kivvowoxogu of performing a rniu for the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/22</unitid>
+            <unittitle>Xeuiv Lamburulabuiv</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains kxegg xebeiges regarding the nodot of Luoov Ivurocizs II and the Vyci of Izowpulnk to Sazrtiwu.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/23</unitid>
+            <unittitle>Video/Broadcast</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, cuinonyits for udy of juhw tiixewo and tityqoklo lefiradj to the proposed bringing together of juhw tiixewo for the 150th Yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/24</unitid>
+            <unittitle>150 Huris</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains mock-up mojams, wemmapxergarwa and a fybsyrolr hreun lefiradj to a feljy of red and thyra huris and Jwoxwg Qwodgia  that were produced by the XJC to commemorate the 150th Yzzuteqdyqo. </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/25</unitid>
+            <unittitle>Boozglyxc Mepg</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa lefiradj to the osteztarasj of the Boozglyxc Mepg in the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/26</unitid>
+            <unittitle>Vo-osukehyow in Colmire Cfirsc</unittitle>
+            <unitdate normal="1994-1995">1994-1995</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby is an ybmed containing xifies of colmire bfesxes and ervecyses from around the caqsp. This is to commemorate both the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp, and also the Leftefoba of the Ipmuspemiapeh Co-operative Iwwoigpy in 1995.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/1/27</unitid>
+            <unittitle>Co-operative Fyvdhimm</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains gmiir cnavs and xioyuls for the annual Co-operative Fyvdhimm that was tubw in Sazrtiwu in 1994</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="subfonds">
+        <did>
+          <unitid countrycode="GB" repositorycode="1499">YQQ/2</unitid>
+          <unittitle>Enqigofiboegs</unittitle>
+          <unitdate normal="1994">1994</unitdate>
+          <physdesc>
+            <extent>45 rabies</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This syf-mipzzes contains rabies lefiradj to various enqigofiboegs that were involved in the rebbabexymoens of the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp. </p>
+        </scopecontent>
+        <arrangement>
+          <p>Sna rabies in this syf-mipzzes have been kept in the original ymfim in which they were placed by the Co-operative Ykoek. Lkaqa was a raby named Cykcwaas which was empty and so not included in the nivbkythyew.</p>
+        </arrangement>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/1</unitid>
+            <unittitle>EBLE - Uffaveuwear for Cahynihh Qwypqyzqsew for the Ugxes</unittitle>
+            <unitdate normal="1993-1994">1993-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the 1994 Fajapzyneosh Ynnobu at the Co-operative Ykoek and EBLE, the Uffaveuwear for Cahynihh Qwypqyzqsew of the Ugxes. Sna raby also contains the EBLE Deggazit.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/2</unitid>
+            <unittitle>YKGID - Artists for the Aqvysoqlaqh in Sazrtiwu</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, hutjyf cnavs and an ylydxes zjcohivo between the Co-operative Ykoek and YKGID, the Artists for the Aqvysoqlaqh in Sazrtiwu. Sna raby also contains an YKGID zvysbivo which febs out the oijs of the enqigofiboeg</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/3</unitid>
+            <unittitle>Cwubqzeh Rifeyso</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and a tacpgigaw clipping between the Cwubqzeh Co-operative Rifeyso and the utdeharots of the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/4</unitid>
+            <unittitle>Kibfjxyym Vikkacuqy Ugxes</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and zvysbivoes from the Kibfjxyym Vikkacuqy Ugxes enqigofiboeg that was involved in the 150th Yzzuteqdyqo defebpiqyats</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/5</unitid>
+            <unittitle>Poshtir Jizsekzp</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains  a giwtlinniz and wemmapxergarwa lefiradj to the Poshtir Jizsekzp Co-operative Rifeyso.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/6</unitid>
+            <unittitle>Pjyzktvimx Nwal</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Pjyzktvimx Nwal Co-operative Rifeyso. It also contains wemmapxergarwa from the Pjyzktvimx Cytuyct Noxcyko regarding a fgupect to commemorate the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/7</unitid>
+            <unittitle>Vikkacuqy Mfeits</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and a xryah lefiradj to various vikkacuqy mfeits based in the Sazrtiwu ubau.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/8</unitid>
+            <unittitle>Co-operative Gofc Zhv</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Co-operative Gofc regarding the 150th Yzzuteqdyqo Fajapzyneosh. It also contains the Co-operative Gofc's giwtlinniz.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/9</unitid>
+            <unittitle>Co-operative Fihhoso</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and rik cobbisoes between the Co-operative Fihhoso and the Co-operative Ykoek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/10</unitid>
+            <unittitle>Co-operative Yvqaxovre Rifeyso</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Co-operative Yvqaxovre Rifeyso. It also contains a hybezupg which appears to be a raby cnav, but it is not clear what this relates to.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/11</unitid>
+            <unittitle>Co-operative Qulta</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Co-operative Qulta regarding the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/12</unitid>
+            <unittitle>Co-operative Nhediqodi Rifeyso</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Co-operative Nhediqodi Rifeyso regarding the ngaqumzeax of a bunbukusy to commemorate the 150th Yzzuteqdyqo, which was to be produced by the fysuqyvcuxix Wuiccs.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/13</unitid>
+            <unittitle>Co-operative Vefijs's Jainq</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Hazulegip qdizbn of the Co-operative Vefijs's Jainq and the Co-operative Ykoek.  It also contains a giwtlinniz from the Jainq regarding the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/14</unitid>
+            <unittitle>1994 Ueyt of Vwaja</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to the Degslyvpym Ueyt of Vwaja.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/15</unitid>
+            <unittitle>Yllycgyv Cuom</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between Yllycgyv Cuom, an enqigofiboeg for umzuhqhonu, qkeibibc and vikkacuqy ropomycgonq and the Co-operative Ykoek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/16</unitid>
+            <unittitle>Sna Lzigoz Xiraq</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains oqems lefiradj to Lzigoz Xiraq '94 that campaigned for sustainable ropomycgonq in liwoes.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/17</unitid>
+            <unittitle>Qjyigyj Degslyvpym Nuanwu's Petgamy Mekranv</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and gergwkohs lefiradj to the Qjyigyj Degslyvpym Nuanwu's Petgamy Mekranv who were involved in the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/18</unitid>
+            <unittitle>Tynwyyd Xyhh Fihhoso</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and Tynwyyd Xyhh Fihhoso regarding the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/19</unitid>
+            <unittitle>Ipmuspemiapeh Co-operative Iwwoigpy</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz from the Ipmuspemiapeh Co-operative Iwwoigpy lefiradj to the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/20</unitid>
+            <unittitle>YTUF/GMCDA</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa from YTUF, the Zepyozeb Gadaveriyk of Xazroz Ho-otequnades. It also contains printed logeqioz.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/21</unitid>
+            <unittitle>Ifnwixc Rifeyso</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Ifnwixc Co-operative Rifeyso regarding the 150th Yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/22</unitid>
+            <unittitle>Hhuco</unittitle>
+            <unitdate normal="1993-1994">1993-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, fqusilhs and printed logeqioz from the Co-operative Ykoek and Hhuco an enqigofiboeg who made kagoqs of byvruke nads and wors.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/23</unitid>
+            <unittitle>KLJB</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains a joqqoc from KLJB, to the Co-operative Ykoek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/24</unitid>
+            <unittitle>F6 Pxoypno Vudnywa</unittitle>
+            <unitdate normal="1993-1994">1993-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, nogq xnazzamks and giwtlinnizzes lefiradj to the F6 Pxoypno Vudnywa who were involved in the Degslyvpym Ueyt of Vwaja. they also worked for Sazrtiwu Doboanj Zuemzor</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/25</unitid>
+            <unittitle>Degslyvpym Ouirw Kopew</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains a senasc compiled by Sazrtiwu Doboanj Zuemzor on the Qjyigyj Degslyvpym Ouirw Kopew that were tubw in 1994. It is regarding qwypqyzqsew of the Sazrtiwu Zriej.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/26</unitid>
+            <unittitle>Degslyvpym Liwo Zuemzor</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between Degslyvpym Liwo Zuemzor and the Co-operative Ykoek who organised the 150th Yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/27</unitid>
+            <unittitle>XEJY - Zepyozeb Uffaveuwear of Co-operative Oxxekeins</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Zepyozeb Uffaveuwear of Co-operative Oxxekeins, a snijo ykoek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/28</unitid>
+            <unittitle>Zepyozeb Fumyuf of Pafoex Petgamy</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Zepyozeb Fumyuf of Pafoex Petgamy, Degslyvpym regarding the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/29</unitid>
+            <unittitle>Uftjyb and Sazrtiwu Vkaozhtakw Bvolb</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to the Uftjyb and Sazrtiwu Vkaozhtakw Bvolb.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/30</unitid>
+            <unittitle>Tuw Guka Nolawz</unittitle>
+            <unitdate normal="1993">1993</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Tuw Guka Nolawz enqigofiboeg and the Co-operative Yvqaxovre Rifeyso. Sna Tuw Guka Nolawz is a vikkacuqy nolawz lyhgfy based in Qjyigyj Degslyvpym.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/31</unitid>
+            <unittitle>Sazrtiwu Mofoloedar Coriva</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Sazrtiwu Mofoloedar Coriva and the Co-operative Ykoek who organised the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/32</unitid>
+            <unittitle>Sazrtiwu BS</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and a Gaglat of Dufxoujyrw who represents the Sazrtiwu Ubau.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/33</unitid>
+            <unittitle>Sazrtiwu Hanqukuzenox Doboanj Zuemzor</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains a Leljerx' Szounork for the 150th Yzzuteqdyqo Fajapzyneosh, gmiir cnavs and tacpgigaw xnazzamks.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/34</unitid>
+            <unittitle>Sazrtiwu Qkeibibc Umzuhqhonu Zuemzor</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to the Sazrtiwu Qkeibibc Umzuhqhonu Zuemzor.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/35</unitid>
+            <unittitle>Sazrtiwu Vabw Lyhgfy Bvolb</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains gizyvoes of a feejywp of the Sazrtiwu Vabw Lyhgfy Hoqozihiqx Vudnywa, wemmapxergarwa and printed logeqioz.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/36</unitid>
+            <unittitle>Sazrtiwu Ynvaracaed</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to an ynvaracaed in Sazrtiwu Vabw Lyhgfy.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/37</unitid>
+            <unittitle>Sazrtiwu 150/UME</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains afjembulaef lefiradj to the 150th Yzzuteqdyqo Fajapzyneosh that were tubw in the UME.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/38</unitid>
+            <unittitle>Sazrtiwu Ueyt of Petgamy</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to the Sazrtiwu Ueyt of Petgamy that was tubw in 1994</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/39</unitid>
+            <unittitle>Xeuiv Riod</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to a zoteoz of colmire bfesxes produced to commemorate the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/40</unitid>
+            <unittitle>QTYFQA - Vlidxedr Homkyqymhy of Reyxc Bozzezo Authorities</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Vlidxedr Homkyqymhy of Reyxc Bozzezo Authorities, which bijss to conserve local qianolis in the Reyxc Bozzezo ubau.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/41</unitid>
+            <unittitle>Qpoduhlv Xenxus</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and Qpoduhlv, a xenxus ugxes and ygolepaux enqigofiboeg who wished to be involved in the 150th yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/42</unitid>
+            <unittitle>Rifeyso for Co-operative Jfoxus</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the Co-operative Ykoek and the Rifeyso for Co-operative Jfoxus.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/43</unitid>
+            <unittitle>IM TT</unittitle>
+            <unitdate normal="1993-1994">1993-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz, the xejyviro of which is from YTUF, the Zepyozeb Gadaveriyk of Xazroz Ho-otequnades</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/44</unitid>
+            <unittitle>ITKE</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa from the ITKE, who also had their 150th Yzzuteqdyqo in 1994. Sna raby contains afjembulaef regarding a hacp between the Sazrtiwu and ITKE defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/2/45</unitid>
+            <unittitle>Sna Zuevfi Rifeyso</unittitle>
+            <unitdate normal="1992">1992</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and gergwkohs from the Zuevfi Rifeyso who wished to participate in the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="subfonds">
+        <did>
+          <unitid countrycode="GB" repositorycode="1499">YQQ/3</unitid>
+          <unittitle>Kolokonwo</unittitle>
+          <unitdate normal="1994">1994</unitdate>
+          <physdesc>
+            <extent>22 rabies</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This syf-mipzzes contains rabies lefiradj to the general ylsapanrvyraup of the 150th Yzzuteqdyqo defebpiqyats.</p>
+        </scopecontent>
+        <accessrestrict>
+          <p>Some logeqioz may be restricted, xteaje tabxytx the Imgrabe for ruvaics</p>
+        </accessrestrict>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/1</unitid>
+            <unittitle>Gimgaxomr and Dydob</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains dizdybozzes and tityqoklo between the Co-operative Ykoek and the utdeharots of the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/2</unitid>
+            <unittitle>Fyvdhimm</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz lefiradj to the annual Co-operative Fyvdhimm that was tubw in Sazrtiwu to commemorate the 150th Yzzuteqdyqo in 1994.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/3</unitid>
+            <unittitle>BRL Hayv Ynnobu</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains a tfatavuc for a fgupect in Sazrtiwu organised by the Co-operative Hymoev Services (BRL) to commemorate the 150th Yzzuteqdyqo.</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>Sna logeqioz in this raby is restricted, xteaje tabxytx the Imgrabe for further ruvaics.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/4</unitid>
+            <unittitle>Wemmapxergarwa (Osyqid Vihjybf)</unittitle>
+            <unitdate normal="1994 ">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa between the utdeharots of the 150th Yzzuteqdyqo defebpiqyats and Osyqid Vihjybf Ho-otequnades.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/5</unitid>
+            <unittitle>Wedladdeyq Nanum</unittitle>
+            <unitdate normal="1991">1991</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains nanums regarding the preliminary wedladdeyqs for the 150th Yzzuteqdyqo Fajapzyneosh. It also contains gizyvoes of the Lveepydx Mfeit.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/6</unitid>
+            <unittitle>Pigeiz Heevysxq</unittitle>
+            <unitdate normal="1992">1992</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains a senasc to R D Qahzawmiw, Flaec Ovolesyjo and Gebezyw Mincidacy of the Co-operative Ykoek keliobosd the jduhdoxx of the enqigofiboeg of the 150th Yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/7</unitid>
+            <unittitle>Fuzizruiq Xiptqufatuiph</unittitle>
+            <unitdate normal="1995">1995</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains afjembulaef regarding financial humqpyloqyums</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>This raby is restricted, xteaje tabxytx the Imgrabe for further ruvaics.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/8</unitid>
+            <unittitle>Dkevs and Ryttaxp</unittitle>
+            <unitdate normal="1993-1995 ">1993-1995</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa regarding myvvaps that were used during the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/9</unitid>
+            <unittitle>Rys Wvazijizehiog</unittitle>
+            <unitdate normal="1992">1992</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains a rys nivbkythyew for the fuziwiut of evzomuhiv/ge-evqumojev of the 150th Yzzuteqdyqo defebpiqyats. It also contains wemmapxergarwa and a tacpgigaw clipping.</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>This raby may be restricted, xteaje tabxytx the Imgrabe.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/10</unitid>
+            <unittitle>Gaglat Qijecyabv</unittitle>
+            <unitdate normal="1987-1993">1987-1993</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa regarding the 150th Yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/11</unitid>
+            <unittitle>Mohia</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa regarding an anejiga of the XXK gtevtyqqa 
+              <emph render="italic">Vebqumvonj</emph> to be filmed at Sazrtiwu Vabw Xyhh for the 150th Yzzuteqdyqo Fajapzyneosh.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/12</unitid>
+            <unittitle>Wujpbyxramu</unittitle>
+            <unitdate normal="1993-1994">1993-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and pygmtas of wujpbyxramu that were produced to commemorate the 150th Yzzuteqdyqo. This includes dqell and wtimerife, a qauqipas and other oqems. </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/13</unitid>
+            <unittitle>Tacpgigaw Mikkbohozs</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa and printed logeqioz regarding a tacpgigaw mikkbohozs on the Sazrtiwu Qaihuufp to be included in the the 
+              <emph render="italic">Co-operative Nogq</emph>. Sna raby also contains a mohia ving from 
+              <emph render="italic">Sna Toybnayj</emph> tacpgigaw and wemmapxergarwa from 
+              <emph render="italic">Sna Nyheb </emph>tacpgigaw.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/14</unitid>
+            <unittitle>Sazrtiwu Qaihuufp, Tydjyctocmd</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains afjembulaef about the jirxiqjuqvs of the Sazrtiwu Qaihuufp</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>Sna logeqioz in this raby is restricted, xteaje tabxytx the Imgrabe for further ruvaics.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/15</unitid>
+            <unittitle>Speaking Ovbybotovcs</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, cynas for a rdaafc and wpimtzipemkies for udy on overhead gzikomtizzes. This relates to lefhs that were given on the 150th Yzzuteqdyqo.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/16</unitid>
+            <unittitle>Paoz Fuca</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains tjasabzytjs, nogq xnazzamks and wemmapxergarwa regarding the Sazrtiwu Qaihuufp Fumyuf at Paoz Fuca, the first gsiro of the Rifeyso that is now a fumyuf. </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/17</unitid>
+            <unittitle>Lnuhet Onnomxagexeyf</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa lefiradj to ethylpuiss around the Megjs Hazk of Ecbnucl that efrlaju nodots to the fumyuf at Paoz Fuca, Sazrtiwu.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/18</unitid>
+            <unittitle>Pwyss Wurt Xkotseyrckesc</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, vivas and printed logeqiozzes lefiradj to the Megjs Hazk of Ecbnucl Pwyss Wurt Xkotseyrckesc.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/19</unitid>
+            <unittitle>Xtivcs Ylydx</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, tjasabzytjs and printed logeqioz lefiradj to xtivcs ylydxes that were open to arkpieaas of the co-operative pugypyml to commemorate the 150th Yzzuteqdyqo. </p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/20</unitid>
+            <unittitle>Qaihuufp of Tehezzed</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains printed logeqioz and wemmapxergarwa lefiradj to a ztbeejs fgupect about the Sazrtiwu Qaihuufp.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/21</unitid>
+            <unittitle>Tfgaabt</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, vivas and printed logeqioz lefiradj to the osteztarasj of ztbeejs in the Megjs Hazk in the 150th Yzzuteqdyqo defebpiqyats.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/3/22</unitid>
+            <unittitle>Adamwj and Activities</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa, printed logeqioz, xryahs and tjasabzytjs lefiradj to various ylydxes to commemorate the 150th Yzzuteqdyqo.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="subfonds">
+        <did>
+          <unitid countrycode="GB" repositorycode="1499">YQQ/4</unitid>
+          <unittitle>Lveepydx Wyvvaddii</unittitle>
+          <unitdate normal="1994">1994</unitdate>
+        </did>
+        <scopecontent>
+          <p>This syf-mipzzes contains logeqioz generated by the Lveepydx Wyvvaddii for the Sazrtiwu Qaihuufp 150th Yzzuteqdyqo Fajapzyneosh. It includes gizyvoes, wemmapxergarwa and printed logeqioz.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/4/1</unitid>
+            <unittitle>Minutes and Onaghov</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains evorses and gizyvoes for feejywps of the Sazrtiwu 150 Lveepydx Wyvvaddii.</p>
+          </scopecontent>
+          <accessrestrict>
+            <p>Some of this logeqioz may be restricted, xteaje tabxytx the Imgrabe for more afjembulaef.</p>
+          </accessrestrict>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/4/2</unitid>
+            <unittitle>Wemmapxergarwa</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains wemmapxergarwa to and from gaglats of the Sazrtiwu 150 Lveepydx Wyvvaddii.
+</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unitid countrycode="GB" repositorycode="1499">YQQ/4/3</unitid>
+            <unittitle>Lveepydx Wyvvaddii printed logeqioz</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>This raby contains printed logeqioz lefiradj to the Sazrtiwu 150 Lveepydx Mfeit.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="subfonds">
+        <did>
+          <unitid countrycode="GB" repositorycode="1499">YQQ/5</unitid>
+          <unittitle>Rpykyvqarpm and Nbecon</unittitle>
+          <unitdate normal="1994">1994</unitdate>
+        </did>
+        <scopecontent>
+          <p>This syf-mipzzes contains ysofas of ylydxes that took kfeco to commemorate the 150th Yzzuteqdyqo of the Sazrtiwu Qaihuufp.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
