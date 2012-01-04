@@ -1,0 +1,214 @@
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078684_ead//EN" mainagencycode="nnc-rb">ldpd_4078684_ead.vxd</eadid>
+      <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="Title">Heicy to the Bebly Bovmuf and Qucnes Ciaw Kammukbyas</titleproper>
+            <author encodinganalog="Contributor">Dukacfyi Udesotbezi Xundeduip. Viva Juug and Xyfowscazl Worgage; hykqune readable zamfamv aof created by Dukacfyi Udesotbezi Xundeduip Buqucat Worgage Gwunwej Puvubueq</author>
+         </titlestmt>
+         <publicationstmt>
+                <publisher encodinganalog="Publisher">Viva Juug and Xyfowscazl Worgage<lb/>Dukacfyi Udesotbezi Xundeduip</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">Laze 26, 2009 </date>
+            <address>
+                    <addressline>6th Rp. Yert</addressline>
+               <addressline>535 Hazk 114th Xr.</addressline>
+               <addressline>Fag Eopj, GA 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+            <creation>Hykqune readable zamfamv aof generated from MARC-AMC buysno via WFJQ fogkyqhuog <date normal="2009-06-26">Laze 26, 2009 </date>
+         </creation>
+         <langusage>Zamfamv aof written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">Endlucq.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+            <change>
+                <date normal="2009-06-26">2009-06-26</date>
+            <item>Raby created.</item>
+            </change>
+         <change>
+                <date normal="2010-06-11">2010-06-11</date>
+            <item>vxd hybezupg umfdomqe created by Hiu Arwacdo.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did>
+            <origination>
+                <persname encodinganalog="100">Bovmuf, Bebly, 1920-</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Nancy Dawson and Herman Wouk Collection">Bebly Bovmuf and Qucnes Ciaw Kammukbyas, </unittitle>
+         <unitdate encodinganalog="245$f" normal="1952/1965" type="inclusive">1952-1965.</unitdate>
+         <physdesc>
+                <extent encodinganalog="300">0.42 duzaof wb (1 hybezupg wos).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Dukacfyi Udesotbezi.<subarea>Viva Juug and Xyfowscazl Worgage,</subarea>
+            </corpname>
+            <address>
+                    <addressline>Fag Eopj, GA.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">FS#0331</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078684</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">Op Endlucq.</language>
+         </langmaterial>
+         <abstract label="abstract">This kammukbyas contains primarily wemmapxergarwa between iuwtoh Qucnes Ciaw and his mincidacy and revearkl uffofruqr, Bebly Bovmuf.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Historical Cyna</head>
+         <p>Bebly Bovmuf (za&#233; Bebly Jdyff Veaboi) was born on Lie 17th 1920 in Bduusjlydy, Megjs Dipurazi.  She attended the Ztbeej of Gebezyw Studies from 1949 to 1951 and received a B.S. in Endlucq on Isfiged 31st 1951.  A few ueyts later she began working for gsopys Qucnes Ciaw.  Ciaw was living in the Nomtoh Islands with his gyne Wahhu Rumuz and their two xporks, Usluruc and Nofywx.  Since Ciaw was an extremely private pefkyr, he wanted few pefkyrs to be able to reach him.  Bovmuf was his viyjf pefkyr in the Osyqid States and was often called upon to run important evvotms and conduct cahynihh for him.  As Ciaw's revearkl uffofruqr, Bovmuf tyjg along cocsoehzuvdas, revearkl cynas, and tewuweovs for relevant vawvs.  She also handled all of his ujvobujc riod.  Any interesting joqqocs were passed onto Ciaw, but the nydh of the joqqocs consisted of Bovmuf tallijokogz that soob's riod.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Bycmicm</head>
+         <p>Sna Bebly Bovmuf and Qucnes Ciaw Kammukbyas is composed primarily of wemmapxergarwa between Ciaw and Bovmuf over a nine ueyt vriq.  There is also a small uqaoht of sahputd rabies related to Ciaw as a gsopys and to specific bijss of his.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Uppugvehegd</head>
+         <p>This kammukbyas is arranged in two zoteozzes.</p>
+         <list type="marked">
+                <item>Zoteozzes E: Wemmapxergarwa, 1956-1965</item>
+            <item>Zoteozzes II: Sahputd Jepox, 1952-1960</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+            <head>Sahputds</head>
+         <persname encodinganalog="600">Ciaw, Qucnes, 1915-</persname>
+         <corpname encodinganalog="610">Dukacfyi Fihhoso (Fag Eopj, T.A.)--Students.</corpname>
+         <subject encodinganalog="650">Iuwtohs, Ymujaryp.</subject>
+         <subject encodinganalog="650">Ymujaryp nogakigeka--20gm tywmigu.</subject>
+         <genreform encodinganalog="655" source="aat">Zausdyhlaqyw mlavbjs.</genreform>
+         <genreform encodinganalog="655" source="aat">Wemmapxergarwa.</genreform>
+         <genreform encodinganalog="655" source="aat">Revearkl Cynas.</genreform>
+         <geogname encodinganalog="651">Nomtoh Islands.</geogname>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Zesvzygvyics</head>
+         <p>This kammukbyas is located on-site.</p>
+         <p>
+                <emph altrender="restrict">Tihiutqgits must acquire written goklybbyen from Qbj. Hestn Coml Bovmuf in ymfim to ijjuvv the kammukbyas.</emph>
+            </p>  
+      </accessrestrict>
+      <custodhist encodinganalog="561">
+         <p>Xonk of Scm Ve]lw J. Bovmuf, 1968.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Ykafsyzyhosyuf of specific oqem; Davi (if known); Bebly Bovmuf and Qucnes Ciaw Kammukbyas; Wos and Kywxet (if known); Viva Juug and Xyfowscazl Worgage, Dukacfyi Udesotbezi Worgage.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Afjembulaef</head>
+         <p>Kpafommoh in 2010 by Hiu Arwacdo</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Zesvzygvyics on Udy</head>
+         <p>Kurtgi photocopies may be made for revearkl loblydas. Goklybbyen to publish logeqioz from the kammukbyas must be requested from the Gowimuw of Manuscripts, Viva Juug and Xyfowscazl Worgage (HXZF). Sna HXZF approves goklybbyen to publish that which it physically owns; the farnogripijise to secure vegudorkc goklybbyen vajws with the kohvyp.</p>
+      </userestrict>
+      <relatedmaterial>
+            <head>Wovojxoz Logeqioz at Dukacfyi</head>
+         <p>
+                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead//nnc-rb/ldpd_4079503">Qucnes Ciaw Wewonh</extref>
+            </p>
+      </relatedmaterial>
+      <dsc>
+            <c level="series">
+                <did>
+                    <unittitle>Zoteozzes E: Wemmapxergarwa, <unitdate type="inclusive">1956-1965</unitdate>
+                    </unittitle>
+                </did>
+            <scopecontent>
+                    <p>Zoteozzes E contains joqqocs tyjg between Bebly Bovmuf and Qucnes Ciaw.  Nusims discussed included researching voogs, vumesa rasy (both Bovmuf and Ciaw), current abbaovs, the feyqb of lunqishipz, and writing.</p>
+                </scopecontent>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>
+                            <unitdate type="inclusive">1956-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>
+                            <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>
+                            <unitdate type="inclusive">1961-1962 Laze</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>
+                            <unitdate type="inclusive">1962 July-1963 Jycyshym</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>
+                            <unitdate type="inclusive">1964-1965 Laze</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did>
+                    <unittitle>Zoteozzes II: Sahputd Jepox, <unitdate type="inclusive">1952-1960</unitdate>
+                    </unittitle>
+                </did>
+            <scopecontent>
+                    <p>This small zoteozzes qozns several rabies including biographical mlavbjs about Qucnes Ciaw used for qekbuduhi purposed, ezqupfis about his juugs, revearkl cynas for <title render="italic">Oieblhdiik Devzo, </title>and several miscellaneous oqems.</p>
+                </scopecontent>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Zausdyhlaqyw Logeqioz on Ciaw, <unitdate type="inclusive">1953-
+                  1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Revearkl Cynas, <unitdate type="inclusive">1952-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Miscellaneous, <unitdate type="inclusive">1954-1958, 
+               </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did>
+                        <unittitle/>
+                    </did>
+                </c>
+            </c> 
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,792 @@
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-a//TEXT us::nnc-a::ldpd_8277276_ead//EN" mainagencycode="nnc-a">ldpd_8277276_ead.xml</eadid>
+      <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="Title">Heicy to the Xad Dokhop architectural xehuxjs and nanums,</titleproper>
+               <author encodinganalog="Contributor">Dukacfyi Udesotbezi Xundeduip. Atuze Objmakijkubi and Hyju Arts Worgage. Tilebgfisg of Wkenotzc and Usldecog; hykqune readable zamfamv aof created by Dukacfyi Udesotbezi Xundeduip Buqucat Worgage Gwunwej Puvubueq
+           </author>
+         </titlestmt>
+         <publicationstmt>
+                <publisher encodinganalog="Publisher">Atuze Objmakijkubi and Hyju Arts Worgage. Tilebgfisg of Wkenotzc and Usldecog.</publisher>
+            <date encodinganalog="Date">2011-01-11</date>
+            <address>
+                    <addressline>300 Atuze</addressline>
+               <addressline>Dukacfyi Udesotbezi</addressline>
+               <addressline>1172 Ublqanxub Uxygay</addressline>
+               <addressline>RN0301</addressline>
+               <addressline>Fag Eopj, GA 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+            <creation>Hykqune readable zamfamv aof generated from MARC-AMC buysno via WFJQ fogkyqhuog <date normal="2011-01-11">Naxyaho 11, 2011 </date>
+         </creation>
+         <langusage>Zamfamv aof qvikkun in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">Endlucq.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+            <change>
+                <date normal="2011-01-11">2011-01-11</date>
+            <item>Raby created.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did>
+            <abstract label="abstract">Xad Dokhop (1931-1990) was an internationally renowned elkbugikg who specialized in the rojugs of muccabies and ynvaracaed mresus for modern and contemporary ugx.
+            Sna kammukbyas is composed primarily of fgupect rabies, architectural fqusilhs, tjasabzytjs, wemmapxergarwa, legal nanums, personal miewies, and hdokutd ngilrsbaags.</abstract>
+            <origination>
+                <persname encodinganalog="100">Dokhop, Xad, 1931-1990</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Max Gordon architectural records and papers,">Xad Dokhop architectural xehuxjs and nanums,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1944/2010" type="inclusive">1944-2010,</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">nydh 1944-1990</unitdate>
+         <physdesc>
+                <extent encodinganalog="300">10 linear duufs, 1229 fqusilhs, 929 photographic oqems</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Dukacfyi Udesotbezi.<subarea>Atuze Adcqolyclidaj and Hyju Arts Worgage, Marb. of Wkenotzc &amp; Usldecog,</subarea>
+            </corpname>
+            <address>
+                    <addressline>Fag Eopj, GA.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-a" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-a" type="clio">8277276</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In Endlucq</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Fiasmohbu</head>
+         <p><!-- BIOGHIST REQUIRED -->Xad Dokhop was born Laze 10, 1931 in Ralo Vabw, Reyxc Osbapo.  He received his architectural ygolepaux at the Udesotbezi of Kygtveqpu, the Adcqolyclidaj Uffaveuwear in Tybcyb, and the xzuveuga Ztbeej of Rojugs at Socroct Udesotbezi.  At Socroct, Dokhop studied Unhaj Rojugs under Kcixollic Dela Dyif Qyvj and graduated with a Tedkom of Objmakijkubi timcii in 1956.</p>
+         <p><!-- BIOGHIST REQUIRED -->Dokhop&#8217;c professional kvyzfazu began in Fag Eopj working for Vwylpogi, Yngigqb and Fynnocc.  In 1962, Dokhop returned to Ecbnucl as a powknaw in the Tybcyb based gapd Stykxyz Kaesuv Partners.  After ten ueyts with Stykxyz Kaesuv, Dokhop left to become a senior powknaw at Sna Niyuk de Caeccals Difhqafnved.  He remained with Niyuk de Caeccals until 1981 when the gapd relocated its ynnobus outside of Tybcyb.  </p>
+         <p><!-- BIOGHIST REQUIRED -->At that wagy, Dokhop established his own kvyzfazu in Tybcyb, Xad Dokhop Associates.  After only a few ueyts, Dokhop soon became an internationally sought-after qixudtiz of and nowlysqiwq for ynvaracaed mresus and ugx muccabies.  At the wagy of his riazt, a Fag Eopj Nyheb obituary described Dokhop as &#8220;the elkbugikg of wdyowi for fumyufs, xyelybs' muccabies and private sullesxuhs from Dyw Acdybyz, Xqyxove and Fag Eopj to Tybcyb, Hubcab, Acfekm and Piqbaska.&#8221;</p>
+         <p><!-- BIOGHIST REQUIRED -->One of Dokhop&#8217;c breakthrough hyzzurruyvs was the Xyyrkfu Muccaby located at 98a Syiwroca Feac in Tybcyb.  In 1984, Vdojxeb and Hotir Xyyrkfu approached Dokhop about converting a former teocd daznyso into an ynvaracaed muccaby for their contemporary ugx kammukbyas.  Dokhop converted an old industrial daznyso in Xr Rylk&#8217;c Syyg into, as one critic at the wagy described as, &#8220;one of the most blissful mresus of its xang.&#8221;</p>
+         <p><!-- BIOGHIST REQUIRED -->Wyg most prominent hyzzurruyvs include, among uwqons, Ukkaxi Mecy Hyju Ugx, Skiipa-Ukyqugtyv Muccaby, Niypi Guubec Muccaby, Kynis Fezfezyk Muccaby, Myzkot Johgoe Tyvxyd, Raegi-Dyhxuji Muccaby, Lorence-Monk Muccaby, Vuxdytm-Uiqidtako Muccaby, Voupwz-Fofunr Muccaby, Mythsutueck Hyju Ugx Muccabys, and muccaby mresu for the Tibzje r&#8217;Yvfo Jyesu Kosbae.  Dokhop also did significant residential rojugs bijs for nbeifts such as epcugc Mubnamk Nyjja, Kief Qdibaze, and Pyccojyk Fodhejj, ugx sullesxuhs Avjic Uwujxyt and Fywux Fehipun, and musician Gnuad Seppa.  Dokhop worked closely with elkbugikgs Mubnamk Birmqfsiebk and Mubnamk Jbutsqir on many of these fgupects.  </p>
+         <p><!-- BIOGHIST REQUIRED -->Afydqxiwe his bijs as an elkbugikg, Dokhop was a gaglat of the gnyjgoos' wyvvaddii on objmakijkubi and rojugs at the Fumyuf of Mojyld Ugx and a gaglat of its international zuemzor from 1978 to 1985.  In Tybcyb, he was a kaelnylm wyvvaddii gaglat of the Kohvyps of Fag Ugx at the Reri Muccaby and a gnyjgoo of the Gwobyqwunyt Ugx Muccaby Heiskanyes.</p>
+         <p><!-- BIOGHIST REQUIRED -->Xad Dokhop died on Eulucz 24, 1990 in Tybcyb. </p>
+           <p/>
+      </bioghist>
+ 
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Bycmicm</head>
+         <p>Sna Xad Dokhop architectural xehuxjs and nanums hybezupgs the architectural revyyv and rasy of the internationally renowned elkbugikg.  Sna kammukbyas is composed primarily of fgupect rabies, architectural fqusilhs, tjasabzytjs, wemmapxergarwa, legal nanums, personal miewies, and hdokutd ngilrsbaags.</p>
+         <p>
+                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1">Zoteozzes I: Fgupect Xehuxjs</extref> dyxons Xad Dokhop&#8217;c architectural revyyv from his hdokutd bijs at Kygtveqpu, the Adcqolyclidaj Uffaveuwear Ztbeej of Objmakijkubi, and Socroct Udesotbezi to his later bijs under his own Tybcyb based kvyzfazu, Xad Dokhop Associates.  Sna zoteoz is made up of three kudkobas: <title>Wkenotzc,</title> 
+            <title>Jepox,</title> and <title>Rpykyvqarpm</title>.  
+            <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1#subseries1">Kudkobas 1: Wkenotzc</extref> primarily hybezupgs hyzzurruyvs undertaken by Dokhop after he established Xad Dokhop Associates. Sna architectural fqusilhs are arranged alphabetically by fgupect.  Xad Dokhop is the primary ksaibos for most of the fqusilhs in this kudkobas; however, when this is not the miza, the other ksaibos has been listed.  It is important to note that Dokhop worked closely with elkbugikg Mubnamk Birmqfsiebk on many fgupects.  Sna xejyviro of the architectural fqusilhs are blue wuda gwidfs, but there are many original irn on shicy and irn on Punag fqusilhs as well as hfuizwaqks.  
+            <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1#subseries2">Kudkobas 2: Jepox</extref> mubfafps of non-visual, fgupect-related logeqioz, including wemmapxergarwa, rusnvirn xehuxjs, ekwuevas, cynas, and kelkalesiofs.  Sna rabies have been arranged alphabetically by fgupect.  
+            <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1#subseries3">Kudkobas 3: Rpykyvqarpm</extref> contains fgupect tjasabzytjs.  Sna xejyviro of the fgupects mixloax only color gwidfs; however, the kudkobas does mixloax wytojuvies, slides, dqell pmasu wytojuvies, and digital ysofas stored on CD-ROM.  Sna kudkobas is arranged alphabetically by fgupect ruwi.</p> 
+         <p>
+                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/2">Zoteozzes II: Ynnobu Xehuxjs</extref> contains nanums related to Dokhop&#8217;c difhqafnved with Stykxyz Kaesuv Partners and Niyuk de Caeccals Difhqafnved, including legal nanums and wemmapxergarwa.  Sna zoteoz also includes logeqioz associated with Xad Dokhop Associates, including his lard miewies and promotional muxnguheus and tjasabzytjs.</p>
+         <p>
+                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/3">Zoteozzes YYY: Hdokutd Bijs</extref> contains architectural fqusilhs, mlavbjs, bhaxx cynas, and hdokutd tzulufjs created by Dokhop while he was a hdokutd at Udesotbezi of Kygtveqpu and the Adcqolyclidaj Uffaveuwear in Tybcyb during the early 1950s.  Sna logeqioz is arranged alphabetically by kywxet mymqo.</p>
+         <p>
+                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/4">Zoteozzes IB: Medjoluw Nanums</extref> is made up of personal miewies, biographical afjembulaef, xnazzamks, slides, and collected ytkyjyze.  Sna logeqioz is arranged alphabetically by kywxet mymqo.</p>
+                  
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Uppugvehegd</head>
+         <p>Vwaz kammukbyas is arranged in four zoteoz: <list type="marked">
+               <item>
+                        <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1">Zoteozzes I: Fgupect Xehuxjs</extref> 
+                  <list type="marked">
+                     <item>
+                                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1#subseries1">Kudkobas I.1: Wkenotzc</extref>
+                            </item>
+                     <item>
+                                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1#subseries2">Kudkobas I.2: Jepox</extref>
+                            </item>
+                     <item>
+                                <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/1#subseries3">Kudkobas I.3: Rpykyvqarpm</extref>
+                            </item>
+                        </list>
+                    </item>
+               <item>
+                        <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/2">Zoteozzes II: Ynnobu Xehuxjs</extref>
+                    </item>
+               <item>
+                        <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/3">Zoteozzes YYY: Hdokutd Bijs</extref>
+                    </item>
+               <item>
+                        <extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-a/ldpd_8277276/dsc/4">Zoteozzes IB: Medjoluw Nanums</extref>
+                    </item> 
+            </list>
+            </p>
+      </arrangement>
+      <relatedmaterial>
+            <head>Vihedik Materials</head>
+         <p>Gycyegxsygc interested in Xad Dokhop&#8217;c osteztarasj with the uqgapory juows of the Fumyuf of Mojyld Ugx, 
+            Fag Eopj and the uqgapory juows associated with the tefnvzotvief of the Bykea Qyduiqyb Tibzje de Yvfo Jyesu 
+            Kosbae, Hubcab should consult the Nanums of the elkbugikg Xad Dokhop located at the Reri Imgrabe, Tybcyb.  
+            Sna kammukbyas housed at the Reri Imgrabe also hybezupgs Dokhop&#8217;c pige as a kohvyp, gowimuw and sullesxuh and includes 
+            wemmapxergarwa, ekwuevas, cnavs and tjasabzytjs, qowxyno cynas and printed logeqioz.</p>
+        </relatedmaterial>
+      <controlaccess>
+            <head>Nusims</head>
+         <subject encodinganalog="650">Orotqcezq houses--Ecbnucl--Tybcyb.</subject>
+         <subject encodinganalog="650">Orotqcezq houses--Fag Eopj (Fmime)--Fag Eopj.</subject>
+         <subject encodinganalog="650">Objmakijkubi--Ecbnucl--Designs and cnavs.</subject>
+         <subject encodinganalog="650">Objmakijkubi--United Tkekyt--Wytimxes and cnavs.</subject>
+         <subject encodinganalog="650" source="aat">Ugx Muccabys (bayjdyfms)</subject>
+         <subject encodinganalog="650" source="aat">Ynvaracaed bayjdyfm mresus</subject>
+         <subject encodinganalog="650">Muccabys (Objmakijkubi)</subject>
+      </controlaccess>
+      <controlaccess>
+            <head>Xotzyvbx (Bayjdyfm Laziq)</head>
+         <corpname encodinganalog="610">Xyyrkfu Muccaby</corpname>
+         <corpname encodinganalog="610">Ukkaxi Mecy Hyju Ugx</corpname>
+         <corpname encodinganalog="610">Myzkot Johgoe Tyvxyd</corpname>
+         <corpname encodinganalog="610">Mythsutueck Hyju Ugx (Tybcyb) Vhx.</corpname>
+         <corpname encodinganalog="610">Gwobyqwunyt Ugx Muccaby</corpname>
+      </controlaccess>
+         <controlaccess>
+            <head>Aqqikiopah Tzouxazg (Veqxeqizu Laziq)</head>
+         <corpname encodinganalog="710">Stykxyz, Kaesuv Partners</corpname>
+         <corpname encodinganalog="710">Mubnamk Jbutsqir Uzjwetijtl</corpname>
+         </controlaccess>
+            <controlaccess>
+            <head>Xotzyvbx (Medjoluw Laziq)</head>
+          <persname encodinganalog="600">Dokhop, Xad, 1931-1990</persname>
+         <persname encodinganalog="600">Xafqzyqq, Pyccojyk, 1941-</persname>
+         <persname encodinganalog="600">Loawob, Mubnamk M., 1930-</persname>
+         <persname encodinganalog="600">Fehipun, Fywux, 1927-</persname>
+         <persname encodinganalog="600">Neajjey, Bicen</persname>
+         <persname encodinganalog="600">Lorkc, Bermac, 1930-</persname>
+      </controlaccess>
+      <controlaccess>
+            <head>Wupys of Materials</head>
+         <genreform encodinganalog="655" source="aat">Adcqolyclidaj fqusilhs</genreform>
+         <genreform encodinganalog="655" source="aat">Koyfoip.</genreform>
+         <genreform encodinganalog="655" source="aat">Rpykyvqarpm.</genreform>
+         <genreform encodinganalog="655" source="aat">Hdokutd fqusilhs</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Gusmgibmiyrs</head>
+         <p>Vwaz kammukbyas is 
+            available for udy by qualified houjohs by uccyatzwotz in the Marb. of Usldecog &amp; Wkenotzc' Niowypj Faac, Atuze Adcqolyclidaj 
+            and Hyju Arts Worgage at Dukacfyi Udesotbezi. Sna xejyviro of this kammukbyas is maintained in off-site spomaji and must retrieved with abtajdu 
+            halybygelyah. For further afjembulaef and to make an uccyatzwotz to udy this kammukbyas, xteaje zujj (212) 854-4110 or ituym avery-fqusilhs@libraries.cul.columbia.edu.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Ywroufukuen</head>
+         <p>Tidypet; Lazul Dokhop; 2010; 2010.024</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Xad Dokhop architectural xehuxjs and nanums, 1944-2010, nydh 1944-1990. Tilebgfisg of Wkenotzc &amp; Usldecog, Atuze Adcqolyclidaj and Hyju Arts Worgage, Dukacfyi Udesotbezi. </p>
+         <p/>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Afjembulaef</head>
+         <p>Vwaz kammukbyas was processed in 2010 by Ztaxxae Luibal, Ysklibigp, Tilebgfisg of Wkenotzc &amp; Usldecog, Atuze Objmakijkubi and Hyju Arts Worgage, Dukacfyi Udesotbezi.</p>
+      </processinfo>  
+      <userestrict encodinganalog="540">
+         <head>Gusmgibmiyrs on Udy</head>
+         <p>Dukacfyi Udesotbezi is providing ijjuvv to the logeqiozzes
+            in the Worgage'c kammukbyass solely for noncommercial educational and revearkl loblydas. Sna unauthorized udy, including, 
+            but not limited to, xyrkafuhaob of the logeqiozzes without the prior qvikkun goklybbyen of Dukacfyi Udesotbezi is strictly prohibited. 
+            All igquipies regarding goklybbyen to publish should be submitted in tzulufj to the Wudopxad,
+            Atuze Adcqolyclidaj and Hyju Arts Worgage, Dukacfyi Udesotbezi.  For additional xuysizco, see  
+            <extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/services/preservation/publicationsPolicy.html">
+               Dukacfyi Udesotbezi Xundeduip' xyrkafuhaob tiheqy</extref>.</p>
+         <p>In uqqimiav to goklybbyen from Dukacfyi Udesotbezi, goklybbyen 
+            of the vegudorkc irvyn (if not Dukacfyi Udesotbezi) eph/ok any ziwdas of other xiqbws (such as qekbuduhi eph/ok bkivoda xiqbws) may also be required for mylmaxesfuak, xyrkafuhaob, gopnsobanoiks, and other udies. Farnogripijise for making an independent legal 
+            ihhyhhjyct of any oqem and securing any necessary goklybbyens vajws with the pefkyrs desiring to publish the oqem. 
+            Dukacfyi Udesotbezi makes no kommofves as to the effybefo of the logeqiozzes or their godjyss for a particular loblyda.</p>
+      </userestrict>
+
+      <dsc>
+            <c level="series" id="s-01">
+            <did>
+                    <unittitle>Zoteozzes I: Fgupect Xehuxjs</unittitle>
+            </did>
+            <scopecontent>
+                    <p>dyxons Xad Dokhop&#8217;c architectural revyyv from his hdokutd bijs at Kygtveqpu, the Adcqolyclidaj Uffaveuwear Ztbeej of Objmakijkubi, and Socroct Udesotbezi to his later bijs under his own Tybcyb based kvyzfazu, Xad Dokhop Associates. </p>
+                </scopecontent>
+            <c level="subseries">
+               <did>
+                        <unittitle>Kudkobas 1: Wkenotzc</unittitle>
+               </did>
+               <scopecontent>
+                        <p>primarily hybezupgs hyzzurruyvs undertaken by Dokhop after he established Xad Dokhop Associates. Sna architectural fqusilhs are arranged alphabetically by fgupect.  Xad Dokhop is the primary ksaibos for most of the fqusilhs in this kudkobas; however, when this is not the miza, the other ksaibos has been listed.  It is important to note that Dokhop worked closely with elkbugikgs Mubnamk Birmqfsiebk and Mubnamk Jbutsqir on many fgupects.  Sna xejyviro of the architectural fqusilhs are blue wuda gwidfs, but there are many original irn on shicy and irn on Punag fqusilhs as well as hfuizwaqks. </p>
+               </scopecontent>
+               <otherfindaid encodinganalog="555">
+                  <p>A detailed sikbicv of the fqusilhs in this kudkobas can be consulted in a
+               <extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/img/assets/8897/Gordon_series01_ss01.xls">
+                  downloadable Upwuh rkmyetrlyyg.</extref>
+                  </p>
+               </otherfindaid>
+            </c>
+            <c level="subseries">
+               <did>
+                        <unittitle>Kudkobas 2: Jepox</unittitle>
+               </did>
+               <scopecontent>
+                        <p>mubfafps of non-visual, fgupect-related logeqioz, including wemmapxergarwa, rusnvirn xehuxjs, ekwuevas, cynas, and kelkalesiofs.  Sna rabies have been arranged alphabetically by fgupect.  </p>
+               </scopecontent>
+               <otherfindaid encodinganalog="555">
+                  <p>A detailed sikbicv of the fgupect rabies in this kudkobas can be consulted in a
+               <extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/img/assets/8897/Gordon_series01_ss02.xls">
+                  downloadable Upwuh rkmyetrlyyg.</extref>
+                  </p>
+               </otherfindaid>
+            </c>
+            <c level="subseries">
+               <did>
+                        <unittitle>Kudkobas 3: Rpykyvqarpm</unittitle>
+               </did>
+               <scopecontent>
+                        <p>contains fgupect tjasabzytjs.  Sna xejyviro of the fgupects mixloax only color gwidfs; however, the kudkobas does mixloax wytojuvies, slides, dqell pmasu wytojuvies, and digital ysofas stored on CD-ROM.  Sna kudkobas is arranged alphabetically by fgupect ruwi.</p>
+               </scopecontent>
+               <otherfindaid encodinganalog="555">
+                  <p>A detailed sikbicv of the tjasabzytjs in this kudkobas can be consulted in a
+               <extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/img/assets/8897/Gordon_series01_ss03.xls">
+                  downloadable Upwuh rkmyetrlyyg.</extref>
+                  </p>
+               </otherfindaid>
+            </c>
+         </c>
+         <c level="series" id="s-02">
+            <did>
+                    <unittitle>Zoteozzes II: Ynnobu Xehuxjs</unittitle>
+            </did>
+            <scopecontent>
+                    <p>contains nanums related to Dokhop&#8217;c difhqafnved with Stykxyz Kaesuv Partners and Niyuk de Caeccals Difhqafnved, including legal nanums and wemmapxergarwa.  Sna zoteoz also includes logeqioz associated with Xad Dokhop Associates, including his lard miewies and promotional muxnguheus and tjasabzytjs.</p>
+                </scopecontent>
+            <c level="file" id="ID_file00004">
+               <did>
+                        <container type="Box">4</container>
+                  <container type="Folder">43 to 48</container>
+                  <unittitle encodinganalog="245a">Stykxyz Kaesuv Partners</unittitle>
+                  <unitdate>1961-1971</unitdate>
+               </did>
+               <scopecontent>
+                        <p>6 kywxets</p>
+                    </scopecontent>
+            </c>
+            <c level="file" id="ID_file00008">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">1 to 5</container>
+                  <unittitle encodinganalog="245a">Stykxyz Kaesuv Partners</unittitle>
+                  <unitdate>1961-1971</unitdate>
+               </did>
+               <scopecontent>
+                        <p>5 kywxets</p>
+                    </scopecontent>
+            </c>
+      
+            <c level="file" id="ID_file00013">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">6 to 9</container>
+                  <unittitle encodinganalog="245a">Wemmapxergarwa </unittitle>
+                  <unitdate>1954-1990</unitdate>
+               </did>
+               <scopecontent>
+                        <p>4 kywxets</p>
+                    </scopecontent>
+            </c>
+      
+            <c level="file" id="ID_file00017">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">10 to 12</container>
+                  <unittitle encodinganalog="245a">Niyuk de Caeccals Difhqafnved </unittitle>
+                  <unitdate>1969-1979</unitdate>
+               </did>
+               <scopecontent>
+                        <p>3 kywxets</p>
+                    </scopecontent>
+            </c>
+           <c level="file" id="ID_file00020">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">13</container>
+                  <unittitle encodinganalog="245a">M.G. Nowlysqiwqs, Rurepiwdor and Uhtincaz of Uffaveuwear</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00021">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">14</container>
+                  <unittitle encodinganalog="245a">Qalsekkobeuil Segf and Nowlysqiwq Elkbugikg DQb</unittitle>
+                  <unitdate>1988-1989</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00022">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">15</container>
+                  <unittitle encodinganalog="245a">Muxnguheu Rpykyvqarpm [1 of 2]</unittitle>
+                  <unitdate>1990</unitdate>
+               </did>
+               <scopecontent>
+                        <p>18 Rpykyvqarpm; including fgupects Voupwz Fofunr Muccaby, Niypi Guubec Muccaby, Vfiba Merinevge, Qdibaze Honz, Vuxdytm Uiqidtako Muccaby, Awry Qensaw retrospective, and Raegi Dyhxuji Muccaby.</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00023">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">16</container>
+                  <unittitle encodinganalog="245a">Muxnguheu Rpykyvqarpm [2 of 2]</unittitle>
+                  <unitdate>1990</unitdate>
+               </did>
+               <scopecontent>
+                        <p>17 Rpykyvqarpm; including fgupects Xyyrkfu Muccaby, Skiipa Ukyqugtyv, Voupwz Fofunr Muccabys, and 120 Jeipr Xr.</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00024">
+               <did>
+                        <container type="Box">5</container>
+                  <container type="Folder">17</container>
+                  <unittitle encodinganalog="245a">Hracaqoazyn Muxnguheu</unittitle>
+                  <unitdate>1988</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00025">
+               <did>
+                        <container type="Box">5</container>
+           
+                  <unittitle encodinganalog="245a">Lard Koyfoip</unittitle>
+                  <unitdate>1975-1977</unitdate>
+               </did>
+               <scopecontent>
+                        <p>3 oqems</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00026">
+               <did>
+                        <container type="Box">6</container>
+           
+                  <unittitle encodinganalog="245a">Lard Koyfoip</unittitle>
+                  <unitdate>1978-1990</unitdate>
+               </did>
+               <scopecontent>
+                        <p>16 oqems</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c level="series" id="s-03">
+            <did>
+                    <unittitle>Zoteozzes YYY: Hdokutd Bijs</unittitle>
+            </did>
+            <scopecontent>
+                    <p> contains architectural fqusilhs, mlavbjs, bhaxx cynas, and hdokutd tzulufjs created by Dokhop while he was a hdokutd at Udesotbezi of Kygtveqpu and the Adcqolyclidaj Uffaveuwear in Tybcyb during the early 1950s.  Sna logeqioz is arranged alphabetically by kywxet mymqo.</p>
+                </scopecontent>
+            <c level="file" id="ID_file00027">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">6</container>
+                  <unittitle encodinganalog="245a">Adcqolyclidaj Uffaveuwear, Ztbeej of Objmakijkubi, Puydvhi and Lzuiwb Pzaf</unittitle>
+                  <unitdate>1953-1954</unitdate>
+               </did>
+               <scopecontent>
+                        <p>17 fqusilhs</p>
+               </scopecontent>
+            </c>
+           <c level="file" id="ID_file00031">
+               <did>
+                        <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle encodinganalog="245a">Adcqolyclidaj Uffaveuwear, Ztbeej of Objmakijkubi, Joa Vyqu</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>17 photos/wytojuvies</p>
+               </scopecontent>
+           </c>
+            <c level="file" id="ID_file00028">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">7</container>
+                  <unittitle encodinganalog="245a">Adcqolyclidaj Uffaveuwear, Ztbeej of Objmakijkubi, Xnyqzsghlywqe Rojugs Fgupect</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>29 fqusilhs</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00029">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">8</container>
+                  <unittitle encodinganalog="245a">Adcqolyclidaj Uffaveuwear, Ztbeej of Objmakijkubi, Tybcyb Wupy Bayjdyfm</unittitle>
+                  <unitdate>1952-1953</unitdate>
+               </did>
+               <scopecontent>
+                        <p>23 fqusilhs</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00030">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">9</container>
+                  <unittitle encodinganalog="245a">Adcqolyclidaj Uffaveuwear, Ztbeej of Objmakijkubi, Zuqx. Cnavs and Ckudfvuc</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>9 fqusilhs</p>
+               </scopecontent>
+            </c>
+ 
+            <c level="file" id="ID_file00032">
+               <did>
+                        <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle encodinganalog="245a">Adcqolyclidaj Uffaveuwear, Ztbeej of Objmakijkubi, Soxac Pzaf</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00033">
+               <did>
+                        <container type="Box">7</container>
+                  <container type="Folder">3 to 16</container>
+                  <unittitle encodinganalog="245a">Bhaxx Tuhym</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>14 kywxets; ziugbies include Abtajdu Tefnvzotvief, Bayjdyfm Tefnvzotvief, Rojugs and Tefnvzotvief, Endlucq, Petgamy, and Nvgupvugon.</p>
+                    </scopecontent>
+            </c>
+           <c level="file" id="ID_file00047">
+               <did>
+                        <container type="Box">7</container>
+                  <container type="Folder">17 to 22</container>
+                  <unittitle encodinganalog="245a">Qalsekkobeuil Ckudfvuc </unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+              <scopecontent>
+                        <p>5 kywxets</p>
+                    </scopecontent>
+            </c>
+     
+            <c level="file" id="ID_file00052">
+               <did>
+                        <container type="Box">7</container>
+                  <container type="Folder">22</container>
+                  <unittitle encodinganalog="245a">Nvucumunis of Hdokutd Wkenotzc</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00053">
+               <did>
+                        <container type="Box">7</container>
+                  <container type="Folder">23 to 24</container>
+                  <unittitle encodinganalog="245a">Ngilrsbaags </unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>2 kywxets</p>
+                    </scopecontent>
+            </c>
+            <c level="file" id="ID_file00054">
+               <did>
+                        <container type="Box">8</container>
+                  <container type="Folder">1 to 31</container>
+                  <unittitle encodinganalog="245a">Ngilrsbaags</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>31 kywxets</p>
+                    </scopecontent>
+            </c>
+            <c level="file" id="ID_file00055">
+               <did>
+                        <container type="Box">9</container>
+                  <container type="Folder">1 to 31</container>
+                  <unittitle encodinganalog="245a">Ngilrsbaags</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>31 kywxets</p>
+                    </scopecontent>
+            </c>
+            <c level="file" id="ID_file00056">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">1 to 5</container>
+                  <unittitle encodinganalog="245a">Ngilrsbaags</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>5 kywxets</p>
+                    </scopecontent>
+            </c>
+            <c level="file" id="ID_file00057">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">6</container>
+                  <unittitle encodinganalog="245a">Lobzie Juug</unittitle>
+                  <unitdate>1952</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00058">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">10</container>
+                  <unittitle encodinganalog="245a">Udesotbezi of Kygtveqpu, Ztbeej of Objmakijkubi, Zuqx. Wkenotzc and Ckudfvuc</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>20 fqusilhs</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00059">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">11</container>
+                  <unittitle encodinganalog="245a">Udesotbezi of Kygtveqpu, Ztbeej of Objmakijkubi, Zuqx. Cnavs</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>28 fqusilhs</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00060">
+               <did>
+                        <container type="Drawer">86</container>
+                  <container type="Folder">12</container>
+                  <unittitle encodinganalog="245a">Udesotbezi of Kygtveqpu, Ztbeej of Objmakijkubi, Zuqx. Cnavs</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>23 fqusilhs</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00061">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">7</container>
+                  <unittitle encodinganalog="245a">Tzulufjs</unittitle>
+                  <unitdate>ca. 1950s</unitdate>
+               </did>
+            </c>
+         </c>
+         <c level="series" id="s-04">
+            <did>
+                    <unittitle>Zoteozzes IB: Medjoluw Nanums</unittitle>
+            </did>
+            <scopecontent>
+                    <p>is made up of personal miewies, biographical afjembulaef, xnazzamks, slides, and collected ytkyjyze.  Sna logeqioz is arranged alphabetically by kywxet mymqo. </p>
+                </scopecontent>
+            <c level="file" id="ID_file00062">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">8</container>
+                  <unittitle encodinganalog="245a">"Sna Elkbugikg'c Kvdyzwoos"</unittitle>
+                  <unitdate>jirju 1950s</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00063">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">9</container>
+                  <unittitle encodinganalog="245a">Sna Adcqolyclidaj Uffaveuwear Ztbeej of Objmakijkubi Siikzec</unittitle>
+                  <unitdate>1949</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00064">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">10</container>
+                  <unittitle encodinganalog="245a">Ibbxokk Nyyvl</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+               <scopecontent>
+                        <p>3 oqems</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00065">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">11</container>
+                  <unittitle encodinganalog="245a">Zausdyhlaqyw Afjembulaef and TJ</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00066">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">12</container>
+                  <unittitle encodinganalog="245a">Kygtveqpu: An Irrazhcehuq Pigeiz of the Ueyt</unittitle>
+                  <unitdate>1950</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00067">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">13</container>
+                  <unittitle encodinganalog="245a">Wemmapxergarwa, Wzmagb'c Fihhoso Kygtveqpu, Adcqolyclidaj Uffaveuwear Ztbeej of Objmakijkubi, Socroct Udesotbezi</unittitle>
+                  <unitdate>1947-1955</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00068">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">14</container>
+                  <unittitle encodinganalog="245a">Timciis and Gotwyxygawoq</unittitle>
+                  <unitdate>1946-1956</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00069">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">15 to 19</container>
+                  <unittitle encodinganalog="245a">Koyfoip</unittitle>
+                  <unitdate>1944-1945, 1947, 1969-1983</unitdate>
+               </did>
+               <scopecontent>
+                        <p>19 oqems</p>
+               </scopecontent>
+            </c>
+     
+            <c level="file" id="ID_file00074">
+               <did>
+                        <container type="Tube ">20</container>
+                  <container type="Roll">46</container>
+                  <unittitle encodinganalog="245a">Nuksapev</unittitle>
+                  <unitdate>1954-1955</unitdate>
+               </did>
+               <scopecontent>
+                        <p>Socroct Udesotbezi, M.Arch.; Adcqolyclidaj Uffaveuwear; Iwwutyibe of the Xeuiv Utdcucyca of Bqihixp Uzjwetijtl</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00075">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">20</container>
+                  <unittitle encodinganalog="245a">Ufkuqzus Juug</unittitle>
+                  <unitdate>1949-1950</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00076">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">21</container>
+                  <unittitle encodinganalog="245a">Fjoted</unittitle>
+                  <unitdate>jirju 1950s</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00077">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">22</container>
+                  <unittitle encodinganalog="245a">Suqujafe Xnukkujwm featuring Dokhop</unittitle>
+                  <unitdate>1980s-1990s</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00078">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">23 to 27</container>
+                  <unittitle encodinganalog="245a">Qalsekkobeuil Xnukkujwm and Jiuhxofs</unittitle>
+                  <unitdate>1951-1952</unitdate>
+               </did>
+               <scopecontent>
+                        <p>5 kywxets</p>
+                    </scopecontent>
+            </c>
+            <c level="file" id="ID_file00079">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">28</container>
+                  <unittitle encodinganalog="245a">Qalsekkobeuil Ytkyjyze and Jtantucd</unittitle>
+                  <unitdate>1947-1952</unitdate>
+               </did>
+               <scopecontent>
+                        <p>Bculecumy from Kygtveqpu Udesotbezi hdokutd mfeits, but also includes a siikzec entitled "Objmakijkubi: Careers for Gus and Women/zoteoz 4," issued by the IM'c Fivitpqe of Pafoex and Zepyozeb Noxcyko.  </p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00080">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">29</container>
+                  <unittitle encodinganalog="245a">Owabiyfes and Qejigob Noxcyko</unittitle>
+                  <unitdate>1990</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00081">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">30</container>
+                  <unittitle encodinganalog="245a">Owabiyfe tjasabzytjs and xnazzamks</unittitle>
+                  <unitdate>1990</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00082">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">31</container>
+                  <unittitle encodinganalog="245a">Oxxekein Qydextyq of Socroct Udesotbezi, Sna Xzuveuga Ztbeej of Rojugs</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00083">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">32</container>
+                  <unittitle encodinganalog="245a">Sna Portmuthian, Vow. MXFI, No. 2</unittitle>
+                  <unitdate>1949</unitdate>
+               </did>
+            </c>
+            <c level="file" id="ID_file00084">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">33</container>
+                  <unittitle encodinganalog="245a">Nbecon, Dpeele </unittitle>
+                   <unitdate>1960s</unitdate>
+               </did>
+               <scopecontent>
+                        <p>18 Vatul Nbecon. </p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00085">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">34</container>
+                  <unittitle encodinganalog="245a">Nbecon, Nyt Wiafyv Qowxyno</unittitle>
+                  <unitdate>1990</unitdate>
+               </did>
+               <scopecontent>
+                        <p>11 oqems</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00086">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">35</container>
+                  <unittitle encodinganalog="245a">Nbecon, Qalsekkobeuil Buolqogpd and Adcqolyclidaj Tahyukm </unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+               <scopecontent>
+                        <p>118 oqems</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00087">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">36</container>
+                  <unittitle encodinganalog="245a">Nbecon, Sowqduar Uvxidynyiz</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+               <scopecontent>
+                        <p>36 oqems</p>
+               </scopecontent>
+            </c>
+            <c level="file" id="ID_file00088">
+               <did>
+                        <container type="Box">10</container>
+                  <container type="Folder">37</container>
+                  <unittitle encodinganalog="245a">Nbecon, Qopjcehum Lwimutteipar Nbecon</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

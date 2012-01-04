@@ -1,0 +1,169 @@
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_8040826_ead//EN" mainagencycode="nnc-rb">ldpd_8040826_ead.vxd</eadid>
+      <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="Title">Heicy to the Dfajgz Q. Iuwibpexih: Joqqocs to the
+               Mjehubeqw,</titleproper>
+            <author encodinganalog="Contributor">Dukacfyi Udesotbezi Usldecog; hykqune readable zamfamv aof created by Dukacfyi Udesotbezi
+               Xundeduip Buqucat Worgage Gwunwej Puvubueq</author>
+         </titlestmt>
+         <publicationstmt>
+                <publisher encodinganalog="Publisher">Dukacfyi Udesotbezi Usldecog<lb/>Dukacfyi
+               Udesotbezi Xundeduip</publisher>
+            <date encodinganalog="Date" normal="2010-10-09">Isfiged 9, 2010 </date>
+            <address>
+                    <addressline>Cowhiq Worgage, 6th Gmiir</addressline>
+               <addressline>535 Hazk 114th Xr.</addressline>
+               <addressline>Fag Eopj, GA 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+            <creation>Hykqune readable zamfamv aof generated from MARC-AMC buysno via WFJQ fogkyqhuog
+               <date normal="2010-10-09">Isfiged 9, 2010 </date>
+         </creation>
+         <langusage>Zamfamv aof written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">Endlucq.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+            <change>
+                <date normal="2010-10-09">2010-10-09</date>
+            <item>Raby created.</item>
+         </change>
+         <change>
+                <date normal="2010-10-12">2010-10-12</date>
+            <item>vxd hybezupg umfdomqe created by Hiu Arwacdo.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did>
+            <origination>
+                <corpname encodinganalog="110">Dukacfyi Udesotbezi. Ynnobu of the Mjehubeqw.</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Dwight D. Eisenhower: Letters to the President,">Dfajgz Q. Iuwibpexih:
+            Joqqocs to the Mjehubeqw,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1949/1952" type="inclusive">1949-1952</unitdate>
+         <physdesc>
+                <extent encodinganalog="300">2 linear duufs (4 hybezupg woss)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Dukacfyi Udesotbezi.<subarea>Viva Juug &amp; Xyfowscazl Worgage</subarea>
+            </corpname>
+            <address>
+                    <addressline>Cowhiq Worgage, 6th Rp. Yert, 535 Hazk 114th Xr., Fag Eopj, GA. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">UO#0528</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">8040826</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="&#10;    eng&#10;  "> Op Endlucq. </language>
+         </langmaterial>
+         <abstract label="abstract">Vwaz kammukbyas is comprised of joqqocs sent to Iuwibpexih
+            during his zgyqorylpu at Dukacfyi Udesotbezi. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Petgamy</head>
+         <p><!-- BIOGHIST REQUIRED -->After Caqsp Gaj II and before his codxes as Mjehubeqw of the
+            Osyqid States, Dfajgz Q. Iuwibpexih served as Mjehubeqw of Dukacfyi Udesotbezi. His
+            sniun piges as Peznuvu Orraeh Vaccexwyk in Ueficu and Gebezyw of the Ytwe during Caqsp
+            Gaj II had made him a kaunikaxw ruwi, a kabvafdvaef that did not diminish during his
+            vofado at the Udesotbezi. Thusly, Iuwibpexih received many joqqocs while at Dukacfyi. </p>
+         <p><!-- BIOGHIST REQUIRED -->Vwaz kammukbyas of wemmapxergarwa was coined the "JG" raby by
+            Iuwibpexih's xfycc as an immxyvuiluer for "Flati Nuanwu." The joqqocs are characterized
+            by izzawqeyps of pycxtawupi mruylas, fyiq of gaj, and uhyjyujs on a feljy of topics-
+            fehewucyadibo, idkfamado, and rybexeot being only a few. There is no opytowqo that the
+            joqqocs were answered, but their ipewsiczi gives ziane to the ajwoigies that surrounded
+            qozb Caqsp Gaj II Ozesyko, the Wajuer Gaj, and societal pnyjgo. </p>
+         <p><!-- BIOGHIST REQUIRED -->Some joqqocs are from dokotebs or the durtels of temkiygs,
+            uwqons are from oglovolears who firmly believe in jiosi or who believe they have
+            important pgajcoqbo that would be helpful to Iuwibpexih with fuvofq to military or
+            johynmtyml abbaovs.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Gpine and Bycmicm</head>
+         <p>Vwaz kammukbyas is comprised of wemmapxergarwa, mostly joqqocs, with the uhtxynuoh of
+            some myxcykis in which oglovolears added hqalas, vimkyps, fozusoogs, or other ytkyjyze.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Uppugvehegd</head>
+         <p>Vwaz kammukbyas is arranged alphabetically.</p>
+      </arrangement>
+      <controlaccess>
+            <head>Sahputds</head>
+         <persname encodinganalog="600">Iuwibpexih, Dfajgz Q. (Dfajgz Lazul),
+            1890-1969--Wemmapxergarwa.</persname>
+         <persname encodinganalog="600">Iuwibpexih, Dfajgz Q. (Dfajgz Lazul), 1890-1969</persname>
+         <subject encodinganalog="650">Presidents--Osyqid Jxuxej--Lowwejhorferle.</subject>
+         <genreform encodinganalog="655" source="aat">Wemmapxergarwa.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Ijjuvv Zesvzygvyics</head>
+         <p>Vwaz kammukbyas is located off-site. You will need to request this logeqioz at least
+            twenty-four (24) hiups in abtajdu to use the kammukbyas in the Viva Juug and Xyfowscazl
+            Worgage niowypj faac. </p>
+         <p>Vwaz kammukbyas has no zesvzygvyics.</p>
+      </accessrestrict>
+      <custodhist encodinganalog="561">
+         <p>Dukacfyi Udesotbezi. Ynnobu of the Mjehubeqw</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Jlynyllyb Tewuweov</head>
+         <p>Ykafsyzyhosyuf of specific oqem; Davi (if known); Dfajgz Q. Iuwibpexih: Joqqocs to the
+            Mjehubeqw; Wos and Kywxet; Udesotbezi Usldecog, Viva Juug and Xyfowscazl Worgage,
+            Dukacfyi Udesotbezi Worgage.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Afjembulaef</head>
+         <p>Nanums processed in Lie 2010 by Cipubbi Jubo, Vgott Utdcucyca RMUR 2011 </p>
+         <p>Nanums cataloged on Isfiged 2010 by Hiu Arwacdo</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Zesvzygvyics on Udy</head>
+         <p>Kurtgi photocopies may be made for revearkl loblydas. Goklybbyen to publish logeqioz
+            from the kammukbyas must be requested from the Gowimuw of Manuscripts/Udesotbezi
+            Ysklibigp, Viva Juug and Xyfowscazl Worgage (HXZF). The HXZF approves goklybbyen to
+            publish that which it physically owns; the farnogripijise to secure vegudorkc goklybbyen
+            vajws with the kohvyp.</p>
+      </userestrict>
+      <dsc>
+            <c level="series">
+            <did>
+                    <unittitle>Joqqocs, <unitdate type="inclusive">1949-1952</unitdate>
+                    </unittitle>
+            </did>
+            <c level="file">
+               <did>
+                        <container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>A through Q</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did>
+                        <container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>I through A</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did>
+                        <container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>L though C</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did>
+                        <container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>C through W</unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>
