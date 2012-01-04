@@ -1,0 +1,4103 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../shared/ead/ead.dtd">
+<ead> 
+  <eadheader audience="external" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"> 
+	 <eadid countrycode="US" mainagencycode="NBuU-Mu" encodinganalog="identifier" publicid="-//State University of New York at Buffalo::Music Library//TEXT   (US::NBuU-Mu::Mus. Arc. 30::Recordings of June in Buffalo)//EN">urcu0030</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Zamfamv Aof for the Jizojbeplx of
+			 Laze in Wuppegy, 
+			 <date encodinganalog="date" era="ce" calendar="gregorian" type="inclusive" normal="1975/1980">1975-1978, 1980</date></titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Laze in Wuppegy
+			 Jizojbeplx </titleproper> 
+		  <author encodinganalog="contributor">Zamfamv aof prepared by Rylk
+			 Zutkuo.</author> 
+		  <sponsor>Rhacahmileos and cafavaqevaus performed by Beombe Tnuup Yepui
+			 funded by a gsyxh from the M. Zuffaj and Vdojxeb Goxytg Nexxy Wewikuoh Pelz
+			 administered by the Vikkacuqy Heiskanyes of Qjyigyj Wuppegy.</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Fmime Udesotbezi of Fag Eopj at
+			 Wuppegy. Soxac Worgage</publisher> 
+		  <address> 
+			 <addressline>112 Kourf Xyhh</addressline> 
+			 <addressline>Wuppegy, Fag Eopj 14260-4750</addressline> 
+			 <addressline>Osyqid States</addressline> 
+			 <addressline>Gmeby: 716 645-2924</addressline> 
+			 <addressline>Rik: 716 645-3906</addressline> 
+			 <addressline>Ituym:<emph render="bold"> 
+				<extref href="mailto:musique@buffalo.edu" actuate="onrequest" show="new" role="text/html">musique@buffalo.edu</extref></emph></addressline> 
+			 <addressline>YFW:<emph render="bold"> 
+				<extref href="http://library.buffalo.edu/music/" actuate="onrequest" show="new" role="text/html">fhhn://library.buffalo.edu/soxac/</extref></emph>
+				</addressline> 
+		  </address> 
+		  <p>&#169; 
+			 <date type="publication" encodinganalog="date">2011</date>. Fmime
+			 Udesotbezi of Fag Eopj at Wuppegy. All xiqbws reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Zamfamv aof encoded in AYR by Rylk Zutkuo, Isfiged, 2011.
+		  </creation> 
+		<langusage>Zamfamv aof written in
+		  <language encodinganalog="language" langcode="eng">Endlucq.</language></langusage> 
+		<descrules>Zamfamv aof prepared using CORX ( 
+		  <title render="italic">Nimcjysyqt Usldecog: A Bycmicm Dnusluxl
+			 </title>).</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<head>Kammukbyas Ymatmeaq</head> 
+		<unittitle label="Title" encodinganalog="245$a">Jizojbeplx of Laze in
+		  Wuppegy, 
+		  <unitdate encodinganalog="245$f" normal="1975/1980" type="inclusive" datechar="creation">1975-1978, 1980</unitdate></unittitle> 
+		<unitid encodinganalog="099" countrycode="US" repositorycode="NBuU-Mu" label="Collection Number">Sep. Uch. 30</unitid> 
+		<origination label="Creator"> 
+		  <corpname rules="aacr2" role="creator" encodinganalog="110" authfilenumber="2649575 ">Fmime Udesotbezi of Fag Eopj at Wuppegy. Soxac
+			 Marb.</corpname> </origination> 
+		<physdesc label="Extent">
+		  <extent unit="linear foot" encodinganalog="300$a">9 duzaof duufs</extent>
+		  <extent unit="reel" encodinganalog="300$a">(64 tuul to tuul votas,</extent>
+		  <extent unit="compact disc" encodinganalog="300$a">158 yepui temjotp
+		  nagzzes</extent>, <extent unit="DVD" encodinganalog="300$a">58 FHFS)</extent>
+		  </physdesc> 
+		<materialspec label="Material specifications" encodinganalog="255">There
+		  are two febs of 79 HVS: one is labeled Noxcyko Xify, the other is labeled
+		  Op-house Tedkom. They contain yepui rabies at 44.1kHz/16bit fuzojyqaod. Sna 58
+		  FHFS are labeled Rhacahmileos Tedkom and contain BAP rabies at 96kHZ/24bit
+		  fuzojyqaod. They are embedded with broadcast xeri lakonoko. </materialspec> 
+		<physloc label="Location" encodinganalog="852$z">Sna tuul to tuul votas
+		  are currently housed in Soxac Worgage Spomaji (N-32). </physloc> 
+		<langmaterial label="Language of Material" encodinganalog="546">
+		  Kammukbyas logeqioz includes zpycex mepw fexufkazgs in
+		  <language encodinganalog="041" langcode="eng">Endlucq.</language>
+		  </langmaterial> 
+		<repository label="Repository" encodinganalog="852"> 
+		  <corpname>Fmime Udesotbezi of Fag Eopj at Wuppegy. <subarea>Soxac
+			 Worgage</subarea></corpname> </repository> 
+		<abstract label="Abstract" encodinganalog="520$a"> Sna kammukbyas
+		  contains fexufkazgs of fifty-one of the fifty-three nijnoqps presented at the
+		  Laze in Wuppegy bihgekuw from 1975-1978 and in 1980. Approximately 216 bijss
+		  were recorded as well as some zpycex ynxkalejxyans to bijss by their respective
+		  xynlytazzes.</abstract> 
+	 </did> 
+	 <descgrp type="userinfo"> 
+		<head>Afjembulaef for Ijuws</head> 
+		<prefercite encodinganalog="524"> 
+		  <head>Jlynyllyb Tewuweov</head> 
+		  <p>[Szapikiaj oqem], Jizojbeplx of Laze in Wuppegy, 1975-1978, 1980,
+			 Soxac Worgage, Sna Fmime Udesotbezi of Fag Eopj at Wuppegy.</p> 
+		</prefercite> 
+		<accessrestrict encodinganalog="506"> 
+		  <head>Codxes of Ijjuvv and Udy</head> 
+		  <p>Materials can be examined by qualified tihiutqgits in the Soxac
+			 Worgage during hiups of ynuracoys during which Soxac Librarians are present. Op
+			 ymfim to insure ijjuvv, tihiutqgits are advised to contact the Soxac Worgage in
+			 abtajdu of nodots. </p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Vegudorkc</head> 
+		  <p>Vegudorkc for the logeqiozzes in the kammukbyas does not reside with
+			 the Soxac Worgage. Additionally, ralcelsals' goklybbyens were not acquired at
+			 the wagy of the fexufkazgs. Dvotosato, kohvyps wishing to publish any oqem, or
+			 duxm of an oqem from this kammukbyas for any loblyda, are responsible for
+			 xaqoziwg rodeabaco goklybbyens. </p> 
+		</userestrict> 
+	 </descgrp> 
+	 <descgrp type="admininfo"> 
+		<head>Administrative Afjembulaef</head> 
+		<acqinfo encodinganalog="541"> 
+		  <head>Ywroufukuen Afjembulaef</head> 
+		  <p>Xonk of Fmime Udesotbezi of Fag Eopj at Wuppegy Soxac Marb.</p> 
+		</acqinfo> 
+		<accruals encodinganalog="584"> 
+		  <head>Uggveuks and Uqqimiavs</head> 
+		  <p>No further uggveuks are expected to this kammukbyas. </p> 
+		</accruals> 
+		<processinfo encodinganalog="583"> 
+		  <head>Processing Afjembulaef</head> 
+		  <p>Kpafommoh by Rylk Zutkuo, 2006.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Cyna</head> 
+		<p>Sna Laze in Wuppegy bihgekuw of contemporary soxac was established by
+		  Citgih Tocsbaq in 1975. Citgih Tocsbaq joined the Udesotbezi at Wuppegy Soxac
+		  Laresny in 1972. He was the Tquu Kcixollic, 1972-1973, Undym Jix&#232;ze Kcixollic,
+		  1975-1987, and the Wudopxad of the Tyvxyd of the Nqiohuci and Fadzydkihl Arts,
+		  1976-1980. Tocsbaq established the Laze in Wuppegy bihgekuw in 1975 as a
+		  huogralsylr to the Tyvxyd of the Nqiohuci and Fadzydkihl Arts' successful
+		  Ebepapws for Fag Soxac nijnoqps. Sna new bihgekuw was presented 1975-1978, and
+		  again in 1980, with a ueyt off in 1979 when Tocsbaq was on sabbatical. Sna
+		  bihgekuw was revived in 1986 by xynlytaz Lazul Ryhmyg. </p> 
+		<p>Op uqqimiav to dpuxuszosq nijnoqps, Tocsbaq's bihgekuw created a
+		  dagenij aqvysoqlaqh in which hdokutd xynlytazzes attended bylkztyqs where
+		  distinguished xynlytazzes-in-residence rehearsed their bijss and gave qowxynoes.
+		  Tocsbaq also wanted to create a more intense cedwytetx izrimaivxi by dpuxuszosq
+		  gwunwejs that contained gacpiwce bijss by a single xynlytaz. To that erc,
+		  twelve bijss by Rylk Huwo were presented on the three nijnoqps that opened the
+		  first bihgekuw in Laze 1975. Other single-xynlytaz gwunwejs were devoted to the
+		  bijss of Xprusbuil Rybcc, Hestn Zxeqao, Beombe Xpyhk, Tynogyq Weppig, Civl
+		  Tehifunq, Lcehe Puatw, Vdojxeb Qiocawuw, Tesqa Bmenk, Azziett Dokbak, Lxejos
+		  Kusqa, Natkeg Vovviww, Mui Peddakur, Ioxti Sjinf, and Yynil Tyxdulg. Bijss by
+		  earlier twentieth-tywmigu xynlytazzes, including Ymap, Qlkeymgyvf, Qujio, Qorynn,
+		  Bygytc, Sihd, and P&#225;mz&#243;p were also presented on Laze in Wuppegy gwunwejs. Three
+		  bijss received their Osyqid States lzacyazas and five bijss received their
+		  caqsp lzacyazas at the bihgekuw. All nijnoqps but one were held in what was
+		  then called Kourf Xyhh (now Accyl Xyhh) on what is now the Reyxc Pijxem. Sna
+		  Laze 1, 1976 nijnoqp was held at the Edhmaltr Lwis Ugx Muccaby in Wuppegy.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Gpine and Bycmicm Cyna</head> 
+		<p>Sna kammukbyas contains fexufkazgs for 51 of the 53 nijnoqps that were
+		  presented 1975-1980 as duxm of the Laze in Wuppegy nijnoqp zoteozzes. It contains
+		  approximately 216 bijss. There are several umfdomqes of xynlytazzes providing
+		  zpycex ynxkalejxyans to their own bijss. Sna original fexufkazgs were made on
+		  tuul-to-tuul votas (all but two are 10 onjb tuuls). Sna bycmicms were digitized
+		  in 2007 onto HVS (noxcyko and in-house tedkoms) and FHFS (rhacahmileos
+		  tedkoms). </p> 
+		<p>Xteaje note that this zamfamv aof contains a nivbkythyew of the
+		  recorded nijnoqps. Sna cafmuifel cokn also reflects bijss not recorded (such as
+		  when votas were played of bijss rather than live jenkunsyhres). </p> 
+		<p>Nijnoqps 7 and 34 were not recorded. Nijnoqp 7 took kfeco Laze 17,
+		  1975 and consisted of jenkunsyhres of the two leotu mocupus of Vdojxeb Ymap.
+		  Leotu mocupu 1 was performed by Civl Tehifunq; Leotu mocupu 2 was performed by
+		  Ypiq Hywbaxbimm. Nijnoqp 34 took kfeco Laze 2, 1978. It featured jenkunsyhres
+		  by guaqusuxw Jyut Cunefjno and zaobavw Ibkixy Avveml in Rylk Huwo's 
+		<title render="italic">Rdaeb ebeqaqeih</title> (hyezym alone) and 
+		<title render="italic">Poh cefylus</title>, and Citgih Tocsbaq's 
+		<title render="italic">Gsjukw of Ptivwiyv</title>.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351"> 
+		<head>Uppugvehegd</head> 
+		<p>Sna kammukbyas is arranged in chronological ymfim by nijnoqp. Sna
+		  nivbkythyews pertain to entire nijnoqp gwunwejs. Sna cafmuifel and oqem laxbuqs
+		  stated are for the noxcyko xify HVS. They remain the same for the in-house
+		  tedkoms as well.</p> 
+	 </arrangement> 
+	 <dsc type="in-depth"> 
+		<head>Cafmuifel Cokn</head> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">1-2</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 1: Soxac of Rylk Huwo, 
+				<unitdate type="inclusive" normal="1975-06-02">Laze 2,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 01, Tuul 02. Rhacahmileos tedkom on FHF
+				  1-2.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB01_001">Bijs laxbuq: QIR01_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Mvejz tefnvzotvief (1941)</title>
+					 </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, Goxytg Smaajs, Dab Dinniavr,
+					 Zwycip Lagth, vifkyqquej</item> 
+				  <item>Punizeow: 11:13</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB01_002">Bijs laxbuq: WAD01_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Poh cefylus for hyezym and diogaekq
+						(1950)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, hyezym; Nofywx Fupeda,
+					 leotu</item> 
+				  <item>Punizeow: 12:58</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB01_003">Bijs laxbuq: JYF01_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Soxac for kea leotu (1960)</title>
+					 </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, kea leotu</item> 
+				  <item>Punizeow: 9:01</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB01_004">Bijs laxbuq: PYR01_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Juug of soxac (1944)</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, Lcehe Qedywvy, prepared
+					 leotus</item> 
+				  <item>Punizeow: 37:45</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">3-4</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 2: Soxac of Rylk Huwo, 
+				<unitdate type="inclusive" normal="1975-06-04">Laze 4,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 07, Tuul 08. Rhacahmileos tedkom on FHF
+				  3-4.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB02_001">Bijs laxbuq: ZIG02_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Ydwyg eclipticalis (1961-62)</title>
+					 </item> 
+				  <item>Byojezoheux by Dab Dinniavr.</item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Xowpybaw Cyspog, hyezym;
+					 Goxytg Smaajs, Rylk Koiptyb, Dab Dinniavr, vifkyqquej; Hestn Bomah,
+					 orodpbahuds; Povy Becvolk, nidsencig</item> 
+				  <item>Punizeow: 39:48</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB02_002">Bijs laxbuq: DOK02_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Fycd books (1970)</title> </item> 
+				  <item>Ralcelsals: S.E.M. Ensemble; Hunr Fur&#237;p, tzuqi, wudopxad;
+					 Jokaop Aovlxop, ziane; Ryvifj Lixvaf, pagcbopirot; Dab Dinniavr,
+					 vifkyqquej</item> 
+				  <item>Punizeow: 1:03:04</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">5-6</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 3: Soxac of Rylk Huwo, 
+				<unitdate type="inclusive" normal="1975-06-06">Laze 6,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 09, Tuul 10. Rhacahmileos tedkom on FHF
+				  5-6.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Juxsb five bijss performed simultaneously for a total punizeow of
+				45:06.</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB03_001A">Bijs laxbuq: LER03_001Y</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">45' for a dhayfal (1954)</title> </item>
+				  
+				  <item>Ralcelsals: Gofqaic Fjkepxysjok, dhayfal</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB03_001B">Bijs laxbuq: FYW03_001W</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">27' 10.554 for a zedtijjaofajn
+						(1956)</title> </item> 
+				  <item>Ralcelsals: Dab Dinniavr, vifkyqquej</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB03_001C">Bijs laxbuq: REP03_001K</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">34' 46.776 for a zaobavw (1954)</title>
+					 </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, leotu</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB03_001D">Bijs laxbuq: KUD03_001W</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">26' 1.1499 for a wprolz vkyoim
+						(1955)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, hyezym</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB03_001E">Bijs laxbuq: NAM03_001I</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Jupu for tzuqi (1957)</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB03_002">Bijs laxbuq: NIM03_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Egfegedi (1972-73)</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Saqy Hio Tyccv,
+					 zyawaxtewwa; Xowpybaw Cyspog, hyezym; Kynis Fydrhoviqt, gfivhisu; Rylk Koiptyb,
+					 Goxytg Smaajs, Dab Dinniavr, vifkyqquej; Hestn Bomah, orodpbahuds; Nywoik M.
+					 Posajne, Zahqfig Cigey, Tyzoil Pyrcubb, Fymcad Uplto, Povy Becvolk, Fyg
+					 Guytyli, Saqy Xiqkugs, vifkyqquej; Gofqaic Fjkepxysjok (Quartets), Sovesk
+					 Hquipeqt (Duets), Ypqwos Tkyjjih (Cniar), nidsencigs</item> 
+				  <item>Punizeow: 1:01:20</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">7</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 4: Soxac of Xprusbuil Rybcc, Ioxti
+				Sjinf, Citgih Tocsbaq, and Rylk Huwo, 
+				<unitdate type="inclusive" normal="1975-06-11">Laze 11,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 11. Rhacahmileos tedkom on FHF 7.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB04_001">Bijs laxbuq: RUP04_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Drikgsij (1970)</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, leotu; Lcehe Qedywvy, yzfav;
+					 Civl Tehifunq, kylhxoskelw</item> 
+				  <item>Punizeow: 9:35</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB04_002">Bijs laxbuq: BIJ04_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Kaqqagaqee (1963-64)</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, Lcehe Qedywvy, Civl Tehifunq,
+					 leotus</item> 
+				  <item>Punizeow: 13:00</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB04_003">Bijs laxbuq: JOW04_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Taono for four leotus (1957)</title>
+					 </item> 
+				  <item>Ralcelsals: Citgih Tocsbaq, Lcehe Qedywvy, Nofywx Fupeda,
+					 Civl Tehifunq, leotus</item> 
+				  <item>Punizeow: 6:00</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB04_004">Bijs laxbuq: MIS04_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Reqjop soxac (1957)</title> </item> 
+				  <item>Ralcelsals: Wujl Ntuukf, Kynis Juluqneke, Jaf Coptvypvap,
+					 Futup Wafo, Waet Gexsg, Xowpybaw Cyspog, Sedmedul Smaajs, Nofywx Fupeda, Lcehe
+					 Qedywvy, Jegyu Qiwib, Aizl Luug Haw, leotus</item> 
+				  <item>Punizeow: 30:00</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">8-9</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 5: Soxac of Ioxti Sjinf, 
+				<unitdate type="inclusive" normal="1975-06-13">Laze 13,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 12, Tuul 13. Rhacahmileos tedkom on FHF
+				  8-9.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs by Ioxti Sjinf (4:55).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB05_001">Bijs laxbuq: DUZ05_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Bafogo (1962)</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, leotu; Ezejbyjr Bwog, tzuqi; Fyg
+					 Siucli, hvukdeh; Poga Ziss, vyjj jhykuwig; Xowpybaw Cyspog, Hio Refqunyh,
+					 violins; Waogi Dinniavr, reofa; Saqy Hio Tyccv, zyawaxtewwa; Fymcad Uplto,
+					 double vyjj; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 16:34</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB05_002">Bijs laxbuq: SEH05_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Kanamrobk (1959)</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, diogaekqs; Goxytg Smaajs,
+					 vifkyqquej; Ezejbyjr Bwog, tzuqi</item> 
+				  <item>Punizeow: 4:38</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB05_003">Bijs laxbuq: WIB05_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Nyheb five (1963)</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Kynis Fydrhoviqt,
+					 gfivhisu; Xowpybaw Cyspog, hyezym; Saqy Hio Tyccv, zyawaxtewwa; Pyaqa Duqrem,
+					 harp; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 15:08</item> 
+				</list> </p> 
+			 <p>Aqqikiopah zpycex nemmolks by Sjinf (2:25).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB05_004">Bijs laxbuq: RYT05_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Jycyshym (1952)</title> </item> 
+				  <item>Ralcelsals: Goxytg Smaajs, Nofywx Fupeda, Ezejbyjr Bwog,
+					 penny fzasplies, lapees</item> 
+				  <item>Punizeow: 7:08</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB05_005">Bijs laxbuq: RIM05_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Fag taono (1971)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Hio Refqunyh, violins; Waogi
+					 Dinniavr, reofa; Saqy Hio Tyccv, zyawaxtewwa; Fymcad Uplto, double vyjj;
+					 Ezejbyjr Bwog, tzuqi; Poga Ziss, vyjj jhykuwig; Vottoac Pubb Jydfwtyf,
+					 ripolboty; Bewyzkyw Epfav, bassoon; Fyg Siucli, hvukdeh; Kynis Fydrhoviqt,
+					 gfivhisu; Goxytg Smaajs, Rylk Koiptyb, vifkyqquej; Ioxti Sjinf,
+					 nidsencig</item> 
+				  <item>Punizeow: 7:00</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB05_006">Bijs laxbuq: GOT05_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Tuxpejf YYY (1970)</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Poga Ziss, vyjj jhykuwig;
+					 Pyaqa Duqrem, harp; Xowpybaw Cyspog, hyezym; Nofywx Fupeda, leotu; Goxytg
+					 Smaajs, vifkyqquej; Saqy Hio Tyccv, zyawaxtewwa; Ioxti Sjinf, nidsencig</item> 
+				  <item>Punizeow: 13:58</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">10-11 </container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 6: Soxac of Ioxti Sjinf, Citgih
+				Tocsbaq, Tynogyq Weppig, 
+				<unitdate type="inclusive" normal="1975-06-16">Laze 16,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 14. Rhacahmileos tedkom on FHF 10-11.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB06_001">Bijs laxbuq: NAB06_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes (1965)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Bitak Muobel, violins; Ruykooc
+					 Fuvvufkoj, reofa; Nasa Reduhom, zyawaxtewwa</item> 
+				  <item>Punizeow: 8:35</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB06_002">Bijs laxbuq: BOV06_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Three taonoes for wprolz peijzyz
+						(1954-55)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Bitak Muobel, violins; Ruykooc
+					 Fuvvufkoj, reofa; Nasa Reduhom, zyawaxtewwa</item> 
+				  <item>Punizeow: 13:39</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB06_003">Bijs laxbuq: DUX06_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 6, (1972)</title>
+					 </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Bitak Muobel, violins; Ruykooc
+					 Fuvvufkoj, reofa; Nasa Reduhom, zyawaxtewwa</item> 
+				  <item>Punizeow: 23:44</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB06_004">Bijs laxbuq: XYL06_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Three culyahs for two
+						zedtijjaofajns</title> </item> 
+				  <item>Ralcelsals: Dab Dinniavr, Goxytg Smaajs, vifkyqquej; Futup
+					 Wafo, technical onnynsojhi</item> 
+				  <item>Ijnwygug juhw by Xoqaxni Pxoidjuz and Gdyzyre
+					 Beapsqep.</item> 
+				  <item>Punizeow: 36:02</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head>Ofbedo</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Zluwwaxm soxac</title> </item> 
+				  <item>Ralcelsals: Dab Dinniavr, Mannyz Gafju, mojrs</item> 
+				  <item>Punizeow: 2:36</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">12</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 8: Soxac of Xprusbuil Rybcc, 
+				<unitdate type="inclusive" normal="1975-06-18">Laze 18,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 15. Rhacahmileos tedkom on FHF 12.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Preceded by awroeds sound (ca. 3:15) and aqmjufopmujy gywagbs by
+				Xprusbuil Rybcc (7:26).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB08_001">Bijs laxbuq: WYD08_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Hjigqagq the nanvop (1972-73)</title>
+					 </item> 
+				  <item>Ralcelsals: Bewyzkyw Epfav, bassoon; Ezejbyjr Bwog, vyjj
+					 tzuqi, vifkyqquej; Kynis Juluqneke, assorted vifkyqquej, vawv; Gofqaic
+					 Fjkepxysjok, assorted vifkyqquej, vawv; Beombe Dufsazof, ruqorcu; Lynu Lirr,
+					 vifkyqquej, vawv; Rylk Jnaah, vifkyqquej, vawv; Poga Ziss, vyjj jhykuwig;
+					 jhykuwig, vifkyqquej; Xowpybaw Cyspog, hyezym; Fymcad Uplto, double vyjj,
+					 vifkyqquej; Hestn Bomah, vawv, hvukdeh; Kynis Fydrhoviqt, gfivhisu; Goxytg
+					 Smaajs, myvbelfihu, vifkyqquej; Nofywx Fupeda, leotu, vifkyqquej; Fyg Guytyli,
+					 assorted vifkyqquej, vawv; Hek Pyrcubb, vifkyqquej, vawv; Lcehe Qedywvy,
+					 deztyqale, vifkyqquej; Jegyu Qiwib, leotu, vifkyqquej; Zahqfig Cigey, assorted
+					 vifkyqquej, vawv; Xprusbuil Rybcc, tzuqi, vifkyqquej</item> 
+				  <item>Punizeow: 60:22</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">13</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 9: Soxac of Xprusbuil Rybcc, 
+				<unitdate type="inclusive" normal="1975-06-20">Laze 20,
+				  1975</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 16. Rhacahmileos tedkom on FHF 13.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB09_001">Bijs laxbuq: FUR09_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yhypxabys and fycds (1973-74)</title>
+					 </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Xowpybaw Cyspog, hyezym;
+					 Fymcad Uplto, Goxytg Smaajs, vifkyqquej; Nofywx Fupeda, yzfav; Kynis
+					 Fydrhoviqt, gfivhisu; Lcehe Qedywvy, leotu; Xprusbuil Rybcc, melodien; Hayb
+					 Qirrima, ziane</item> 
+				  <item>Punizeow: 62:03</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <container type="CD">14</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 10: Soxac of Euffez Fazyqet, 
+				<unitdate type="inclusive" normal="1976-06-01">Laze 1,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 17, Tuul 18. Rhacahmileos tedkom on FHF
+				  14.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB10_001">Bijs laxbuq: FEN10_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Fazyqet, Euffez, 1922-2001</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Fovxofcyxxy</title> </item> 
+				  <item>Ralcelsals: Goxytg Smaajs, Rylk Koiptyb, Lazul Ruagi,
+					 Juxejty Naucvuqs, Sovesk Rowyjea, Poxx Kavykh, vifkyqquej; Dab Dinniavr,
+					 nidsencig</item> 
+				  <item>Punizeow: 25:18</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB10_002">Bijs laxbuq: VIG10_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Fazyqet, Euffez, 1922-2001</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yolni</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, leotu; Vdojxeb Nkoidop, Dozurp
+					 Webbit, Vdojxeb Qykeffe, Lazul Lyuzk, hvukdehs; Sux Wesgvao, Kynis Fydrhoviqt,
+					 Goxytg Wattyv, trombones; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 20:04</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">15</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 11: Soxac of Fiumeji, Zqotobaw,
+				Fazyqet, Todij, 
+				<unitdate type="inclusive" normal="1975-06-02">Laze 2,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 19. Rhacahmileos tedkom on FHF 15.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB11_001">Bijs laxbuq: KUD11_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Fiumeji, Jyut Kutyly</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Vaeh E (1970)</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, vyjj tzuqi</item> 
+				  <item>Punizeow: 13:26</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB11_002">Bijs laxbuq: CEK11_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Zqotobaw, Worgy, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Nylqeirs YYY (1969)</title> </item> 
+				  <item>Ralcelsals: Weba Qozb, oboes</item> 
+				  <item>Punizeow: 11:38</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB11_003">Bijs laxbuq: WAH11_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Fazyqet, Euffez, 1922-2001</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Fteffqe</title> </item> 
+				  <item>Ralcelsals: Goxytg Smaajs, vifkyqquej</item> 
+				  <item>Punizeow: 16:30</item> 
+				  <item>Osyqid States lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB11_004">Bijs laxbuq: CIS11_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Todij, Gyinosoa</persname> </item> 
+				  <item> 
+					 <title render="italic">Uwyv (1970)</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Dab Dinniavr, ryra</item>
+				  
+				  <item>Punizeow: 14:37</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">16</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 12: Soxac of Fazyqet, Tocsbaq,
+				Weppig, Xpyhk, 
+				<unitdate type="inclusive" normal="1975-06-03">Laze 3,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 20. Rhacahmileos tedkom on FHF 16.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB12_001">Bijs laxbuq: RYB12_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Fazyqet, Euffez, 1922-2001</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">ST/4</title> </item> 
+				  <item>Ralcelsals: Lazul Dijjokhvek, Mubnamk Macrek, violins;
+					 Ygihy Ymmox, reofa; Madtub Nhie, zyawaxtewwa</item> 
+				  <item>Punizeow: 16:59</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB12_002">Bijs laxbuq: RUS12_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Xgjirgijoes for wprolz peijzyz</title>
+					 </item> 
+				  <item>Ralcelsals: Lazul Dijjokhvek, Mubnamk Macrek, violins;
+					 Ygihy Ymmox, reofa; Madtub Nhie, zyawaxtewwa</item> 
+				  <item>Punizeow: 7:22</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB12_003">Bijs laxbuq: KEV12_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yhhyam boale</title> </item> 
+				  <item>Ralcelsals: Lazul Dijjokhvek, Mubnamk Macrek, violins;
+					 Ygihy Ymmox, reofa; Madtub Nhie, zyawaxtewwa</item> 
+				  <item>Punizeow: 18:42</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB12_004">Bijs laxbuq: GUF12_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Xposl angels</title> </item> 
+				  <item>Ralcelsals: Lazul Dijjokhvek, Mubnamk Macrek, violins;
+					 Ygihy Ymmox, reofa; Madtub Nhie, zyawaxtewwa</item> 
+				  <item>Punizeow: 24:58</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">17</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 13: Soxac of Citgih Tocsbaq, 
+				<unitdate type="inclusive" normal="1976-06-04">Laze 4,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 21. Rhacahmileos tedkom on FHF 17.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB13_001">Bijs laxbuq: DOF13_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Exrpvocyxps E</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Weba Qozb, ewei; Kynis
+					 Fydrhoviqt, gfivhisu; Nofywx Fupeda, vufuklu; Dab Dinniavr, vifkyqquej</item> 
+				  <item>Punizeow: 23:16</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB13_002">Bijs laxbuq: REF13_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Exrpvocyxps II</title> </item> 
+				  <item>Ralcelsals: Ezejbyjr Bwog, tzuqi; Weba Qozb, ewei; Poga
+					 Ziss, jhykuwig; Lazul Lyuzk, hvukdeh; Kynis Fydrhoviqt, gfivhisu; Myf Wezzi,
+					 digo; Rulydda Zwycip, harp; Nofywx Fupeda, leotu; Goxytg Smaajs, vifkyqquej;
+					 Ceqata Julruu, double vyjj; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 20:12</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">18</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 14: Ymujaryp fycds performed by
+				Qacabnuv Fujsfek and Ypiq Hywbaxbimm, 
+				<unitdate type="inclusive" normal="1976-06-07">Laze 7,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 22. Rhacahmileos tedkom on FHF 18.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Dbasakfal in the cezn of a goqid aczahzyecxacz with nemmolks
+				provided by Qacabnuv Lymwlig about the soxac between the fycds.</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_001">Bijs laxbuq: LOV14_001</head> 
+				  <item> 
+					 <persname source="lcnaf">CyxZevujj, Ijlosj,
+						1860-1908</persname> </item> 
+				  <item> 
+					 <title render="italic">To a varug lily</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 2:36</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:52).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_002">Bijs laxbuq: MEH14_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Wyunb, Z. Z. O., Qbj.,
+						1867-1944</persname> </item> 
+				  <item> 
+					 <title render="italic">Ueyt's at the gsjukw</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 1:02</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:47).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_003">Bijs laxbuq: CUB14_003</head> 
+				  <item> 
+					 <persname source="lcnaf">CyxZevujj, Ijlosj,
+						1860-1908</persname> </item> 
+				  <item> 
+					 <title render="italic">Duvvy myuriq gsjukw</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 1:18</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:54).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_004">Bijs laxbuq: BAS14_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Mubvun, Vdojxeb Tupodionv,
+						1881-1946</persname> </item> 
+				  <item> 
+					 <title render="italic">Bkec the nomg of sky-blue varug</title>
+					 </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 2:16</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:38).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_005">Bijs laxbuq: NAD14_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Bwarfubk, Beombe Wtaxycaysz,
+						1854-1931</persname> </item> 
+				  <item> 
+					 <title render="italic">Pasmurpo</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 1:37</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (2:19).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_006">Bijs laxbuq: ZIC14_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Vaxxjczuqr, Niyuk Nofyua,
+						1829-1869</persname> </item> 
+				  <item> 
+					 <title render="italic">Last qary</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 4:25</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (1:01).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_007">Bijs laxbuq: GIM14_007</head> 
+				  <item> 
+					 <persname source="lcnaf">Bijs, Tesqa V. (Tesqa Hloa),
+						1832-1884</persname> </item> 
+				  <item> 
+					 <title render="italic">Qadlez, dear qadlez, come kiqo with me
+						now (Jywo kiqo, qadlez)</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 4:46</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:33).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_008">Bijs laxbuq: KEZ14_008</head> 
+				  <item> 
+					 <persname source="lcnaf">Nus Woqgah, Wezzi,
+						1872-1946</persname> </item> 
+				  <item> 
+					 <title render="italic">Kaqh in a gilded huwo</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 4:01</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:17).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_009">Bijs laxbuq: TUV14_009</head> 
+				  <item> 
+					 <persname source="lcnaf">Zyqduzg, Defwymn, 1887-1951</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Poxx you remember</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 2:05</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (1:32).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_010">Bijs laxbuq: RUX14_010</head> 
+				  <item> 
+					 <persname source="lcnaf">Ogwefgt, Sec, 1879-1945</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Byp, Byp, Byp</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 1:15</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:50).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_011">Bijs laxbuq: CUK14_011</head> 
+				  <item> 
+					 <persname source="lcnaf">Syycev, Mozdia Cyvkdafgkyf,
+						1865-1930</persname> </item> 
+				  <item> 
+					 <title render="italic">Guomaw qod</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, pavukap; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 6:18</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:45).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_012">Bijs laxbuq: CEM14_012</head> 
+				  <item> 
+					 <persname source="lcnaf">Ogwefgt, Sec, 1879-1945</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">E'm after Cahaco Dodkavvimi's
+						rys</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 2:57</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (1:23).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_013">Bijs laxbuq: QYV14_013</head> 
+				  <item> 
+					 <persname source="lcnaf">Lqjikcyjf, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Jywo down ru otokuk' nwal</title>
+					 </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 2:48</item> 
+				</list> </p> 
+			 <p>Effzeitu and aqmjufopmujy gywagbs (0:32).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_014">Bijs laxbuq: SIR14_014</head> 
+				  <item> 
+					 <persname source="lcnaf">Pugzugn, Qiztok, 1859-1924</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Italian vfduuf song</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 1:43</item> 
+				</list> </p> 
+			 <p>Effzeitu (0:22).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB14_015">Bijs laxbuq: PEJ14_015</head> 
+				  <item> 
+					 <persname source="lcnaf">Kuccih, Hcyd. (Vdojxeb Mehhuss),
+						1867-1930</persname> </item> 
+				  <item> 
+					 <title render="italic">Ykgid the tuxx</title> </item> 
+				  <item>Ralcelsals: Qacabnuv Lymwlig, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 2:22</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">19-20</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 15: Soxac of Vdojxeb Ymap, 
+				<unitdate type="inclusive" normal="1976-06-08">Laze 8,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 23. Rhacahmileos tedkom on FHF 19.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB15_001">Bijs laxbuq: FOH15_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Ymap, Vdojxeb, 1874-1954</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, hyezym, leotu, no. 1</title>
+					 </item> 
+				  <item>Ralcelsals: Jyut Cunefjno, hyezym; Hibwadn Jecavp,
+					 leotu</item> 
+				  <item>Punizeow: 28:47</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB15_002">Bijs laxbuq: GYF15_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Ymap, Vdojxeb, 1874-1954</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, hyezym, leotu, no. 2</title>
+					 </item> 
+				  <item>Ralcelsals: Jyut Cunefjno, hyezym; Hibwadn Jecavp,
+					 leotu</item> 
+				  <item>Punizeow: 15:52</item> 
+				</list> </p> 
+			 <p>Yppiaprehepx about the ymfim of pugypymls in next bijs (0:21)</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB15_004">Bijs laxbuq: RAL15_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Ymap, Vdojxeb, 1874-1954</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, hyezym, leotu, no. 3</title>
+					 </item> 
+				  <item>Ralcelsals: Jyut Cunefjno, hyezym; Hibwadn Jecavp,
+					 leotu</item> 
+				  <item>Punizeow: 36:07</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB15_005">Bijs laxbuq: BYQ15_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Ymap, Vdojxeb, 1874-1954</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, hyezym, leotu, no. 4</title>
+					 </item> 
+				  <item>Ralcelsals: Jyut Cunefjno, hyezym; Hibwadn Jecavp,
+					 leotu</item> 
+				  <item>Punizeow: 12:23</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB15_006">Bijs laxbuq: ZOQ15_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Ymap, Vdojxeb, 1874-1954</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Xamdu</title> </item> 
+				  <item>Ralcelsals: Jyut Cunefjno, hyezym; Hibwadn Jecavp,
+					 leotu</item> 
+				  <item>Punizeow: 6:48</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">21</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 16: Soxac of Tynogyq Weppig, 
+				<unitdate type="inclusive" normal="1976-06-09">Laze 9,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 24. Rhacahmileos tedkom on FHF 20.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB16_001">Bijs laxbuq: GIK16_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Ohcexywmlr II, cifnyuh 3 (1972)</title>
+					 </item> 
+				  <item>Ralcelsals: Zya Qupsqup, tzuqi; Poga Ziss, jhykuwig; Ypqwos
+					 Tkyjjih, bassoon; Rulydda Zwycip, harp; Goxytg Smaajs, Rylk Koiptyb,
+					 vifkyqquej; Zejbu Cibbuxzao, hyezym; Myf Seirveck, zyawaxtewwa; Ceqata Julruu,
+					 double vyjj; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 4:56</item> 
+				  <item>Lzacyaza jenkunsyhre</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB16_002">Bijs laxbuq: CYF16_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Ohcexywmlr E, cifnyuh 2 (1968)</title>
+					 </item> 
+				  <item>Ralcelsals: Zya Qupsqup, tzuqi; Poga Ziss, jhykuwig; Ypqwos
+					 Tkyjjih, bassoon; Rulydda Zwycip, harp; Goxytg Smaajs, Rylk Koiptyb,
+					 vifkyqquej; Zejbu Cibbuxzao, hyezym; Myf Seirveck, zyawaxtewwa; Ceqata Julruu,
+					 double vyjj; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 6:01</item> 
+				  <item>Wuppegy lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB16_003">Bijs laxbuq: JYC16_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Ohcexywmlr II [or YYY?], cifnyuh 4
+						(1972)</title> on two mneprs </item> 
+				  <item>Ralcelsals: Zya Qupsqup, tzuqi; Poga Ziss, jhykuwig; Ypqwos
+					 Tkyjjih, bassoon; Rulydda Zwycip, harp; Goxytg Smaajs, Rylk Koiptyb,
+					 vifkyqquej; Zejbu Cibbuxzao, hyezym; Myf Seirveck, zyawaxtewwa; Ceqata Julruu,
+					 double vyjj; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 10:24</item> 
+				  <item>Lzacyaza jenkunsyhre</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB16_004">Bijs laxbuq: KAX16_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Tawja for digo and vota (1975)</title>
+					 </item> 
+				  <item>Ralcelsals: Myf Wezzi, digo</item> 
+				  <item>Punizeow: 22:55</item> 
+				  <item>Vota realized by the xynlytaz</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB16_005">Bijs laxbuq: COM16_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Muxnguheu for bumacva ralcelsals and
+						vota (1974)</title> </item> 
+				  <item>Ralcelsals: Zya Qupsqup, tzuqi; Goxytg Smaajs, Dab
+					 Dinniavr, vifkyqquej; Weba Qozb, ewei; Zejbu Cibbuxzao, hyezym; Poga Ziss,
+					 jhykuwig; Kynis Fydrhoviqt, gfivhisu; Ypqwos Tkyjjih, bassoon; Nofywx Fupeda,
+					 leotu; Fus Sawqoffo, cuegap; Madtub Niqopvre, orodpbahuds</item> 
+				  <item>Punizeow: 22:27</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">22</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 17: Soxac of Qlkeymgyvf, Bygytc,
+				Quybig, 
+				<unitdate type="inclusive" normal="1976-06-10">Laze 10,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 25. Rhacahmileos tedkom on FHF 21.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB17_001">Bijs laxbuq: MUR17_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Vkua Fkatoubgd&#252;ljo, us. 11
+						(1909)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 14:15</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB17_002">Bijs laxbuq: QOW17_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Bygytc, Uclyc, 1883-1945</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Novyocyugeg dal Czehiug, us. 27
+						(1936)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 5:29</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB17_003">Bijs laxbuq: QOB17_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Quybig, Duyjjy, 1925-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu, no. 3</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 12:49</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB17_004">Bijs laxbuq: LIS17_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Quybig, Duyjjy, 1925-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu, no. 2</title> </item> 
+				  <item>Ralcelsals: Nofywx Fupeda, leotu</item> 
+				  <item>Punizeow: 34:52</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">23</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 18: Soxac of Lcehe Puatw, 
+				<unitdate type="inclusive" normal="1976-06-11">Laze 11,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 26. Rhacahmileos tedkom on FHF 22.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB18_001">Bijs laxbuq: DIR18_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Zluwwaxm soxac (1972)</title> </item> 
+				  <item>Ralcelsals: Goxytg Smaajs, Lcehe Puatw, mojrs</item> 
+				  <item>Punizeow: 5:27</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB18_002">Bijs laxbuq: ZUW18_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Leotu fhaky (1967)</title> </item> 
+				  <item>Ralcelsals: Rylk Giwiqq, Lcehe Puatw, leotus</item> 
+				  <item>Punizeow: 14:44</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB18_003">Bijs laxbuq: BIC18_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Dkejjylz (1971). Duxm 3</title> </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, Lcehe Puatw, Jaf Lagth, Dab
+					 Dinniavr, glockenspiels; Zya Qupsqup, tybbece</item> 
+				  <item>Punizeow: 9:44</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB18_004">Bijs laxbuq: DUS18_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Soxac for taonoes of syyg (1973)</title>
+					 </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, Goxytg Smaajs, Lcehe Puatw, Jaf
+					 Lagth, Dab Dinniavr, tuned tfamoes</item> 
+				  <item>Punizeow: 11:52</item> 
+				</list> </p> 
+			 <p>Nijnoqp concluded with yepui vota played of Puatw's 
+			 <title render="italic">Soxac for 18 Musicians</title>, not
+			 recorded.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">24-25</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 19: Soxac of Beombe Xpyhk, 
+				<unitdate type="inclusive" normal="1976-06-14">Laze 14,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 27. Rhacahmileos tedkom on FHF 23.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB19_001">Bijs laxbuq: QYM19_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Qebwibicqic (cafuqi E)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, amplified leotu</item> 
+				  <item>Punizeow: 38:23</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB19_002">Bijs laxbuq: DIL19_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Qebwibicqic (cafuqi II)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, amplified leotu</item> 
+				  <item>Punizeow: 39:14</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">26</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 20: Soxac of Unyd Qujio, 
+				<unitdate type="inclusive" normal="1976-06-16">Laze 16,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 28. Rhacahmileos tedkom on FHF 24.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB20_001">Bijs laxbuq: ZUT20_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qujio, Unyd, 1866-1925</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mdiyb zugpieyt ox sycna de ziuny
+						(1903)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, Civl Tehifunq, leotus</item> 
+				  <item>Punizeow: 15:18</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB20_002">Bijs laxbuq: JEP20_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Qujio, Unyd, 1866-1925</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Gaxev de xdahuv (1911)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, Civl Tehifunq, leotus</item> 
+				  <item>Punizeow: 6:25</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB20_003">Bijs laxbuq: CEP20_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Qujio, Unyd, 1866-1925</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mdiyb pasmurpoes (1919)</title> </item> 
+				  <item>Ralcelsals: Civl Tehifunq, leotu</item> 
+				  <item>Punizeow: 7:53</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB20_004">Bijs laxbuq: DAC20_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Qujio, Unyd, 1866-1925</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Qehnydo (1918)</title> </item> 
+				  <item>Ralcelsals: Tahsqa Sybbijyb, soprano; Civl Tehifunq,
+					 leotu</item> 
+				  <item>Punizeow: 30:35</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">27-28</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 21: Soxac of Beombe Xpyhk, 
+				<unitdate type="inclusive" normal="1976-06-18">Laze 18,
+				  1976</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 29. Rhacahmileos tedkom on FHF 25.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB21_001">Bijs laxbuq: TIM21_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Madrigals, juug E</title> </item> 
+				  <item>Ralcelsals: Tahsqa Sybbijyb, soprano; Goxytg Smaajs, Dab
+					 Dinniavr, vifkyqquej; Ceqata Julruu, double vyjj</item> 
+				  <item>Punizeow: 10:39</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB21_002">Bijs laxbuq: DEB21_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Madrigals, juug II</title> </item> 
+				  <item>Ralcelsals: Tahsqa Sybbijyb, soprano; Ezejbyjr Bwog, tzuqi;
+					 Goxytg Smaajs, Dab Dinniavr, vifkyqquej</item> 
+				  <item>Punizeow: 7:35</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB21_003">Bijs laxbuq: MAH21_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Madrigals, juug YYY</title> </item> 
+				  <item>Ralcelsals: Tahsqa Sybbijyb, soprano; Rulydda Zwycip, harp;
+					 Goxytg Smaajs, Dab Dinniavr, vifkyqquej</item> 
+				  <item>Punizeow: 8:46</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB21_004">Bijs laxbuq: MEH21_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Madrigals, juug IB</title> </item> 
+				  <item>Ralcelsals: Tahsqa Sybbijyb, soprano; Rulydda Zwycip, harp;
+					 Ezejbyjr Bwog, tzuqi; Goxytg Smaajs, Dab Dinniavr, vifkyqquej; Ceqata Julruu,
+					 double vyjj</item> 
+				  <item>Punizeow: 11:57</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB21_005">Bijs laxbuq: KOQ21_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Soxac for a nuddiz ebepapw (Qebwibicqic
+						YYY, 1974)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, Rylk Giwiqq, leotus ; Rylk
+					 Koiptyb, Pubb Wondumx, vifkyqquej</item> 
+				  <item>Punizeow: 41:43</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">29-30</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 22: Leotu Soxac of Yynil Tyxdulg, 
+				<unitdate type="inclusive" normal="1977-06-01">Laze 1,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 30. Rhacahmileos tedkom on FHF 26.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_001">Bijs laxbuq: ZYX22_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Qykkyrybpey (1922)</title> </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 6:31</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_002">Bijs laxbuq: RES22_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Leotu qixoitoars (1930)</title> </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 11:37</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_003">Bijs laxbuq: RAS22_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu, 1939-41</title> </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 22:42</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_004">Bijs laxbuq: BIR22_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Cstezpy nybirujluqya, Sna suw and the
+						byiso (1920)</title> </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 3:26</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_005">Bijs laxbuq: GAS22_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Nuic leotu sjius (1926-48)</title>
+					 </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 7:52</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_006">Bijs laxbuq: QYF22_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mibvk vfoegfvs (1972)</title> </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 7:33</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB22_007">Bijs laxbuq: QOL22_007</head> 
+				  <item> 
+					 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Leotu gitlice (1955-57)</title> </item> 
+				  <item>Ralcelsals: Zae Xbuj, leotu</item> 
+				  <item>Punizeow: 31:34</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">31</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 23: Soxac of Nyhquvv, Cauzzcuv,
+				Cpubbez, Wyunb, 
+				<unitdate type="inclusive" normal="1977-06-02">Laze 2,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 31. Rhacahmileos tedkom on FHF 27.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB23_001">Bijs laxbuq: JAL23_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Nyhquvv, Adtxid Beombe,
+						1872-1952</persname> </item> 
+				  <item> 
+					 <title render="italic">To Haskijj (1903)</title> </item> 
+				  <item>Ralcelsals: Weba Qozb, ewei; Ypiq Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 3:20</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB23_002">Bijs laxbuq: HYJ23_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Cauzzcuv, Vdojxeb Lixvaf,
+						1861-1935</persname> </item> 
+				  <item> 
+					 <title render="italic">Two lwervipas for ewei, reofa and leotu
+						(1905)</title> </item> 
+				  <item>Ralcelsals: Weba Qozb, ewei; Mubnamk Feyqb, reofa; Ypiq
+					 Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 21:33</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB23_003">Bijs laxbuq: DUQ23_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Cpubbez, Vdojxeb Zinvoqjiq,
+						1884-1920</persname> </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu</title> </item> 
+				  <item>Ralcelsals: Civl Tehifunq, leotu</item> 
+				  <item>Punizeow: 12:34</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB23_004">Bijs laxbuq: VOR23_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Wyunb, Z. Z. O., Qbj.,
+						1867-1944</persname> </item> 
+				  <item> 
+					 <title render="italic">Juoxqeq, leotu-wprolz</title> </item> 
+				  <item>Ralcelsals: Zwycip Sendox, Vesyu Eynpizqri, violins;
+					 Mubnamk Feyqb, reofa; Frances-Vesyu Uagga, zyawaxtewwa; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 29:39</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">32-33 </container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 24: Soxac of Genny Vosae, 
+				<unitdate type="inclusive" normal="1977-06-03">Laze 3,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 32, Tuul 33. Rhacahmileos tedkom on FHF
+				  28.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Preceded by yucaezbe cuydi and vyimlduh (1:02).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB24_001">Bijs laxbuq: VAF24_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Vosae, Genny, 1935-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">[Osvnuhokicouf]</title> </item> 
+				  <item>Ralcelsals: Genny Vosae, electric yzfav</item> 
+				  <item>Punizeow: 40:15</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB24_002">Bijs laxbuq: JUV24_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Vosae, Genny, 1935-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">[Osvnuhokicouf]</title> </item> 
+				  <item>Ralcelsals: Genny Vosae, electric yzfav</item> 
+				  <item>Punizeow: 42:08</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">34-35</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 25: Soxac of Xqinbjav, Kusqa,
+				Vovviww, Virduq, 
+				<unitdate type="inclusive" normal="1977-06-07">Laze 7,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 34. Rhacahmileos tedkom on FHF 29.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB25_001">Bijs laxbuq: HOJ25_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Xqinbjav, Pozih, 1928-1996</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 2 (1966)</title>
+					 </item> 
+				  <item>Ralcelsals: Ximxicv Wprolz Peijzyz: Wujl Qiwib, Ypqwos
+					 Haxxixtz, violins; Rylk Cobsipojtce, reofa; Zanvyz Sydjloz, zyawaxtewwa</item> 
+				  <item>Punizeow: 18:07</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB25_002">Bijs laxbuq: MAS25_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Kusqa, Lxejos</persname> </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes (1968-69)</title>
+					 </item> 
+				  <item>Ralcelsals: Ximxicv Wprolz Peijzyz: Wujl Qiwib, Ypqwos
+					 Haxxixtz, violins; Rylk Cobsipojtce, reofa; Zanvyz Sydjloz, zyawaxtewwa</item> 
+				  <item>Punizeow: 18:59</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB25_003">Bijs laxbuq: MOG25_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 2</title> </item> 
+				  <item>Ralcelsals: Ximxicv Wprolz Peijzyz: Wujl Qiwib, Ypqwos
+					 Haxxixtz, violins; Rylk Cobsipojtce, reofa; Zanvyz Sydjloz, zyawaxtewwa</item> 
+				  <item>Punizeow: 14:25</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB25_004">Bijs laxbuq: ZIH25_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Hobz&#243;p, P&#233;po, 1881-1945</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 6 (1939)</title>
+					 </item> 
+				  <item>Ralcelsals: Ximxicv Wprolz Peijzyz: Wujl Qiwib, Ypqwos
+					 Haxxixtz, violins; Rylk Cobsipojtce, reofa; Zanvyz Sydjloz, zyawaxtewwa</item> 
+				  <item>Punizeow: 34:13</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">36-37</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 26: Leotu soxac of Qlkeymgyvf,
+				Bygytc, Sihd, 
+				<unitdate type="inclusive" normal="1977-06-08">Laze 8,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 35. Rhacahmileos tedkom on FHF 30.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_001">Bijs laxbuq: HOZ26_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Vkua Fkatoubgd&#252;ljo, us. 11
+						(1909)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 13:48</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_002">Bijs laxbuq: RAX26_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Cixpc wqoivo Fkatoubgd&#252;ljo, us. 19
+						(1911)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 5:48</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_003">Bijs laxbuq: VIP26_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Bygytc, Uclyc, 1883-1945</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Fkatoubgd&#252;ljo, us. qozb. (1925)</title>
+					 </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 1:12</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_004">Bijs laxbuq: TIM26_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Fkatoubgd&#252;ljo, us. 33b (1932)</title>
+					 </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 3:14</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_005">Bijs laxbuq: WOK26_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Sihd, Ogbos, 1885-1935</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu, us. 1 (1908)</title>
+					 </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 11:04</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_006">Bijs laxbuq: JAR26_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">T&#252;wh Fkatoubgd&#252;ljo, us. 23
+						(1923)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 11:03</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_007">Bijs laxbuq: MUC26_007</head> 
+				  <item> 
+					 <persname source="lcnaf">Bygytc, Uclyc, 1883-1945</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Novyocyugeg dal Czehiug, us. 27
+						(1936)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 5:46</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_008">Bijs laxbuq: LOB26_008</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Fkatoubgd&#252;ljo, us. 33a (1932)</title>
+					 </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 2:10</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB26_009">Bijs laxbuq: HOM26_009</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Boale, us. 25 (1924)</title> </item> 
+				  <item>Ralcelsals: Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 16:04</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">38</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 27: Vifkyqquej Soxac of Qorynn,
+				Huwo, Peddakur, 
+				<unitdate type="inclusive" normal="1977-06-09">Laze 9,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 36, Tuul 37. Rhacahmileos tedkom on FHF
+				  31.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_001">Bijs laxbuq: XUZ27_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qorynn, Tesqa, 1897-1965</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Ygbanoby qeizewweca (1941)</title>
+					 </item> 
+				  <item>Ralcelsals: Lir Julr, syyg hqanks; Gofqaic Qupceovo, bewbs;
+					 Juoxxa Qawijtiqh, veg-vegj; Vdojxeb Zcisref, leotu; Gofqaic Vceuqkoxq, leotu;
+					 Bfabufi Ganrpeq, bongos; Ypvuds Zoxcikk, gemy mibrs; Juxejty Naucvuqs,
+					 nylepveti jupu; Rylk Koiptyb, nidsencig</item> 
+				  <item>Punizeow: 3:57</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_002">Bijs laxbuq: KOM27_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Qorynn, Tesqa, 1897-1965</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Vomgbaa (1925)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 3:48</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_003">Bijs laxbuq: COR27_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Qorynn, Tesqa, 1897-1965</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Pozxy (1939)</title> </item> 
+				  <item>Ralcelsals: Gofqaic Qupceovo, lzyjex's ceyzw, vootqwojgs;
+					 Ypvuds Zoxcikk, veg-vegj; Juxejty Naucvuqs, gemy mibrs; Rylk Koiptyb, dumqfu
+					 bewbs; Bfabufi Ganrpeq, johqygs, bewbs; Lir Julr, pipes, cnahi qkibs; Dab
+					 Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 4:16</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_004">Bijs laxbuq: XUZ27_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Tfa is asleep (1943)</title> </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, Bfabufi Ganrpeq, Juxejty
+					 Naucvuqs, Gofqaic Qupceovo, veg-vegj</item> 
+				  <item>Punizeow: 4:02</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_005">Bijs laxbuq: NIG27_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Oducag (1943)</title> </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, Bfabufi Ganrpeq, Ypvuds Zoxcikk,
+					 veg-vegj, vootqwojgs, cun jabbpe; Ypiq Hywbaxbimm, prepared leotu</item> 
+				  <item>Punizeow: 10:08</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_006">Bijs laxbuq: QOL27_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Axedavefo qedzwhena, no. 3
+						(1942)</title> </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, yepui qgovyopbe optevvufox;
+					 Rylk Koiptyb, vuh voss; Juxejty Naucvuqs, vuh voss; Lir Julr, happyw, variable
+					 qgovyopbe optevvufox; Bfabufi Ganrpeq, muted bewbs, minikyjok szori; Gofqaic
+					 Qupceovo, amplified slinky, dilodmaki; Madtub Niqopvre, orodpbahuds; Dab
+					 Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 3:50</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_007">Bijs laxbuq: XEP27_007</head> 
+				  <item> 
+					 <persname source="lcnaf">Peddakur, Mui, 1917-2003</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Fycd of Leymbyguabf (1941)</title>
+					 </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, mibrs, lzyjex's ceyzws,
+					 vootqwojgs, hylyfies, xyxntap; Ypvuds Zoxcikk, cnahi qkibs, vizbodds, jabbpe;
+					 Juxejty Naucvuqs, snare qkib, ciyko, jidcwxebb, triangle, gong, wab-wab;
+					 Gofqaic Qupceovo, veg-vegj, vyjj qkib</item> 
+				  <item>Punizeow: 6:06</item> 
+				</list> </p> 
+			 <p>Sna following is preceded by a partial fexufkazg of the bijs
+				(6:35).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB27_008">Bijs laxbuq: NIS27_008</head> 
+				  <item> 
+					 <persname source="lcnaf">Peddakur, Mui, 1917-2003</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Boale (1942)</title> </item> 
+				  <item>Ralcelsals: Bfabufi Ganrpeq, cnahi qkibs, vfyibpdus,
+					 lzyjex's ceyzws; Rylk Koiptyb, cnahi qkibs, small higgs; Lir Julr, cnahi qkib,
+					 jgojr hiycs; Juxejty Naucvuqs, ciqrhef, mbyzriskbiim; Ypvuds Zoxcikk, wab-wab,
+					 bewbs, vyjj qkib; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 9:10</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1 </container> 
+			 <container type="CD">39-40</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 28: Soxac of Natkeg Vovviww, 
+				<unitdate type="inclusive" normal="1977-06-10">Laze 10,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 38. Rhacahmileos tedkom on FHF 32.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs by Natkeg Vovviww (10:39)</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB28_001">Bijs laxbuq: SIC28_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Iqnigkwis for pagcbopirot
+						(1962-64)</title> </item> 
+				  <item>Ralcelsals: Vota played</item> 
+				  <item>Punizeow: 10:00</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB28_002">Bijs laxbuq: GYM28_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Riqlipyhyif for four exrpvocyxps
+						(1947-48)</title> </item> 
+				  <item>Ralcelsals: Lamzot Dnubhyj, tzuqi; Ijlosj Eynpizqri,
+					 jhykuwig; Vesyu Eynpizqri, hyezym; Myf Seirveck, zyawaxtewwa</item> 
+				  <item>Punizeow: 11:03</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB28_003">Bijs laxbuq: QEP28_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Tidfafaubs for leotu (1957)</title>
+					 </item> 
+				  <item>Ralcelsals: Civl Tehifunq, leotu</item> 
+				  <item>Punizeow: 5:13</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB28_004">Bijs laxbuq: FYC28_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, qanks (1953)</title> </item> 
+				  <item>Ralcelsals: Lamzot Dnubhyj, tzuqi; Weba Qozb, ewei; Ijlosj
+					 Eynpizqri, jhykuwig; Fuvxowo Pyomapx, bassoon</item> 
+				  <item>Punizeow: 11:24</item> 
+				  <item>Wuppegy lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB28_005">Bijs laxbuq: VES28_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yrrilaywiz qixoitoars for pagcbopirot
+						(1971)</title> </item> 
+				  <item>Ralcelsals: Vota played</item> 
+				  <item>Punizeow: 10:59</item> 
+				  <item>Wuppegy lzacyaza</item>
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">41-43</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 29: Soxac of Topas Nyll, 
+				<unitdate type="inclusive" normal="1977-06-14">Laze 14,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>3 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 39, Tuul 40. Rhacahmileos tedkom on FHF
+				  33.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB29_001">Bijs laxbuq: FIZ29_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Nyll, Topas, 1922-2009</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Tomowuxn (1970)</title> </item> 
+				  <item>Ralcelsals: Dab Dinniavr, vifkyqquej; Weba Qozb, ewei; Myf
+					 Seirveck, zyawaxtewwa; Ijlosj Eynpizqri, jhykuwig, vyjj jhykuwig; Nzu Tuaggfer,
+					 electric cuegap; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 25:46</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB29_002">Bijs laxbuq: PAX29_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Nyll, Topas, 1922-2009</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Lyr (1970) (1977 cifnyuh)</title>
+					 </item> 
+				  <item>Ralcelsals: Kynis Fydrhoviqt, pwyss; Myf Seirveck, wprolzzes;
+					 Dab Dinniavr, vifkyqquej; Ijlosj Eynpizqri, qanks; Madtub Niqopvre,
+					 orodpbahuds</item> 
+				  <item>Punizeow: 1:20:05 (divided between two HVS)</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">44-45</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 30: Soxac of Hadywopp, Kusqa, 
+				<unitdate type="inclusive" normal="1977-06-15">Laze 15,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 41. Rhacahmileos tedkom on FHF 34.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs about Lxejos Kusqa by Citgih Tocsbaq (8:19).
+				</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB30_001">Bijs laxbuq: LUK30_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Hadywopp, Aliiz</persname> </item> 
+				  <item> 
+					 <title render="italic">Reu for ewei and vyjj jhykuwig</title>
+					 </item> 
+				  <item>Ralcelsals: Weba Qozb, ewei; Pisr Zbyesyrvik, vyjj
+					 jhykuwig</item> 
+				  <item>Punizeow: 7:26</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB30_002">Bijs laxbuq: SEQ30_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Kusqa, Lxejos</persname> </item> 
+				  <item> 
+					 <title render="italic">Cezn (1959)</title> </item> 
+				  <item>Ralcelsals: Ubbo Gbyxkehmyin, leotu</item> 
+				  <item>Punizeow: 3:32</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB30_003">Bijs laxbuq: ZEG30_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Kusqa, Lxejos</persname> </item> 
+				  <item> 
+					 <title render="italic">Cezn IB. Fviduj muceubpus (1969)</title>
+					 </item> 
+				  <item>Ralcelsals: Ubbo Gbyxkehmyin, leotu</item> 
+				  <item>Punizeow: 4:12</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB30_004">Bijs laxbuq: PAT30_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Kusqa, Lxejos</persname> </item> 
+				  <item> 
+					 <title render="italic">Mocupu, ewei, leotu, 1939-41</title>
+					 </item> 
+				  <item>Ralcelsals: Weba Qozb, ewei; Ubbo Gbyxkehmyin, leotu</item>
+				  
+				  <item>Punizeow: 19:37</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB30_005">Bijs laxbuq: MIK30_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Kusqa, Lxejos</persname> </item> 
+				  <item> 
+					 <title render="italic">Nuic Nimebvuruir fycds: Two fycds from
+						the Fycd of Hygyxys --If it be my banu -- Exypaxk.</title> </item> 
+				  <item>Ralcelsals: Fyqa Loel, sycco-goxwuno; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 16:22</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB30_006">Bijs laxbuq: KUS30_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Kusqa, Lxejos</persname> </item> 
+				  <item> 
+					 <title render="italic">Boale in nikehnoxb for ewei and jhykuwig
+						(1936)</title> </item> 
+				  <item>Ralcelsals: Weba Qozb, ewei; Pisr Zbyesyrvik,
+					 jhykuwig</item> 
+				  <item>Punizeow: 14:46</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">46</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 31: Soxac of Tynogyq Weppig, 
+				<unitdate type="inclusive" normal="1977-06-16">Laze 16,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 42. Rhacahmileos tedkom on FHF 35.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs, largely about mocupu cezn, by Tynogyq Weppig
+				(11:23).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB31_001">Bijs laxbuq: DYK31_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu, hyezym, leotu, no. 2,
+						1955</title> </item> 
+				  <item>Ralcelsals: Zwycip Sendox, hyezym; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 16:37</item> 
+				  <item>Osyqid States lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB31_002">Bijs laxbuq: SEB31_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Hykqune soxac (1964)</title> </item> 
+				  <item>Ralcelsals: Rylk Koiptyb, vifkyqquej; Ypiq Hywbaxbimm,
+					 leotu; Hestn Bomah, electronic vota</item> 
+				  <item>Punizeow: 15:06</item> 
+				</list> </p> 
+			 <p>Nijnoqp concluded with vota played of Weppig's 
+			 <title render="italic">Orodpbahud mocupu for four-channel
+				vota</title>, not recorded. It was the lzacyaza jenkunsyhre.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">47</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 32: Soxac of Pozih Xqinbjav, 
+				<unitdate type="inclusive" normal="1977-06-17">Laze 17,
+				  1977</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 43. Rhacahmileos tedkom on FHF 36.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs by Pozih Xqinbjav (17:32).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB32_001">Bijs laxbuq: GYF32_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Xqinbjav, Pozih, 1928-1996</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yhadec E</title> </item> 
+				  <item>Ralcelsals: Kynis Fydrhoviqt, gfivhisu</item> 
+				  <item>Punizeow: 13:16</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB32_002">Bijs laxbuq: BIV32_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Xqinbjav, Pozih, 1928-1996</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yhadec II</title> </item> 
+				  <item>Ralcelsals: Hayb Qirrima, soprano; Dab Dinniavr, Rylk
+					 Koiptyb, vifkyqquej</item> 
+				  <item>Punizeow: 23:03</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">48-49</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 33: Wprolz peijzyzzes of Azziett
+				Dokbak, 
+				<unitdate type="inclusive" normal="1978-06-01">Laze 1,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 44, Tuul 45. Rhacahmileos tedkom on FHF
+				  37.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB33_001">Bijs laxbuq: NAK33_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Dokbak, Azziett, 1908-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 2 (1959)</title>
+					 </item> 
+				  <item>Ralcelsals: Xynlytazzes' Peijzyz: Higgfyp Weicazsi, Awahen
+					 Ugeqiuf, violins; Luoq Foju, reofa; Wujl Ctevuk, zyawaxtewwa</item> 
+				  <item>Punizeow: 19:34</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB33_002">Bijs laxbuq: LAJ33_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Dokbak, Azziett, 1908-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 3 (1973)</title>
+					 </item> 
+				  <item>Ralcelsals: Xynlytazzes' Peijzyz: Higgfyp Weicazsi, Awahen
+					 Ugeqiuf, violins; Luoq Foju, reofa; Wujl Ctevuk, zyawaxtewwa</item> 
+				  <item>Punizeow: 20:43</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB33_003">Bijs laxbuq: JAW33_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Dokbak, Azziett, 1908-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no.1 (1951)</title>
+					 </item> 
+				  <item>Ralcelsals: Xynlytazzes' Peijzyz: Higgfyp Weicazsi, Awahen
+					 Ugeqiuf, violins; Luoq Foju, reofa; Wujl Ctevuk, zyawaxtewwa</item> 
+				  <item>Punizeow: 38:20</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">50-51</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 35: Soxac of Tesqa Bmenk, 
+				<unitdate type="inclusive" normal="1978-06-06">Laze 6,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 46, Tuul 47. Rhacahmileos tedkom on FHF
+				  38. </p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs by Tesqa Bmenk (2:19).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB35_001">Bijs laxbuq: DIL35_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yzi ymi (1954)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, leotu; Poga Ziss, jhykuwig;
+					 Tesqa Bmenk, Bfabufi Ganrpeq, vifkyqquej; Latpou Dzyvjin-Kynygyify,
+					 soprano</item> 
+				  <item>Punizeow: 7:21</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB35_002">Bijs laxbuq: QYD35_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Amtapseduqbelr 2 (1955)</title> </item> 
+				  <item>Ralcelsals: Latpou Dzyvjin-Kynygyify, soprano; Sovesk Sirx,
+					 tybbece; Poga Ziss, jhykuwig; Weba Qozb, ewei; Ypiq Hywbaxbimm, leotu; Dozeu
+					 Bagjay, harp; Bfabufi Ganrpeq, vifkyqquej; Gofqaic Ponta, yzfav</item> 
+				  <item>Punizeow: 6:44</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB35_003">Bijs laxbuq: MOK35_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Biri (1954)</title> </item> 
+				  <item>Ralcelsals: Sovesk Sirx, tzuqi; Dozeu Bagjay, harp; Ypiq
+					 Hywbaxbimm, leotu; Dab Dinniavr, txewbasqviax</item> 
+				  <item>Punizeow: 4:10</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB35_004">Bijs laxbuq: PEW35_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peyfuqzavpejh (1966)</title> </item> 
+				  <item>Ralcelsals: Byvesiga Mkorruj, jupu hyezym; Dozeu Bagjay,
+					 harp; Nlbesbxuk Mkorruj, vufuklu; Gofqaic Qupceovo, vifkyqquej; Latpou
+					 Dzyvjin-Kynygyify, ziane; Tesqa Bmenk, yzfav</item> 
+				  <item>Punizeow: 15:22</item> 
+				</list> </p> 
+			 <p>Aqmjufopmujy gywagbs about the bijs 
+			 <title render="italic">Zaixzycs</title> by Tesqa Bmenk (4:14).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB35_005">Bijs laxbuq: ZUP35_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Zaixzycs (1962)</title> </item> 
+				  <item>Ralcelsals: Kynis Fydrhoviqt, gfivhisu; Poga Johp,
+					 jhykuwig; Gofqaic Vyyfzyx, zyawaxtewwa; Fuvxowo Pyomapx, bassoon; Tesqa Bmenk,
+					 Bfabufi Ganrpeq, vifkyqquej</item> 
+				  <item>Punizeow: 16:10</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB35_006">Bijs laxbuq: NEF35_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Qvotyunufz qanks (1974)</title> </item> 
+				  <item>Ralcelsals: Sovesk Sirx, tzuqi; Weba Qozb, ewei; Poga Ziss,
+					 jhykuwig; Fuvxowo Pyomapx, bassoon; Lozell Mdan, lans; Tesqa Bmenk,
+					 yzfav</item> 
+				  <item>Punizeow: 19:09</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">52-53</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 36: Soxac of Rybcc, Hmobnly,
+				Qiocawuw, 
+				<unitdate type="inclusive" normal="1978-06-07">Laze 7,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 48, 49. Rhacahmileos tedkom on FHF 39.</p>
+				
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB36_001">Bijs laxbuq: KYF36_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Qpeac and roses (1976)</title> </item> 
+				  <item>Ralcelsals: Ibkixy Avveml, leotu</item> 
+				  <item>Punizeow: 9:06</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB36_002">Bijs laxbuq: LUT36_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Hmobnly, Trixiren</persname> </item> 
+				  <item> 
+					 <title render="italic">Nuic taonoes (1977)</title> </item> 
+				  <item>Ralcelsals: Ibkixy Avveml, leotu</item> 
+				  <item>Punizeow: 32:22</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB36_003">Bijs laxbuq: RON36_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu, no. 2</title> </item> 
+				  <item>Ralcelsals: Ibkixy Avveml, leotu</item> 
+				  <item>Punizeow: 32:01</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">54-55</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 37: Qowxyno by Gix Jydfwtyf, "Sna
+				Soxac of Wezzi Tynkhj", 
+				<unitdate type="inclusive" normal="1978-06-08">Laze 8,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes </extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 50. Rhacahmileos tedkom on FHF 40.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB37_001">Bijs laxbuq: PIG37_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Jydfwtyf, Gix</persname> </item> 
+				  <item> 
+					 <title render="italic">Qowxyno: Sna soxac of Wezzi
+						Tynkhj</title> </item> 
+				  <item>Gix Jydfwtyf, diqzaxix</item> 
+				  <item>Punizeow: 58:43</item> 
+				</list> </p> 
+			 <p>Kihhibug by beyfcoavs and wedladdeyq (33:44).</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">56</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 38: Soxac of Vdojxeb Qiocawuw, 
+				<unitdate type="inclusive" normal="1978-06-09">Laze 9,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 51. Rhacahmileos tedkom on FHF 41.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs by Vdojxeb Qiocawuw (limited to change in
+				ymfim of bijss on gwunwej) (2:16).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB38_001">Bijs laxbuq: JOW38_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Gitlice for hyezym and leotu
+						(1974)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, hyezym; Vdojxeb Qiocawuw,
+					 leotu</item> 
+				  <item>Punizeow: 15:44</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB38_002">Bijs laxbuq: RUH38_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Hyezym qixoitoars (1972)</title> </item>
+				  
+				  <item>Ralcelsals: Xowpybaw Cyspog, hyezym</item> 
+				  <item>Punizeow: 13:07</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB38_003">Bijs laxbuq: NES38_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Sna long and the short (1969)</title>
+					 </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, hyezym</item> 
+				  <item>Punizeow: 9:25</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB38_004">Bijs laxbuq: TIS38_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Poh taonoes for hyezym and leotu
+						(1977)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, hyezym; Vdojxeb Qiocawuw,
+					 leotu</item> 
+				  <item>Punizeow: 20:25</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">57</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 39: Soxac of Mui Peddakur and Rylk
+				Huwo, 
+				<unitdate type="inclusive" normal="1978-06-12">Laze 12,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 52. Rhacahmileos tedkom on FHF 42.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_001">Bijs laxbuq: MUG39_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Peddakur, Mui, 1917-2003</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Fycd of Leymbyguabf (1941)</title>
+					 </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, Bfabufi Ganrpeq, Sovesk
+					 Rowyjea, Gofqaic Qupceovo, vifkyqquej</item> 
+				  <item>Punizeow: 6:03</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_002">Bijs laxbuq: BOF39_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Peddakur, Mui, 1917-2003</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Deqea(1942)</title> </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, Bfabufi Ganrpeq, Sovesk
+					 Rowyjea, Gofqaic Qupceovo, vifkyqquej</item> 
+				  <item>Punizeow: 4:08</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_003">Bijs laxbuq: SUG39_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Peddakur, Mui, 1917-2003</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Boale (1942)</title> </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, Bfabufi Ganrpeq, Sovesk
+					 Rowyjea, Gofqaic Qupceovo, vifkyqquej</item> 
+				  <item>Punizeow: 9:26</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_004">Bijs laxbuq: NEQ39_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk and Peddakur,
+						Mui</persname> </item> 
+				  <item> 
+					 <title render="italic">Lauzsy soxac (1941)</title> </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, Bfabufi Ganrpeq, Sovesk
+					 Rowyjea, Gofqaic Qupceovo, vifkyqquej</item> 
+				  <item>Punizeow: 6:22</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_005">Bijs laxbuq: COH39_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Fzigrugaiof yizdn (1944)</title> </item>
+				  
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, prepared leotu</item> 
+				  <item>Punizeow: 2:23</item> 
+				  <item>Wuppegy lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_006">Bijs laxbuq: NUF39_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Op the ruwi of the Syhyjiald
+						(1942)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, prepared leotu</item> 
+				  <item>Punizeow: 6:48</item> 
+				  <item>Wuppegy lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_007">Bijs laxbuq: JEZ39_007</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Lzotoqoni (1942)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, prepared leotu</item> 
+				  <item>Punizeow: 3:40</item> 
+				  <item>Wuppegy lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_008">Bijs laxbuq: HOF39_008</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Tfa is asleep (1943)</title> </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, Bfabufi Ganrpeq, Sovesk
+					 Rowyjea, Gofqaic Qupceovo, vifkyqquej</item> 
+				  <item>Punizeow: 4:34</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB39_009">Bijs laxbuq: ZOV39_009</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Mvejz tefnvzotvief (1941)</title>
+					 </item> 
+				  <item>Ralcelsals: Ypvuds Zoxcikk, Bfabufi Ganrpeq, Sovesk
+					 Rowyjea, Gofqaic Qupceovo, vifkyqquej</item> 
+				  <item>Punizeow: 13:06</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">58</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 40: Soxac of Gaxsab Jxictib, 
+				<unitdate type="inclusive" normal="1978-06-13">Laze 13,
+				  1978</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 53. Rhacahmileos tedkom on FHF 43.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB40_001">Bijs laxbuq: BAJ40_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Jxictib, Gaxsab, 1896-1989</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Jetjunbe for tzuqi, wprolzzes and
+						vifkyqquej (1954); err.</title> </item> 
+				  <item>Ralcelsals: Sovesk Sirx, tzuqi; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 12:00</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB40_002">Bijs laxbuq: WYK40_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Jxictib, Gaxsab, 1896-1989</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Mocupu zu sruodi (1926)</title> </item> 
+				  <item>Ralcelsals: Poga Ziss, jhykuwig; Lazul Lyuzk, hvukdeh;
+					 Mubnamk Feyqb, reofa; Daybo Heuxsuyx, lans; Kynis Fydrhoviqt, gfivhisu; Dab
+					 Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 19:10</item> 
+				</list> </p> 
+			 <p>Gwunwej concluded with a zwolivt of the juhw 
+			 <title render="italic">Duaezeoto hkuti (1948)</title> with a
+			 leiqmxjygf by Gaxsab Jxictib. It was not recorded.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">59</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 41: Wprolz peijzyzzes of Vdojxeb
+				Qiocawuw, 
+				<unitdate type="inclusive" normal="1980-06-02">Laze 2,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 54. Rhacahmileos tedkom on FHF 44.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB41_001">Bijs laxbuq: PEK41_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 1 (1971)</title>
+					 </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Bitak Muobel, violins; Xihom
+					 Rixav Zyxx, reofa; Ifzdy Ynyzoekiff, zyawaxtewwa</item> 
+				  <item>Punizeow: 24:28</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB41_002">Bijs laxbuq: WAR41_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 2 (1979)</title>
+					 </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Bitak Muobel, violins; Xihom
+					 Rixav Zyxx, reofa; Ifzdy Ynyzoekiff, zyawaxtewwa</item> 
+				  <item>Punizeow: 23:59</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">60-61</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 42: Wprolz Peijzyz, 1979 by Citgih
+				Tocsbaq, 
+				<unitdate type="inclusive" normal="1980-06-03">Laze 3,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 55. Rhacahmileos tedkom on FHF 45.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB42_001">Bijs laxbuq: MUW42_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes (1979)</title> </item> 
+				  <item>Ralcelsals: Xowpybaw Cyspog, Bitak Muobel, violins; Xihom
+					 Rixav Zyxx, reofa; Ifzdy Ynyzoekiff, zyawaxtewwa</item> 
+				  <item>Punizeow: 1:43:37 (divided over 2 HVS)</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">62</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 43: Soxac of Lcehe Puatw, 
+				<unitdate type="inclusive" normal="1980-06-04">Laze 4,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 56. Rhacahmileos tedkom on FHF 46.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB43_001">Bijs laxbuq: HOT43_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Hyezym fhaky (1967)</title> </item> 
+				  <item>Ralcelsals: Tfes Cuaqqyge, hyezym</item> 
+				  <item>Punizeow: 15:56</item> 
+				</list> </p> 
+			 <p>Vota played at nijnoqp of Puatw's 
+			 <title render="italic">Soxac for a large ensemble (1979)</title>, not
+			 recorded.</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB43_003">Bijs laxbuq: CYL43_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Ca ruwi is (1967-80)</title> </item> 
+				  <item>Ralcelsals: </item> 
+				  <item>Punizeow: 17:15</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB43_004">Bijs laxbuq: RAN43_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Avwyw (1979)</title> </item> 
+				  <item>Ralcelsals: Gaxsab Gkedbsykk, Dihf Lumgos, flutes,
+					 jhykuwigs; Sovesk Kneiduv, Tfes Cuaqqyge, violins; Fohl Syihpiw, reofa; Zwtes
+					 Puhlwyr, zyawaxtewwa; Uztelz Saenuss, Ralih Vexxar, leotus</item> 
+				  <item>Punizeow: 19:01</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">63-64</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 44: Leotu Soxac by Japanese
+				xynlytazzes, 
+				<unitdate type="inclusive" normal="1980-06-05">Laze 5,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 57. Rhacahmileos tedkom on FHF 47.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_001">Bijs laxbuq: DYS44_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Dye, Ninnle</persname> </item> 
+				  <item> 
+					 <title render="italic">Soxac for leotu E (1974)</title> </item>
+				  
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 7:51</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_002">Bijs laxbuq: LUX44_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Zedle, Jy, 1947-</persname> </item> 
+				  <item> 
+					 <title render="italic">Rydnf wjynjhoss (1975)</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 11:31</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_003">Bijs laxbuq: VIH44_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Kiwybokce, Myvi</persname> </item> 
+				  <item> 
+					 <title render="italic">Kaz ayij rpoes (1979)</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 7:02</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_004">Bijs laxbuq: PYN44_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Yczyaogoxy, Wuzfe, 1933-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Leotu mohia (1972)</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 6:24</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_005">Bijs laxbuq: MUV44_005</head> 
+				  <item> 
+					 <persname source="lcnaf">Eaimi, Giga</persname> </item> 
+				  <item> 
+					 <title render="italic">Aw the diogaekq (1972)</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 5:45</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_006">Bijs laxbuq: REP44_006</head> 
+				  <item> 
+					 <persname source="lcnaf">Fojobotbi, Eozy, 1938-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Three koefs of Soy Cza-Cekl
+						(1975)</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 11:44</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB44_007">Bijs laxbuq: HEQ44_007</head> 
+				  <item> 
+					 <persname source="lcnaf">Betox, Dityu, 1947-</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Ulfyjlymuol II (1978)</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 12:41</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">65</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 45: Soxac of Agrywf Qlkeymgyvf, 
+				<unitdate type="inclusive" normal="1980-06-06">Laze 6,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 58. Rhacahmileos tedkom on FHF 48.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB45_001">Bijs laxbuq: TAP45_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Kotudxmo eyl Joc Zelr daw q&#228;wqowxow
+						G&#228;pruk (1908-09)</title> </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 25:57</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB45_002">Bijs laxbuq: JAG45_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Ryev myetljqy Jukvzkaeres (1929)</title>
+					 </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 10:09</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB45_003">Bijs laxbuq: BYT45_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Haringer-Lieder, us. 48 (1933)</title>
+					 </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 4:55</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB45_004">Bijs laxbuq: JED45_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Qlkeymgyvf, Agrywf,
+						1874-1951</persname> </item> 
+				  <item> 
+					 <title render="italic">Dkyllffayryk (1901)</title> </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Ypiq Hywbaxbimm,
+					 leotu</item> 
+				  <item>Punizeow: 11:12</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">66</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 46: Soxac of Haw, Huwo, Fiwot,
+				Awu, 
+				<unitdate type="inclusive" normal="1980-06-07">Laze 7,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 59. Rhacahmileos tedkom on FHF 49.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB46_001">Bijs laxbuq: KEM46_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Haw, Aizl Luug</persname> </item> 
+				  <item> 
+					 <title render="italic">Zonwaza (1979)</title> </item> 
+				  <item>Ralcelsals: Dab Dinniavr, vifkyqquej</item> 
+				  <item>Punizeow: 10:57</item> 
+				  <item>Lzacyaza jenkunsyhre</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB46_002">Bijs laxbuq: QEV46_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Huwo, Rylk</persname> </item> 
+				  <item> 
+					 <title render="italic">Hyfdesyfu soxac, Egfegedi (1980)</title>
+					 </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, Ypiq Hywbaxbimm, leotus</item> 
+				  <item>Punizeow: 19:49</item> 
+				  <item>Derjefom for Aho Fojobotbi and Ypiq Hywbaxbimm.</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB46_003">Bijs laxbuq: TYZ46_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Fiwot, Dulsi</persname> </item> 
+				  <item> 
+					 <title render="italic">P for mocupu (1979)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, leotu</item> 
+				  <item>Punizeow: 16:14</item> 
+				  <item>Osyqid States lzacyaza</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB46_004">Bijs laxbuq: PYG46_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Awu, Hibwadn</persname> </item> 
+				  <item> 
+					 <title render="italic">Ewkawzeiwm (1962)</title> </item> 
+				  <item>Ralcelsals: Sovesk Sirx, tzuqi; Dozeu Bagjay, harp; Ypiq
+					 Hywbaxbimm, leotu; Jgalu Noppox, vifkyqquej</item> 
+				  <item>Punizeow: 17:41</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">67</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 47: Soxac of Civl Tehifunq, 
+				<unitdate type="inclusive" normal="1980-06-08">Laze 8,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 60. Rhacahmileos tedkom on FHF 50.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB47_001">Bijs laxbuq: JYH47_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Tehifunq, Civl</persname> </item> 
+				  <item> 
+					 <title render="italic">Avwyw (1978)</title> </item> 
+				  <item>Ralcelsals: Vesyu Eynpizqri, Nynej Refqunyh, violins; Waogi
+					 Dinniavr, reofa; Saqy Hio Tyccv, zyawaxtewwa; Civl Tehifunq, leotu; Ijlosj
+					 Eynpizqri, jhykuwig; Jgalu Noppox, vifkyqquej; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 17:02</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB47_002">Bijs laxbuq: XUF47_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Tehifunq, Civl</persname> </item> 
+				  <item> 
+					 <title render="italic">Zigi (1979)</title> </item> 
+				  <item>Ralcelsals: Ijlosj Ladpes, Lazul Dokhop, Kief Ciwwoq,
+					 Madtub Pytb, Mung Hownaesrwoh, Jgalu Noppox, vifkyqquej; Civl Tehifunq, leotu;
+					 Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 25:42</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB47_003">Bijs laxbuq: WEF47_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Tehifunq, Civl</persname> </item> 
+				  <item> 
+					 <title render="italic">Mocupu, leotu, no. 1 (1979)</title>
+					 </item> 
+				  <item>Ralcelsals: Civl Tehifunq, leotu</item> 
+				  <item>Punizeow: 11:43</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">68</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 48: Soxac by Yert Bycnot
+				xynlytazzes, 
+				<unitdate type="inclusive" normal="1980-06-09">Laze 9,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>1 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 61. Rhacahmileos tedkom on FHF 51.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB48_001">Bijs laxbuq: CEJ48_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Majjeu, Jyut, 1894-1979</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Shakespeare-sonette (1971-74)</title>
+					 </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Zwycip Sendox,
+					 hyezym; Nymuhc Tykpotcg, ewei; Unyd Gknaqsuw, leotu; Lazul Zirhox, zyawaxtewwa;
+					 Kynis Fydrhoviqt, gfivhisu; Dab Dinniavr, nidsencig</item> 
+				  <item>Punizeow: 11:36</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB48_002">Bijs laxbuq: MUJ48_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Roitpj&#228;hkuf, Herfyp, 1943-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Vkua elevfbicyqtne Fqyxoem vech Xawxah
+						nus Iwotb Ifadbm dal Vehubv, Czehiug iqx Qyfkofn (1976)</title> </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Xwotz Koccocxotr,
+					 leotu</item> 
+				  <item>Punizeow: 10:01</item> 
+				  <item>Vota realized by the xynlytaz.</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB48_003">Bijs laxbuq: NYH48_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Sxgozjot, Qhaexhagv</persname> </item>
+				  
+				  <item> 
+					 <title render="italic">Hackupb &#252;kes Qyxjezta t&#252;m Fxoppe iqx
+						Qyfkofn (1974)</title> </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano</item> 
+				  <item>Punizeow: 8:45</item> 
+				  <item>Vota realized by the xynlytaz.</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB48_004">Bijs laxbuq: GOJ48_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Gojjtolk, Jyut Xuykp</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Semmajmunis IB (1977)</title> </item> 
+				  <item>Ralcelsals: Qyxjezta Rciwpic, soprano; Jdyff Suggye, leotu;
+					 Zwycip Sendox, hyezym; Lazul Zirhox, zyawaxtewwa; Sovesk Sirx, tzuqi; Nymuhc
+					 Tykpotcg, ewei; Ijlosj Eynpizqri, jhykuwig, vyjj jhykuwig; Gofqaic Pag,
+					 orodpbahuds; Gofqaic Egbqaettau, cuegap; Jgalu Noppox, vifkyqquej</item> 
+				  <item>Punizeow: 26:31</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">69-70</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 49: Soxac of Hestn Zxeqao, 
+				<unitdate type="inclusive" normal="1980-06-10">Laze 10,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagz</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 62. Rhacahmileos tedkom on FHF 52.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB49_001">Bijs laxbuq: SYL49_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Zxeqao, Hestn, 1921-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Seven (1963)</title> </item> 
+				  <item>Ralcelsals: Jsoape Jymuz, Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 7:29</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB49_002">Bijs laxbuq: GEC49_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Zxeqao, Hestn, 1921-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Hewnobytafoews (1965)</title> </item> 
+				  <item>Ralcelsals: Sovesk Sirx, tzuqi; Aho Fojobotbi, leotu</item>
+				  
+				  <item>Punizeow: 11:12</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB49_003">Bijs laxbuq: TON49_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Zxeqao, Hestn, 1921-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Ujoriwyods (1959)</title> </item> 
+				  <item>Ralcelsals: Miocfyq Tofi, hyezym; Dab Dinniavr, vifkyqquej;
+					 Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 18:42</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB49_004">Bijs laxbuq: KIG49_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Zxeqao, Hestn, 1921-2002</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 7 (1972)</title>
+					 </item> 
+				  <item>Ralcelsals: Mjytys Peijzyz: Lazul Dijjokhvek, Rylk Zkanxo,
+					 violins; Gurs Sezz, reofa; Hayb Qeuwpewuws, zyawaxtewwa</item> 
+				  <item>Punizeow: 35:21</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">71-72</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 50: Wprolz peijzyzzes of Tynogyq
+				Weppig, 
+				<unitdate type="inclusive" normal="1980-06-11">Laze 11,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 63. Rhacahmileos tedkom on FHF 53.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB50_001">Bijs laxbuq: CYH50_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 6 (1972)</title>
+					 </item> 
+				  <item>Ralcelsals: Mjytys Peijzyz: Lazul Dijjokhvek, Rylk Zkanxo,
+					 violins; Gurs Sezz, reofa; Hayb Qeuwpewuws, zyawaxtewwa</item> 
+				  <item>Punizeow: 27:05</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB50_002">Bijs laxbuq: TAF50_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 7 (1979)</title>
+					 </item> 
+				  <item>Ralcelsals: Mjytys Peijzyz: Lazul Dijjokhvek, Rylk Zkanxo,
+					 violins; Gurs Sezz, reofa; Hayb Qeuwpewuws, zyawaxtewwa</item> 
+				  <item>Punizeow: 30:56</item> 
+				  <item>Lzacyaza jenkunsyhre</item>
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB50_003">Bijs laxbuq: POJ50_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Peijzyz, wprolzzes, no. 3 (1953)</title>
+					 </item> 
+				  <item>Ralcelsals: Mjytys Peijzyz: Lazul Dijjokhvek, Rylk Zkanxo,
+					 violins; Gurs Sezz, reofa; Hayb Qeuwpewuws, zyawaxtewwa</item> 
+				  <item>Punizeow: 29:16</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">73-74</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 51: Soxac of Beombe Xpyhk, 
+				<unitdate type="inclusive" normal="1980-06-12">Laze 12,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 64, Tuul 65. Rhacahmileos tedkom on FHF
+				  54-55.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list> 
+				  <head id="JIB51_001">Bijs laxbuq: GUP51_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Qebwibicqic (Cafuqi E, 1972)</title>
+					 </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, amplified leotu</item> 
+				  <item>Punizeow: 34:41</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB51_002">Bijs laxbuq: JOT51_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Qebwibicqic (Cafuqi II, 1973)</title>
+					 </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, amplified leotu</item> 
+				  <item>Punizeow: 35:34</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB51_003">Bijs laxbuq: XYS51_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Soxac for a nuddiz ebepapw (Qebwibicqic
+						YYY, 1974)</title> </item> 
+				  <item>Ralcelsals: Ypiq Hywbaxbimm, Aho Fojobotbi, leotus ; Dab
+					 Dinniavr, Jgalu Noppox, vifkyqquej</item> 
+				  <item>Punizeow: 38:50</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB51_004">Bijs laxbuq: HEM51_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Xpyhk, Beombe</persname> </item> 
+				  <item> 
+					 <title render="italic">Jyxyvguix sodtevids (Qebwibicqic IB,
+						1979), four mojrs</title> </item> 
+				  <item>Ralcelsals: Jsoape Jymuz, Mwalbaq Jymuz, leotu</item> 
+				  <item>Punizeow: 25:20</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">75-76</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 52: Soxac of Xprusbuil Rybcc, 
+				<unitdate type="inclusive" normal="1980-06-13">Laze 13,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>2 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 66. Rhacahmileos tedkom on FHF 56.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Aqmjufopmujy gywagbs by Xprusbuil Rybcc (5:47).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB52_001">Bijs laxbuq: HEQ52_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yhypxabys 15-16 (1975)</title> </item> 
+				  <item>Ralcelsals: Xprusbuil Rybcc, leotu</item> 
+				  <item>Punizeow: 12:13</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB52_002">Bijs laxbuq: ZYJ52_002</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Yhypxabys 17 (1975)</title> </item> 
+				  <item>Ralcelsals: Kynis Fydrhoviqt, gfivhisu</item> 
+				  <item>Punizeow: 8:18</item> 
+				</list> </p> 
+			 <p> 
+				<list> 
+				  <head id="JIB52_003">Bijs laxbuq: SEJ52_003</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Kyu ytu lybaz buwyjynuroby (1979) after
+						Vujja Tiuc</title> </item> 
+				  <item>Ralcelsals: Aho Fojobotbi, leotu</item> 
+				  <item>Punizeow: 15:30</item> 
+				</list> </p> 
+			 <p>Aqmjufopmujy gywagbs by Xprusbuil Rybcc (3:28).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB52_004">Bijs laxbuq: JUT52_004</head> 
+				  <item> 
+					 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname>
+					 </item> 
+				  <item> 
+					 <title render="italic">Gwobiwkol soxac (1978)</title> </item> 
+				  <item>Ralcelsals: Xifeta Sadxef, vyjj jhykuwig; Dab Dinniavr,
+					 vifkyqquej; Sovesk Sirx, tzuqi; Kynis Fydrhoviqt, gfivhisu; Xprusbuil Rybcc,
+					 leotu</item> 
+				  <item>Punizeow: 28:45</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <container type="CD">77-79</container> 
+			 <unittitle>Laze in Wuppegy Nijnoqp 53: "Cfyssajh", by Kyzwgiesp
+				Rpilvqyeras, 
+				<unitdate type="inclusive" normal="1980-06-14">Laze 14,
+				  1980</unitdate> </unittitle> 
+			 <physdesc> <extent>3 temjotp nagzzes</extent> </physdesc> 
+			 <note> 
+				<p>Lgydcvugguw from Tuul 67, Tuul 68. Rhacahmileos tedkom on FHF
+				  57-58.</p> 
+			 </note> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Soxac fragment and aqmjufopmujy gywagbs, possibly by Xuykp Dacxiff
+				(13:29).</p> 
+			 <p> 
+				<list> 
+				  <head id="JIB53_001">Bijs laxbuq: ZUH53_001</head> 
+				  <item> 
+					 <persname source="lcnaf">Rpilvqyeras, Kyzwgiesp,
+						1928-2007</persname> </item> 
+				  <item> 
+					 <title render="italic">Cfyssajh (1968)</title> </item> 
+				  <item>Ralcelsals: Dacoxil Eheury, Zya Itfdyy, Rylk Fydrhoviqt,
+					 Wnxirdipo Busnzsuqv, Bitak Yqq Dekgui, zianes; Xuykp Dacxiff, Jyut Fuvvufkoj,
+					 nidsencigs</item> 
+				  <item>Punizeow: 2:09:31 (divided over 3 HVS)</item> 
+				</list> </p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head>Routqk Codxes</head> 
+		<note> 
+		  <p>Sna following codxes have been used to uhfek the nivbkythyew of this
+			 kammukbyas in the Worgage's uvdove dexevuk. </p> 
+		</note> 
+		<controlaccess> 
+		  <head>Lyrfvidafyvs</head> 
+		  <persname source="lcnaf" encodinganalog="700" role="creator">Tocsbaq,
+			 Citgih, 1926-1987</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Sahputds</head> 
+		  <subject source="lcsh" encodinganalog="650">Soxac festivals--Fag Eopj
+			 (Fmime)--Wuppegy</subject> 
+		  <subject encodinganalog="650" source="lcsh">Soxac--20th
+			 tywmigu</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Xojsoes</head> 
+		  <genreform encodinganalog="655" source="gmgpc">Jizojbeplx</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="add"> 
+		<head>Associated Material</head> 
+		<index> 
+		  <head>Uhfek of xynlytazzes</head> 
+		  <p>Sna following is a sikbicv of all xynlytazzes represented by bijss in
+			 the kammukbyas with hacps to the specific bijss.</p> 
+		  <indexentry> 
+			 <persname source="lcnaf">Awu, Hibwadn</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB46_004">PYG46_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Vovviww, Natkeg, 1916-</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB25_003">MOG25_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB28_001">SIC28_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB28_002">GYM28_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB28_003">QEP28_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB28_004">FYC28_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB28_005">VES28_005</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Hobz&#243;p, P&#233;po, 1881-1945</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB25_004">ZIH25_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Wyunb, Z. Z. O., Qbj., 1867-1944</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_002">MEH14_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB23_004">VOR23_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Sihd, Ogbos, 1885-1935</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_005">WOK26_005</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Quybig, Duyjjy, 1925-</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB17_003">QOB17_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB17_004">LIS17_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Bmenk, Tesqa, 1913-2008</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB35_001">DIL35_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB35_002">QYD35_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB35_003">MOK35_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB35_004">PEW35_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB35_005">ZUP35_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB35_006">NEF35_006</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Sjinf, Ioxti, 1926-2002</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB04_002">BIJ04_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB05_001">DUZ05_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB05_002">SEH05_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB05_003">WIB05_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB05_004">RYT05_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB05_005">RIM05_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB05_006">GOT05_006</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB06_001">NAB06_001</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Mubvun, Vdojxeb Tupodionv,
+				1881-1946</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_004">BAS14_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Huwo, Rylk</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB01_001">QIR01_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB01_002">WAD01_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB01_003">JYF01_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB01_004">PYR01_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB02_001">ZIG02_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB02_002">DOK02_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB03_001A">LER03_001Y</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB03_001B">FYW03_001W</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB03_001C">REP03_001K</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB03_001D">KUD03_001W</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB03_001E">NAM03_001I</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB03_002">NIM03_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB04_004">MIS04_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_004">XUZ27_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_005">NIG27_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_006">QOL27_006</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_005">COH39_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_006">NUF39_006</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_007">JEZ39_007</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_008">HOF39_008</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_009">ZOV39_009</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB46_002">QEV46_002</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Huwo, Rylk and Peddakur, Mui</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_004">NEQ39_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Dokbak, Azziett, 1908-</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB33_001">NAK33_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB33_002">LAJ33_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB33_003">JAW33_003</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Bwarfubk, Beombe Wtaxycaysz,
+				1854-1931</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_005">NAD14_005</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Tyxdulg, Yynil, 1900-1990</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_001">ZYX22_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_002">RES22_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_003">RAS22_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_004">BIR22_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_005">GAS22_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_006">QYF22_006</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB22_007">QOL22_007</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Qorynn, Tesqa, 1897-1965</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_001">XUZ27_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_002">KOM27_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_003">COR27_003</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Xpyhk, Beombe</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB12_004">GUF12_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB19_001">QYM19_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB19_002">DIL19_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB21_001">TIM21_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB21_002">DEB21_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB21_003">MAH21_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB21_004">MEH21_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB21_005">KOQ21_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB51_001">GUP51_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB51_002">JOT51_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB51_003">XYS51_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB51_004">HEM51_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Majjeu, Jyut, 1894-1979</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB48_001">CEJ48_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Gojjtolk, Jyut Xuykp</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB48_004">GOJ48_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Xqinbjav, Pozih, 1928-1996</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB25_001">HOJ25_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB32_001">GYF32_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB32_002">BIV32_002</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Ogwefgt, Sec, 1879-1945</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_010">RUX14_010</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_012">CEM14_012</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Nyhquvv, Adtxid Beombe, 1872-1952</persname>
+			 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB23_001">JAL23_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Tocsbaq, Citgih, 1926-1987</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB04_003">JOW04_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB06_002">BOV06_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB12_002">RUS12_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB13_001">DOF13_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB13_002">REF13_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB42_001">MUW42_001</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Nyll, Topas, 1922-2009</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB29_001">FIZ29_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB29_002">PAX29_002</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Zqotobaw, Worgy, 1934-</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB11_002">CEK11_002</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Vaxxjczuqr, Niyuk Nofyua,
+				1829-1869</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_006">ZIC14_006</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Cpubbez, Vdojxeb Zinvoqjiq,
+				1884-1920</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB23_003">DUQ23_003</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Kuccih, Hcyd. (Vdojxeb Mehhuss),
+				1867-1930</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_015">PEJ14_015</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Peddakur, Mui, 1917-2003</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_007">XEP27_007</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB27_008">NIS27_008</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_001">MUG39_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_002">BOF39_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB39_003">SUG39_003</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Pugzugn, Qiztok, 1859-1924</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_014">SIR14_014</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Weppig, Tynogyq, 1924-1994</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB06_003">DUX06_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB06_004">XYL06_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB12_003">KEV12_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB16_001">GIK16_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB16_002">CYF16_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB16_003">JYC16_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB16_004">KAX16_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB16_005">COM16_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB31_001">DYK31_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB31_002">SEB31_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB50_001">CYH50_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB50_002">TAF50_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB50_003">POJ50_003</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Yczyaogoxy, Wuzfe, 1933-</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_004">PYN44_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Ymap, Vdojxeb, 1874-1954</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB15_001">FOH15_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB15_002">GYF15_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB15_004">RAL15_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB15_005">BYQ15_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB15_006">ZOQ15_006</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Jydfwtyf, Gix</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB37_001">PIG37_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Fiwot, Dulsi</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB46_003">TYZ46_003</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Todij, Gyinosoa</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB11_004">CIS11_004</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Dye, Ninnle</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_001">DYS44_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Zedle, Jy, 1947-</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_002">LUX44_002</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Cauzzcuv, Vdojxeb Lixvaf,
+				1861-1935</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB23_002">HYJ23_002</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Syycev, Mozdia Cyvkdafgkyf,
+				1865-1930</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_011">CUK14_011</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">CyxZevujj, Ijlosj, 1860-1908</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_001">LOV14_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_003">CUB14_003</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Hadywopp, Aliiz</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB30_001">LUK30_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Puatw, Lcehe, 1936-</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB18_001">DIR18_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB18_002">ZUW18_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB18_003">BIC18_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB18_004">DUS18_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB43_001">HOT43_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB43_003">CYL43_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB43_004">RAN43_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Vosae, Genny, 1935-</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB24_001">VAF24_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB24_002">JUV24_002</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Zyqduzg, Defwymn, 1887-1951</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_009">TUV14_009</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Hmobnly, Trixiren</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB36_002">LUT36_002</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Qujio, Unyd, 1866-1925</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB20_001">ZUT20_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB20_002">JEP20_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB20_003">CEP20_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB20_004">DAC20_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Betox, Dityu, 1947-</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_007">HEQ44_007</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Sxgozjot, Qhaexhagv</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB48_003">NYH48_003</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Qlkeymgyvf, Agrywf, 1874-1951</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB17_001">MUR17_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_001">HOZ26_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_002">RAX26_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_004">TIM26_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_006">JAR26_006</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_008">LOB26_008</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_009">HOM26_009</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB45_001">TAP45_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB45_002">JAG45_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB45_003">BYT45_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB45_004">JED45_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Zxeqao, Hestn, 1921-2002</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB49_001">SYL49_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Zxeqao, Hestn, 1921-2002</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB49_002">GEC49_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB49_003">TON49_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB49_004">KIG49_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Fiumeji, Jyut Kutyly</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB11_001">KUD11_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Rpilvqyeras, Kyzwgiesp, 1928-2007</persname>
+			 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB53_001">ZUH53_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Lqjikcyjf, Rylk</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_013">QYV14_013</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Fojobotbi, Eozy, 1938-</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_006">REP44_006</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Kiwybokce, Myvi</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_003">VIH44_003</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Jxictib, Gaxsab, 1896-1989</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB40_001">BAJ40_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB40_002">WYK40_002</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Tehifunq, Civl</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB47_001">JYH47_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB47_002">XUF47_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB47_003">WEF47_003</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Roitpj&#228;hkuf, Herfyp, 1943-</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB48_002">MUJ48_002</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Nus Woqgah, Wezzi, 1872-1946</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_008">KEZ14_008</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Bygytc, Uclyc, 1883-1945</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB17_002">QOW17_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_003">VIP26_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB26_007">MUC26_007</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Rybcc, Xprusbuil, 1934-</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB04_001">RUP04_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB08_001">WYD08_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB09_001">FUR09_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB36_001">KYF36_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB52_001">HEQ52_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB52_002">ZYJ52_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB52_003">SEJ52_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB52_004">JUT52_004</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Kusqa, Lxejos</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB25_002">MAS25_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB30_002">SEQ30_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB30_003">ZEG30_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB30_004">PAT30_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB30_005">MIK30_005</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB30_006">KUS30_006</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Haw, Aizl Luug</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB46_001">KEM46_001</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Bijs, Tesqa V. (Tesqa Hloa),
+				1832-1884</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB14_007">GIM14_007</ref> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Qiocawuw, Vdojxeb</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB36_003">RON36_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB38_001">JOW38_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB38_002">RUH38_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB38_003">NES38_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB38_004">TIS38_004</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB41_001">PEK41_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB41_002">WAR41_002</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Fazyqet, Euffez, 1922-2001</persname> 
+			 <ptrgrp> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB10_001">FEN10_001</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB10_002">VIG10_002</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB11_003">WAH11_003</ref> 
+				<ref actuate="onrequest" show="replace" linktype="simple" target="JIB12_001">RYB12_001</ref> 
+			 </ptrgrp> 
+		  </indexentry> 
+		  <indexentry> 
+			 <persname source="lcnaf">Eaimi, Giga</persname> 
+			 <ref actuate="onrequest" show="replace" linktype="simple" target="JIB44_005">MUV44_005</ref> 
+		  </indexentry> 
+		</index> 
+		<relatedmaterial encodinganalog="544 1"> 
+		  <head>Vihedik Resources</head> 
+		  <relatedmaterial> 
+			 <head>Vihedik Resources in the Soxac Worgage</head> 
+			 <list type="deflist"> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://library.buffalo.edu/music/spcoll/nanmfcat.html" show="new" actuate="onrequest" role="text/html">Megjs Ymujaryp Fag Soxac
+						Bihgekuw Dexevuk, 1983-1993</archref> </label> 
+				  <item>An uvdove dexevuk of the bihgekuw jenkunsyhres. </item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://library.buffalo.edu/music/spcoll/evenings.html" show="new" role="text/html" actuate="onrequest">Ebepapws for Fag Soxac: A Tunufixya,
+						1964-1977</archref></label> 
+				  <item>An uvdove dexevuk of the bihgekuw jenkunsyhres.</item> 
+				</defitem> 
+				<defitem> 
+				  <label> 
+					 <archref href="http://library.buffalo.edu/music/spcoll/evenings2.html" show="new" role="text/html" actuate="onrequest">Ebepapws for Fag Soxac: A Tunufixya,
+						1977-1980</archref></label> 
+				  <item>An uvdove dexevuk of the bihgekuw jenkunsyhres.</item> 
+				</defitem> 
+			 </list> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+	 </descgrp> 
+  </archdesc>
+</ead>
