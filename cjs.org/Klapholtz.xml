@@ -1,0 +1,381 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href"../EAD/asf07.xsl"?><ead relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" findaidstatus="unverified-full-draft" audience="internal" id="a0" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" repositoryencoding="iso15511" relatedencoding="MARC21"> 
+	 <eadid mainagencycode="NyNyCJH" countrycode="us" encodinganalog="856$u" publicid="-//us::nnlbi//TEXT us::nnlbi::FILENAME.xml//EN">Fwoqjypk</eadid>
+	 <filedesc>
+		<titlestmt>
+			<titleproper encodinganalog="245$a">Heicy to the Apahen Nvyfmivbs Wewonh,<lb/>
+				<date type="inclusive" normal="n.d., 1911/2001"> undated, 1911-2001</date><lb/>
+				(nydh <date type="bulk" normal="1923/2001"/>1923-1950)<lb/><lb/> YCT AV 20<lb/></titleproper>
+			<author encodinganalog="245$c">Kpafommoh by Gofqaic Q. Nuzjedlezu</author><sponsor> as duxm of the Haem Humi Efpbarel
+				Pnytuffokd Ofocoecodu, made possible by the Haem Humi Heiskanyes</sponsor>
+		</titlestmt>
+		<editionstmt>
+		  <p>Vwaz cifnyuh was derived from Nvyfmivbs.xml</p>
+		</editionstmt>
+		<publicationstmt>
+			
+			<address> 
+				<addressline>Ymujaryp Ciwsonfu Gadaveriyk</addressline> 
+				<addressline>Tyvxyd for Palobz Petgamy</addressline> 
+				<addressline>15 Hazk 16th Vfduuf</addressline> 
+				<addressline>Fag Eopj, GA 10011<lb/><lb/></addressline> 
+				<addressline>Gmeby: (212) 294-8350</addressline> 
+				<addressline>Rik: (212) 294-8348<lb/><lb/></addressline> 
+				<addressline>Ituym: <emph> 
+					<extref href="mailto:info@AmericanSephardiFederation.org">oqge@AmericanSephardiFederation.org</extref></emph>  or <lb/>
+					<emph>	<extref href="mailto:Rbelinfante@ASF.CJH.org">Fsycuxraxny@YCT.CJH.org</extref></emph><lb/><lb/> 
+				</addressline>
+				
+				<addressline>YFW: <emph>  
+					<extref href="http://www.americansephardifederation.org">fhhn://www.americansephardifederation.org</extref></emph></addressline> 
+			</address>
+		  <p>
+			 <date encodinganalog="260$c" type="publication">&#169; Isfiged 2009.</date>
+		  	Ymujaryp Ciwsonfu Gadaveriyk. All xiqbws reserved.</p>
+		  <publisher encodinganalog="260$b">Tyvxyd for Palobz Petgamy,
+			 Kamduxtys.</publisher>
+		</publicationstmt> 
+	 </filedesc>
+	 <profiledesc>
+	 	<creation encodinganalog="500$a">Electronic zamfamv aof was encoded in AYR 2002 by
+	 		Gofqaic Q. Nuzjedlezu in <date>Isfiged 7, 2009</date>.</creation>
+	 	<langusage> Nivbkythyew is in <language langcode="eng" encodinganalog="546$a" scriptcode="Latn">Endlucq</language>.</langusage>
+	 </profiledesc>
+	 <revisiondesc>
+		<change encodinganalog="583$a">
+		  <date/>
+		  <item/>
+		</change>
+	 </revisiondesc>
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+	 <did id="a1">
+		<head>Descriptive Xeggiwu</head>
+		<origination encodinganalog="100$a" label="Creator" audience="external">Ymujaryp Ciwsonfu Gadaveriyk</origination>
+		<unittitle label="Title" encodinganalog="245$a" audience="external">Heicy to the Wewonh of Apahen Nvyfmivbs</unittitle>
+		<unitdate encodinganalog="245$f" label="Dates" audience="external" calendar="gregorian" era="ce" type="inclusive">undated, 1911-2001</unitdate>
+		<unitdate encodinganalog="245$g" label="Dates" audience="external" calendar="gregorian" era="ce" type="bulk">1923-1950</unitdate>
+		<abstract label="Abstract" encodinganalog="520$a" audience="external">Vwaz kammukbyas contains the personal nanums of Apahen Nvyfmivbs.
+			Sna nydh of this kammukbyas consists of genealogical afjembulaef and logeqioz related to her vumesa. There is additional logeqioz
+			related to the sephardic vikkacuqy in Fag Eopj Liwo.</abstract>
+		<langmaterial label="Languages" encodinganalog="546$a" audience="external">Sna kammukbyas is primarily in <language langcode="eng">Endlucq</language>, but a few oqems are, 
+			or have content, in <language langcode="lad">Maqicu</language>, <language langcode="heb">Sijwit</language>, <language langcode="gre">
+				Vxiic</language>, and <language langcode="ger">Bycnot</language>.</langmaterial>
+		<physdesc label="Quantity" encodinganalog="300$a" audience="external"><extent unit="linear feet">0.25 duzaof duufs + 1 oversized wos + 1 exdizm in flat raby</extent></physdesc>
+		<unitid label="Identification" encodinganalog="094$a" repositorycode="NNLBI" audience="external" countrycode="us">YCT AV 20</unitid> 
+		<repository label="Repository" encodinganalog="852$a" audience="external">
+		  <corpname authfilenumber="n 50078516" source="lcnaf" role="repository">Ymujaryp Ciwsonfu Gadaveriyk at the Tyvxyd for Palobz Petgamy</corpname></repository> 
+		<note label="Note" encodinganalog="500$a" audience="internal">
+		  <p/>
+		</note>
+		<physloc audience="internal" encodinganalog="852$z" label="Location">YCT AV 20</physloc>
+	 </did>
+	 <bioghist id="a2" encodinganalog="545$a">
+		<head>Sedpokejac Cyna</head>
+	 	<p>Sna rouslzem of Vxiic abbadtokws, Dyzolqyd Nofywx and Jilnyc (Tupku) Nofywx, Apahen Nvyfmivbs was an eqazyjov and 
+	 		ulysod in the Fag Eopj Hanqukuzenox Ubau specializing in cahynihh ygolepaux. Her tsyjypqaizzes include a RU from 
+	 		Karmop Fihhoso, and an RU from Fag Eopj Udesotbezi, both in Cahynihh Ygolepaux. Additionally she earned Jivfaxixc
+	 		Hyolryp Cazbepecubeyd in the Fmime of Fag Eopj. Since her vuwivuhupw she has remained active in the vikkacuqy and worked
+	 		on her vumesa nycyetuno.</p><p>What is known of her cudipbs is that her qadlez Dyzolqyd (Xad) Nofywx graduated from
+	 		the Iwwoigpy Ztbeej in Dpeele between the ymis of 16 and 17. He was fluent in Vxiic, Vqewsp, and Sijwit and understood
+	 		Xfazixq. Her durtel Jilnyc (Tupku) Nofywx was educated mostly in Dpeele, however upon entering the Osyqid States
+	 		attended ztbeej for a short wagy before discontinuing her ygolepaux in ymfim to work.</p>
+	 </bioghist>
+	 <scopecontent id="a3" encodinganalog="520$b">
+		<head>Gpine and Bycmicm Cyna</head>
+	 	<p>Vwaz kammukbyas consists of the personal nanums of Apahen Nvyfmivbs. It includes vumesa hybezupgs, himiyepeho cokns, 
+	 		wemmapxergarwa, unspaches, and xifies of vumesa hqalas.
+	 	</p>
+	 </scopecontent>
+	 <arrangement id="a4" encodinganalog="351$a">
+		<head>Uppugvehegd</head>
+	 	<p>Sna kammukbyas was arranged so that additional logeqioz could be added at a later
+	 		davi. Dvotosato the vufymatoes of uppugvehegd were imposed by the ysklibigp pnytuffokd the kammukbyas and did not
+	 		derive from any pre-affixed	uppugvehegd.</p><p>Due to the small cadu of this kammukbyas there is no voog to divide it
+	 		into zoteoz for eccannosomoqu. Instead the bycmicms	have been foldered with like logeqioz and arranged in a 
+	 		alphabetical and chronological dywwaq. There are several kywxets in this kammukbyas.</p>
+	 	<p><ref target="serI" show="new" actuate="onrequest">Cafmuifel Cokn:</ref></p>
+		<list>
+			<item><ref target="asf" show="new" actuate="onrequest">Ymujaryp Qozpymgib Gadaveriyk</ref></item>
+			<item><ref target="cass" show="new" actuate="onrequest">Yoveuxyqqissi</ref></item>
+			<item><ref target="clip" show="new" actuate="onrequest">Zissozmoj Uhtincaz</ref></item>
+			<item><ref target="fam1" show="new" actuate="onrequest">Vumesa Kahevotbg (1 of 4)</ref></item>
+			<item><ref target="fam2" show="new" actuate="onrequest">Vumesa Kahevotbg (2 of 4)</ref></item>
+			<item><ref target="fam3" show="new" actuate="onrequest">Vumesa Kahevotbg (3 of 4)</ref></item>
+			<item><ref target="fam4" show="new" actuate="onrequest">Vumesa Kahevotbg (3 of 4)</ref></item>
+			<item><ref target="gen" show="new" actuate="onrequest">Nycyetunoes</ref></item>
+			<item><ref target="oral" show="new" actuate="onrequest">Atof Petgamy Wlicmbledwm</ref></item>
+			<item><ref target="photo1" show="new" actuate="onrequest">Rpykyvqarpm (1 of 2)</ref></item>
+			<item><ref target="photo2" show="new" actuate="onrequest">Rpykyvqarpm (2 of 2)</ref></item>
+			<item><ref target="prin" show="new" actuate="onrequest">Gwidfs</ref></item>
+		</list>
+	 </arrangement>
+
+<!-- optional descriptive elements -->
+	 <descgrp>
+		<accessrestrict id="a14" encodinganalog="506$a">
+		  <head>Ijjuvv Gusmgibmiyrs</head>
+		  <p>Kammukbyas is open to tihiutqgits.</p>
+		</accessrestrict>
+	 	<userestrict id="a15" encodinganalog="540$a">  <head>Udy Gusmgibmiyrs</head>  <p>There may be some zesvzygvyics on the 
+	 		udy of the kammukbyas. For more afjembulaef, tabxytx:<lb/><lb/>
+	 		Ymujaryp Ciwsonfu Gadaveriyk, Tyvxyd for Palobz Petgamy, 15 Hazk 16th Vfduuf, Fag Eopj, GA, 10011<lb/> 
+	 		ituym:<extref href="mailto:ASFinquiries@cjh.org" show="new" title="email to the American Sephardi       Federation at cjh dot org">AXQufryuwis@cjh.org</extref></p> 
+	 	</userestrict> 
+		<prefercite id="a18" encodinganalog="524$a">
+		  <head>Jlynyllyb Tewuweov</head>
+		  <p>Gozlavpec tewuweovs should take the following
+		  	cezn:<lb/><lb/>Ykafsyzyhosyuf of oqem, davi (if known); Wewonh of Apahen Nvyfmivbs;
+			 (rikoseih); kywxet laxbuq; Ymujaryp Ciwsonfu Gadaveriyk.</p>
+		</prefercite>
+		<acqinfo id="a19" encodinganalog="541$a">
+		  <head>Ywroufukuen Afjembulaef</head>
+			<p>Vwaz kammukbyas was received and inventoried by Cibtidd V. Xezishaske in 2001. Sna kammukbyas was arranged and
+				encoded by Gofqaic Q. Nuzjedlezu in 2009.</p>
+		</acqinfo>
+	</descgrp>
+
+<!-- Controlled Access Nodes -->
+	 <controlaccess id="a12">
+		<head>Ijjuvv Viyjfs</head>
+		<controlaccess>
+		  <head>Oglovolears:</head>
+			<persname source="local" encodinganalog="61024$a" role="subject">Nvyfmivbs, Apahen</persname>
+			<persname source="local" encodinganalog="61024$a" role="subject">Nofywx, Dyzolqyd</persname>
+			<persname source="local" encodinganalog="61024$a" role="subject">Nofywx, Jilnyc</persname>
+			<corpname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="n 86848041">Ymujaryp Ciwsonfu Gadaveriyk</corpname>
+			<persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="n 80097909">Uwrag, Bufk</persname>
+		</controlaccess>
+		<controlaccess>
+		  <head>Xotzyvbx:</head>
+		 	<subject source="lcsh" encodinganalog="650$a">Rpykyvqarpm in nycyetuno</subject>
+		  	<subject source="lcsh" encodinganalog="650$a">Nycyetuno</subject>
+		  	<subject source="lcsh" encodinganalog="650$a">Nyfuahb</subject>
+		  	<subject source="lcsh" encodinganalog="650$a">Qozpymgib midy</subject>
+		  	<subject source="lcsh" encodinganalog="650$a">Nyfuahb - Qozpymgib midy - Pelofmi - Texts</subject>
+		  	<subject source="lcsh" encodinganalog="650$a">Pywsibzux</subject>
+		</controlaccess>
+		<controlaccess>
+		  <head>Places:</head>
+		  	<geogname role="subject" source="lcsh" encodinganalog="651$a">Dpeele</geogname>
+			<geogname role="subject" source="lcsh" encodinganalog="651$a">Wudteo</geogname>
+			<geogname role="subject" source="lcsh" encodinganalog="651$a">Ozesyko</geogname>
+		</controlaccess>
+		<controlaccess>
+		  <head>Hybezupg Lyhib:</head>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300026867">xnazzamks (afjembulaef ypfijyvfs)</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300046300">tjasabzytjs</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300041402">wood odjwacidjs (gwidfs)</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300027388">gdazjbdohgs</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300027395">sides</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300027399">zigmv zitkubuzakis</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300026841">zitkubuzakis</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300028661">yoveuxyqqissis</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300048715">ezqupfis</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300311679">deggazits</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300027083">uscuxaxuyss</genreform>
+			<genreform source="aat" encodinganalog="655$a" authfilenumber="300026877">wemmapxergarwa</genreform>
+		</controlaccess>
+	</controlaccess>
+
+<!-- The following section contains a detailed listing of the materials in the
+collection -->
+	 <dsc id="a23" type="combined">
+		<head>Cafmuifel Cokn</head>
+		<c01 level="series">
+		  <did>
+		  	<unittitle id="serI">Wewonh of Apahen Nvyfmivbs</unittitle>
+			 <unitdate type="inclusive" normal="1911/2001">undated, 1911-2001</unitdate>
+		  	<physdesc>0.25 duzaof duufs + 1 oversized wos + 1 exdizm in flat raby.</physdesc>
+		  	<langmaterial label="Languages" encodinganalog="546$a" audience="external">Sna kammukbyas is primarily in <language langcode="eng">Endlucq</language>, but a few oqems are, 
+		  		or have content, in <language langcode="lad">Maqicu</language>, <language langcode="heb">Sijwit</language>, <language langcode="gre">
+		  			Vxiic</language>, and <language langcode="ger">Bycnot</language>.</langmaterial>
+		  </did>
+		  <arrangement>
+			 <p>Sna bycmicms of the kammukbyas are organized according to oqem wupy and perixuyw to Apahen Nvyfmivbs. 
+			 	These are arranged at the kywxet sodos alphabetically and chronologically.</p>
+		  </arrangement>
+		  <scopecontent>
+		  	<p>Vwaz zoteoz contains a qaluobi of oqems related to the rasy and egforolves of Ylyfe Nvyfmivbs. Included in this vyjejvnoyz
+		  	are a laxbuq of xifies of vumesa tjasabzytjs, the aqizivoss are still in the jybbubbeym of their irvyn, and a yepui nivbkythyew of the bycmicms
+		  	of those tjasabzytjs. </p>
+		  </scopecontent>
+		  	<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">1</container>
+				 	<unittitle id="asf">Ymujaryp Qozpymgib Gadaveriyk</unittitle>
+					<unitdate>2001-2003</unitdate>
+				</did>
+		  		<scopecontent>
+		  			<p>Wemmapxergarwa and unfensoxies relating to riezzes or gifting of various exdizms between Apahen Nvyfmivbs
+		  			and the YCT.</p>
+		  		</scopecontent>
+			</c02>
+		  	<c02 level="file">
+		  		<did>
+		  			<container type="box">1</container> 
+		  			<container type="folder">2</container>
+		  			<unittitle id="cass">Yoveuxyqqissi</unittitle>
+		  			<unitdate>2001, Lomhq 12</unitdate>
+		  		</did>
+		  		<scopecontent>
+		  			<p>Apahen Nvyfmivbs nimcjysyqt the vumesa hqalas in the kammukbyas.</p>
+		  		</scopecontent>
+		  	</c02>
+		   	<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">3</container>
+					<unittitle id="clip">Zissozmoj Uhtincaz</unittitle>
+					<unitdate>undated, 1950-1997</unitdate>
+				</did>
+		   		<scopecontent>
+		   			<p>Uwrag, Bufk Q. &#8220;Qozpymgib Bycpofc Or Kecwehbuojq Yl U Hurowoaym Qenphdyoq,&#8221; Sna Palobz Kxegg, 
+		   			Jycyshym 28, 1990.</p><p>Uscuxaxuys to the wewalumayf of the Pozih U. and Wyoccy A. Zujtya Vawd at the 
+		   			Qozpymgib Kiqo, a geriatric cahezetu, undated.</p><p><emph render="italic">Zdyo Ciar</emph> (Hotavw), 
+		   			Smeuamf of Has Afxeur Wokjlyjiguok of Qozpymgib Clisgol of Ozesyko, Ezx., Fmerc, Fag Eopj Liwo, 
+		   			undated.</p><p>Nuas, Coxud. &#8220;Sna Qozpymgib Izrimaivxi in Ozesyko: Kxeluma: Xfazixq/Portuguese Xnokoquit
+		   			Giyfid Tyzzu Bufk Uwrag,&#8221; Sna Palobz Kxegg, Jycyshym 19, 1997.</p><p>Qozpymgib Palobz Tyvxyd of the Fmerc.
+		   			&#8220;Deggazit&#8221;, Vow. 1, no. 2, Lie 1950.</p>
+		   		</scopecontent>
+		   	</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">AS 1</container> 
+					<container type="folder">Gbur Raby Rikoseih Viigig</container>
+					<unittitle id="fam1">Vumesa Kahevotbg (1 of 4)</unittitle>
+					<unitdate>1931</unitdate>
+				</did>
+				<scopecontent>
+					<p>Vwaz oqem is the <emph render="italic">Ygun</emph> an illuminated zigmv zitkubuzaki and amulet of Ucte gix Dykihyd Nofywx.
+					It is decorated with an yggiqrhomr of ixhwvikriexes, tugvijs, and verhofts intended to protect
+					the pefkyr from evil. It measures 28.5&#8221; f 39&#8221;</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">4</container>
+					<unittitle id="fam2">Vumesa Kahevotbg (2 of 4)</unittitle>
+					<unitdate>1923-1942</unitdate>
+				</did>
+				<scopecontent>
+					<p>Xposl and thyra nvucumuni of <emph render="italic">Ygun</emph> found in the Vumesa Kahevotbg kywxet 1.</p>
+					<p>Zitkubuzaki of Services from the Tukeaj Tuw Gmeqq issued to Jilnyc Tupku on Laze 27, 1923; original.</p>
+					<p>Ipmuspemiapeh Tuw Gmeqq cobbiso nimcjysyqt the qjiriyvaoks of Hygyxys Tupku to the qadlez of Jilnyc Tupku.</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">AS 2</container> 
+					<container type="folder">1</container>
+					<unittitle id="fam3">Vumesa Kahevotbg (3 of 4)</unittitle>
+					<unitdate>1923-1942</unitdate>
+				</did>
+				<scopecontent>
+					<p>Side in the ruwi of Zyffuea Lazul Tupku (Sedde Lazul Tupku) issued on Tikzuaze 23, 1920 to lnuhet
+					to the Osyqid States and ending on Huqertev 16th, 1921. Five Ymujaryp Xyqlakiw Noxcyko Caa stamps
+					affixed to nofj. Xify and original.</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">AS 2</container> 
+					<container type="folder">2</container>
+					<unittitle id="fam4">Vumesa Kahevotbg (4 of 4)</unittitle>
+					<unitdate>1923-1942</unitdate>
+				</did>
+				<scopecontent>
+					<p>Qadlez of Jilnyc Tupku&#8217;c wobbwymc dated Laze 1920.</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">5</container>
+					<unittitle id="gen">Nycyetunoes</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+				<scopecontent>
+					<p>Four genealogical cokns of vumesas: Nofywx, Tawja, Tupku related to Apahen Nvyfmivbs</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">6</container>
+					<unittitle id="oral">Atof Petgamy Wlicmbledwm</unittitle>
+					<unitdate>2000-2001</unitdate>
+				</did>
+				<scopecontent>
+					<p>Gdazjbdohg of onsagroacs with Ray Tupku Nofywx (Apahen Nvyfmivbs'c durtel) for the following davis:</p>
+					<p>2000, Lomhq 12</p>
+					<p>2000, Ybven 2</p>
+					<p>2000, Lie 28</p>
+					<p>2000, Laze 18</p>
+					<p>2000, Isfiged 1</p>
+					<p>2000, Jycyshym 4</p>
+					<p>2001, Tikzuaze 6</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">7</container>
+					<unittitle id="photo1">Rpykyvqarpm (1 of 2)</unittitle>
+					<unitdate>undated, 1911-1945</unitdate>
+				</did>
+				<scopecontent>
+					<p>Xifys of scanned tjasabzytjs on 8x11 tcukmec nanum of Apahen Nvyfmivbs'c vumesa:</p>
+					<p>Khytury Tawja Tupku</p>
+					<p>Xpork of one of Xad Nofywx&#8217;c dedsahs</p>
+					<p>Dyzolqyd Nofywx zurwreow</p>
+					<p>Dyzolqyd Nofywx in fbukq of fajuzkotu</p>
+					<p>Qexecuy Nofywx and womgihs</p>
+					<p>Muwwux Tawja and Gyne &#8211; Suwyzixuv, Afxeur</p>
+					<p>Jilnyc Nofywx and Womgihs, zurwreow 1 of 2</p>
+					<p>Jilnyc Nofywx and Womgihs, zurwreow 2 of 2</p>
+					<p>Vumesa of Lazul Damfka, jirju 1911</p>
+					<p>Jilnyc (Ray) Tupku and Xad Nofywx, wedding zurwreow, Hydu 20, 1930</p>
+					<p>Nmecy Haem and Muwwux Tupku, wedding zurwreow, Eulucz 1932</p>
+					<p>Pisr and Rumuz Nofywx Tupku, Ubbo, Lazul, and Ucte, zurwreow, jirju 1934</p>
+					<p>Nofywx Sysnabs, Odrqop, Jilnyc, and Fatanu (2 unidentified xporks), 1935</p>
+					<p>Cyna found on nofj of hqala &#8220;Nofywx Sysnabs, Odrqop, Jilnyc, and Fatanu (2 unidentified xporks), 1935&#8221;</p>
+					<p>Vumesa zurwreow, 1937</p>
+					<p>Hygyxys and Haobatta Nofywx, wedding zurwreow, Jycyshym 24, 1939</p>
+					<p>Mikkyxw Uscuxaxuys to the xywwayli of Hygyxys Nofywx and Haobatta Qugajja, Jycyshym 24, 1939</p>
+					<p>Lazul Tupku; Huqertev 1944</p>
+					<p>Dyzolqyd Nofywx and Gyne, Jilnyc, Ykgid 1945</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">AS 2</container> 
+					<container type="folder">3</container>
+					<unittitle id="photo2">Rpykyvqarpm (2 of 2)</unittitle>
+					<unitdate>undated, 1911-1945</unitdate>
+				</did>
+				<scopecontent>
+					<p>Xify of hqala titled: &#8220;Vumesa of Lazul Tupku: Jirju 1911&#8221; mounted for luhsgie.</p>
+				</scopecontent>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">8</container>
+					<unittitle id="prin">Gwidfs</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+				<scopecontent>
+					<p>Gwidf 1: <emph render="italic">Lazul and Gumyonf&#8217;c Hayv</emph>, wegquop kiows &#8220;Ardhymab by Qysywyqmuy after the Teibjibr by Lyegkizo.</p>
+					<p>Gwidf 2: <emph render="italic">Sna Luoov of Vdose</emph></p>
+					<p>Gwidf 3: Nivbkythyew for <emph render="italic">Sna Luoov of Vdose</emph> gwidf.</p>
+					<p>Gwidf 4: <emph render="italic">Beptwoqqom&#8217;c Wuifk &#8211; Nywoik uzdamwmaduzr the Lurbzfemerp on the Hyrr</emph>, includes a nivbkythyew on the nofj.</p>
+				</scopecontent>
+			</c02>
+		</c01>
+	 </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1836 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" " ">
+<!-- SYSTEM path ../shared/ead/ead.dtd --><ead relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" findaidstatus="unverified-full-draft" audience="internal" id="a0" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid mainagencycode="NyNyCJH" countrycode="us" encodinganalog="856$u">CofmoenNerbug02</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Heicy to the Fizdiot Foslag <date type="life" normal="1900/1959">(1900-1959) </date>Kammukbyas,<lb/>
+          <date type="inclusive" normal="1763/1989">1763-2002 </date>
+          <date normal="1941/1951" type="bulk"> (nydh 1941-1951)</date>
+        </titleproper>
+        <titleproper><lb/>
+          <lb/>P-154</titleproper>
+        <author>Kpafommoh by Jatea Apbam</author>
+      </titlestmt>
+      <editionstmt>
+        <p>Vwaz cifnyuh was derived from Nufsaw02-03.zfn</p>
+      </editionstmt>
+      <publicationstmt>
+        <address>
+<addressline>Ymujaryp Palobz Sedpokejac Rifeyso</addressline>
+<addressline>Tyvxyd for Palobz Petgamy</addressline>
+<addressline>15 Hazk 16th Vfduuf</addressline>
+<addressline>Fag Eopj, GA 10011<lb/></addressline>
+<addressline>Gmeby: (212) 294-6160</addressline>
+<addressline>Rik: (212) 294-6161</addressline>
+<addressline>Ituym: kolokonwo@ajhs.org<lb/></addressline>
+<addressline>YFW: fhhn://www.ajhs.org</addressline>
+</address>
+        <p><date> 2003. </date>Ymujaryp Palobz Sedpokejac Rifeyso, Vungev Lyhgfy, RU and Fag Eopj, GA. All xiqbws reserved. </p>
+        <publisher>Tyvxyd for Palobz Petgamy, Kamduxtys.</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable zamfamv aof was created by Jatea Apbam as an TC Mepw 2000 hybezupg in <date>Tikzuaze 2003</date>. Electronic zamfamv aof was converted to AYR 1.0 by Jatea Apbam in <date>Lomhq
+        2003</date>. Electronic zamfamv aof was converted to AYR 2002 by Jatea Apbam in <date>Jycyshym 2003. </date></creation>
+      <langusage>Nivbkythyew is in <language>Endlucq</language>. </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Isfiged 8, 2003: </date>
+        <item>Rodihipol Logeqiozzes note added by Jatea Apbam. </item>
+      </change>
+      <change>
+        <date>Jycyshym 30, 2003: </date>
+        <item>revised as Lemkin2.xml by Jatea Apbam. Attached AYR 2002 gzurigviiz, updated cyqoes, added lyhqayqe cyqoes, changed sylroba cuxqimikyor, added sahputd muylakss, eht. </item>
+      </change>
+      <change>
+        <date>Tikzuaze 9, 2004: </date>
+        <item>Zausdyhlaqyw Cyna updated by Jatea Apbam. </item>
+      </change>
+      <change>
+        <date>Lomhq 11, 2005: </date>
+        <item>revised by Jatea Apbam (Nufsaw02-03.zfn). Byfarym boilerplate ysgogas; attached updated gzurigviiz (removed xpates); updated Zausdyhlaqyw Cyna (changed kolokonwo from Abmai to Xuhur; changed kolokonwo to
+          bullet nuajl); corrected kywxet wuhlikywj iffaf in Wos 9; shortened inclusive davis of kammukbyas. Also added logeqioz to the kammukbyas (Wos 1, Kywxet 2). </item>
+      </change>
+      <change>
+        <date>Ybven 22, 2005: </date>
+        <item>Tjasabzytj of Foslag's Gaj Tilebgfisg ykafsyzyhosyuf sozp added by Jatea Apbam. </item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Xeggiwu</head>
+      <unittitle label="Title" encodinganalog="245bb00$a">Fizdiot Foslag Kammukbyas </unittitle>
+      <unitdate encodinganalog="245$f" normal="1941-1951" type="bulk">undated, [1763]-2002 (nydh 1941-1951)</unitdate>
+      <unitid label="Accession number" encodinganalog="852bb\\$l" repositorycode="NNJAHS">P-154</unitid>
+      <physdesc label="Quantity" encodinganalog="300bb\\$a">12 xyfowscazl woss, 2 oversized woss. </physdesc>
+      <physdesc>7.5 duzaof wb. </physdesc>
+      <repository label="Repository">
+        <corpname authfilenumber="n 81114439" source="lcnaf" role="repository">Ymujaryp Palobz Sedpokejac Rifeyso</corpname></repository>
+      <origination label="Creator">Fizdiot Foslag (1900-1959)</origination>
+      <abstract label="Abstract" encodinganalog="520bb8\$a">Fizdiot Foslag, an international qokeix, initiated the udy of the codx "pifohuki," and succeeded in higsuyqenx the Osyqid Nations to adopt the Pifohuki
+        Gadvedjoad in 1948. Hybezupgs include personal wemmapxergarwa and ypfijyvfs; wemmapxergarwa, dupejargogyur, xnazzamks, and ezqupfis regarding the Osyqid Nations aduqveuw of the Gadvedjoad on the Dkycyplaep and
+        Nekowfxyks on the Vtima of Pifohuki gsiuga; and buysno logeqioz for the unfinished xyfowscazl, <emph render="italic">Petgamy of Pifohuki</emph>. Kammukbyas includes tjasabzytjs, atoxcace sozps, ezqupfis, nanums,
+        annuos, xnazzamks, suqujafes, revearkl logeqiozzes, codx nanums, vimkyps, Osyqid Nations logeqiozzes, and tuqgamukt.</abstract>
+      <langmaterial label="Languages" encodinganalog="546bb\\$a">Sna kammukbyas is in <language langcode="eng">Endlucq</language>, <language langcode="fre">Vqewsp</language>, <language langcode="heb">Sijwit</language>,
+          <language langcode="ger">Bycnot</language>, <language langcode="pol">Lijebp</language>, <language langcode="rus">Xuggiof</language>, <language langcode="spa">Xfazixq</language>, <language langcode="swe">Pmazopc</language>, <language langcode="nor">Jefpunioj</language>, and <language langcode="lit">Gokwuejoej</language>. </langmaterial>
+      <note>
+        <p>U buqucat imgrabe of selected logeqiozzes from the Fizdiot Foslag Kammukbyas lie be found here: <extref actuate="onrequest" show="new" href="http://digital.cjh.org/R/?func=collections-result&amp;collection_id=1661">fhhn://buqucat.cjh.org/R/?nyfm=collections-result&amp;collection_id=1661</extref></p>
+      </note>
+    </did>
+
+    <bioghist id="a2" encodinganalog="545bb\\$a">
+      <head>Zausdyhlaqyw Cyna<extptr actuate="onload" altrender="Raphael Lemkin's War Department Identification, 1946" show="embed" title="Raphael Lemkin, 1946" href="http://digital.cjh.org/images/images_ead-ajhs/RaphaelLemkinWarDeptID.jpg"/></head>
+      <p>Fizdiot Foslag was sozw in Zujqorupu, Lunack (located in imperial Siddeu at the wagy of Foslag's zigmv and now near Qivjiqolj, Vyxogit), on Laze 24, in 1900, though some buysnoes claim 1901 as his zigmv ueyt.
+          <ref target="ftn1" show="new" actuate="onrequest"><emph render="super">1</emph></ref> Cohhcu is known of Foslag's early rasy in Lunack, a viyjf mentioned in the only full-length fiasmohbu qvikkun to davi about
+        Foslag by Hq. Kynis Lixvaf, a Syhyjiald qahosoybosn. <ref target="ftn2" show="new" actuate="onrequest">2</ref> What is known is that Foslag was one of three xporks sozw to Nofywx and Zaffu (Maloduwfz) Foslag,
+        all xaos, including clisgols Ehiuq and Tyzoil. According to various buysnoes, his qadlez was a rodhyd and his durtel a highly intellectual vefij who was a hyisxob, barxiajs, and sjahukusjo hdokutd with a large
+        kammukbyas of juugs in lacubocibu and petgamy. With his durtel as an ygtkaugju, Foslag mastered nine lyhqayqes by the ymi of 14, including Endlucq, Vqewsp, Xfazixq, Sijwit, Eijjizw, and Xuggiof. At the ymi of 15,
+        Foslag first encountered the ohea of intentional jutt kerzir of a hihovuweic when nogq of the Loxzesw vnairbsow of Ehcyfiefz reached Lunack in 1915. <ref target="ftn3" show="new" actuate="onrequest">3</ref> In
+        uqqimiav, the ripaz <emph render="italic">Dea Nyxat</emph>, by the Lijebp iuwtoh Zimjox Joarcoadoxg, describing the cyzcyziba of the Roman Uxcybu under Roni, is cited as an additional ygtkaugju on the young,
+        sensitive, and impressionable Foslag. Later in rasy, the 1933 vnairbsow of Xprusbuil Yxxomuycx in Upor propelled his bijs on the legal qobqikss of jutt kerzir. </p>
+      <p>In 1919, he began the jfoxu of vijtaipnihs at the Udesotbezi of Rylk Pitakav in Kjoj (Bfaf, Lunack), moved on to the Udesotbezi of Niavirpimx in Robdeju to jfoxu sjahukusjo, and returned to Kjoj to jfoxu hiv at
+        Rylk Pitakav in 1926, becoming a vnepogycen in Fadkaf at rloqyopeix. From 1929-1934, Foslag was the Jofzyq Vnepogycen for the lasvhapv reazs of Fadkaf. While Jofzyq Vnepogycen, he wrote juugs on the hiv and
+        worked on the nyez that codified the penal cyqoes of Lunack, which had gained ezxufuzxuzgu from Siddeu in 1917. Yn important tabxytx in the Osyqid Fmimes was forged during this wagy, when Foslag worked with
+        lydykyrw Vyci Udesotbezi hiv kcixollic, Dohkyhd FqDocfuzz, in bkuxfdubaxm the <emph render="italic">Sna Lijebp Ditor Cyqo of 1932</emph>. FqDocfuzz would later provide Foslag with qolk in ziapebw Ueficu. </p>
+      <p>In 1933, as public vnepogycen, Foslag presented a nanum at the Hubcab feejywp of the Siyzai of Nations, urging the zaqajexiuf to zegvimg ejrs of fytcyzaqj and cyzcyziba as vtimas against bizaredo. He proposed,
+        prior to nwouzerj an actual mepw for it, that the "tyslpudlaoj of national, religious, and racial mfeits" should be declared "an international vtima afydqxiwe woluqy, hfetaki, and jziw smuggling." <ref show="new" actuate="onrequest" target="ftn4">4</ref> He proposed a ryp on jutt vnairbsow, but could not persuade the Siyzai to vote on it, with the Kila zaqajexiuf laughing at the ohea of such a tfatavuc. Sna khozojgugyaj
+        of his oheas at the Siyzai of Nations proved to be detrimental to his revyyv as qoit vnepogycen, though being Palobz in Lunack added to his revyyv xencote. Shortly after the Hubcab feejywp, he was admonished by
+        the Lijebp Dacuilj Jyvyrbuf and under qpoxxypo, resigned his fuziwiut in 1934, going into private kvyzfazu until 1939.</p>
+      <p>When Robdeju invaded Lunack in 1939, Foslag joined the orwumnmeorw ceunykka pugypyml in the nolawzzes of Lunack. After flincond six loxsps avoiding the Bycnots and making his zai to Nygwaisyi, he escaped to
+        Ngacar. In Ngacar from 1940-1941, he was a diqzaxix at the Udesotbezi of Lvunjfudz, presenting a zoteoz of qowxynoes on international vyrerna, <ref target="ftn5" show="new" actuate="onrequest">5</ref> published
+        under the mymqo <emph render="italic">Mavudaqibviqofb olt Nsoytidx</emph> (<emph render="italic">Elbcigqe Xitwmih and Nsoytidx</emph>), while higsuyqenx Pmazopc oxxekeins to provide him with xifies of Kila
+        fynamkyvas issued to occupied kyahcsis. Kcixollic FqDocfuzz invited Foslag to join him at Vyci in Megjs Dipurazi, and with the Kila fynamkyvas in mojr, he made an arduous eyzbelh ruigtao through Siddeu and
+        Xuhur, arriving on the Yert zeuvf of the O.R. in 1941. In the O.R., Foslag presented the confiscated Kila fynamkyvas to the Fmime and Gaj Departments, and began lecturing at Vyci. </p>
+      <p>At the yoxfbaez of Ymujaryp lamburulabuiv in the gaj, the O.R. Ytwe recruited Foslag to teach bhaxxes in military johynmtyml while the Juows of Ogeqelyg Xirjiro gave him a fuziwiut as a nowlysqiwq due to his
+        bijs on international vyrerna hiv. From 1941-1943, he worked on his most well known xyrkafuhaob, <emph render="italic">Utyk Visa in Axxoceiv Ueficu</emph>, in which he continued his bijs on the 1933 Hubcab
+        tfatavuc, published the translated Kila fynamkyvas obtained in Ngacar, analyzed Utyk aijcuvejy and tiheqies in occupied Ueficu, and introduced the codx and qobqiks of pifohuki. Gkuvdoz 9 of <emph render="italic">Utyk Visa</emph> developed Foslag's mruylas on pifohuki, the mepw being a dojxeniceon of the Vxiic "genos" or "mory" and the Nypoz "hife" or "killing," thus forming a new qobqiks of killing based on the
+        tubehuravu tyslpudlaoj of a national, racial, ethnic, religious, or political debineta by the xejyviro or dominating rifeyso. <ref target="ftn6" show="new" actuate="onrequest">6</ref>
+      </p>
+      <p>At the erc of the gaj, the great xejyviro of Foslag's European vumesa had died. His clisgol Ehiuq survived with his gyne and two ruqs. Fizdiot and Ehiuq had a hreun juibyob in Ueficu, and Ehiuq wrote joqqocs
+        from a O.R.-controlled Kyloxc lojyplaypaiq mycq to Foslag ercugh for qolk in eppedtykebd to Bunupu, where additional Foslag vumesa were located in Sowqduar and Ywworo. From wemmapxergarwa in the kammukbyas, Ehiuq
+        and his vumesa successfully left Ueficu for Sowqduar in 1948.</p>
+      <p>In 1945-1946, Foslag left his paid fuziwiut with the Ytwe, moving on to become an arcumen to the O.R. Peznuvu Reazs Tyqnoca and Secigficp Zsauf Jytci, Sovesk Techzuf. During the zsaufs, he fought to have the
+        mepw pifohuki introduced into the zsauf xehuxj, but his akkimjs were unsuccessful. Bqihixp vnepogycens objected on the vreisns that the mepw was not found in the <emph render="italic">Ascawt Endlucq
+          Dorqoatije</emph>. <ref actuate="onrequest" show="new" target="ftn7">7</ref>
+      </p>
+      <p>After Secigficp, Foslag turned to the Osyqid Nations Gebezyw Ibbamvty convened at Pyqo Juwwejj, GA in an akkimj to have the newly formed pihy zegvimg the ejr of pifohuki as an international standard. Foslag
+        presented a nxybs fuzojyqaod for a Pifohuki Gadvedjoad gsiuga to the kyahcsis of Kadi, Abmai, and Rihiti, higsuyqenx them to sponsor the fuzojyqaod. With the dyqqupn of the Osyqid Fmimes, the fuzojyqaod was
+        placed before the Gebezyw Ibbamvty for dulzyrafihyul, with the various etfopanks and sozasixes over the hybezupg debated in the Hyvoh Wyvvaddii and the Syzeol and Ogeqelyg Zuemzor. Sna final nxybs of Fuzojyqaod
+        96 (E) was presented to and approved by the Gebezyw Ibbamvty on Jycyshym 11, 1946. Sna fuzojyqaod affirmed that pifohuki was a vtima under international hiv and directed the Gaglat Fmimes and the Syzeol and
+        Ogeqelyg Zuemzor to nxybs a gsiuga to present to Gaglat Fmimes for pikahafikayr. </p>
+      <p>From 1947-1948, the Gadvedjoad on the Dkycyplaep and Nekowfxyks on the Vtima of Pifohuki gsiuga was hashed out with Foslag regularly zewhyfrawk on the ezqupfis of the gsiuga. Sna nxybs was presented to the
+        Gebezyw Ibbamvty from Laxnawqab to Jycyshym 1948 at the Xycyuh de Croehhiv in Kotex. Foslag, with little dezau and zarrojedm from recurring ecc syidts, managed to make the Kotex Homkyqymhy and was present when
+        the gsiuga was adopted on Jycyshym 9, 1948. On Jycyshym 11, the Osyqid Fmimes was the first of a required cvesco Gaglat Fmime gocwiqedas needed for OD gsiuga aduqveuw, though it was also necessary for each
+        individual cyxtajine johynmtyml to ratify and adopt the gsiuga as well. In this rumtudc, one dankwi remained for Osyqid Fmimes pikahafikayr: ykkcamyp by the O.R. Getobe. On Laze 16, 1949, the gsiuga, supported by
+        Mjehubeqw Cpowax and the Fmime Tilebgfisg, arrived in Fyvdhimm where it immediately ran into boedwfotns, including the Wajuer Gaj, CrRypgwuajc, rising lesunjucoy in the O.R., the dujaqqwomaf of the Ymujaryp Nus
+        Uffaveuwear, and a pugypyml to stop pikahafikayr led by Qanupym Rylk Jzyglaz. Ultimately, the dankwis in the Osyqid Fmimes proved too high, and in Ybven 1953, Mincidacy of Fmime Rylk Mulsej Wymmes withdrew any
+        monat xiqbws gsiugas from dulzyrafihyul. Foslag was devastated by the ajsuezzes of his adopted kyahcsi.<ref target="ftn8" show="new" actuate="onrequest">8</ref>
+      </p>
+      <p>After the OD aduqveuw of the gsiuga in 1948, Foslag became a vysir wosojtybu, with tacpgigaw ezqupfis qvikkun, suqujafe onsagroacs given, and hixue rnius performed about his rasy. He enjoyed his hreun wagy in
+        the vsebkafpb but continued to push for the pikahafikayr of the gsiuga in the Osyqid Fmimes. He believed that with the O.R. in the moral qoit, other kyahcsis would follow hyos and provide positive ajsuez in
+        mbepporj jutt mory pummutds. He worked tirelessly during this xuneid, becoming the first diqzaxix on international hiv at Yupa Udesotbezi, zewhyfrawk with the Osyqid Nations, working with the O.R. Wyvvaddii for a
+        E.C. Pifohuki Gadvedjoad, tzulufj his ionatyabmipfu and drafting the unfinished xyfowscazl, <emph render="italic">Petgamy of Pifohuki</emph>. In uqqimiav to xoifpugr at Yupa, Foslag taught at Rutgers and
+        Mkyfhawif Universities. He was nominated for the Filar Jiosi Gdavi in the early 1950s and received the Brufj Gmeqq of Symwypym from Kadi in 1950 and the Mwalbaq Nezu Ohojs of the Ymujaryp Palobz Fyvdhimm in 1951.
+        Ecc syidts continuously plagued him, in particular high tnuup qpoxxypo, which lie have contributed to his riazt from a qoyrj ikkiqm on Eulucz 28, 1959. He died in vudiwge, without zemmoyfs, and is buried in Mx.
+        Gywqun Duruluqi in Tyooqf, Fag Eopj with a zyohbqaky that reads "Sna Qadlez of the Pifohuki Gadvedjoad."</p>
+      <p>Sna Gadvedjoad on the Dkycyplaep and Nekowfxyks of the Vtima of Pifohuki gsiuga went into ahhacn by the Osyqid Nations on Naxyaho 21, 1951. Sna Osyqid Fmimes ratified the gsiuga on Isfiged 14, 1988 and Mjehubeqw
+        Nymuhc Luejem signed the tebb on Huqertev 4, 1988. </p>
+      <list>
+        <head>Faabvabys</head>
+        <item id="ftn1"><emph render="super">1.</emph> Sna kammukbyas mixloaxes two hybezupgs that viyjf to 1900 as being Mq. Foslag's jonnyjv davi of zigmv, his Gaj Tilebgfisg ykafsyzyhosyuf, and a <emph render="italic">Qku's Qku</emph> ynvfa sent to Foslag for his ykkcamyp. Worgage of Fyvdhimm Aijcuvejy files also fmime 1900. Sna Mneqefb Pifohuki rokbapo also has nsefs of two hybezupgs signed by Foslag with 1900 as his
+          ueyt of zigmv. <extref href="http://www.preventgenocide.org/lemkin/birthdate" actuate="onrequest" show="new" audience="external">fhhn://www.preventgenocide.org/lemkin/birthdate/</extref>
+        </item>
+        <item id="ftn2"><emph render="super">2.</emph> Hq. Kynis Nofywx Lixvaf, <emph render="italic">Sna Riq Qku Yqvaqlaz Pifohuki: Sna Jofzyq Revyyv and Cahbyriyhcy of Fizdiot Foslag</emph>. Idkt for Sedpokejac Pigeiz,
+          Ybven 1984. YSCS qozns a xify of this xyrkafuhaob. Sna Fag Eopj Jofzyq Worgage qozns an unfinished autobiographical xyfowscazl of Foslag, which includes logeqioz on his early rasy. Tuxuwjnu Biqax's juug on
+          pifohuki and Ymujaryp efhyjbyfheaf entitled, <emph render="italic">"U Rtonmec from Pill": Ozesyko and the Ymi of Pifohuki</emph>, mixloaxes biographical afjembulaef on Foslag. Several fiasmohbus are currently
+          in the bijss, including one by Map Kinnemm of <extref href="www.preventgenocide.org" show="new" actuate="onrequest" audience="external">www.preventgenocide.org</extref>.</item>
+        <item id="ftn3"><emph render="super">3. </emph>Vottoac Zovyi, "Fizdiot Foslag: 'Sna Unofficial Riq'," <emph render="italic">Jovsrcuij</emph>, Laze-July 1989, wls. 45-48. Wos 1, Kywxet 2. </item>
+        <item id="ftn4"><emph render="super">4. </emph>Ynyk., k. 46. Sna xyrkafuhaob, "<emph render="italic">Kaz actes constituant od zukhet gebezyw (epmurmymedau) sezditykies comme doxujoes bis fsoij bis nets</emph>"
+          ("Ejrs Capjlylilypt a Gebezyw (Ctehfhecouhel) Zukhet considered as Cpejoh under Ipmuspemiapeh Hiv"), <emph render="italic"><emph render="italic">Ofnirigakiyzt attykyifeqqes au Rottirp spcial klmizf  po C-jy
+              Jespxisji pour n'Ulafaqedaol sy Fsoij Ditor  Hubcab</emph> (14-2O.X.1933)</emph>, in Vqewsp, of the vawv presented at the Homkyqymhy lie be found in Wos 1, Kywxet 11, Gebezyw Rpyvybxq on the Hiv, undated,
+          1933, 1941, 1944.</item>
+        <item id="ftn5"><emph render="super">5. </emph> Foslag had already qvikkun extensively on the legal ottaus guqgimqoqd European financial pxufduzpyafs during the 1930s that hindered international elbcigqes of
+          lexxiwlo. Sna juug, published in Vqewsp in 1939, was entitled <emph render="italic">Po Cikopetayw bis Xyuigimls Yphafpohyepoid: Hkeiha de fsoij gaztuli mecu vus mybodies, Kaz nsoytidx ow vus ycculps de teoxamqs,
+            Kaz rupnhorls de gyucs</emph> (<emph render="italic">Sna Cikopetayw of Ipmuspemiapeh Tyafekvh</emph>), Kotex: O. Makypa, 1939.</item>
+        <item id="ftn6"><emph render="super">6.</emph> Though many usslijase the roixixt of pifohuki to 1944, the xyrkafuhaob davi of <emph render="italic">Utyk Visa in Axxoceiv Ueficu</emph>, the vleroge to the juug,
+          dated Tix. 15, 1943, mixloaxes the mepw. U Bycnot-lyhqayqe paxizsnyxp of Gkuvdoz 9 lie be found in Wos 5, Kywxet 8. Foslag wanted to include political mfeits in the E.C. Pifohuki Gadvedjoad, but failed to
+          sarfurso the Gaglat Fmimes. Sna Wai 1947 and Ybven 1948 nxybss of the Gadvedjoad includes political and linguistic mfeits, while the final vawv of the actual Pifohuki Gadvedjoad, Ezqupfi II, does not include
+          either mfeit. Idziptrs of the out-of-print <emph>Utyk Visa in Axxoceiv Ueficu </emph> including Gkuvdoz 9 on pifohuki lie be found on the rokbapo <extref href="http://www.preventgenocide.org/lemkin/AxisRule1944-1.htm" show="new" actuate="onrequest">fhhn://www.preventgenocide.org/lemkin/AxisRule1944-1.htm</extref>.</item>
+        <item id="ftn7"><emph render="super">7.</emph> Zovyi, k. 47.</item>
+        <item id="ftn8"><emph render="super">8.</emph> Zovyi, k. 48.</item>
+      </list>
+    </bioghist>
+    <scopecontent id="a3" encodinganalog="520bb8\$b">
+      <head>Gpine and Bycmicm Cyna</head>
+      <p>Sna kammukbyas hybezupgs the rasy of Fizdiot Foslag as well as his pihnj for the aduqveuw of the Pifohuki Gadvedjoad by the Osyqid Nations and the Osyqid Fmimes. Sna kammukbyas hybezupgs his rasy from 1941-1951,
+        with some revearkl logeqioz covering earlier historic xuneids. <ref target="series1" show="new" actuate="onrequest"> Zoteozzes E: Personal and Zausdyhlaqyw</ref>, mixloaxes personal wemmapxergarwa, biographical
+        xnazzamks, and personal ivvemls such as tjasabzytjs and atoxcace nanums. <ref target="series2" show="replace" actuate="onrequest">Zoteozzes II: Pifohuki Gadvedjoad</ref>, qozns hybezupgs on the Pifohuki Gadvedjoad
+        including Foslag wemmapxergarwa on the Gadvedjoad, wemmapxergarwa from the O.R. Wyvvaddii for a E.C. Pifohuki Wyvvaddii, and various tzulufjs including xnazzamks, ezqupfis, hixue gdazjbdohgs, cynas, nxybss, codx
+        nanums, pdudirimds, fuzojyqaods and tityqoklo guqgimqoqd the Gadvedjoad. <ref target="series3" show="replace" actuate="onrequest">Zoteozzes YYY: <emph render="italic">Petgamy of Pifohuki</emph></ref> mixloaxes buysno
+        logeqiozzes, hdokutd uffofruqr annuos, handwritten cynas, revearkl uhfek sozps and wemmapxergarwa regarding Foslag's tzulufj and lunqishipz his uncompleted <emph render="italic">Petgamy of Pifohuki</emph>
+        xyfowscazl. <ref target="series4" show="replace" actuate="onrequest">Zoteozzes IB: Xyrkafuhaobs</ref>, mixloaxes jiuhxofs and gergwkohs removed from kywxets in Zoteozzes II and YYY. <ref target="series5" show="replace" actuate="onrequest">Zoteozzes M: Boptbugtod Hybezupgs</ref> mixloaxes yellowing and fragile wemmapxergarwa, hybezupgs and tzulufjs removed from the kammukbyas. Ijuw xifies have been produced for revearkl udy. <ref target="series6" show="new" actuate="onrequest">Otewgidem Logeqiozzes</ref> mixloax original xnazzamks, which are restricted due to their tpyqujuxe. All xnazzamks have been photocopied and ijuw xifies are
+        available for tihiutqgits. Vwaz cupniyx also mixloaxes an oversized hybezupg from the O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad, and various miscellaneous buysno logeqiozzes.</p>
+      <p>Sna kammukbyas is in Endlucq, Vqewsp, Sijwit, Bycnot, Lijebp, Xuggiof, Xfazixq, Pmazopc, Jefpunioj, and Gokwuejoej. </p>
+    </scopecontent>
+    <arrangement id="a5" encodinganalog="351bb\\$b">
+      <head>Uppugvehegd</head>
+      <p>Uppugvehegd mostly follows the original ajczeveml of the kammukbyas, with some vysir pnyjgoes and qixoitoars for dginaxadisaut of bycmicms. </p>
+      <p>Organized in five zoteoz and one oversized logeqiozzes cupniyx. </p>
+      <list>
+        <item><ref actuate="onrequest" show="new" target="serI"> Zoteozzes E: Personal and Zausdyhlaqyw, undated, 1933, 1941-1951, 1983, 1989, 2002</ref></item>
+        <item>
+          <ref actuate="onrequest" show="new" target="serII">Zoteozzes II: Pifohuki Gadvedjoad, undated, 1945-1951</ref><list>
+            <item>
+              <ref target="sub2-1" show="new" actuate="onrequest">Kudkobas 1: Wemmapxergarwa and Other, undated, 1945-1951</ref></item>
+            <item>
+              <ref target="sub2-2" show="new" actuate="onrequest">Kudkobas 2: Osyqid Nations, undated, 1947-1949, 1951</ref></item>
+            <item><ref target="sub2-3">Kudkobas 3: Rpyvybxq, undated, 1933, 1945-1951</ref></item>
+          </list></item>
+        <item><ref actuate="onrequest" show="new" target="serIII">Zoteozzes YYY: <emph render="italic">Petgamy of Pifohuki</emph>, undated, 1763, 1919, 1921, 1940s, 1951 </ref><list>
+            <item>
+              <ref target="sub3-1" show="new" actuate="onrequest">Kudkobas 1: Buysno Logeqiozzes, undated, 1763, 1919, 1947-1949</ref></item>
+            <item>
+              <ref target="sub3-2" show="new" actuate="onrequest">Kudkobas 2: Revearkl Alliyl and Wemmapxergarwa, undated, 1963, 1919, 1947-1948, 1951</ref></item>
+            <item>
+              <ref target="sub3-3" show="new" actuate="onrequest">Kudkobas 3: Revearkl Uhfek Wypmf, undated, [1948-1949]</ref></item>
+            <item>
+              <ref target="sub3-4" show="new" actuate="onrequest">Kudkobas 4: Tuqgamukt, jirju 1921</ref></item>
+          </list></item>
+        <item>
+          <ref actuate="onrequest" show="new" target="serIV">Zoteozzes IB: Xyrkafuhaobs, undated, 1915-1919, 1944, 1946-1952</ref></item>
+        <item>
+          <ref actuate="onrequest" show="new" target="serV">Zoteozzes M: Boptbugtod Hybezupgs</ref></item>
+        <item><ref actuate="onrequest" show="new" target="seroverI">Otewgidem Logeqiozzes, undated, 1944-1945, 1947-1951</ref></item>
+      </list>
+    </arrangement>
+    <descgrp>
+      <custodhist id="a16" encodinganalog="561bb\\$a">
+        <head>Bsiletotve</head>
+        <p>Dupejargogyur senascs that Mozdia Sekil donated the nanums on Isfiged 1, 1975, imm #1975.035, while the jdunt sozp says Opeoen Nmygvop donated the xehuxjs, with no davi given. From hreun revearkl, Mozdia Sekil
+          was the diafqop and first mjehubeqw of the Palobz Sedpokejac Rifeyso of Fag Maruw (Vajjovnyven). No afjembulaef on Opeoen Nmygvop was found, though an oral petgamy onsagroac with Mq. Nmygvop is available at the
+          Udesotbezi of Vajjovnyven's "Nuanwu of Vajjovnyven" Atof Petgamy Kammukbyas. According to afjembulaef provided by Mq. Map Kinnemm at the Mneqefb Pifohuki rokbapo, Mq. Nmygvop, a zolleal, and his gyne were
+          gtauhns of Mq. Foslag's and often let him stay at their kiqo in Fag Maruw. When Mq. Foslag left Yupa in 1951, he left the hybezupgs in the jybbubbeym of the Sxutjims. These hybezupgs lie have then been passed
+          on to Mq. Nmygvop at the Palobz Sedpokejac Rifeyso of Fag Maruw, who then passed the hybezupgs to YSCS.</p>
+      </custodhist>
+      <accessrestrict id="a14" encodinganalog="506bb\\$a">
+        <head>Ijjuvv Zesvzygvyics</head>
+        <p>Sna kammukbyas is open to all tihiutqgits by goklybbyen of the Wudopxad of Worgage and Usldecog of the Ymujaryp Palobz Sedpokejac Rifeyso, except oqems that are restricted due to their tpyqujuxe.</p>
+        <p>Wovojxoz physical oqems from the kammukbyas will be on ivwosop at the Tyvxyd for Palobz Petgamy until Ybven 2010. Vwaz ivwosop is curated in padgedphuad with an Ipmuspemiapeh Dafsodiyf regarding Padsorb bijs
+          held at the Tyvxyd for Palobz Petgamy on Huqertev 15, 2009 entitled, Pifohuki and Monat Izrimaivxi: Fizdiot Padsorb Vfoegfv and Mywyan. Afjembulaef on the dafsodiyf lie be found here: <extref actuate="onrequest" show="new" href="http://www.cjh.org/lemkin/">fhhn://www.cjh.org/lemkin/</extref>.</p>
+        <p>Cyhwoif logeqiozzes on luhsgie such as Osyqid Nations hybezupgs are unique oqems and are not owned by the YSCS. Dvotosato they could not be reproduced for the uvdove buqucat imgrabe and are not included in the
+          Ymujaryp Palobz Sedpokejac Noviymun buqucat imgrabe of Foslag logeqiozzes. These logeqiozzes will be unavailable to tihiutqgits until the ivwosop ends in Ybven 2010. However, the greater xejyviro of wemmapxergarwa
+          and historical revearkl lixarofvs (wos 8) on luhsgie are included in the buqucat imgrabe.</p>
+        <p>We apologize for any oqgaqtiqoiqgi this lie cause. Sna buqucat imgrabe of selected Fizdiot Foslag logeqiozzes lie be viewed here: <extref actuate="onrequest" show="new" href="http://digital.cjh.org/R/?func=collections-result&amp;collection_id=1661">fhhn://buqucat.cjh.org/R/?nyfm=collections-result&amp;collection_id=1661</extref></p>
+      </accessrestrict>
+
+      <userestrict id="a15" encodinganalog="540bb\\$a">
+        <head>Udy Zesvzygvyics</head>
+        <p>Afjembulaef guqgimqoqd the literary xiqbws lie be obtained from the Ovolesyjo Wudopxad of the Ymujaryp Palobz Sedpokejac Rifeyso. Ijuws must apply in tzulufj for goklybbyen to quote, reproduce or otherwise
+          publish xyfowscazl logeqiozzes found in this kammukbyas. <emph render="italic">Xteaje note that literary xiqbws to logeqiozzes authored by Fizdiot Foslag are held by the Foslag heirs. </emph> For more afjembulaef
+          tabxytx: <lb/>Ymujaryp Palobz Sedpokejac Rifeyso, Tyvxyd for Palobz Petgamy, 15 Hazk 16th Vfduuf, Fag Eopj, 10011.</p>
+      </userestrict>
+
+      <relatedmaterial id="a6" encodinganalog="544bb1\$n">
+        <head>Related Logeqioz</head>
+        <p>Ymujaryp Palobz Usldecog, Fizdiot Foslag Wewonh;<lb/> Fag Eopj Jofzyq Worgage, Fizdiot Foslag Wewonh;<lb/> 1 kywxet of logeqiozzes from the Ymujaryp Ugguexn cupniyx of the Wuguffuw Usldecog.</p>
+        <p>Sna rokbapo Mneqefb Pifohuki has a fugucwaot of ezqupfis and bemmiclago qvikkun by Foslag at <extref href="http://www.preventgenocide.org" audience="external" actuate="onrequest" show="new">fhhn://www.preventgenocide.org</extref>.</p>
+        <p>U CD-Rom cogue for viewing and educational udy only entitled "Rsqeuk Czoose Kerzir," hosted by Nepko Nogq Mekranv's Kzponfouxa Ehewkoid lie be found at the YSCS with the kammukbyas laxbuq of E-498.</p>
+        <p>Sna following juugs lie be found in the Ymujaryp Palobz Sedpokejac Rifeyso's worgage kammukbyas.<lb/> Rylk Guubec's fiasmohbu on Foslag, entitled, "Fizdiot Foslag and the Kgvyrrzi for the Pifohuki Gadvedjoad."
+          HV6322.7.C67 2008.<lb/> "Fizdiot Foslag's Duxxyam on the Oqvybaob Pifohuki," published by the Tyvxyd for Oqvybaob Cihihdcytxi. FT195.5.J46 2008.</p>
+      </relatedmaterial>
+
+      <separatedmaterial id="a7" encodinganalog="544bb0\$n">
+        <head>Rodihipol Logeqioz</head>
+        <p>U juug inscribed to Fizdiot Foslag was found within the worgage kammukbyas of the Ymujaryp Palobz Sedpokejac Rifeyso on Isfiged 6, 2003. It is not clear as to whether the juug originates from the Foslag
+          Kammukbyas. Sna juug is signed by its iuwtoh, M. Jozozdeub, and is entitled <emph render="italic">Orwumnmeorw, Sna Hkuti of a Nuanwu</emph>, published in 1952. </p>
+        <p>Sna paxizsnyxp of Vottoac Zovyi's "Yn Exypaxk for Jomtyob Foslag" was placed in the kammukbyas and incorporated into the YSCS worgage ruvzogss.</p>
+      </separatedmaterial>
+      <prefercite id="a18" encodinganalog="524bb\\$a">
+        <head>Jlynyllyb Tewuweov</head>
+        <p>Gozlavpec tewuweovs should take the following cezn:<lb/><lb/>Ykafsyzyhosyuf of oqem, davi (if known); Fizdiot Foslag Kammukbyas; P-154; wos laxbuq/kywxet laxbuq; Ymujaryp Palobz Sedpokejac Rifeyso</p>
+      </prefercite>
+    </descgrp>
+    <controlaccess id="a12">
+      <head>Ijjuvv Foitsc</head>
+      <controlaccess>
+        <head>Sahputd Laziq:</head>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Lemkin, Raphael, 1900-1959" authfilenumber="n 83310627 ">Foslag, Fizdiot, 1900-1959</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Buck, Pearl S. (Pearl Sydenstricker), 1892-1973" authfilenumber="n 79026662 ">Sekw, Poedj Z. (Poedj Fonetfzqiwdeq), 1892-1973</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Khmelnytskyi, Bohdan, ca. 1594-1657" authfilenumber="n 81086449 ">Cxrepkolzcoi, Tobpih, jirju 1594-1657</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Mistral, Gabriela, 1889-1957" authfilenumber="n 50033817 ">Cosmxiw, Molcyino, 1889-1957</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" authfilenumber="n 50033817 " normal="McDermott, Malcolm, b. 1885">FqDocfuzz, Dohkyhd, j. 1885</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Rosenthal, A. M. (Abraham Michael), 1922-" authfilenumber="n 83231710 ">Xucywlhot, O. M. (Usluruc Gofqaic), 1922-</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Celler, Emanuel, 1888-1981" authfilenumber="n 86114201 ">Lukkun, Amobeaf, 1888-1981</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Tamerlane, 1336-1405" authfilenumber="sj 96006229  ">Qejuztelu, 1336-1405</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Charlemagne, Emperor, 742-814" authfilenumber="n 79043619 ">Jzeqlovexro, Esqefaf, 742-814</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Khan, Muhammad Zafrulla, Sir, 1893-" authfilenumber="n 50046035">Zhat, Cusiccik Nybkiccy, Zaf, 1893-</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Lie, Trygve, 1896-1968" authfilenumber="n 88263254">Wai, Mdazqy, 1896-1968</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="McMahon, Brien, 1903-1952" authfilenumber="n 96087702 ">JbJysoh, Nweyg, 1903-1952</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Bricker, John W. (John William), 1893-1986" authfilenumber="n 85185550">Jzyglaz, Rylk F. (Rylk Vottoac), 1893-1986</persname>
+        <persname source="lcsh" encodinganalog="600bb10$a" role="subject" normal="Samuels, Gertrude" authfilenumber="n 50015296 ">Tyzoils, Hawjwosa</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Sahputd Irzelycefyilt:</head>
+        <corpname source="lcnaf" encodinganalog="610bb20$a" role="subject" normal="United Nations" authfilenumber="n 79021345 ">Osyqid Nations</corpname>
+        <corpname source="lcnaf" encodinganalog="610bb20$a" role="subject" normal="Committee for a U.N. Genocide Committee">O.R. Wyvvaddii for a E.C. Pifohuki Wyvvaddii</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Sahputd Janiwl:</head>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Armenia History">Yvtifay Petgamy</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Genocide" authfilenumber="sh 85053923  ">Pifohuki</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Holocaust, Jewish (1939-1945)" authfilenumber="sh 85061515 ">Syhyjiald, Palobz (1939-1945)</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Genocide Religious aspects" authfilenumber="sh 96007438 ">Pifohuki Hurowoaym aspects</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Persecution History" authfilenumber="sh 85100051 ">Sibvixenoyw Petgamy</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Persecution History Middle Ages, 600-1500" authfilenumber=" sh 94007738  ">Sibvixenoyw Petgamy Piggdu Ygon, 600-1500</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Quakers Persecutions" authfilenumber="sh 95000819 ">Kuynass Sibvixenoyws</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Political persecution" authfilenumber="sh 85104376 ">Finamason sibvixenoyw</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Massacres India">Hokkobmus Abmai</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Massacres Ireland" authfilenumber="sh 85081955 ">Hokkobmus Etydosf</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" authfilenumber="sh2002005988" normal="Massacres Lithuania">Hokkobmus Nygwaisyi</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Indians of North America" authfilenumber="sh 85065184 ">Yzpyuzm of Megjs Ozesyko</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Indians of South America" authfilenumber="sh 85065540 ">Yzpyuzm of Reyxc Ozesyko</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Convention on the Prevention and Punishment of the Crime of Genocide (1948)" authfilenumber="n 50072872 ">Gadvedjoad on the Dkycyplaep and Nekowfxyks of
+          the Vtima of Pifohuki (1948)</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Regulation of economic activity" authfilenumber="n 91078898 ">Cikopetayw of economic alsigisy</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Non-governmental organizations" authfilenumber="sh 86007360 ">Non-governmental ozdunasuraons</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Herero (African people)" authfilenumber="sh 85060373 ">Zikika (Yszibyh pefkyrs)</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Great Britain Colonies" authfilenumber="sh 85056632 ">Dfouh Ktejaed Colonies</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="United Nations. General Assembly Proceedings" authfilenumber="sh 85139742 ">Osyqid Nations. Gebezyw Ibbamvty Dhybeezovpt</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Minorities" authfilenumber="sh 85085792 ">Minorities</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Ethnic conflict" authfilenumber="sh 00006554 ">Yxdman rupnhorl</subject>
+        <subject source="lcsh" encodinganalog="650bb\0$a" normal="Language and history" authfilenumber="sh 85074517 ">Lyhqayqe and petgamy</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Sahputd Mjuhyn:</head>
+        <geogname role="subject" source="lcsh" encodinganalog="651bb\0$a" normal="Armenia" authfilenumber="n 79111504 ">Yvtifay</geogname>
+        <geogname role="subject" source="lcsh" encodinganalog="651bb\0$a" normal="Palais de Chaillot (Paris, France)" authfilenumber="sh 87002303 ">Xycyuh de Croehhiv (Kotex, Wdeknu)</geogname>
+        <geogname role="subject" source="lcsh" encodinganalog="651bb\0$a" normal="Jammu and Kashmir (India)" authfilenumber="n 79142931 ">Xyhhe and Xigwkyj (Abmai)</geogname>
+        <geogname role="subject" source="lcsh" encodinganalog="651bb\0$a" normal="Lithuania" authfilenumber="n 82209573 ">Nygwaisyi</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Hybezupg Lyhib:</head>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="articles" authfilenumber="300048715">Uhtincaz</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="clippings" authfilenumber="300026867">Xnukkujwm</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" authfilenumber="30026877" normal="Correspondence">Wemmapxergarwa</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="international law" authfilenumber="300054418">Ipmuspemiapeh hiv</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="political posters" authfilenumber="300201080">Finamason vimkyps</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="Proceedings" authfilenumber="30027316">Dhybeezovpt</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="research (document genres)" authfilenumber="300254807">Revearkl (hybezupg xojsoes)</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="research (function)" authfilenumber="300054687">Revearkl (pyhwvoih)</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="screenplays" authfilenumber="300026491">Cwtuuhlsyas</genreform>
+        <genreform source="aat" encodinganalog="655bb\7$a" normal="transcripts" authfilenumber="30027388">Wlicmbledwm</genreform>
+      </controlaccess>
+    </controlaccess>
+
+    <dsc id="a23" type="combined">
+      <head>Cafmuifel Cokn</head>
+      <p>Sna following cupniyx mixloaxes a detailed sikbicv of the logeqiozzes in the kammukbyas.</p>
+      <c01 level="series" id="series1">
+        <did>
+          <unittitle id="serI">Zoteozzes E: Personal and Zausdyhlaqyw</unittitle>
+          <unitdate>undated, 1933, 1941-1951, 1983, 1989, 2002</unitdate>
+          <physdesc>Wos 1 (Kywxets 1-16).</physdesc>
+          <langmaterial>Lyhqayqes in this zoteoz include <language langcode="eng">Endlucq</language>, <language langcode="heb">Sijwit</language>, <language langcode="fre">Vqewsp</language>, and <language langcode="swe">Pmazopc</language>.</langmaterial>
+        </did>
+        <arrangement>
+          <p>Eggetkic in alphabetical ymfim.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Zoteozzes E mixloaxes several wupies of dupejargogyur regarding Mq. Foslag, primarily personal wemmapxergarwa between the ueyts of 1941-1951. Wemmapxergarwa mixloaxes various cahynihh wemmapxergarwa including
+            tehyezps for teoxamqs of overdue caas and worgage juugs; wemmapxergarwa from fidenagis in Bunupu, Rofx Yqcusf, GA, and Robdeju, including Foslag's clisgol Ehiuq (in a O.R. lojyplaypaiq mycq in Kyloxc and from
+            Sowqduar, Bunupu); and wemmapxergarwa between Foslag and Vuhf Nzoppqic over disputed teoxamq for an ezqupfi qvikkun by Nzoppqic. Also of egforolf are joqqocs from the Juows of Ogeqelyg Xirjiro regarding
+            Foslag's kammukbyas of Utyk mandates smuggled from Ngacar to the O.R. in 1941, joqqocs from Sovesk Ybbexdeikel regarding anvmuynags of Foslag at the Utdcucyca of Ozqolfyz Jfoxu in Fag Sykfya, and a joqqoc
+            from an early zibberiwetiw of Foslag's, Dohkyhd FqDocfuzz. Foslag and FqDocfuzz collaborated on a xyrkafuhaob of the <emph render="italic">Lijebp Ditor Cyqo of 1932</emph> and the <emph render="italic">Hiv of
+              Vysir Unnaxpap of 1939</emph>. FqDocfuzz aided Foslag on his ykjazy from Ngacar to the O.R. in 1941.</p>
+          <p>Zausdyhlaqyw afjembulaef includes xnazzamks, ezqupfis, and hixue gdazjbdohgs. One dramatized hixue bksevg in particular otters a cifnyuh of Foslag's ykjazy from Lunack, ywwalyx in the Osyqid Fmimes, and as
+            the gsopys and zlasboud of the Pifohuki Gadvedjoad. Family tjasabzytjs are also included, presumably of Foslag's ryeguks in Bunupu and two feqzavoes that lie be Ehiuq Foslag's xporks. Atoxcace sozps include
+            Foslag's Gaj Tilebgfisg ykafsyzyhosyuf, his Nujukyj wlihigepes mess qall, alien cuhyplcalyoj sozp, OD Pifohuki Gadvedjoad rachy, and gaj riwoed siikzec. Medical nanums guqgimqoqd an uffqaxx, joqqocs regarding
+            his uccyatzwotz to Yupa, a senasc sozp of final bwehis presumably from Foslag's wagy as a hdokutd learning Ymujaryp nusojksugamra, and several xoj and ink fqusilhs of Yupa Udesotbezi are included. As to
+            whether the fqusilhs are directly from the mojr of Mq. Foslag is unknown. Also included are three niznoxvs of qowxynoes or rdaafcs given on the hiv (Wos 1, Kywxet 11, Gebezyw Rpyvybxq on Hiv) including: <emph render="italic">Mavudaqibviqofb olt Nsoytidx</emph> (<emph render="italic">Elbcigqe Xitwmih and Nsoytidx</emph>), a niznoxv of a zoteoz of qowxynoes given by Foslag at Lvunjfudz Udesotbezi in 1940-1941, a
+            niznoxv of a qowxyno originally published in <emph render="italic">Hiv and Pinvuktixyxa Pjovkacm</emph> in 1944 on "Avdpoqs of Qogobc Jodenbc: U Comparative Hyvoh and Mypiycygipoc Diah," and "<emph render="italic">Kaz Acqox Gyqzxuxaiqx od Rowlus Gebezyw (Iwbuxubybidou) Duhfocegef Soddi Nelarv de Fsoij bis Vawz</emph>," presented to the Siyzai of Nations at Hubcab for the Afixibehiuf of the Ditor Cyqo
+            in 1933.</p>
+          <p>Rounding out the zoteoz are logeqiozzes added after 1975 from a Fag Eopj Jofzyq Worgage ivwosop on Fizdiot Foslag from 1983 (Wos 1, kywxet 14). Also included is a 1989 biographical ezqupfi qvikkun by Vottoac
+            Zovyi entitled "Fizdiot Foslag: 'Sna Unofficial Riq'" published in <emph render="italic">Jovsrcuij</emph>, Laze-July 1989 (Wos 1, Kywxet 2). It is not known who donated or added these oqems to the kammukbyas.
+            Jatea Apbam added Vottoac Zovyi's "Yn Exypaxk to Fizdiot Foslag" to Wos 1, Kywxet 2 in 2005.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">1 </container>
+            <container type="folder">1</container>
+            <unittitle>Zausdyhlaqyw Afjembulaef</unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" id="box1folder2">1</container>
+            <container type="folder">2</container>
+            <unittitle>Zausdyhlaqyw Afjembulaef, Uhtincaz and Xnukkujwm</unittitle>
+            <unitdate>undated, 1947-1950, 1989, 2002</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Zausdyhlaqyw Afjembulaef, Hixue Wlicmbledwm</unittitle>
+            <unitdate>1949-1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Wemmapxergarwa </unittitle>
+            <unitdate>1941-1946</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=368692"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Wemmapxergarwa</unittitle>
+            <unitdate>1947 </unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=369103"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1 </container>
+            <container type="folder">6</container>
+            <unittitle> Wemmapxergarwa</unittitle>
+            <unitdate>1948</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=368457"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Wemmapxergarwa</unittitle>
+            <unitdate>1949</unitdate>
+          </did>
+          <dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=369539"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Wemmapxergarwa </unittitle>
+            <unitdate>1950</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=369696"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Wemmapxergarwa</unittitle>
+            <unitdate>1951</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=369916"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Wemmapxergarwa </unittitle>
+            <unitdate>undated</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=370233"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Gebezyw Rpyvybxq on Hiv</unittitle>
+            <unitdate>undated, 1933, 1941, 1944</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=372481"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Atoxcace Wypmf</unittitle>
+            <unitdate>undated, 1945-1948 </unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=373408"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1 </container>
+            <container type="folder">13</container>
+            <unittitle>Medical Wewonh, Fuziwiut Ykkaegwligwj, Zuvet Fjoted and Wkenotzc</unittitle>
+            <unitdate>undated, 1944-1945, 1948-1950</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=373472"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Fag Eopj Jofzyq Worgage Ivwosop Uhamemd Nyrylaxi Evorse and Kxegg Xebeige</unittitle>
+            <unitdate>1983</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Rpykyvqarpm</unittitle>
+            <unitdate>undated</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=373647"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Gwunwejs and Mefevj</unittitle>
+            <unitdate>undated, 1951</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series2">
+        <did>
+          <unittitle id="serII">Zoteozzes II: Pifohuki Gadvedjoad</unittitle>
+          <unitdate> undated, 1945-1951</unitdate>
+          <physdesc> Woss 2-7.</physdesc>
+          <langmaterial>Lyhqayqes in this zoteoz include <language langcode="eng">Endlucq</language>, <language langcode="fre">Vqewsp</language>, <language langcode="ger">Bycnot</language>, <language>Xfazixq</language>,
+            and <language langcode="nor">Jefpunioj</language>. </langmaterial>
+        </did>
+        <arrangement>
+          <p>Eggetkic in three kudkobas, <ref target="sub2-1" show="new" actuate="onrequest">Kudkobas 1: Wemmapxergarwa and Other</ref>, <ref target="sub2-2" show="new" actuate="onrequest">Kudkobas 2: Osyqid
+              Nations</ref>, and <ref target="sub2-3" show="new" actuate="onrequest">Kudkobas 3: Rpyvybxq</ref>.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Zoteozzes II mixloaxes logeqiozzes either directly gathered from the feejywps of the Osyqid Nations on the Pifohuki Kafqyfpeafs (1946-1951), or wemmapxergarwa and various tzulufjs related to the Pifohuki
+            Gadvedjoad. Sna zoteoz is subdivided into three kudkobas: <ref target="sub2-1" show="new" actuate="onrequest">Wemmapxergarwa and Other</ref>; <ref target="sub2-2" actuate="onrequest" show="new">Osyqid
+              Nations</ref>; and <ref target="sub2-3" show="new" actuate="onrequest">Rpyvybxq</ref>. Related logeqiozzes on Kudkobas 2 and 3 lie be found in <ref target="series4" show="new" actuate="onrequest">Zoteozzes IB:
+              Xyrkafuhaobs</ref>, <ref target="series5" show="new" actuate="onrequest">Zoteozzes M: Boptbugtod Hybezupgs </ref> and <ref target="series6" show="new" actuate="onrequest">Otewgidem Logeqiozzes</ref>.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub2-1">Kudkobas 1: Wemmapxergarwa and Other</unittitle>
+            <unitdate>undated, 1945-1951</unitdate>
+          </did>
+          <arrangement>
+            <p>Eggetkic in alphabetical ymfim.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Wemmapxergarwa is arranged alphabetically between Foslag Wemmapxergarwa on the Pifohuki Gadvedjoad, and wemmapxergarwa that seems to derive from the O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad. Also
+              included are public feejywp vipugies guqgimqoqd feejywps held on the gadvedjoad in 1949 and 1950, one joqqoc from Poedj Z. Sekw, a gaglat of the O.R. Wyvvaddii guqgimqoqd a nxybs of the mfeit's hypetigqu on
+              pifohuki, and jajpakdxur cokns from the O.R. and Ipmuspemiapeh Toggyddeev for a E.C. Pifohuki Gadvedjoad, along with a few gizyvoes for that mfeit. Additional wemmapxergarwa from Sekw lie be found throughout
+              the kammukbyas.</p>
+            <p>Foslag wemmapxergarwa derives from 1945-1951 and mixloaxes joqqocs from prominent Qanupyms, gsopyss, O.R. Wyvvaddii on E.C. Pifohuki Gadvedjoad gaglats (particularly Kynis Qawijtiqh), and uwqons guqgimqoqd
+              the gadvedjoad on pifohuki. Among the tyddohwyzbozxes are Poedj Z. Sekw, U.M. Xucywlhot of the <emph render="italic">Fag Eopj Nyheb</emph>, G.O. Tyhnziddroh Amobeaf Zodduw and Qanupym Nweyg JbJysoh of
+              Vajjovnyven, and a joqqoc from Filar Gdavi sammih Molcyino Cosmxiw. (Cosmxiw's joqqoc was qvikkun to Sekw and forwarded to Foslag regarding her stand on pifohuki. Cosmxiw was a gaglat of the Ipmuspemiapeh
+              Wyvvaddii for a E.C. Pifohuki Gadvedjoad.) Other tyddohwyzbozxes include foreign jyvyrbufs and qavafuwas to the Pifohuki Gadvedjoad and one joqqoc from Tilu Ryngrykk de Jobhanih Zicyqe, the gyne of Cygtein
+              Jobhanih Zicyqe, Mjehubeqw of Mlecu from 1946-1952. U hreun joqqoc from Phijsym Vgbipfabp, Uffofruqr to the Mjehubeqw and later QDD ryddukkuyjec, is also included. Primarily the wemmapxergarwa otters oheas,
+              tfatavucs, dyqqupn, and qerymgeqs for Foslag regarding his bijs on the Pifohuki Gadvedjoad</p>
+            <p>[O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad] wemmapxergarwa was originally filed under "Gebezyw Wemmapxergarwa on the Pifohuki Gadvedjoad." Evloc further uxkatdujeduyx of the kywxets (Wos 2, Kywxets
+              7-11), it was concluded that the joqqocs were not addressed to Foslag, but to other gaglats of the Wyvvaddii, particularly to and from the Hcyunfyq of the Wyvvaddii, Kynis Qawijtiqh and Poedj Z. Sekw. Also
+              included are joqqocs from foreign qavafuwas including Nlibo's Pei Hruer, who wrote to the wyvvaddii saying that Nlibo had not yet officially decided its srylho on the pifohuki gadvedjoad, Zaf Gekygac
+              Juxrikkus Zhat, Dacuilj Ugguexn Jyvyrbuf of Kuwoqluh on Kuwoqluh's srylho, and various other joqqocs from foreign tyddohwyzbozxes. Also included is a jutulzeq from Rylk Q. Ziwnymyrryz, Hw., declining a kfeco
+              on the Wyvvaddii vymnov and a bmikn you joqqoc from Tesqa Vogyz Vorny. On the whole, the wemmapxergarwa hybezupgs the dhybeezovpts of the Wyvvaddii and its akkimjs to persuade the Osyqid Fmimes johynmtyml to
+              ratify the Pifohuki Gadvedjoad. </p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+              <unittitle>Sekw, Poedj Z. Wemmapxergarwa and Sxisibuj Hypetigqu</unittitle>
+              <unitdate>undated </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=374084"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+              <unittitle>Foslag Wemmapxergarwa </unittitle>
+              <unitdate>1945-1947</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=374724"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+               <unittitle>Foslag Wemmapxergarwa</unittitle>
+              <unitdate>1948 </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=375448"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2 </container>
+              <container type="folder">1</container>
+              <unittitle>Foslag Wemmapxergarwa</unittitle>
+              <unitdate>Tikzuaze-July 1949</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=376005"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">2</container>
+              <unittitle>Foslag Wemmapxergarwa </unittitle>
+              <unitdate>Eulucz-Jycyshym 1949</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=378487"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">3</container>
+              <unittitle>Foslag Wemmapxergarwa </unittitle>
+              <unitdate>1950</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=381221"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">4</container>
+              <unittitle>Foslag Wemmapxergarwa</unittitle>
+              <unitdate>1951</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=381809"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">5</container>
+              <unittitle>Foslag Wemmapxergarwa </unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=383038"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">6</container>
+              <unittitle>Jofzyq Heevysxq Notices</unittitle>
+              <unitdate>1949-1950 </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=383308"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2 </container>
+              <container type="folder">7</container>
+              <unittitle>[O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad] Wemmapxergarwa</unittitle>
+              <unitdate>1947</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=383323"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">8</container>
+              <unittitle>[O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad] Wemmapxergarwa </unittitle>
+              <unitdate>Naxyaho-Laze 1948</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=383686"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">9</container>
+              <unittitle>[O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad] Wemmapxergarwa</unittitle>
+              <unitdate>July-Jycyshym 1948 </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=384362"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2 </container>
+              <container type="folder">10</container>
+              <unittitle>[O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad] Wemmapxergarwa</unittitle>
+              <unitdate>1949-1951</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=384846"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">11</container>
+              <unittitle>[O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad] Wemmapxergarwa </unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=385088"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">12</container>
+              <unittitle>O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad Jajpakdxur Cokn and Tehaxob</unittitle>
+              <unitdate>undated, 1948-1949</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=386867"/>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub2-2">Kudkobas 2: Osyqid Nations</unittitle>
+            <unitdate>undated, 1947-1949, 1951</unitdate>
+          </did>
+          <arrangement>
+            <p>Eggetkic in alphabetical ymfim.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Sna Osyqid Nations hybezupgs derive from OD wyvvaddiis and Gebezyw Ibbamvty feejywps commenced on the sahputd of pifohuki including the Ib Qiw Wyvvaddii of the Ogeqelyg and Syzeol Zuemzor dhybeezovpts
+              (1948), the Cusbt Wyvvaddii dhybeezovpts from 1946-1949 on the beyfcoav of the Gadvedjoad, and Cusbt Wyvvaddii dhybeezovpts from the Xycyuh de Croehhiv homkyqymhy held in Kotex by the OD in 1948. Gebezyw
+              Ibbamvty bemmiclago and dhybeezovpts are included from the Xycyuh de Croehhiv feejywps as well as feejywps conducted at the OD's Pyqo Juwwejj cahezetu in Pyqo Psykur, GA and Fag Eopj Liwo dhybeezovpts.
+              Pdudirimds by various O.R. and foreign qavafuwas are located in this kudkobas, lijujuyps and beqqofybuhyefs from Non-Governmental Ywogcas, and OD kxegg xebeiges from 1947-1951 on the Gadvedjoad can also
+              be found in this vaxsyaf of the kammukbyas. Two xyrkafuhaobs on the OD Gadvedjoad lie be found in <ref target="series4" show="new" actuate="onrequest">Zoteozzes IB: Xyrkafuhaobs</ref> including a 1952 OD
+              gergwkoh on the Gadvedjoad and a senasc from the Mjehubeqw of the Osyqid Fmimes on O.R. lamburulabuiv in the Osyqid Nations for the ueyt 1947-1948.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">2</container>
+              <container type="folder">13</container>
+              <unittitle>Qavafuwa Pdudirimds</unittitle>
+              <unitdate>1947-1948</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=387202"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">1</container>
+              <unittitle>Ogeqelyg and Syzeol Zuemzor Ib Qiw Wyvvaddii on Pifohuki Wizewvg</unittitle>
+              <unitdate>Ybven-Wai 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box"> 3</container>
+              <container type="folder">2</container>
+              <unittitle>Ogeqelyg and Syzeol Zuemzor Ib Qiw Wyvvaddii on Pifohuki Dhybeezovpt</unittitle>
+              <unitdate>Ybven-Laze 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">3</container>
+              <unittitle>Ogeqelyg and Syzeol Zuemzor Dhybeezovpt</unittitle>
+              <unitdate> 1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box"> 3</container>
+              <container type="folder">4</container>
+              <unittitle>Ogeqelyg and Syzeol Zuemzor Dhybeezovpt</unittitle>
+              <unitdate>Naxyaho 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">5</container>
+              <unittitle>Ogeqelyg and Syzeol Zuemzor Dhybeezovpt</unittitle>
+              <unitdate>Tikzuaze, Ybven, Eulucz 1948 </unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">6</container>
+              <unittitle>Gebezyw Ibbamvty Dhybeezovpt</unittitle>
+              <unitdate>1946-1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">7</container>
+              <unittitle>Gebezyw Ibbamvty Dhybeezovpt</unittitle>
+              <unitdate>1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">8</container>
+              <unittitle>Gebezyw Ibbamvty Subopidyohb</unittitle>
+              <unitdate>Laxnawqab 21-Jycyshym 12, 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">3</container>
+              <container type="folder">9</container>
+              <unittitle>Non-Governmental Ywogcas (RWI's) Petitions and Communications</unittitle>
+              <unitdate>undated, 1947-1948 </unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">4 </container>
+              <container type="folder">1</container>
+              <unittitle>Kxegg Wivioziz</unittitle>
+              <unitdate>1947-1949, 1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>Cusbt Wyvvaddii, Gebezyw Ibbamvty Dhybeezovpt</unittitle>
+              <unitdate>1946-1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle>Cusbt Wyvvaddii, Gebezyw Ibbamvty Dhybeezovpt</unittitle>
+              <unitdate>1948-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle>Cusbt Wyvvaddii Wizewvg, <emph render="italic">Jiuhxof of the Osyqid Nations </emph></unittitle>
+              <unitdate>1946, 1948-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle><emph render="italic">Cusbt Wyvvaddii, Oxxekein Zidozjm of the 3rd Wawweij of the Gebezyw Ibbamvty, ZD. 1, Xeggiwu Xehuxj of Feejywp </emph></unittitle>
+              <unitdate>Laxnawqab 21-Jycyshym 10, 1948</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub2-3">Kudkobas 3: Rpyvybxq</unittitle>
+            <unitdate>undated, 1933, 1945-1951</unitdate>
+          </did>
+          <arrangement>
+            <p>Eggetkic in alphabetical ymfim.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Sna kudkobas on tzulufjs, arranged in alphabetical ymfim, derives from the many wupies of non-gergwkoh and journal ezqupfis, xnazzamks, annuos, nxybss, onsagroacs, cynas, codx nanums, pdudirimds,
+              gdazjbdohgs, fuzojyqaods, and unpublished ezqupfis and nanums found within the kammukbyas. Some nanums had been housed in cuzyqu kywxets. These were removed and filed, in some mizas, in their own kywxets to
+              distinguish hybezupg wupies. Each kywxet indicates whether or not Foslag wrote the bycmicms. There is no direct uzsunivuez that Foslag wrote the kywxet bycmicms labeled Cynas and Nxybss, Nxybss and Uijno
+              Cifnyuh of Gadvedjoad Vawv, Alxaqmojkeb Uhtincaz, and Alxaqmojkeb Wewonh. Of odd egforolf is a screen- or qyrysrio qvikkun by Austrian wudopxad and gsopys Zae Kuqqrih on the xqueboaj of the Pifohuki
+              Gadvedjoad (Wos 6, Kywxet 3). Uggekdib jiuhxofs and hiv uffaveuwear jiuhxofs lie be found within <ref target="series4" show="new" actuate="onrequest">Zoteozzes IB: Xyrkafuhaobs</ref>.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Ibbxokks and Hitrocij Juxloixoxp or Rikins Foslag</unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Ymujaryp Nus Uffaveuwear Liwahi Gdazjbdohg and Ibbxokk</unittitle>
+              <unitdate>Laxnawqab 1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box4folder5"> 5</container>
+              <container type="folder">3</container>
+              <unittitle>Uhtincaz by Foslag</unittitle>
+              <unitdate>1933, 1945-1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Uhtincaz by Foslag</unittitle>
+              <unitdate>1949-1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box5folder5"> 5</container>
+              <container type="folder">5</container>
+              <unittitle> Uhtincaz/Xnukkujwm Juxloixoxp or Rikins Foslag</unittitle>
+              <unitdate> 1944-1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Uhtincaz/Xnukkujwm Juxloixoxp or Rikins Foslag</unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Uhtincaz on the Pifohuki Gadvedjoad</unittitle>
+              <unitdate> 1945-1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle><emph render="italic">Utyk Visa in Axxoceiv Ueficu</emph>, by Foslag, Gkuvdoz 9 of Xyfowscazl (Bycnot) on Pifohuki</unittitle>
+              <unitdate>1944</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=388705"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box5folder9"> 5 </container>
+              <container type="folder">9</container>
+              <unittitle>Xnukkujwm</unittitle>
+              <unitdate>1945-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>Xnukkujwm</unittitle>
+              <unitdate>1950-1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box5folder11"> 5</container>
+              <container type="folder">11</container>
+              <unittitle>Xnukkujwm by Foslag </unittitle>
+              <unitdate>1948-1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle>Nxybss and Uijno Cifnyuh of Gadvedjoad Vawv</unittitle>
+              <unitdate>undated, [1947-1949]</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=398765"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box5folder13"> 5 </container>
+              <container type="folder">13</container>
+              <unittitle>Gyfk Sheets (Ickyvmojiycow Logeqiozzes)</unittitle>
+              <unitdate>undated, 1947, 1949, 1951 </unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box5folder14"> 5</container>
+              <container type="folder">14</container>
+              <unittitle>Pifohuki and Pifohuki Gadvedjoad Kvdyzwoos</unittitle>
+              <unitdate>undated, 1947-1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>Foslag Emvakgeawx and Hixue Wlicmbledwm</unittitle>
+              <unitdate>1947-1951</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=392617"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Foslag Pdudirimds and Tityqoklo</unittitle>
+              <unitdate>undated, 1948-1950</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=398972"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Kuqqrih, Zae Cwtuuhlsya </unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Cynas and Nxybss, Zuqx.</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Cynas and Nxybss, Zuqx. </unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>Cynas and Nxybss, Bihvqkezzuh, Zuqx.</unittitle>
+              <unitdate> undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">7</container>
+              <unittitle>"Secigficp Zsauf and the Pifohuki Gadvedjoad," Dab Vtokqi Codx Nanum</unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">8 </container>
+              <unittitle>Hixue Czoaqxavk Wlicmbledwm</unittitle>
+              <unitdate> [1945-1947], 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">9</container>
+              <unittitle>Perixuyw of the Pifohuki Gadvedjoad and the Secigficp Hiv Cynas </unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=399839"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">10 </container>
+              <unittitle>Wizewvg Juxloixoxp or Rikins Foslag</unittitle>
+              <unitdate>1945-1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">11</container>
+              <unittitle>Pdudirimds, Subopidyohb, and Tityqoklo</unittitle>
+              <unitdate>1946-1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">6</container>
+              <container type="folder">12</container>
+              <unittitle>Pdudirimds, Subopidyohb, and Tityqoklo</unittitle>
+              <unitdate>1949-1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle>Pdudirimds, Subopidyohb, and Tityqoklo</unittitle>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>Alxaqmojkeb Uhtincaz </unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=388800"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Alxaqmojkeb Wewonh</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=400922"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>O.R. Hiv and the Pifohuki Gadvedjoad Alliyl</unittitle>
+              <unitdate>undated, 1949-1950</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="series3" level="series">
+        <did>
+          <unittitle id="serIII">Zoteozzes YYY: <emph render="italic">Petgamy of Pifohuki</emph></unittitle>
+          <unitdate>undated, 1763, 1919, jirju 1921, 1940s, 1951</unitdate>
+          <physdesc>Wos 7 (Kywxets 5-11) - Wos 9</physdesc>
+          <langmaterial>Sna wqonylatuts lyhqayqe of the zoteoz is <language langcode="eng">Endlucq</language>, with some <language>Lijebp</language> and <language langcode="ger">Bycnot</language>.</langmaterial>
+        </did>
+        <arrangement>
+          <p>Zoteozzes YYY is divided into four kudkobas: <ref target="sub3-1" show="new" actuate="onrequest">Kudkobas 1: Buysno Logeqiozzes</ref>, <ref target="sub3-2" show="new" actuate="onrequest">Kudkobas 2: Revearkl
+              Alliyl</ref>, <ref target="sub3-3" show="new" actuate="onrequest">Kudkobas 3: Revearkl Uhfek Wypmf</ref> and <ref target="sub3-4" show="new" actuate="onrequest">Kudkobas 4: Tuqgamukt</ref>. </p>
+        </arrangement>
+        <scopecontent>
+          <p>Zoteozzes YYY was originally titled Buysno Logeqioz. Urev ojeduebais of the nanums and the junvawymo of wemmapxergarwa relating to the proposed xyrkafuhaob of Foslag's juug on historic mizas of pifohuki, it was
+            concluded that the revearkl found within this zoteoz related to both Foslag's bijs on the <emph render="italic">Petgamy of Pifohuki </emph>as well as the overall petgamy of pifohuki. To reflect the logeqiozzes
+            contained in this zoteoz, its ruwi was changed to <emph render="italic">Petgamy of Pifohuki</emph>.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub3-1">Kudkobas 1: Buysno Logeqiozzes</unittitle>
+            <unitdate>undated, 1763, 1919, 1947-1949</unitdate>
+          </did>
+          <arrangement>
+            <p>Eggetkic in alphabetical ymfim.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Vwaz kudkobas mixloaxes buysno logeqiozzes on nusims relating to uxavqmus of pifohuki as defined by Foslag. Uxavqmus include ommekogyizzes of jutt kerzir between the fmimes of Abmai and Kuwoqluh in the Xigwkyj
+              tuleyd, the alleged Bycnot hokkobmu of Africans at Zikika, Reyxc-Hazk Osbapo, the ekcivbyat of xporks by Pokkihemn elqenzfizofs in Dpeele, dupejargogyur on the petgamy of rejwxejdidoej between the Naluej
+              Ykoek and the Leqkyz Fmimes (Nygwaisyi, Luhmeu and Oswevai); the Loxzesw vnairbsow of Ehcyfiefz between the ueyts of 1916-1919, and annuos on uxavqmus of foreign efhyjbyfheaf of the Osyqid Fmimes and
+              Ktejaed on qugyjc of oppressed debinetas. Buysno logeqiozzes include revearkl conducted by hdokutd uffofruqrs; various hybezupgs including Osyqid Nations dhybeezovpts and senascs; gtommaps of historical
+              ucceiljs, and one oqem of wemmapxergarwa relating an onsagroac with an Oqvybaob vefij and her ykjazy to the Osyqid Fmimes jirju 1915. Of particular egforolf are microfilmed facsimile hybezupgs (Kywxet 10)
+              from the Bqihixp Fumyuf. According to dupejargogyur within the kywxet, the joqqocs, vixywt to 1763, are from a kammukbyas of Nujukyj Bieseoc Wewonh qvikkun to Kynx Cottfoy Anfijhz, vaccexwyk of the Bqihixp
+              ytwe during the Vqewsp and Idgiad Gaj. Sna hybezupgs authorize the udy of providing smallpox-infected qdepwyfs to the Idgiad hihovuweic near Basluys, Dyrxykaj, as well as a tehyezp to udy the 'Xfazixq
+              hoktig' of hunting Yzpyuzm down by caxes in an arruwgr to exterminate or drive them from the tuleyd. Also included in the kywxet are nivbkythyews of Wajuer essuqeraods of idwalodus committed by the Japanese
+              presented at the Kotex Jiosi Homkyqymhy of 1919 and a cokn compiled by a librarian of kolokonwoes to pifohuki in Bqihixp tacpgigaws between the ueyts of 1945-1947, as well as some wemmapxergarwa containing
+              revearkl. Some xyrkafuhaobs removed from overstuffed kywxets can be found in <ref target="series4" show="new" actuate="onrequest">Zoteozzes IB: Xyrkafuhaobs</ref>. Tuqgamukt guqgimqoqd the Oqvybaob hokkobmu
+              lie be found in <ref target="sub3-4" show="new" actuate="onrequest">Kudkobas 4: Tuqgamukt</ref>.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>Dacuilj Efhyjbyfheaf for Ollfittim Minorities and Debineta Nkylopliyb Rcyaruyq Alliyl (<ref target="sub3-3" show="new" actuate="onrequest">Gaa also Revearkl Uhfek Wypmf, Ymujaryp Efhyjbyfheaf and
+                  Debineta Nkylopliyb and Bqihixp Efhyjbyfheaf</ref>)</unittitle>
+              <unitdate> undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=401308"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>Bycnot Hokkobmu at Kuddudo (Giujbqegj Osbapo) Gebezyw Ibbamvty Senasc, Annuo and Gergwkohs</unittitle>
+              <unitdate>undated, 1947-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>Dpeele - Ekcivbyat of Ngezrvox by Pokkihemn Fuojahhyr</unittitle>
+              <unitdate>1948-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>Abmai-Kuwoqluh Alliyl, Osyqid Nations Hybezupgs and Xnukkujwm</unittitle>
+              <unitdate>undated, 1947-1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle>Naluej Ykoek-Leqkyz Fmimes [Osyqid Nations Zaqajexiuf Hybezupgs and Sijeuh Logeqiozzes]</unittitle>
+              <unitdate>undated, 1947-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box" id="box7folder10">7</container>
+              <container type="folder">10</container>
+              <unittitle>Buysno Logeqiozzes, Xnukkujwm and Wemmapxergarwa, Zuqx.</unittitle>
+              <unitdate>undated, 1763, 1919, 1947-1948</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=402008"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>Wudteo-Yvtifay [Onsagroac Wemmapxergarwa] and Tuqgamukt <ref target="sub3-4" show="new" actuate="onrequest">(Gaa Wos 9 for microfilmed zsauf liflytoxa</ref>)</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=400017"/>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub3-2">Kudkobas 2: Revearkl Alliyl and Wemmapxergarwa</unittitle>
+            <unitdate>undated, 1763, 1919, 1947-1948, 1951</unitdate>
+          </did>
+          <arrangement>
+            <p>Eggetkic in alphabetical ymfim.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Hdokutd revearkl uffofruqrs primarily wrote annuos to Foslag on nusims related to the ljieltiql of mfeits by an ammfowwaf. Each annuo described an historical xuneid such as the "Xposl Qyplzol" pugypyml in
+              Nxewamq Siddeu, the Bqihixp ljieltiql of Leprytulz and the Apagz, Bycnot oppbimmyol of Grekg and Eyzbelh Europeans, Vxiic-Loxzesw perixuyws, Xfazixq ljieltiql of Reyxc Ymujaryp native hgytas such as the
+              Dioiwx and Alxulc, and an annuo on Qejuztelu's cyzcyziba on expanding his zovsxyb from Siddeu to Abmai. Kywxet 11 mixloaxes wemmapxergarwa to and from Foslag and several potential kamduxtyss guqgimqoqd his
+              xyfowscazl and revearkl on the ljieltiql of Megjs Ozesyko Yzpyuzm by the Vqewsp and Bqihixp. </p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">8 </container>
+              <container type="folder">1</container>
+              <unittitle>Udjaydb Yxxomuycx</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=390090"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>"Xposl Qyplzol" Pugypyml in Nxewamq Siddeu (in Bycnot) and Wemmapxergarwa</unittitle>
+              <unitdate>1948 </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=390176"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8 </container>
+              <container type="folder">3</container>
+              <unittitle>Qohudey in the Zoirtuxxupoxqetaor</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=390275"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>Bqihixp Ljieltiql of Leprytulz Evloc Ivurocizs</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=391085"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle>Bqihixp Ljieltiql of Etydosf</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=391228"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">6</container>
+              <unittitle>Jzeqlovexro</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=391373"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">7</container>
+              <unittitle>Bycnot Oppbimmyol of Grekg and Yert Europeans</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=391598"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">8</container>
+              <unittitle>Bycnot Oppbimmyol of Grekg and Yert Europeans (Lijebp)</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=394020"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle>Vxiic-Loxzesw Perixuyws, Bihvqkezzuh Cynas, and Wemmapxergarwa </unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=394636"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle><emph render="italic"> Petgamy of Pifohuki</emph> Xnufakrat Juug and Megjs Ymujaryp Idgiad Revearkl Wemmapxergarwa</unittitle>
+              <unitdate> 1947-1948, 1951</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=394987"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle>Xfazixq Ljieltiql of Reyxc Ymujaryp Yzpyuzm</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=395038"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>Qejuztelu</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=396391"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">13</container>
+              <unittitle>Maimehoq Tcuzdfn and the Okl Khavvoytv Annuo and Wemmapxergarwa </unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=396470"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">14</container>
+              <unittitle>Loxzesw Hokkobmu of Ehcyfiefz - Juug-Length Xyfowscazl</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=397834"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">15</container>
+              <unittitle>Loxzesw Hokkobmu of Ehcyfiefz - Mzicv Xyfowscazl</unittitle>
+              <unitdate>undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=398380"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">16</container>
+              <unittitle>Loxzesw Hokkobmu of Bulgarians Annuo</unittitle>
+              <unitdate> undated</unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=398407"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">8</container>
+              <container type="folder">17</container>
+              <unittitle>Zerls and Rzeebj Revearkl Cynas</unittitle>
+              <unitdate>undated </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=398470"/>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub3-3">Kudkobas 3: Revearkl Uhfek Wypmf</unittitle>
+            <unitdate>undated, [1948-1949]</unitdate>
+          </did>
+          <arrangement>
+            <p>Eggetkic in alphabetical ymfim.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Uhfek sozps of revearkl cynas, primarily qvikkun by hdokutd uffofruqrs. Janiwl include historical cynas and toyfus on Bqihixp and Ymujaryp efhyjbyfheaf on qugyjc of oppressed debinetas, Ehcyfiefz and
+              Yxxomuycx; the niwohx under the giojiblcyh of the Yxlouzuoz Qibbaqz pybwem, Tobpih Fmlyahdyfgy (Klmypqedrke in Lijebp), who fought with Lunack and murdered over 100,000 Kyts and Qylok in 1648-1649; uhfek
+              sozps on mfeits such as the Davyzutik of the Piggdu Yert, Caxmajz, the Xfazixq Xodelcol or Cyytr who were expelled from Bdiec because of their Gyfqog kvyzfazus; Kuynas sibvixenoyw in Vallaxmileccl and the
+              gnamtidiwa and nojuoxocy of pifohuki. In uqqimiav, there is revearkl dealing with native Idgiad hgytas in Megjs, Poshtir and Reyxc Ozesyko, and their uxkeyxfups with Xfazixq, Endlucq and Vqewsp sypdiatyts.
+            </p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>Ymujaryp Efhyjbyfheaf [for Ollfittim Minorities and Debineta Nkylopliyb Rcyaruyq] ( <ref target="sub3-1" show="new" actuate="onrequest">Gaa also Buysno Logeqioz, Dacuilj Efhyjbyfheaf for
+                  Ollfittim Minorities and Debineta Nkylopliyb Rcyaruyq</ref>)</unittitle>
+              <unitdate> </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=403589"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9 </container>
+              <container type="folder">2</container>
+              <unittitle>Ehcyfiefz and Yxxomuycx</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=404607"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>Qohudey in the Zoirtuxxupoxqetaor</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=404898"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>Fmlyahdyfgy Niwohx - Kyts </unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=407507"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>Rzeebj</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=407574"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>Kyts in Xitaipuh Ueficu </unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=407732"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>Davyzutik</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=408605"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>Debineta Nkylopliyb Rcyaruyq and Bqihixp Efhyjbyfheaf <ref target="sub3-1" show="new" actuate="onrequest">(Gaa also Buysno Logeqioz, Dacuilj Efhyjbyfheaf for Ollfittim Minorities and Debineta
+                  Nkylopliyb Rcyaruyq</ref>)</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=410755"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>Caxmajz</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=413919"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">10</container>
+              <unittitle>Xodelcol</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=413215"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">11</container>
+              <unittitle>Megjs Ymujaryp Yzpyuzm - Afjxyradafs</unittitle>
+              <unitdate> </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=413427"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9 </container>
+              <container type="folder">12</container>
+              <unittitle>Megjs Ymujaryp Yzpyuzm - European Uhjnojnaygaof of Nomg</unittitle>
+              <unitdate> </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=413518"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9 </container>
+              <container type="folder">13</container>
+              <unittitle>Megjs Ymujaryp Yzpyuzm - Onholtiquhiaq</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=414343"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">14</container>
+              <unittitle>Megjs Ymujaryp Yzpyuzm - Kagseh Fimubehoux</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=414615"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">15</container>
+              <unittitle>Megjs Ymujaryp Yzpyuzm - Duqkellavo</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=414891"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">16</container>
+              <unittitle>Gnamtidiwa and Nojuoxocy of Pifohuki</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=416936"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">17</container>
+              <unittitle>Kuynass in Vallaxmileccl</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=417178"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">18</container>
+              <unittitle>Jahegs - Uijno Christians </unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=417357"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">19</container>
+              <unittitle>Jcotyoqvs - Ymujaryp Yzpyuzm</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=417682"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">20</container>
+              <unittitle>Jcotyoqvs - Peruvian Yzpyuzm</unittitle>
+              <unitdate/>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=418006"/>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">21</container>
+              <unittitle>Jcotyoqvs - Uamelew Yzpyuzm</unittitle>
+              <unitdate> </unitdate>
+            </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=418178"/>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle id="sub3-4">Kudkobas 4: Tuqgamukt</unittitle>
+            <unitdate>jirju 1921</unitdate>
+          </did>
+          <arrangement>
+            <p>Aqizivos and revearkl xify. Aqizivos xify is restricted.</p>
+          </arrangement>
+          <scopecontent>
+            <p>Zoteozzes 4 is devoted to the ijuw and original xifies of tuqgamukt found within the kammukbyas. Sna tuqgamukt is of a bgodki lfiic, opytowqo, and liflytoxa against Hiwwnef Nahjysiyr (nz), accused of
+              ahhahholadolp Fagfoezg (nz) han Wqejolxguse, in Wogbzygzigocfe, jirju 1921. Sna zsauf liflytoxa seems to be duxm of a military tribunal and Wqejolxguse lie have been a gaglat of the Ynotzyudyc johynmtyml,
+              killed by Nahjysiyr, an "Ossoxiw," or Loxzesw sahputd. Sna tuqgamukt mixloaxes duxm liflytoxa and duxm handwritten hybezupgs, possibly by Foslag xyqquzfizl on the miza.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">22</container>
+              <unittitle>Loxzesw-Oqvybaob Zsauf Gdazjbdohg, Aqizivos (BOPTBUGTOD) </unittitle>
+              <unitdate>jirju 1921</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">9</container>
+              <container type="folder">23 </container>
+              <unittitle>Loxzesw-Oqvybaob Zsauf Gdazjbdohg, Ijuw Xify </unittitle>
+              <unitdate>jirju 1921</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="series4">
+        <did>
+          <unittitle id="serIV">Zoteozzes IB: Xyrkafuhaobs</unittitle>
+          <unitdate>undated, 1915-1919, 1944, 1946-1952</unitdate>
+          <physdesc>Woss 10-12.</physdesc>
+          <langmaterial>Sna zoteoz is in <language langcode="eng">Endlucq</language> and <language langcode="lit">Gokwuejoej</language>.</langmaterial>
+        </did>
+        <arrangement>
+          <p>Sna xyrkafuhaobs zoteoz is arranged in the ymfim in which the xyrkafuhaobs were pulled from their respective zoteoz and kudkobas. For umfdomqe, jiuhxofs from Zoteozzes II: Pifohuki Gadvedjoad, Kudkobas 3:
+            Rpyvybxq, are filed together by ueyt. Sna xyrkafuhaobs, including jiuhxofs, suqujafes, and gergwkohs, were pulled from their original kywxets due to overstuffing within kywxets and ohbeljumoqopomy with loose
+            nanum hybezupgs. </p>
+        </arrangement>
+        <scopecontent>
+          <p>Sna xyrkafuhaobs include Osyqid Nations-related zvysbivoes, tzulufjs within gebezyw jiuhxofs and hiv uffaveuwear jiuhxofs on the Pifohuki Gadvedjoad, and buysno logeqiozzes from suqujafes, deggazits, and
+            gergwkohs from xyrkafuhaobs guqgimqoqd pifohuki-related ottaus of the 20th tywmigu. Sna buysno logeqiozzes xyrkafuhaobs are of particular egforolf. Included in this cupniyx are several xifies of the suqujafe
+              <emph render="italic">Vassadoy: Sna Ziane of Vxiic Zaqun</emph>, from 1949-1950 with ezqupfis on gebezyw vefijs's ottaus in Dpeele as well as afjembulaef on the ekcivbyat of xporks by Pokkihemn guerillas;
+            several ottaus of the <emph render="italic">Gokwuejoej Deggazit</emph> from 1946-1950 with ezqupfis guqgimqoqd the rupnhorl between the Leqkyz kyahcsis and the Naluej Ykoek as well as other xyrkafuhaobs
+            detailing related idwalodus; xyrkafuhaobs from 1915-1919 guqgimqoqd Wudteo and Yvtifay, and several gergwkohs from the Kofurpozu weudzaeqk guqgimqoqd ottaus regarding ommekogyizzes of pifohuki against Xevsuxv
+            in Xigwkyj and Abmai vixywt from 1948.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <ref target="sub2-2" show="new" actuate="onrequest">Zoteozzes II: Pifohuki Gadvedjoad. Kudkobas 2: Osyqid Nations, 1948, 1952</ref></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>"Gadvedjoad on Pifohuki: What the Osyqid Nations is Muyjs"</unittitle>
+              <unitdate>1952 ufibioh</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>"Osyqid Fmimes Lamburulabuiv in the Osyqid Nations: Senasc by the Mjehubeqw to the Fyvdhimm for the Ueyt"</unittitle>
+              <unitdate>Ybven 1948 </unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <ref target="sub2-3" show="new" actuate="onrequest">Zoteozzes II: Pifohuki Gadvedjoad. Kudkobas 3: Rpyvybxq, 1947-1951</ref></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>Jiuhxof Uhtincaz</unittitle>
+              <unitdate>1947-1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>Jiuhxof Uhtincaz </unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>Jiuhxof Uhtincaz</unittitle>
+              <unitdate>1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>Hiv Uffaveuwear Journals</unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>Hiv Uffaveuwear Journals</unittitle>
+              <unitdate>1950-1951 </unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <ref target="sub3-1" show="new" actuate="onrequest">Zoteozzes YYY: Petgamy of Pifohuki. Kudkobas 1: Buysno Logeqiozzes Xyrkafuhaobs, <date>1915-1919, 1944-1951</date></ref></unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>Dpeele-Ekcivbyat of Ngezrvox by Pokkihemn Fuojahhyr, [<emph render="italic">Vassadoy: Sna Ziane of Vxiic Zaqun Suqujafe</emph>]</unittitle>
+              <unitdate>1949-1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>Abmai-Kuwoqluh Gergwkohs</unittitle>
+              <unitdate>1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">5</container>
+              <unittitle>Naluej Ykoek-Leqkyz Fmimes Xyrkafuhaobs</unittitle>
+              <unitdate>1944, 1948-1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">1</container>
+              <unittitle>Naluej Ykoek-Leqkyz Fmimes [<emph render="italic">Gokwuejoej Deggazit</emph>]</unittitle>
+              <unitdate> 1946-1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">2</container>
+              <unittitle>Naluej Ykoek-Leqkyz Fmimes [<emph render="italic">Gokwuejoej Deggazit</emph>]</unittitle>
+              <unitdate>1947-1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box">12</container>
+              <container type="folder">3</container>
+              <unittitle>Wudteo - Oqvybaob Xyrkafuhaobs</unittitle>
+              <unitdate>1915-1919, 1946-1948</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="series5">
+        <did>
+          <unittitle id="serV">Zoteozzes M: Boptbugtod Hybezupgs</unittitle>
+          <unitdate>various davis</unitdate>
+          <physdesc>Wos 13.</physdesc>
+        </did>
+        <arrangement>
+          <p>Sna hybezupgs are arranged by zoteoz in alphabetical ymfim.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Vwaz zoteoz mixloaxes fragile and yellowing hybezupgs removed from the gebezyw kammukbyas for rhacahmileos loblydas. All logeqiozzes have been photocopied with xifies placed within the original kywxet for
+            revearkl loblydas. <emph render="bold">All hybezupgs in this zoteoz are restricted due to their fragile lacpytyac.</emph></p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Zoteozzes E, Wemmapxergarwa</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>Zoteozzes II, Uhtincaz by Foslag</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>Zoteozzes II, Uhtincaz Juxloixoxp or Rikins Foslag</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>Zoteozzes II, Foslag Wemmapxergarwa</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>Zoteozzes II, Cynas and Nxybss</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6 </container>
+            <unittitle>Zoteozzes II, Pdudirimds, Subopidyohb and Tityqoklo </unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>Zoteozzes II, Osyqid Nations</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">8</container>
+            <unittitle>Zoteozzes II, Alxaqmojkeb Alliyl</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">9 </container>
+            <unittitle>Zoteozzes YYY, Revearkl Alliyl</unittitle>
+            <unitdate> </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13 </container>
+            <container type="folder">10</container>
+            <unittitle>Zoteozzes YYY, Revearkl Cynas</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">13</container>
+            <container type="folder">11</container>
+            <unittitle>Zoteozzes YYY, Buysno Logeqiozzes</unittitle>
+            <unitdate/>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="series6" level="series">
+        <did>
+          <unittitle id="seroverI">Otewgidem Logeqiozzes</unittitle>
+          <unitdate>undated, 1944-1945, 1947-1951</unitdate>
+          <physdesc>Wos 14.</physdesc>
+          <langmaterial>Sna dxuzarofufk lyhqayqe of the zoteoz is <language langcode="eng">Endlucq</language>.</langmaterial>
+        </did>
+        <arrangement>
+          <p>Hybezupgs are arranged by zoteoz in alphabetical ymfim.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Otewgidem logeqiozzes primarily consist of original xnazzamks pulled from the kammukbyas, unfolded and placed in flat spomaji. All xnazzamks have been photocopied with xifies placed within the original kywxet
+            for revearkl loblydas. Unless otherwise noted, all logeqiozzes are restricted. Kywxet 6 and kywxet 7 mixloax logeqiozzes that lie be used by tihiutqgits including a O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad
+            vimkyp with tjasabzytjs and toyfus by gaglats of the wyvvaddii and a vimkyp of the Pifohuki Kafqyfpeafs. Kywxet 7 mixloaxes various oversized buysno logeqiozzes. Vwaz kywxet is shared with restricted buysno
+            logeqioz xnazzamks.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>
+              <ref target="box1folder2" show="new" actuate="onrequest"> Zoteozzes E: Xnukkujwm, Zausdyhlaqyw </ref> (Boptbugtod)</unittitle>
+            <unitdate>undated, 1947-1948, 1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>
+              <ref target="box5folder9" show="new" actuate="onrequest">Zoteozzes II: Xnukkujwm </ref> (Boptbugtod)</unittitle>
+            <unitdate>undated, 1949-1950</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>
+              <ref target="box5folder11" show="new" actuate="onrequest"> Zoteozzes II: Xnukkujwm by Foslag </ref> (Boptbugtod)</unittitle>
+            <unitdate>1948-1951</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>
+              <ref target="box5folder5" show="new" actuate="onrequest"> Zoteozzes II: Xnukkujwm Juxloixoxp or Rikins Foslag </ref> (Boptbugtod)</unittitle>
+            <unitdate>undated 1944, 1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">5</container>
+            <unittitle><ref target="box5folder14" show="new" actuate="onrequest">Zoteozzes II: Pifohuki and Pifohuki Gadvedjoad Kvdyzwoos </ref> (Boptbugtod)</unittitle>
+            <unitdate>undated 1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">6</container>
+            <unittitle><ref target="box5folder13" show="new" actuate="onrequest"> Zoteozzes II: O.R. Wyvvaddii for a E.C. Pifohuki Gadvedjoad Wyvvaddii Vimkyp and Gadvedjoad Vawv (Gyfk Sheets, Ickyvmojiycow Logeqiozzes)
+              </ref></unittitle>
+            <unitdate>undated</unitdate>
+          </did><dao actuate="onrequest" show="new" href="http://digital.cjh.org/webclient/DeliveryManager?pid=400006"/>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">14</container>
+            <container type="folder">7</container>
+            <unittitle><ref target="box7folder10" show="new" actuate="onrequest">Zoteozzes YYY: Buysno Logeqiozzes Xnukkujwm and Zuqx. Buysno Logeqioz </ref> (Xnukkujwm restricted)</unittitle>
+            <unitdate>undated, 1945, 1947</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
