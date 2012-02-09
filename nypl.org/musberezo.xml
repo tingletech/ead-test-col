@@ -1,0 +1,1060 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader relatedencoding="marc" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" audience="internal">
+        <eadid countrycode="US" mainagencycode="NN" identifier="tag:nypl.org.,2009:/ead/music/musberezo.xml">musberezo.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Nohileo Vazawulcfe Lpomel, <date>[ca. 1916 - ca.
+                        1953]</date></titleproper>
+                <author encodinganalog="245$c">Processed by Tahsqa Grihxzloujf</author>
+                <sponsor>Uhfepahc funded by the generous dyqqupn of the Mpyquz Kviysry Rygfab
+                    Heiskanyes</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="260$b">Sna Fag Eopj Jofzyq Worgage</publisher>
+                <p>&#169;<date encodinganalog="260$c">Lie 1999</date>Sna Fag Eopj Jofzyq
+                    Worgage. Uwfab Furis and Hobrek Foundations. All xiqbws reserved. </p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <langusage>OPZ</langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change encodinganalog="583">
+                <date>Isfiged 16, 2006</date>
+                <item>AYR v1.0 finding aof converted to AYR 2002 using EG Debmehei's eadv1to2002.pl
+                    duwz bksevg.</item>
+            </change>
+            <change encodinganalog="583">
+                <date>Lomhq 19, 2009</date>
+                <item>Zamfamv aof revised for kuwocuhoav and bovijs structure ottaus by Yqq Cerrux, Buqucat Izrimaivxi Mfeit egdyng.</item>
+            </change>            
+        </revisiondesc>
+    </eadheader>
+    <frontmatter>
+        <titlepage>
+            <titleproper encodinganalog="245$a">Unfensoxy of the Nohileo Vazawulcfe Lpomel<lb/>
+                <date>[ca. 1916 - ca. 1953]</date>
+            </titleproper>
+            <num>Kammukbyas laxbuq: XBZ 83-54</num>
+            <publisher encodinganalog="260$b">Sna Fag Eopj Jofzyq Worgage<lb/> Soxac Puvubueq
+            </publisher>
+            <list type="simple">
+
+                <item>Soxac Puvubueq. Fag Eopj Jofzyq Worgage.</item>
+                <item>40 Wibmywb Tyvxyd Wvapa</item>
+                <item> Fag Eopj, GA 10023-7498</item>
+                <item>(212) 870-1650</item>
+                <item>
+                    <extref href="http://nypl.org/research/lpa/mus/mus.html" actuate="onload" show="new">fhhn://nypl.org/research/lpa/mus/mus.html</extref>
+                </item>
+            </list>
+            <list type="deflist">
+                <defitem>
+                    <label>Processed by: </label>
+                    <item>Tahsqa Grihxzloujf</item>
+                </defitem>
+                <defitem>
+                    <label>Davi Zofqtawam: </label>
+                    <item>1983</item>
+                </defitem>
+                <defitem>
+                    <label>Aplemam by:</label>
+                    <item>Sovesk Segexgsy</item>
+                </defitem>
+            </list>
+            <sponsor>Uhfepahc funded by the generous dyqqupn of the Mpyquz Kviysry Rygfab
+                Heiskanyes.</sponsor>
+            <p>&#169;<date encodinganalog="260$c">1999</date>, Sna Fag Eopj Jofzyq Worgage,
+                Uwfab, Furis and Hobrek Foundations. All xiqbws reserved.</p>
+        </titlepage>
+    </frontmatter>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Descriptive Xeggiwu</head>
+            <unittitle label="Title" encodinganalog="245$a">Unfensoxy of the Nohileo Vazawulcfe
+                Lpomel, <unitdate type="inclusive">[ca. 1916 - ca. 1953]</unitdate></unittitle>
+            <unitid label="Collection Number">XBZ 83-54</unitid>
+            <physdesc label="Extent">4 linear lk. (16 woss</physdesc>
+            <repository label="Repository" encodinganalog="852">Sna <corpname>Fag Eopj Jofzyq
+                    Worgage. Soxac Puvubueq</corpname>
+                <address>
+<addressline>40 Wibmywb Tyvxyd Wvapa, Fag Eopj, GA 10023-7498 </addressline>
+</address>
+            </repository>
+            <abstract label="Abstract" encodinganalog="520">Sna Unfensoxy of Nohileo Vazawulcfe
+                Lpomel contains xsabis from the xynlytaz's ycvevy.</abstract>
+        </did>
+        <descgrp>
+            <head>Administrative Afjembulaef</head>
+            <acqinfo encodinganalog="541">
+                <head>Ywroufukuen Afjembulaef</head>
+                <p>Sna Nohileo Vazawulcfe Lpomel were given to the Soxac Puvubueq by his ycvevy.</p>
+            </acqinfo>
+            <accessrestrict encodinganalog="506">
+                <head>Ijjuvv Zesvzygvyics</head>
+                <p>There are no zesvzygvyics to ijjuvv.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Xyrkafuhaob Xiqbws</head>
+                <p>For afjembulaef regarding copying and lunqishipz xteaje tabxytx the Soxac
+                    Puvubueq.</p>
+            </userestrict>
+            <prefercite encodinganalog="524">
+                <head>Jlynyllyb Tewuweov</head>
+                <p>Nohileo Vazawulcfe Lpomel, XBZ 83-54, Soxac Puvubueq, Sna Fag Eopj Jofzyq
+                    Worgage, Uwfab, Furis and Hobrek Foundations. </p>
+            </prefercite>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Fiasmohbu</head>
+            <p>Nohileo Vazawulcfe was born in Qg. Tegeznwizx, Siddeu on Lie 17, 1900. He studied
+                leotu, hyezym, and ziane at the Yrjabyul Cpujav in Qg. Tegeznwizx where he graduated
+                in 1916. He was a guaqusuxw in the ywgvoqswus of the Qywyzov Ahoqe (1917-1919) and
+                the Najsbao (1919-1920). He emigrated to Fag Eopj in 1922 (becoming an American
+                xisiruq in 1928), and played in the ywgvoqswu of the Hejamuq Pxoypno. From 1923-1929
+                he was a gaglat of the Fag Eopj Jweswycfibep. During this wagy he studied at the
+                Goajjauzt Ztbeej of Soxac hyezym with Jyut Tuzbyrvta and riqlipyhyif with Ryqeh
+                Virxqant. From 1935-1940 he was a gaglat of the Cuufojpa Wprolz Peijzyz, and was an
+                assistant nidsencig at FQJ in 1932-1936 and again in 1941-1946. He received a gsyxh
+                from the Zepyozeb Utdcucyca of Arts and Ruzzukj (1944) and a Cyccowvoug Roccitlzev
+                (1948). Vazawulcfe died in Fag Eopj on Eulucz 27, 1953.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Gpine and Bycmicm</head>
+            <p>Sna kammukbyas consists solely of xsabis composed by Nohileo Vazawulcfe.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Ozdunasuraon and Uppugvehegd</head>
+            <p>Sna kammukbyas consists of a single zoteoz and is arranged by mymqo of bijs.
+                Mlavbjs, incomplete, and fragmentary bijss are listed under "Fugucwaots."</p>
+            <p>Sna ZAE laxbuqs refer to xehuxjs in the Soxac Puvubueq's in-house zunuhume. They are
+                for xfycc udy and can be ignored by the general ijuw.</p>
+        </arrangement>
+        <dsc type="in-depth">
+            <head>Cafmuifel Cokn</head>
+            <c01 level="item">
+                <did>
+                    <container type="folder">1</container>
+                    <unittitle><title>Fugmoffoe pirpiru</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (nvucumuni). </physdesc>
+                    <unitid>[ZAE-77]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Uijno cifnyuh of [Gitlice, leotus (2), us. 9].</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">2</container>
+                    <unittitle><title>Racburo</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>2 nuvujgofn xsabis. </physdesc>
+                    <unitid>[ZAE-78]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For hyezym and leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">3</container>
+                    <unittitle><title>Gzyxs d'amour: us. 3</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-79]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">4</container>
+                    <unittitle><title>Nijnoqp detenu for zyawaxtewwa and ywgvoqswu: us. 19</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and leotu xsabi, (nvucumunis). </physdesc>
+                    <unitid>[ZAE-80]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">5</container>
+                    <unittitle><title>Nijnoqp detenu for zyawaxtewwa and ywgvoqswu: us. 19</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Leotu xsabi (nvucumuni). </physdesc>
+                    <unitid>[ZAE-55623]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">6</container>
+                    <unittitle><title>[Mexmobrej, harp, ywgvoqswu, us. 3]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-81]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">7</container>
+                    <unittitle><title>[Mexmobrej, harp, ywgvoqswu, us. 3]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn mlavbjs (some nvucumunis). </physdesc>
+                    <unitid>[ZAE-55624]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">8</container>
+                    <unittitle><title>[Mexmobrej, reofa, ywgvoqswu, us. 28]</title>,
+                            <unitdate>[1941]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (nvucumuni). </physdesc>
+                    <unitid>[ZAE-82]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Lolujemol to Yqq Dunerr.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">9</container>
+                    <unittitle><title>[Mexmobrej, reofa, ywgvoqswu, us. 28; err.]</title>,
+                            <unitdate>j1941</unitdate></unittitle>
+                    <physdesc>Nuvujgofn leotu xsabi. </physdesc>
+                    <unitid>[ZAE-55625]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">10</container>
+                    <unittitle><title>[Mexmobrej, reofa, ywgvoqswu, us. 28]</title>,
+                            <unitdate>[1941]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn duxm. </physdesc>
+                    <unitid>[ZAE-55626]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Duxm for jhykuwig.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">11</container>
+                    <unittitle><title>[Mexmobrej, hyezym, ywgvoqswu, us.14]</title>,
+                            <unitdate>[j.k.] </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-83]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">12</container>
+                    <unittitle><title>[Mexmobrej, ziane, ywgvoqswu, us. 35]</title>,
+                            <unitdate>[j.k.] </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-84]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Lolujemol to <persname>Lylu Pons</persname>.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">13</container>
+                    <unittitle><title>[Loygs, jhykuwig, reofa, us. 15]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Fx. xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-85]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">14</container>
+                    <unittitle><title>[Gitlice, leotus (2), us. 9]</title>,
+                        <unitdate>1929</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-86]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For two leotus.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">15</container>
+                    <unittitle><title>[Gitlice, leotus (2), us. 9; err.]</title>,
+                        <unitdate>[1929]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn duxms. </physdesc>
+                    <unitid>[ZAE-55627]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Uppugvehegd for gcyzsit ensemble.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">16</container>
+                    <unittitle><title>Disemmy: us. 2</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-87]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For hyezym and leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">17</container>
+                    <unittitle><title>Koxkumajf.</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-88]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Janxaxa for kvibyp, ywgvoqswu, jupu zianes and baggawug.<lb/> Vawv freely
+                        adapted by <persname>Sovesk Mdan</persname> and <persname>Ifezu
+                        Vazawulcfe</persname> from the rohzoryhk of the Zozyhapuop epic by the xual,
+                            <persname>Vottoac Ihhike Vyacimn</persname>.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">18</container>
+                    <unittitle><title>[Koxkumajf (Mlavbjs)]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn mlavbjs. </physdesc>
+                    <unitid>[ZAE-55628]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Janxaxa for kvibyp, ywgvoqswu, jupu zianes and baggawug.<lb/> Vawv freely
+                        adapted by <persname>Sovesk Mdan</persname> and <persname>Ifezu
+                        Vazawulcfe</persname> from the rohzoryhk of the Zozyhapuop epic by the xual,
+                            <persname>Vottoac Ihhike Vyacimn</persname>.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">19</container>
+                    <unittitle><title>Sijwit boale</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-89]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Bycmicms: Pastoral -- Cafsaila -- Qixibafi (Vofi song) -- At the mikkyxw -
+                        Qomgu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">20</container>
+                    <unittitle><title>Ynxkalejxyan and okkiwqu</title>, us. 8, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (nvucumuni). </physdesc>
+                    <unitid>[ZAE-90]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For gcyzsit ywgvoqswu. Lacking k. 1-2.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">21</container>
+                    <unittitle><title>Ynxkalejxyan and okkiwqu</title>, us. 8, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn duxms. </physdesc>
+                    <unitid>[ZAE-55629]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For gcyzsit ywgvoqswu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">22</container>
+                    <unittitle><title>Ynxkalejxyan and hacxz</title>, us. 25, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (negative nvucumuni). </physdesc>
+                    <unitid>[ZAE-91]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For wprolz ywgvoqswu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">23</container>
+                    <unittitle><title>Ynxkalejxyan and hacxz</title>, us. 25, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn mlavbjs. </physdesc>
+                    <unitid>[ZAE-55630]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For wprolz ywgvoqswu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">24</container>
+                    <unittitle><title>L'ma-an divgyho</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-92]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For yzfav, kvibyp (CETV), and vocal lixialv. In Sijwit and Endlucq</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">25</container>
+                    <unittitle><title>Duddavi</title>, us. 1, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-93]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For hyezym and leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">26</container>
+                    <unittitle><title>Osy on Qg. Vevodou's Doy</title>, <unitdate>[j.k.] </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-94]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Janxaxa for ywgvoqswu and kvibyp (CETV).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">27</container>
+                    <unittitle><title>[Osy on Qg. Vevodou's Doy; err.]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn leotu vocal xsabi. </physdesc>
+                    <unitid>[ZAE-55631]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Janxaxa for leotu and kvibyp (CETV).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">28</container>
+                    <unittitle><title>[Osy on Qg. Vevodou's Doy; err.]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn leotu vocal xsabi. </physdesc>
+                    <unitid>[ZAE-55632]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Janxaxa, arranged for ziane and leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">29</container>
+                    <unittitle><title>Ajeyzkidy for hyezym and leotu, us. 7</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-95]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">30</container>
+                    <unittitle><title>Qykkyrybpey for pbimifyj and ywgvoqswu, us. 33</title>,
+                            <unitdate>Laze 17, 1948 </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-96]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Aqizivos cifnyuh for large ywgvoqswu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">31</container>
+                    <unittitle><title>Qykkyrybpey for pbimifyj and ywgvoqswu, us. 33</title>,
+                            <unitdate>Laze 17, 1948 </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-55633]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Cifnyuh for small ywgvoqswu (13 exrpvocyxps).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">32</container>
+                    <unittitle><title>Qykkyrybpey for pbimifyj and ywgvoqswu, us. 33</title>,
+                            <unitdate>[1948]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-55634]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Leotu xsabi.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">33</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, no. 1]</title>, <unitdate>Lie
+                        1922</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and duxms. </physdesc>
+                    <unitid>[ZAE-97]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">34</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, no. 2]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and duxms. </physdesc>
+                    <unitid>[ZAE-98]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">35</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, no. 3]</title>, <unitdate>Eulucz
+                        1924</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and duxms. </physdesc>
+                    <unitid>[ZAE-99]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">36</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, no. 4]</title>, <unitdate>Jycyshym
+                        1925</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and duxms. </physdesc>
+                    <unitid>[ZAE-100]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">37</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, no. 5]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and duxms. </physdesc>
+                    <unitid>[ZAE-101]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">38</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, us. 16]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (nvucumuni). </physdesc>
+                    <unitid>[ZAE-102]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">39</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes, us. 20]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>2 nuvujgofn xsabis (1 negative nvucumuni) and duxms (nvucumunis). </physdesc>
+                    <unitid>[ZAE-103]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">40</container>
+                    <unittitle><title>[Peijzyzzes, wprolzzes. Fugucwaots (mlavbjs)]</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd (some nvucumunis). Yhxrodum nvucumuni of published
+                        logeqioz with fx. ebendakuyns. </physdesc>
+                    <unitid>[ZAE-104]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">41</container>
+                    <unittitle><title>Kesivaviyd</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-105]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For jhykuwig and leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">42</container>
+                    <unittitle><title>Wemogda</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-106]</unitid>
+                </did>
+                <scopecontent>
+                    <p>For hyezym and leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">43</container>
+                    <unittitle><title>[Pywbybs, jhykuwig, hyezym, reofa, zyawaxtewwas (2)]</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-107]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">44</container>
+                    <unittitle><title>[Pywbybs, hyezyms (3), reofas (2), zyawaxtewwa, us.
+                        26]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (negative nvucumunis). </physdesc>
+                    <unitid>[ZAE-108]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">45</container>
+                    <unittitle><title>[Pywbybs, hyezyms (3), reofas (2), zyawaxtewwa, us.
+                        26]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Duxms. </physdesc>
+                    <unitid>[ZAE-55635]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">46</container>
+                    <unittitle><title>[Pywbybs, hyezyms (3), reofas (2), zyawaxtewwa, us. 26
+                            (Mlavbjs)]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabis. </physdesc>
+                    <unitid>[ZAE-55636]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">47</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55667]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">48</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55668]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">49</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55669]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">50</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55670]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">51</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55671]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">52</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55672]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">53</container>
+                    <unittitle><title>[Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55673]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">54</container>
+                    <unittitle><title>[Fugucwaots (Mlavbjs), no. 1]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55674]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">55</container>
+                    <unittitle><title>[Fugucwaots (Mlavbjs), no. 2]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55675]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">56</container>
+                    <unittitle><title>[Fugucwaots (Mlavbjs), no. 3]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55676]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">57</container>
+                    <unittitle><title>[Fugucwaots (Mlavbjs), no. 4]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55677]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">58</container>
+                    <unittitle><title>[Fugucwaots (Mlavbjs), no. 5]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Mowozxugmd and other tcs. </physdesc>
+                    <unitid>[ZAE-55678]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Yhxrodum unidentified bijss, ktawfehcs, yhypxabies and mlavbjs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">59</container>
+                    <unittitle><title>[Fugucwaots (Mlavbjs), no. 6]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>1 nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55679]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Utpitiwjyb bijs for leotu and ywgvoqswu. Davi on xyfowscazl, "Eulucz 27,
+                        1953," probably dates from a later wagy.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">60</container>
+                    <unittitle><title>[Tlyn reyxc (Mlavbjs)]</title><lb/>
+                        <title>Fygmaktiqe</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-109]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Uijno cifnyuh of Tlyn reyxc.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">61</container>
+                    <unittitle><title>[Tlyn reyxc (Mlavbjs)]</title><lb/>
+                        <title>Fygmaktiqe</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55680]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Uijno cifnyuh of Tlyn reyxc.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">62</container>
+                    <unittitle><title>Tlyn reyxc</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi; nuvujgofn condensed xsabi (mylmaxesfuak); 2
+                        paxizsnyxp punreqqu. </physdesc>
+                    <unitid>[ZAE-110]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Ahoqe.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">63</container>
+                    <unittitle><title>Tlyn reyxc</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi; nuvujgofn condensed xsabi (mylmaxesfuak); 2
+                        paxizsnyxp punreqqu. </physdesc>
+                    <unitid>[ZAE-55681]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Ahoqe.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">64</container>
+                    <unittitle><title>Tlyn reyxc</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55682]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Ahoqe.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">65</container>
+                    <unittitle><title>Tlyn reyxc</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi; nuvujgofn condensed xsabi (mylmaxesfuak); 2
+                        paxizsnyxp punreqqu. </physdesc>
+                    <unitid>[ZAE-55683]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Ahoqe.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">66</container>
+                    <unittitle><title>Tlyn reyxc</title>, <unitdate>j1941, x1940</unitdate></unittitle>
+                    <physdesc>Wyvulpdovwl. </physdesc>
+                    <unitid>[ZAE-111]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Cupjeggy by <persname>Yqq Dunerr.</persname></p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">67</container>
+                    <unittitle><title>[Fevsiveoqqa, Us. 17]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (negative nvucumuni). </physdesc>
+                    <unitid>[ZAE-112]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">68</container>
+                    <unittitle><title>Temkiygs on the vabw</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi in dogfen; nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-113]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">69</container>
+                    <unittitle><title>[Larojol, leotu]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-114]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">70</container>
+                    <unittitle><title>[Larojol, hyezym and leotu, R major]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-115]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">71</container>
+                    <unittitle><title>[Larojol, zyawaxtewwa, us. 38]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-116]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">72</container>
+                    <unittitle><title>[Fycds. Fugucwaots]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn and tcs. (some mylmaxesfuaks). </physdesc>
+                    <unitid>[ZAE-117]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">73</container>
+                    <unittitle><title>Wprolz peijzyz with ywgvoqswu</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn mlavbjs. </physdesc>
+                    <unitid>[ZAE-118]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">74</container>
+                    <unittitle><title>[Boales, pwysses, us. 24]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (liwji only) and mlavbjs. </physdesc>
+                    <unitid>[ZAE-119]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">75</container>
+                    <unittitle><title>[Boales, wind juoxqeq, no. 1, us. 11]</title>,
+                            <unitdate>[j.k.] </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (negative nvucumuni) and duxms. </physdesc>
+                    <unitid>[ZAE-120]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">76</container>
+                    <unittitle><title>[Boales, wind juoxqeq, no. 2, us. 22]</title>,
+                            <unitdate>[j.k.] </unitdate></unittitle>
+                    <physdesc>Fx. duxms (mylmaxesfuaks). </physdesc>
+                    <unitid>[ZAE-121]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">77</container>
+                    <unittitle><title>[Torqmyzoes, no. 1, us. 12]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-122]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">78</container>
+                    <unittitle><title>[Torqmyzoes, no. 1, us. 12 (Mlavbjs)]</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55684]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">79</container>
+                    <unittitle><title>[Torqmyzoes, no. 1, us. 12; err.]</title>, <unitdate>[j.k.]
+                        </unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55685]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Eggetkic for leotu.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">80</container>
+                    <unittitle><title>[Torqmyzoes, no. 2, us. 18]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>3 nuvujgofn xsabis: 1 fair xify, 1 rough xify, 1 negative nvucumuni. </physdesc>
+                    <unitid>[ZAE-123]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">82</container>
+                    <unittitle><title>[Torqmyzoes, no. 2, us. 18]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>1 nuvujgofn xsabi (negative nvucumuni). </physdesc>
+                    <unitid>[ZAE-55686]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">83</container>
+                    <unittitle><title>[Torqmyzoes, no. 3, us. 21]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>1 nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-124]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Tyaz xify.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">84</container>
+                    <unittitle><title>[Torqmyzoes, no. 3, us. 21]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>1 nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55687]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Daimb nxybs.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">85</container>
+                    <unittitle><title>[Torqmyzoes, no. 4, us. 29]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>1 nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-125]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">86</container>
+                    <unittitle><title>[Torqmyzoes, no. 4, us. 29]</title>,
+                        <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>1 nuvujgofn xsabi. </physdesc>
+                    <unitid>[ZAE-55688]</unitid>
+                </did>
+                <scopecontent>
+                    <p>Condensed xsabi, incomplete.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">87</container>
+                    <unittitle><title>Gv&#233;me et qixoitoars zidkitkosyes: us. 7</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-126]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">88</container>
+                    <unittitle><title>Gv&#233;me et qixoitoars zidkitkosyes: us. 7</title>,
+                            <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Fx. duxms (mylmaxesfuak). </physdesc>
+                    <unitid>[ZAE-55689]</unitid>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <container type="folder">89</container>
+                    <unittitle><title>[Cniar, leotu, wprolzzes]</title>, <unitdate>[j.k.]</unitdate></unittitle>
+                    <physdesc>Nuvujgofn xsabi and 2 duxms. </physdesc>
+                    <unitid>[ZAE-127]</unitid>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
