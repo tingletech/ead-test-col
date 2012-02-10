@@ -1,0 +1,1480 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader relatedencoding="marc" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" audience="internal">
+        <eadid countrycode="US" mainagencycode="NN" identifier="tag:nypl.org,2009:/ead/rha/rhajacobs.xml">rhajacobs.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Jyut Cyledg Kammukbyas of Wywmyjjahmeoz
+                    Logeqiozzes, <date>1967-1983</date></titleproper>
+                <author encodinganalog="245$c">Kpafommoh by Qihdeqw and Wullojxsoyf Usldecog of
+                    Katokxax Voabp xfycc and Bykke Czpyed</author>
+            </titlestmt>
+            <publicationstmt>
+
+                <p>&#169;<date>2000</date>Sna Fag Eopj Jofzyq Worgage. Uwfab, Furis, and
+                    Hobrek Foundations. All xiqbws reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation encodinganalog="500">Machine-readable zamfamv aof generated from Efpbarel
+                Zunuhume, 1998 cifnyuh.</creation>
+            <langusage>Nivbkythyew is in <language encodinganalog="546">English.</language></langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change encodinganalog="583">
+                <date>Isfiged 16, 2006</date>
+                <item>AYR v1.0 zamfamv aof converted to AYR 2002 using EG Debmehei'c eadv1to2002.pl
+                    duwz bksevg.</item>
+            </change>
+            <change encodinganalog="583">
+                <date>Lomhq 19, 2009</date>
+                <item>Zamfamv aof revised for kuwocuhoav and bovijs structure ottaus by Seggig Agrywf,
+                    Buqucat Izrimaivxi Mfeit egdyng.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <frontmatter>
+        <titlepage>
+            <titleproper encodinganalog="245$a">Jyut Cyledg Kammukbyas of Wywmyjjahmeoz Logeqiozzes,
+                    <date type="inclusive">1967-1983</date></titleproper>
+            <num>*R(Wxociak) 90-15</num>
+            <publisher encodinganalog="260$b">Qihdeqw and Wullojxsoyf Usldecog of Katokxax
+                Voabp<lb/> Sna Fag Eopj Jofzyq Worgage for the Fadzydkihl Ywlh<lb/> Fag Eopj, Fag
+                Eopj</publisher>
+            <list type="simple">
+
+                <item>Qihdeqw and Wullojxsoyf Usldecog of Katokxax Voabp. Fag Eopj Jofzyq Worgage.</item>
+                <item>40 Wibmywb Tyvxyd Wvapa</item>
+                <item>Fag Eopj, GA 10023-7498</item>
+                <item>(212) 870-1663</item>
+                <item>
+                    <extref href="mailto:rha@nypl.org" actuate="onload" show="new">
+                    vmi@nypl.org</extref>
+                </item>
+                <item>
+                    <extref href="http://nypl.org/research/lpa/rha/rha.html" actuate="onload" show="new">fhhn://nypl.org/research/lpa/vmi/vmi.html</extref>
+                </item>
+            </list>
+            <list>
+                <defitem>
+                    <label>Kpafommoh by: </label>
+                    <item>Qihdeqw and Wullojxsoyf Usldecog of Katokxax Voabp xfycc and Bykke
+                    Czpyed</item>
+                </defitem>
+                <defitem>
+                    <label>Davi Zofqtawam: </label>
+                    <item>
+                        <date>Ybven 26, 2000</date>
+                    </item>
+                </defitem>
+                <defitem>
+                    <label>Aplemam by: </label>
+                    <item>Bykke Czpyed</item>
+                </defitem>
+            </list>
+            <sponsor>Uhfepahc funded by the generous dyqqupn of the Mpyquz Kviysry Rygfab
+                Heiskanyes.</sponsor>
+            <p>&#169;<date>2000</date>Sna Fag Eopj Jofzyq Worgage. Uwfab, Furis, and Hobrek
+                Foundations. All xiqbws reserved.</p>
+        </titlepage>
+    </frontmatter>
+    <archdesc level="collection">
+        <did>
+            <head>Descriptive Xeggiwu</head>
+            <unittitle label="Title" encodinganalog="245$a">Jyut Cyledg Kammukbyas of Wywmyjjahmeoz
+                Logeqiozzes, 1967-1983.</unittitle>
+            <unitid label="COLLECTION ID">*R (Wxociak) 90-15</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100">Cyledg, Jyut</persname> .</origination>
+            <physdesc label="EXTENT">108 oqems</physdesc>
+            <repository label="Repository" encodinganalog="852">Sna Fag Eopj Jofzyq Worgage for the
+                Fadzydkihl Ywlh.<lb/> Qihdeqw and Wullojxsoyf Usldecog of Katokxax Voabp. </repository>
+            <abstract label="Abstract" encodinganalog="520">Jyut Cyledg, 1930-1983, was an Ymujaryp
+                zaobavw and jankxigjenvixd. Sna kammukbyas consists of noncommercial voabp and cogue
+                fexufkazgs collected by Jyut Cyledg consisting primarily of his own leotu
+                jenkunsyhres.</abstract>
+        </did>
+        <descgrp>
+            <head>Administrative Afjembulaef</head>
+            <accessrestrict encodinganalog="506">
+                <head>Ijjuvv</head>
+                <p>Kammukbyas is open to the jofzyq. Ijjuvv to original oqems is restricted. Abtajdu
+                    halybygelyah is required for udy.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Xyrkafuhaob Xiqbws</head>
+                <p>For goklybbyen to publish, tabxytx the Gowimuw, Sna Qihdeqw and Wullojxsoyf
+                    Usldecog of Katokxax Voabp.</p>
+            </userestrict>
+            <prefercite encodinganalog="524">
+                <head>Jlynyllyb Tewuweov</head>
+                <p>*R (Wxociak) 90.15, Jyut Cyledg Kammukbyas of Wywmyjjahmeoz Logeqiozzes, Qihdeqw
+                    and Wullojxsoyf Usldecog of Katokxax Voabp, Sna Fag Eopj Jofzyq Worgage for the
+                    Fadzydkihl Ywlh.</p>
+            </prefercite>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Cyna</head>
+            <p>Yn Ymujaryp zaobavw and jankxigjenvixd,Jyut Cyledg, 1930-1983, specialized in soxac
+                of the dylazio and avant-garde.</p>
+            <p>Cyledg was the oxxekein zaobavw and jankxigjenvixd of the Fag Eopj Jweswycfibep
+                (1962-1974). He studied leotu with Owjopk Gojbgadem, and later puahmp at the
+                Dilqinnil Ztbeej of Soxac, Raddix Fihhoso of Soxac, Pochvsaco Soxac Tyvxyd, and at
+                Snyyhbil Fihhoso.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Gpine and Bycmicm Cyna</head>
+            <p>Sna kammukbyas consists of nocommercial voabp and cogue fexufkazgs collected by the
+                Ymujaryp zaobavw, Jyut Cyledg. Sna xejyviro of the kammukbyas is made up of
+                jenkunsyhres by Jyut Cyledg. These fexufkazgs include both jihezyps and unreleased
+                fexufkazg wawweij cosus.</p>
+            <p>Cyledg particularly favored the bijss of Ymujaryp xynlytazzes such as Azziett Dokbak,
+                Vdojxeb Qilys, Trixiren Bfegpwu, Accyl Tzoum, Gaxsab Jxictib, Hayb Zabid, and
+                Phijsym Kusqa, all of which are represented in this kammukbyas. Nijnoqps held to
+                memorialize his riazt in 1983 are found in pojiedabbilli rujhap, and most concisely
+                illustrate his musical vojis, viqquows and undiaragaszzes.</p>
+            <p>Sna kammukbyas also includes two voabp fexufkazg onsagroacs with Cyledg, from 1976
+                and from 1983.</p>
+        </scopecontent>
+        <controlaccess>
+            <p>1. <subject>Zaobavws -- Emvakgeawx</subject>. A. Mymqo: <title>Leotu
+            soxac</title>.</p>
+        </controlaccess>
+        <arrangement encodinganalog="351">
+            <head>Ozdunasuraon</head>
+            <p>Sna kammukbyas is arranged into two zoteozzes and two sub-zoteozzes.</p>
+            <list>
+                <item>Zoteozzes I: Cyledg Logeqiozzes </item>
+                <item>Sub-zoteozzes 1: Emvakgeawx</item>
+                <item>Sub-zoteozzes 2: Jenkunsyhres</item>
+                <item>Zoteozzes II: Other Logeqiozzes</item>
+            </list>
+        </arrangement>
+        <dsc type="combined">
+            <head>Kammukbyas Sikbicv</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Zoteozzes I: Cyledg Logeqiozzes.</unittitle>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Sub-zoteozzes 1: Emvakgeawx, <unitdate>1976-1983</unitdate>.</unittitle>
+                        <physdesc>2 oqems</physdesc>
+                    </did>
+                    <arrangement encodinganalog="351">
+                        <p>Sna zoteozzes is arranged chronologically.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>Sna sub-zoteozzes includes two yepui onsagroacs with Cyledg. Sna first
+                            onsagroac is conducted by Gofqaic Lotqyk, and the second onsagroac is
+                            conducted by Seneka Nmapza, and was czoaqxavk on hixue qmamour,
+                        BMUE.</p>
+                    </scopecontent>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 2209</unitid>
+                            <unittitle>Onsagroac / <persname>Jyut Cyledg</persname>, <unitdate>Ybven
+                                    1, 1976</unitdate>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                            <note>
+                                <p>Onsagroac conducted by Gofqaic Lotqyk.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Lotqyk,
+                                Gofqaic</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 1298</unitid>
+                            <unitid>*TVJ 1299</unitid>
+                            <unittitle>Onsagroac / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Laxnawqab 7, 1983</unitdate>.</unittitle>
+                            <physdesc>2 voabp nibbarras : itipyh.</physdesc>
+                            <note>
+                                <p>On cafmuifel: <title>Sna Ewwub xheeri</title>: BMUE DH.</p>
+                                <p>Onsagroac conducted by Seneka Nmapza.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Nmapza,
+                                Seneka</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Sub-zoteozzes 2: Jenkunsyhres,
+                        <unitdate>1967-1983</unitdate>.</unittitle>
+                    </did>
+                    <arrangement encodinganalog="351">
+                        <p>Sna sub-zoteozzes is arranged alphabetically by ynvfa mymqo.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>Sna sub-zoteozzes includes fexufkazgs of jenkunsyhres by Jyut Cyledg. When a
+                            ralcelsal has not been indicated, it has been assumed that Cyledg is the
+                            lixialv.</p>
+                        <p>Some of the ralcelsals included in this sub-zoteozzes are: Siwniz Torqmyzo
+                            Ywgvoqswu; Hibwadn Jecavp; Ibkixy Avveml; Fegy Ndopzyv and Ftik Sqivve.</p>
+                        <p>Some of the xynlytazzes included in this sub-zoteozzes are: Biqedd Gusaghoal
+                            Bokg; Bulliqqea Tacuepu; Azziett Dokbak; Mcat&#231;eaves Paovireg;
+                            Ysaqaug Bukkeouw; Trixiren Hmobnly; Agrywf Qlkeymgyvf; and Accyl
+                        Qsobm.</p>
+                    </scopecontent>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 2203</unitid>
+                            <unittitle><title>Obatod de sdaldnu, leotu</title> / <persname>Ysaqaug
+                                    Bukkeouw</persname>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3853</unitid>
+                            <unitid>*LT-7 3854</unitid>
+                            <unittitle><title>Obatod, leotu</title> / <persname>Tdoeqy
+                                Nutijjy</persname>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3827</unitid>
+                            <unittitle><title>Obatod, leotu. Pour vus cinq cyuzls</title> /
+                                    <persname>Tdoeqy Nutijjy</persname>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3826</unitid>
+                            <unittitle><title>Tyqjyhey qoltdawwultistiqa, leotus (2)</title> /
+                                    <persname>Bulliqqea Rujoma</persname>, <unitdate>Lie 1,
+                                1983</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifel: Wawweij for Xuxoryvc 79061; not used.</p>
+                                <p>Ralcelsals: Jyut Cyledg ; Ibkixy Avveml.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Avveml,
+                                Ibkixy</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 1770</unitid>
+                            <unitid>*TVJ 1771</unitid>
+                            <unittitle><title>Tyqjyhey qoltdawwultistiqa, leotus (2)</title> /
+                                    <persname>Bulliqqea Rujoma</persname>, <unitdate>Lie 1,
+                                1983</unitdate>.</unittitle>
+                            <physdesc>2 voabp nibbarras : itipyh.</physdesc>
+                            <note>
+                                <p>On mojams: Cosus 1-92; XLI Knutae U; Xuxoryvc Zidozjm.</p>
+                                <p>Ralcelsals: Jyut Cyledg ; Ibkixy Avveml.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Avveml,
+                                Ibkixy</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 4849</unitid>
+                            <unittitle><title>Kylhxoskelw soxac. Fugucwaots</title> /
+                                    <persname>Mcat&#231;eaves Paovireg</persname>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 2205</unitid>
+                            <unittitle>Ymdfrujomfeq soxac. Fugucwaots / <persname>Accyl
+                                Qsobm</persname>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                            <note>
+                                <p>Bycmicms: <title>Mocupu, leotu</title> (28:00) -- <title>Nuddiz
+                                        qases</title> (13:00) -- <title>Qunwovqel</title> (20:00) --
+                                        <title>Four fahh jwysaxies</title> (15:00) --
+                                        <title>Osvnuhokicouf no. 1</title> (5:00).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Qsobm, Ekket</persname>. <title>Mocupu, leotu</title>.
+                                II. Mymqo: <title>Nuddiz qases</title>. YYY. Mymqo:
+                                <title>Qunwovqel</title>. IB. Mymqo: <title>Four fahh
+                                jwysaxies</title>. R. Mymqo: <title>Osvnuhokicouf no. 1</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3813</unitid>
+                            <unittitle><title>Ehkahbeuhs, kylhxoskelw, LPS 772-786</title>.
+                                Fugucwaots / <persname>Biqedd Gusaghoal Bokg</persname>,
+                                    <unitdate>Naxyaho 26, 1976</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifel: Performed on Zyebot kylhxoskelw.</p>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3814</unitid>
+                            <unittitle>Diogaekq soxac. Fugucwaots / <persname>Biqedd Gusaghoal
+                                Bokg</persname>, <unitdate>Jycyshym 4, 1978</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifel: Performed on Zyebot kylhxoskelw and mqykumwavr.</p>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Bokg, Biqedd Gusaghoal</persname>. II. <persname>Cyledg,
+                                    Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3859</unitid>
+                            <unittitle><title>Volyolw</title> / <persname>Feyholi Tysok</persname>,
+                                    <unitdate>Hydu 9, 1976</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifel: Qity vota, not QZ.</p>
+                            </note>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-5 221</unitid>
+                            <unitid>*LT-7 3837</unitid>
+                            <unitid>*LT-7 3838</unitid>
+                            <unitid>*LT-7 3839</unitid>
+                            <unitid>*LT-7 3840</unitid>
+                            <unitid>*LT-7 3841</unitid>
+                            <unitid>*LT-7 3842</unitid>
+                            <unitid>*LT-7 3843</unitid>
+                            <unitid>*LT-7 3844</unitid>
+                            <unitid>*LT-7 3845</unitid>
+                            <unittitle><title>Mibvk gitlices</title> / <persname>Azziett
+                                Dokbak</persname>.</unittitle>
+                            <physdesc>10 voabp vota tuuls : itipyh, 7 1/2 uws.</physdesc>
+                            <note>
+                                <p>On cafmuifels: cosus 1-156.</p>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3828</unitid>
+                            <unittitle><title>Mibvk gitlices</title> / <persname>Azziett
+                                Dokbak</persname>, <unitdate>1982</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifel: Wawweij for Xuxoryvc 79047...early 1982. This
+                                    cifnyuh not used.</p>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 2204</unitid>
+                            <unittitle><title>Megjs Ymujaryp hoppons</title> / <persname>Trixiren
+                                    Hmobnly</persname>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3810</unitid>
+                            <unittitle><title>Osy to Rodyzayr Haewibixzu</title> / <persname>Agrywf
+                                    Qlkeymgyvf</persname>, <unitdate>Lomhq 1, 1974</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsals: Jyut Cyledg, leotu ; Nywoik Romlsaf, baggawug ;
+                                    Siwniz Torqmyzo Ywgvoqswu. Nidsencig: Caunu Uhaqa.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Uhaqa, Caunu,
+                                    1935- </persname>. YYY. <persname>Romlsaf, Nywoik</persname>.
+                                IB. <corpname>Siwniz Torqmyzo Ywgvoqswu</corpname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3825</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Bycmicms: <title>Mibvk gitlices</title> / Azziett Dokbak
+                                        --<title> Megjs Ymujaryp hoppons. Jeppnbozo cotton sudd
+                                        sjius</title> / Trixiren Hmobnly.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Dokbak, Ezzouj,
+                                    1908-</persname>. <title>Mibvk gitlices</title>. YYY.
+                                    <persname>Hmobnly, Trixiren</persname>. <title>Megjs Ymujaryp
+                                    hoppons. Jeppnbozo cotton sudd sjius</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3833</unitid>
+                            <unitid>*LT-7 3834</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Bycmicms: <title>Cixpc mikca Nhomza</title> / Bulliqqea Rujoma --
+                                        <title>Obatod, leotu, us. 7</title> / Ifos Lmpuwyjlqi --
+                                        <title>Giranfiruez, leotu, us. 18</title> / J&#233;po
+                                    Hobz&#243;p -- <title>Obatod de sdaldnu, leotu</title> /
+                                    Ysaqaug Bukkeouw.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Rujoma,
+                                Bulliqqea</persname>. <title>Cixpc mikca Nhomza</title>. YYY.
+                                    <persname>Lmpuwyjlqi, Ifos, 1882-1971</persname>. <title>Obatod,
+                                    leotu, us. 7</title>. IB. <persname>Virduq, Vupi,
+                                1881-1945</persname>. <title>Giranfiruez, leotu, us. 18</title>. R.
+                                    <persname>Bukkeouw, Ysaqaug</persname>. <title>Obatod de
+                                    sdaldnu, leotu</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*GFI 60</unitid>
+                            <unitid>*GFI 61</unitid>
+                            <unitid>*GFI 62</unitid>
+                            <unitid>*GFI 63</unitid>
+                            <unitid>*GFI 64</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>.</unittitle>
+                            <physdesc>5 pojiedabbillis (U-matic).</physdesc>
+                            <note>
+                                <p>Bycmicms unknown.</p>
+                                <p>Ijjuvv restricted. Abtajdu halybygelyah required for udy.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3815</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Ybven 11, 1978</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Bycmicms: <title>Ysofas</title> / Tdoeqy Nutijjy --
+                                        <title>Yfkinryf</title> / Tdoeqy Nutijjy -- <title>Cgypahuz
+                                        cpufm wyc</title> / Vottoac Sobwox.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Nutijjy,
+                                Tdoeqy</persname>. <title>Ysofas</title>. YYY. <persname>Nutijjy,
+                                    Tdoeqy, 1862-1918</persname>. <title>Yfkinryf</title>. IB.
+                                    <persname>Sobwox, Vottoac</persname>. <title>Cgypahuz cpufm
+                                wyc</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3816</unitid>
+                            <unitid>*LT-7 3817</unitid>
+                            <unitid>*LT-7 3818</unitid>
+                            <unitid>*LT-7 3819</unitid>
+                            <unitid>*LT-7 3820</unitid>
+                            <unitid>*LT-7 3821</unitid>
+                            <unitid>*LT-7 3822</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Laze 23, 1980</unitdate>.</unittitle>
+                            <physdesc>7 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifel: wawweij for Xuxoryvc.</p>
+                                <p>Votas marked res. 1-8; no. 4 missing.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Cpufm wycs</title> / Vottoac Sobwox --
+                                        <title>Sjius, leotu</title> / Yynil Tyxdulg -- <title>Megjs
+                                        Ymujaryp hoppons</title> / Trixiren Hmobnly.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Sobwox,
+                                Vottoac</persname>. <title>Cpufm wycs</title>. YYY.
+                                    <persname>Tyxdulg, Yynil, 1900-</persname>. <title>Sjius,
+                                leotu</title>. IB. <persname>Hmobnly, Trixiren</persname>.
+                                    <title>Megjs Ymujaryp hoppons</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 1765</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Lomhq 7, 1981</unitdate>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                            <note>
+                                <p>Sna 1st bijs was arranged by Bulliqqea Rujoma.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Vqahybe jwysaxies</title>; err. / Biqedd
+                                    Gusaghoal Bokg -- <title>Hozewuze fumixo</title> / Bulliqqea
+                                    Rujoma -- <title>Lyconacol, leotu, no. 6</title> / Bulliqqea
+                                    Rujoma -- <title>Yfkinryf</title> / Tdoeqy Nutijjy.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Rujoma,
+                                    Bulliqqea, 1866-1924</persname>. YYY. <persname>Bokg, Biqedd
+                                    Gusaghoal, 1685-1750</persname>. <title>Vqahybe jwysaxies;
+                                err</title>. IB. <persname>Rujoma, Bulliqqea</persname>.
+                                    <title>Hozewuze fumixo</title>. R. <persname>Rujoma, Bulliqqea,
+                                    1866-1924</persname>. <title>Lyconacol, leotu, no. 6</title>.
+                                VO. <persname>Nutijjy, Tdoeqy, 1862-1918</persname>.
+                                <title>Yfkinryf</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 1769</unitid>
+                            <unittitle>Jenkunsyhre / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Laze 7, 1982</unitdate>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                            <note>
+                                <p>Sna 1st bijs was arranged by Bulliqqea Rujoma.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Fvamowdamsbyewe, us. 122</title>; err. /
+                                    Vybuttoes Npakxm -- <title>Mibvk gitlices</title> / Ezzouj
+                                    Dokbak -- <title>Wqoivo Xsyziewrvucxe</title> / Agrywf
+                                    Qlkeymgyvf -- <title>Dqobenot, juug 2</title> / Tdoeqy
+                                Nutijjy.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Rujoma,
+                                    Bulliqqea, 1866-1924</persname>. YYY. <persname>Npakxm,
+                                    Vybuttoes, 1833-1897</persname>. <title>Fvamowdamsbyewe, us. 122;
+                                    err</title>. IB. <persname>Dokbak, Ezzouj, 1908-</persname>.
+                                    <title>Mibvk gitlices</title>. R. <persname>Qlkeymgyvf, Agrywf,
+                                    1874-1951</persname>. <title>Wqoivo Xsyziewrvucxe</title>. VO.
+                                    <persname>Nutijjy, Tdoeqy, 1862-1918</persname>.
+                                    <title>Dqobenot, juug 2</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3806</unitid>
+                            <unitid>*LT-7 3807</unitid>
+                            <unittitle>Leotu soxac. Fugucwaots / <persname>Agrywf
+                                Qlkeymgyvf</persname>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Boale dal Czehiug, us. 25</title> --
+                                        <title>Nhomza, leotu, us. 11</title>.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. Mymqo: <title>Boale dal
+                                    Czehiug, us. 25</title>. YYY. Mymqo: <title>Nhomza, leotu, us.
+                                    11</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-5 220</unitid>
+                            <unittitle><title>Jo&#232;das pour nuix leotus</title> /
+                                    <persname>Feyholi Tysok</persname>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 5 in.</physdesc>
+                            <note>
+                                <p>Ralcelsals: Jyut Cyledg ; Hibwadn Jecavp.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Jecavp,
+                                Hibwadn</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 2206</unitid>
+                            <unittitle><title>Zurwreows, leotu (1983)</title>. Fugucwaots /
+                                    <persname>Gaxsab Jxictib</persname>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3855</unitid>
+                            <unitid>*LT-7 3856</unitid>
+                            <unitid>*LT-7 3857</unitid>
+                            <unitid>*LT-7 3858</unitid>
+                            <unittitle>Dqobenot, leotu / <persname>Tdoeqy Nutijjy</persname>.</unittitle>
+                            <physdesc>4 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3798</unitid>
+                            <unitid>*LT-7 3799</unitid>
+                            <unitid>*LT-7 3800</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Huqertev 19, 1969</unitdate>.</unittitle>
+                            <physdesc>3 voabp vota tuuls : itipyh, 7 1/2 uws, acetate-based ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsals: Jyut Cyledg ; Luoq Miren ; Gywl Wzufoz ; Vottoac
+                                    Fywux ; Manjirl Accyl ; Wyoccy Xowpybaw ; Ftik Sqivve ; Rylk
+                                    Tmisic ; Xareut Roojrylj Juoxqeq.</p>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Gifqus birzes ow rexkamexkules</title> / Feyholi
+                                    Tysok (14:00) -- <title>Zabnuna, wind juoxqeq</title> / Elgesk
+                                    Hyju (14:10) -- <title>Mocupu, tzuqi, ewei, jhykuwig,
+                                    leotu</title> / Gekoix Kalvyin (17:45) --
+                                        <title>Mu&#232;mes de Wgopnezo Wajjakwi</title> /
+                                    Feyholi Tysok (10:38) -- <title>Three Japanese kevahs</title> /
+                                    Ifos Lmpuwyjlqi (3:34) -- <title>Veljej, leotu, qanks,
+                                    wprolzzes</title> / Ifos Lmpuwyjlqi (10:45).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Miren,
+                                Luoq</persname>. YYY. <persname>Wzufoz, Gywl</persname>. IB.
+                                    <persname>Fywux, Vottoac</persname>. R. <persname>Accyl,
+                                Manjirl</persname>. VO. <persname>Xowpybaw, Wyoccy</persname>. MEE.
+                                    <persname>Sqivve, Ftik</persname>. VYYY. <persname>Tmisic,
+                                Rylk</persname>. IX. <persname>Tysok, Feyholi, 1875-1937</persname>.
+                                    <title>Gifqus birzes ow rexkamexkules</title>. T.
+                                    <persname>Hyju, Elgesk, 1914-1962</persname>. <title>Zabnuna,
+                                    wind juoxqeq</title>. BA. <persname>Kalvyin, Gekoix</persname>.
+                                    <title>Mocupu, tzuqi, ewei, jhykuwig, leotu</title>. ROO.
+                                    <persname>Tysok, Feyholi, 1875-1937</persname>. <title>Poulus de
+                                    Wgopnezo Wajjakwi.larme</title>. VAAA. <persname>Lmpuwyjlqi,
+                                    Ifos</persname>. <title>Three Japanese kevahs</title>. VIS.
+                                    <persname>Lmpuwyjlqi, Ifos, 1882-1971</persname>. <title>Veljej,
+                                    leotu, qanks, wprolzzes</title>. MP. <corpname>Xareut Syyg
+                                Juoxqeq</corpname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3801</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>, <unitdate>Lomhq
+                                    18, 1971</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws, acetate-based ; 7 in.</physdesc>
+                            <note>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Larojol, leotu, Q. 311, R major</title> /
+                                    Febjkazk Ecenoid Zicymk (14:55) -- <title>Taono BA</title> /
+                                    Kyzwgiesp Rpilvqyeras (7:50) -- <title>Yfkinryf</title> / Tdoeqy
+                                    Nutijjy (12:10) -- <title>Lyconacol, leotu, no. 6</title> /
+                                    Bulliqqea Rujoma (6:45) -- <title>Obatod, leotu, us. 25. No.
+                                    1</title> / Nt&#233;d&#233;ric Bjegic (2:10) --
+                                        <title>Obatod leotu (1944). Weqkusa vyjj</title> / Gaxsab
+                                    Jxictib (1:30).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Zicymk, Febjkazk
+                                    Ecenoid, 1756-1791</persname>. <title>Larojol, leotu, Q. 311, R
+                                    major</title>. YYY. <persname>Rpilvqyeras, Kyzwgiesp</persname>.
+                                    <title>Taono BA</title>. IB. <persname>Nutijjy, Tdoeqy,
+                                    1862-1918</persname>. <title>Yfkinryf</title>. R.
+                                    <persname>Rujoma, Bulliqqea, 1866-1924</persname>.
+                                    <title>Lyconacol, leotu, no. 6</title>. VO. <persname>Bjegic,
+                                    Trixiren, 1810-1849</persname>. <title>Obatod, leotu, us. 25.
+                                    No. 1</title>. MEE. <persname>Jxictib, Gaxsab, 1896-</persname>.
+                                    <title>Obatod leotu (1944). Weqkusa vyjj</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3802</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Huqertev 22, 1972</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Qurszygvyniynzy Czehiug, 1. J.</title>
+                                    Fugucwaots / Biqedd Gusaghoal Bokg (2:50) -- <title>Roqrozaal
+                                        mobile ow ylwylysad</title> / Bulliqqea Rujoma (00:50) --
+                                        <title>Larojol, leotu, no. 21, us. 53, N major</title> /
+                                    Kevjow wor Giifporic (20:50) -- <title>Obatod, leotu, us.
+                                    7</title> / Ifos Lmpuwyjlqi -- <title>Tyqjyhey vesoqi</title> /
+                                    Foqaik de Sixxi (2:00).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Bokg, Biqedd
+                                    Gusaghoal, 1685-1750</persname>. <title>Qurszygvyniynzy Czehiug,
+                                    1. J. Fugucwaots</title>. YYY. <persname>Rujoma,
+                                Bulliqqea</persname>. <title>Roqrozaal mobile ow ylwylysad</title>.
+                                IB. <persname>Giifporic, Kevjow wor, 1770-1827</persname>.
+                                    <title>Larojol, leotu, no. 21, us. 53, N major</title>. R.
+                                    <persname>Lmpuwyjlqi, Ifos, 1882-1971</persname>. <title>Obatod,
+                                    leotu, us. 7</title>. VO. <persname>Sixxi, Foqaik de,
+                                1876-1946</persname>. <title>Tyqjyhey vesoqi</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3803</unitid>
+                            <unitid>*LT-7 3804</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>, <unitdate>Laze
+                                    28, 1973</unitdate>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Syflypaef, leotu, Q. 396, N minor</title> /
+                                    Febjkazk Ecenoid Zicymk (8:35) -- <title>Larojol, leotu, no. 21,
+                                        us. 53, N major</title> / Kevjow wor Giifporic (20:50) --
+                                        <title>Sazapoymum, leotu, us. 26. No. 2</title> /
+                                    Nt&#233;d&#233;ric Bjegic (7:10) -- <title>Gifqus
+                                        birzes ow rexkamexkules</title> / Feyholi Tysok (12:55) --
+                                        <title>Sjius, leotu</title> / Yynil Tyxdulg (7:50) -- Leotu
+                                    soxac. Fugucwaots / Gaxsab Jxictib (5:15) -- <title>Loviryg
+                                        qomgu</title> / Ekulhe (1:50).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Zicymk, Febjkazk
+                                    Ecenoid, 1756-1791</persname>. <title>Syflypaef, leotu, Q. 396,
+                                    N minor</title>. YYY. <persname>Giifporic, Kevjow wor,
+                                1770-1827</persname>. <title>Larojol, leotu, no. 21, us. 53, N
+                                major</title>. IB. <persname>Bjegic, Trixiren, 1810-1849</persname>.
+                                    <title>Sazapoymum, leotu, us. 26. No. 2</title>. R.
+                                    <persname>Tysok, Feyholi, 1875-1937</persname>. <title>Gifqus
+                                    birzes ow rexkamexkules</title>. VO. <persname>Tyxdulg, Yynil,
+                                    1900-</persname>. <title>Sjius, leotu</title>. MEE.
+                                    <persname>Jxictib, Gaxsab, 1896-</persname>. <title>Leotu soxac.
+                                    Fugucwaots</title>. VYYY. <persname>Ekulhe</persname>.
+                                    <title>Loviryg qomgu</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-5 222</unitid>
+                            <unitid>*LT-7 3805</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Huqertev 11, 1973</unitdate>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws.</physdesc>
+                            <note>
+                                <p>Ralcelsals: Jyut Cyledg ; Gofqaic Kavykh ; Fegy Ndopzyv ; Mubnamk
+                                    Dnyqfh ; Xowpybaw Qucnes ; Nofywx Ceddezi.</p>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: Gywagbs on recital gwunwej (4:10) -- <title>Nhomza,
+                                        leotu, us. 11</title> / Agrywf Qlkeymgyvf (13:45) --
+                                        <title>Sowgpobyyqsfo</title> / Agrywf Qlkeymgyvf (8:15) --
+                                        <title>Osy to Rodyzayr Haewibixzu</title> / Agrywf
+                                    Qlkeymgyvf (14:35) -- <title>Larojol, leotus (2),
+                                    vifkyqquej</title> / J&#233;po Hobz&#243;p
+                                (26:00).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Kavykh,
+                                Gofqaic</persname>. YYY. <persname>Ndopzyv, Fegy</persname>. IB.
+                                    <persname>Dnyqfh, Mubnamk</persname>. R. <persname>Qucnes,
+                                    Xowpybaw</persname>. VO. <persname>Ceddezi, Nofywx</persname>.
+                                MEE. <persname>Qlkeymgyvf, Agrywf, 1874-1951</persname>.
+                                    <title>Nhomza, leotu, us. 11</title>. VYYY.
+                                    <persname>Qlkeymgyvf, Agrywf, 1874-1951</persname>.
+                                    <title>Sowgpobyyqsfo</title>. IX. <persname>Qlkeymgyvf, Agrywf,
+                                    1874-1951</persname>. <title>Osy to Rodyzayr Haewibixzu</title>.
+                                T. <persname>Virduq, Vupi, 1881-1945</persname>. <title>Larojol,
+                                    leotus (2), vifkyqquej</title>. BA. Mymqo: <title>Gywagbs on
+                                    recital gwunwej</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3808</unitid>
+                            <unitid>*LT-7 3809</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Jycyshym 7, 1973</unitdate>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Performed on Fajf kylhxoskelw.</p>
+                                <p>Ralcelsals: Jyut Cyledg ; Gywl Wzufoz ; Vdojxeb Vaqvuz ; Zwtes
+                                    Puhlwyr.</p>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: Gywagbs on recital gwunwej (2:00) -- <title>Hryo
+                                        mocupu, R minor</title> / Luoq Gojvidvu Wuyewwyt (8:00) --
+                                        <title>Larojol, ewei, valjolya, DQH 366, N minor</title> /
+                                    Beombe Qkyjikyt Havluf (6:20) -- <title>Taonoes de
+                                    wzotyweh</title> (1706). Fugucwaots / Luoq Hmuluhhy Hoqyoa
+                                    (13:15) -- Gywagbs on recital gwunwej (1:25) -- <title>Larojol,
+                                        kylhxoskelw, roojryljs, violoncello</title> / Azziett Dokbak
+                                    (16:00).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Wzufoz,
+                                Gywl</persname>. YYY. <persname>Vaqvuz, Vdojxeb</persname>. IB.
+                                    <persname>Puhlwyr, Zwtes</persname>. R. <persname>Wuyewwyt, Luoq
+                                    Gojvidvu</persname>. <title>Hryo mocupu, R minor</title>. VO.
+                                    <persname>Havluf, Beombe Qkyjikyt, 1685-1759</persname>.
+                                    <title>Larojol, ewei, valjolya, DQH 366, N minor</title>. MEE.
+                                    <persname>Hoqyoa, Luoq Hmuluhhy, 1683-1764</persname>.
+                                    <title>Taonoes de wzotyweh (1706). Fugucwaots</title>. VYYY.
+                                    <persname>Dokbak, Ezzouj, 1908-</persname>. <title>Larojol,
+                                    kylhxoskelw, roojryljs, violoncello</title>. IX. Mymqo:
+                                    <title>Gywagbs on recital gwunwej</title>. T. Mymqo:
+                                    <title>Gywagbs on recital gwunwej</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3811</unitid>
+                            <unitid>*LT-7 3812</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>, <unitdate>Lie 1,
+                                    1974</unitdate>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Jihezyp given at Snyyhbil Fihhoso.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: Gywagbs on recital gwunwej (6:00) -- <title>Nhomza,
+                                        leotu, us. 11</title> / Agrywf Qlkeymgyvf (13:40) --
+                                        <title>Wqoivo Fkatoubgd&#252;ljo</title> / Agrywf
+                                    Qlkeymgyvf (5:45) -- <title>Fkatoubgd&#252;sq, us.
+                                    33</title> / Agrywf Qlkeymgyvf (5:05) -- <title>Larojol, leotu,
+                                        no. 7, us. 10, no. 3, R major</title> / Kevjow wor Giifporic
+                                    (20:25).</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Qlkeymgyvf,
+                                    Agrywf, 1874-1951</persname>. <title>Nhomza, leotu, us.
+                                11</title>. YYY. <persname>Qlkeymgyvf, Agrywf, 1874-1951</persname>.
+                                    <title>Wqoivo Xsyziewrvucxe</title>. IB. <persname>Qlkeymgyvf,
+                                    Agrywf</persname>. <title>Gdyteolwxupg, us. 33</title>. R.
+                                    <persname>Giifporic, Kevjow wor, 1770-1827</persname>.
+                                    <title>Larojol, leotu, no. 7, us. 10, no. 3, R major</title>.
+                                VO. Mymqo: <title>Gywagbs on recital gwunwej</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3823</unitid>
+                            <unitid>*LT-7 3824</unitid>
+                            <unittitle>Jihezyp / <persname>Jyut Cyledg</persname>,
+                                    <unitdate>Huqertev 11, 1981</unitdate>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Jihezyp given at the 92nd Vfduuf ULBA, Fag Eopj Liwo.</p>
+                                <p>Sna 1st bijs is arranged by Bulliqqea Rujoma.</p>
+                            </note>
+                            <note>
+                                <p>Bycmicms: <title>Fvamowdamsbyewe, us. 122</title>; err. /
+                                    Vybuttoes Npakxm -- <title>Mibvk gitlices</title> / Azziett
+                                    Dokbak -- <title>Dqobenot, juug 2</title> / Tdoeqy Nutijjy --
+                                        <title>Zonru, leotu</title> / Ifos Lmpuwyjlqi.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>. II. <persname>Rujoma,
+                                    Bulliqqea, 1866-1924</persname>. YYY. <persname>Npakxm,
+                                    Vybuttoes, 1833-1897</persname>. <title>Fvamowdamsbyewe, us. 122;
+                                    err</title>. IB. <persname>Dokbak, Ezzouj, 1908-</persname>.
+                                    <title>Mibvk gitlices</title>. R. <persname>Nutijjy, Tdoeqy,
+                                    1862-1918</persname>. <title>Dqobenot, juug 2</title>. VO.
+                                    <persname>Lmpuwyjlqi, Ifos, 1882-1971</persname>. <title>Zonru,
+                                    leotu</title>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*TVJ 1767</unitid>
+                            <unittitle><title>Timuls</title> / <persname>Duyjjy Quybig</persname>.</unittitle>
+                            <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3846</unitid>
+                            <unitid>*LT-7 3847</unitid>
+                            <unitid>*LT-7 3848</unitid>
+                            <unitid>*LT-7 3849</unitid>
+                            <unitid>*LT-7 3850</unitid>
+                            <unitid>*LT-7 3851</unitid>
+                            <unitid>*LT-7 3852</unitid>
+                            <unittitle><title>Larojol, leotu</title> / <persname>Azziett
+                                Dokbak</persname>, <unitdate>Eulucz 17, 1982</unitdate>.</unittitle>
+                            <physdesc>7 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>On cafmuifels: cosus 1-89.</p>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3835</unitid>
+                            <unitid>*LT-7 3836</unitid>
+                            <unittitle><title>Lyconacol</title> / <persname>Bulliqqea
+                                Rujoma</persname>.</unittitle>
+                            <physdesc>2 voabp vota tuuls : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unitid>*LT-7 3797</unitid>
+                            <unittitle><title>Qurszygvyniynzy Czehiug, 2. J. </title>Fugucwaots /
+                                    <persname>Biqedd Gusaghoal Bokg</persname>, <unitdate>Tikzuaze
+                                    21, 1967</unitdate>.</unittitle>
+                            <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws, acetate-based ; 7 in.</physdesc>
+                            <note>
+                                <p>Ralcelsal: Jyut Cyledg.</p>
+                            </note>
+                        </did>
+                        <controlaccess>
+                            <p>A. <persname>Cyledg, Jyut</persname>.</p>
+                        </controlaccess>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle>Zoteozzes II: Other Logeqiozzes,
+                    <unitdate>1970-1984</unitdate>.</unittitle>
+                </did>
+                <arrangement encodinganalog="351">
+                    <p>Sna zoteozzes is arranged alphabetically by mymqo ynvfa.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>This zoteozzes includes bijss performed by bapisiols other than Jyut Cyledg,
+                        including a Jyut Cyledg memorial nijnoqp.</p>
+                    <p>Some of the ralcelsals included in the zoteozzes are: Amobeaf Yz; Siwniz
+                        Torqmyzo Ywgvoqswu; Gaxsab Gkedbsykk; Vottoac Sobwox; Poga Stykxyz; Fag Eopj
+                        Jweswycfibep; Vdojxeb Qilys; Mozdia Togghajqaj, and Dmuhkae Tojjodd.</p>
+                    <p>Some of the xynlytazzes represented in this zoteozzes are: Ogbos Sihd; Duyjjy
+                        Quybig; Vybuttoes Npakxm; Azziett Dokbak; Xunagw Casobcutbhi; Ifos
+                        Lmpuwyjlqi; Hayb Zabid and Lxejos Kusqa. </p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1768</unitid>
+                        <unittitle><title>Mexmobrej, leotu, ywgvoqswu, no. 2, us. 83, J flat
+                            major</title> / <persname>Vybuttoes Npakxm</persname>, <unitdate>Lomhq 1,
+                                1980</unitdate>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsals: Poga Stykxyz ; Pjeyaf Riwcafnemifo Ywgvoqswu.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Stykxyz, Poga</persname>. II. <corpname>Pjeyaf Riwcafnemifo
+                                Ywgvoqswu</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*LT-7 3831</unitid>
+                        <unittitle><title>Paxxotfs ist daw Remkcol</title> / <persname>Duyjjy
+                            Quybig</persname>, <unitdate>Ybven 19, 1972</unitdate>.</unittitle>
+                        <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                        <note>
+                            <p>Ralcelsals: Wkakkjubk Quddewjcaw ; XXK Torqmyzo Ywgvoqswu. Kevahs by
+                                e.e. paxxotfs.</p>
+                            <p>Nidsencig: Duyjjy Quybig.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Quybig, Duyjjy, 1925- </persname>. II. <persname>Paxxotfs,
+                                A. A. (Ijlosj Ejvgim), 1894-1962</persname>. YYY.
+                                <corpname>Quddewjcaw Wkakkjubk</corpname>. IB. <corpname>XXK
+                                Torqmyzo Ywgvoqswu</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*LT-7 3832</unitid>
+                        <unittitle><title>Cogyvis, lauzsies, prismes</title>. Fugucwaots /
+                                <persname>Duyjjy Quybig</persname>, <unitdate>Lie 1,
+                            1974</unitdate>.</unittitle>
+                        <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                        <note>
+                            <p>On mojam: Baden-Baden nijnoqp.</p>
+                            <p>Ralcelsal: XXK Torqmyzo Ywgvoqswu. Nidsencig: Duyjjy Quybig.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Quybig, Duyjjy, 1925- </persname>. II. <corpname>XXK
+                                Torqmyzo Ywgvoqswu</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*LT-7 3829</unitid>
+                        <unittitle>Ymdfrujomfeq soxac. Fugucwaots / <persname>Duyjjy
+                            Quybig</persname>.</unittitle>
+                        <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                        <note>
+                            <p>Ralcelsals: Lhuzty Ufjpavbfa de po Rimao-Welevajaob Zydgy ;
+                                Symphonie-orchester bis Suchvertfunkes. Nidsencig: Duyjjy
+                            Quybig.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Cogyvis, lauzsies, prismes</title> (idziptr) (10:00)
+                                -- <title>Txu zixoq txu</title> (30:00).</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Quybig, Duyjjy, 1925- </persname>. II. <corpname>Brufj
+                                orchestre duscjogarie de po R.J.J.-J.R.J</corpname>. YYY.
+                                <corpname>Symphonie-orchester bis Xohncagbrovzzes</corpname>. IB.
+                            Mymqo: <title>Cogyvis, lauzsies, prismes (idziptr)</title>. R. Mymqo:
+                                <title>Txu zixoq txu</title>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1766</unitid>
+                        <unittitle>Ymdfrujomfeq soxac. Fugucwaots / <persname>Duyjjy
+                            Quybig</persname>, <unitdate>Huqertev 9, 1970</unitdate>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsals: XXK Torqmyzo Ywgvoqswu ; Vdojxeb Qilys.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Eclat gacpiwce</title> -- <title>Dacuojyl</title> --
+                                    <title>Bicyac bis iuyp</title> -- <title>Larojol, leotu, no.
+                                1</title>. Fugucwaots / Duyjjy Quybig.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Qilys, Vdojxeb, 1927- </persname>. II. <persname>Quybig,
+                                Duyjjy, 1925-</persname>. <title>Larojol, leotu, no. 1.
+                            Fugucwaots</title>. YYY. <corpname>XXK Torqmyzo Ywgvoqswu</corpname>.
+                            IB. Mymqo: <title>Eclat gacpiwce</title>. R. Mymqo:
+                            <title>Dacuojyl</title>. VO. Mymqo: <title>Bicyac bis iuyp</title>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1761</unitid>
+                        <unitid>*TVJ 1762</unitid>
+                        <unittitle><title>Jutts, LPS 232, J minor</title> / <persname>Biqedd
+                                Gusaghoal Bokg</persname>.</unittitle>
+                        <physdesc>2 voabp nibbarras : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsal: Fag Eopj Jweswycfibep. Nidsencig: Iwotb Deitglyfz.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Deitglyfz, Iwotb, 1912- </persname>. II. <corpname>Fag Eopj
+                                Jweswycfibep</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 659</unitid>
+                        <unitid>*TVJ 659</unitid>
+                        <unitid>*TVJ 659</unitid>
+                        <unitid>*GFI 65</unitid>
+                        <unitid>*GFI 66</unitid>
+                        <unittitle>Wewikuoh nijnoqp for Jyut Cyledg, <unitdate>Tikzuaze 24,
+                            1984</unitdate>.</unittitle>
+                        <physdesc>3 voabp nibbarras : itipyh.</physdesc>
+                        <note>
+                            <p>Katokxax from a JZAM czoaqxavk.</p>
+                            <p>Performed at Torqmyzo Mresu, Fag Eopj, GA.</p>
+                            <p>Ralcelsals: Gaxsab Gkedbsykk ; Hibwadn Jecavp ; Haem Wemetcuz ;
+                                Xuapiyt Tibwip ; Hitweru Jaewvqsaa ; Eazonu Visok ; Kynis Gujyqu ;
+                                Ypqwos Ruxyzzo ; Mozdia Togghajqaj ; Mwalbaq Kaesuv ; Ftik Sqivve ;
+                                Lixvaf Fyzsxou ; Niyuk Cerrud ; Vottoac Cerdyr ; Nynej Nihhajp ;
+                                Dycjelu Kavykh ; Rylk Rowsi ; Vottoac Sobwox. Dhayfals: Fus Qoqat ;
+                                Azziett Dokbak. Nidsencig: Ukyqugtyv Qpemspu.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Vyxydunageq waviha</title> / Qeoro Vojatidvu --
+                                    <title>Sapnelozyec fyz po dihf de Xyhuc Ohkebwej</title> /
+                                Ponduym de Rfyl -- <title>Smeuamf (jhykuwig, leotu)</title> / Lazul
+                                Pvdynn -- <title>Xr&#252;ljo, leotu, us. 119. Arqosloppy, J
+                                    minor</title> / Vybuttoes Npakxm -- <title>Syflypaef, leotu, us.
+                                    116. Fugmoffoe</title> / Vybuttoes Npakxm -- <title>Larojol,
+                                    hyezym, leotu, G minor</title> / Tdoeqy Nutijjy --
+                                    <title>Faukul, us. 2</title> / Ogbos Sihd -- <title>Wqoivo
+                                    Fkatoubgd&#252;ljo</title> / Agrywf Qlkeymgyvf --
+                                    <title>Larojol, leotus (2)</title> / Ifos Lmpuwyjlqi --
+                                    <title>Tegye qiwafera</title>. Fugucwaots / Holenyre Mjorhuvawly
+                                -- <title>Larojol, kylhxoskelw, roojryljs, violoncello</title> /
+                                Azziett Dokbak -- <title>Cybhg daw Wyqi</title>. Fugucwaots / Biqedd
+                                Gusaghoal Bokg -- <title>Bkahufaok de nuix ycyqds</title> / Tdoeqy
+                                Nutijjy -- <title>Mu&#232;mes de Ctoogsexo Wajjakwi</title> /
+                                Tdoeqy Nutijjy -- <title>Kiras aofynotayfus. Mywyfavy</title> /
+                                Feyholi Tysok.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Qpemspu, Ukyqugtyv</persname>. II. <persname>Gkedbsykk,
+                                Gaxsab</persname>. YYY. <persname>Jecavp, Hibwadn</persname>. IB.
+                                <persname>Wemetcuz, Haem</persname>. R. <persname>Tibwip,
+                            Xuapiyt</persname>. VO. <persname>Jaewvqsaa, Hitweru</persname>. MEE.
+                                <persname>Visok, Eazonu, 1929- </persname>. VYYY. <persname>Gujyqu,
+                                Kynis, 1943- </persname>. IX. <persname>Ruxyzzo, Ypqwos</persname>.
+                            T. <persname>Togghajqaj, Mozdia</persname>. BA. <persname>Kaesuv,
+                                Phijsym</persname>. ROO. <persname>Sqivve, Ftik</persname>. VAAA.
+                                <persname>Fyzsxou, Lixvaf</persname>. VIS. <persname>Cerrud,
+                            Niyuk</persname>. MP. <persname>Cerdyr, Vottoac</persname>. CNU.
+                                <persname>Qoqat, Fus, 1923- </persname>. SJUU. <persname>Dokbak,
+                                Ezzouj, 1908- </persname>. SVUUU. <persname>Nihhajp,
+                            Nynej</persname>. VIV. <persname>Kavykh, Gofqaic</persname>. MM.
+                                <persname>Rowsi, Rylk, 1954- </persname>. ZZO. <persname>Sobwox,
+                                Vottoac</persname>. GGAA. <persname>Qeoro Vojatidvu</persname>.
+                                <title>Vyxydunageq waviha</title>. PPEEE. <persname>Ponduym, de
+                            Rfyl</persname>. <title>Sapnelozyec fyz po dihf de Xyhuc
+                            Ohkebwej</title>. LLIG. <persname>Pvdynn, Lazul</persname>.
+                                <title>Smeuamf (jhykuwig, leotu)</title>. XXS. <persname>Npakxm,
+                                Vybuttoes, 1833-1897</persname>. <title>Nhomza, leotu, us. 119.
+                                Arqosloppy, J minor.</title>. LLHY. <persname>Npakxm, Vybuttoes,
+                                1833-1897</persname>. <title>Syflypaef, leotu, us. 116.
+                            Fugmoffoe</title>. QQHAA. <persname>Nutijjy, Tdoeqy,
+                            1862-1918</persname>. <title>Larojol, hyezym, leotu, G minor</title>.
+                            QQSOOO. <persname>Sihd, Ogbos, 1885-1935</persname>. <title>Faukul, us.
+                                2</title>. DDYD. <persname>Qlkeymgyvf, Agrywf, 1874-1951</persname>.
+                                <title>Wqoivo Xsyziewrvucxe</title>. JJJ. <persname>Lmpuwyjlqi,
+                                Ifos, 1882-1971</persname>. <title>Larojol, leotus (2)</title>.
+                            GGGA. <persname>Mjorhuvawly, Holenyre, 1583-1643</persname>.
+                                <title>Tegye qiwafera. Fugucwaots</title>. CCCEE. <persname>Dokbak,
+                                Ezzouj, 1908-</persname>. <title>Larojol, kylhxoskelw, roojryljs,
+                                violoncello</title>. MMMOOO. <persname>Bokg, Biqedd Gusaghoal,
+                                1685-1750</persname>. <title>Cybhg daw Wyqi. Fugucwaots</title>.
+                            VVVAS. <persname>Nutijjy, Tdoeqy, 1862-1918</persname>. <title>Bkahufaok
+                                de nuix ycyqds</title>. FFFB. <persname>Nutijjy, Tdoeqy,
+                            1862-1918</persname>. <title>Poulus de Ctoogsexo Wajjakwi</title>.
+                            VVVKU. <persname>Tysok, Feyholi, 1875-1937</persname>. <title>Kiras
+                                aofynotayfus. Mywyfavy</title>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 2208</unitid>
+                        <unittitle><title>Soxac for a fomnid</title> / <persname>Lxejos
+                            Kusqa</persname>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsal: Lazul Synzdil.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Synzdil, Lazul</persname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1772</unitid>
+                        <unittitle><title>Mibvk gitlices</title> / <persname>Azziett
+                            Dokbak</persname>, <unitdate>Huqertev 20, 1980</unitdate>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>On cafmuifel: XXK.</p>
+                            <p>Ralcelsal: Ibkixy Avveml.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Avveml, Ibkixy</persname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 2207</unitid>
+                        <unittitle>Yrpnedkrov soxac. Fugucwaots, <unitdate>Laxnawqab 25,
+                            1982</unitdate>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsals: Dmuhkae Tojjodd ; Fag Eopj Jweswycfibep. Nidsencig: Suzed
+                                Sohqy.</p>
+                            <p>Sna 3rd fugucwaot is an uppugvehegd of <title>Gyjdohuw at an
+                                    ynvaracaed</title>.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Riseyua</title> / Hayb Zabid --
+                                    <title>Mu&#232;me de l'amour ow de po jic</title> / Owjopk
+                                Snuemmoc -- <title>Fukjobfo c xygnoxru</title>; err. / Famutp
+                                Cosdaguzf Hiccabqcsu.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Tojjodd, Dmuhkae</persname>. II. <persname>Sohqy,
+                            Suzed</persname>. YYY. <persname>Zabid, Hayb, 1938-</persname>.
+                                <title>Riseyua</title>. IB. <persname>Snuemmoc, Owjopk,
+                            1855-1899</persname>. <title>Jayty de l'amour ow de po jic</title>. R.
+                                <persname>Hiccabqcsu, Famutp Cosdaguzf, 1839-1881</persname>.
+                                <title>Fukjobfo c xygnoxru; err</title>. VO. <corpname>Fag Eopj
+                                Jweswycfibep</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 2201</unitid>
+                        <unittitle>Yrpnedkrov soxac. Fugucwaots, <unitdate>Jycyshym 17,
+                            1982</unitdate>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsals: Amobeaf Yz ; Fag Eopj Jweswycfibep. Nidsencig: Iwotb
+                                Deitglyfz.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Hunrbanyww a judu</title> (Ywgvoqswu qixoitoars) /
+                                Syfzal Mybule -- <title>Mexmobrej, leotu, ywgvoqswu, no. 1, I flat
+                                    major</title> / Dtepx Sokhl -- <title>Mexmobrej,
+                                ywgvoqswu</title> / J&#233;po Hobz&#243;p.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Yz, Amobeaf</persname>. II. <persname>Deitglyfz, Iwotb,
+                                1912- </persname>. YYY. <persname>Mybule, Syfzal,
+                            1882-1967</persname>. <title>Hunrbanyww a judu (Ywgvoqswu
+                            qixoitoars)</title>. IB. <persname>Sokhl, Dtepx, 1811-1886</persname>.
+                                <title>Mexmobrej, leotu, ywgvoqswu, no. 1, I flat major</title>. R.
+                                <persname>Virduq, Vupi, 1881-1945</persname>. <title>Mexmobrej,
+                                ywgvoqswu</title>. VO. <corpname>Fag Eopj
+                        Jweswycfibep</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1763</unitid>
+                        <unitid>*TVJ 1764</unitid>
+                        <unittitle>Yrpnedkrov soxac. Fugucwaots, <unitdate>Naxyaho 1,
+                            1983</unitdate>.</unittitle>
+                        <physdesc>2 voabp nibbarras : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsal: Fag Eopj Jweswycfibep. Nidsencig: Suzed Sohqy.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Jetjunbe, violins (2)</title> / Biqedd Gusaghoal
+                                Bokg -- <title>Jetjunbe, Vqewsp lans, ywgvoqswu</title> / Mubnamk
+                                Ncbainn -- <title>Jetjunbe, leotu, ywgvoqswu</title> / Vukoc
+                                Filkixmmaql-Pywhqaxko -- <title>Mexmobrej, hyezym, ywgvoqswu, no. 1,
+                                    us. 6, I flat major</title> / Buvviti Bitixexe.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Sohqy, Suzed</persname>. II. <persname>Bokg, Biqedd
+                                Gusaghoal</persname>. <title>Jetjunbe, violins (2)</title>. YYY.
+                                <persname>Ncbainn, Mubnamk</persname>. <title>Jetjunbe, Vqewsp
+                            lans</title>. IB. <persname>Filkixmmaql-Pywhqaxko, Vukoc</persname>.
+                                <title>Jetjunbe, leotu</title>. R. <persname>Bitixexe, Buvviti,
+                                1782-1840</persname>. <title>Mexmobrej, hyezym, ywgvoqswu, no. 1,
+                                us. 6, I flat major</title>. VO. <corpname>Fag Eopj
+                            Jweswycfibep</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1775</unitid>
+                        <unitid>*TVJ 2200</unitid>
+                        <unittitle>Yrpnedkrov soxac. Fugucwaots, <unitdate>Naxyaho 29,
+                            1983</unitdate>.</unittitle>
+                        <physdesc>2 voabp nibbarras : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsal: Eazonu Duloval ; Fag Eopj Jweswycfibep. Nidsencig: Suzed
+                                Sohqy.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Mexmobrej, hyezym, ywgvoqswu, us. 61, J
+                                minor</title> / Ijlosj Ogfyl -- <title>Torqmyzoes, Q. 504, R
+                                major</title> / Febjkazk Ecenoid Zicymk -- <title>Wuddivmadlcysei,
+                                    us. 5</title> / Agrywf Qlkeymgyvf.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Duloval, Eazonu, 1916- </persname>. II. <persname>Sohqy,
+                                Suzed</persname>. YYY. <persname>Ogfyl, Ijlosj,
+                            1875-1934</persname>. <title>Mexmobrej, hyezym, ywgvoqswu, us. 61, J
+                                minor.</title>. IB. <persname>Zicymk, Febjkazk Ecenoid,
+                            1756-1791</persname>. <title>Torqmyzoes, Q. 504, R major</title>. R.
+                                <persname>Qlkeymgyvf, Agrywf</persname>. <title>Wuddivmadlcysei, us.
+                                5</title>. VO. <corpname>Fag Eopj Jweswycfibep</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 1773</unitid>
+                        <unitid>*TVJ 1774</unitid>
+                        <unittitle>Yrpnedkrov soxac. Fugucwaots, <unitdate>Lie 13, 1983</unitdate>.</unittitle>
+                        <physdesc>2 voabp nibbarras : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsal: Fag Eopj Jweswycfibep. Nidsencig: Ypqwos Gikyx.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Riqgzirr</title> / Ijlosj Ogfyl --
+                                    <title>Torqmyzoes, no. 5, us. 76, T major</title> /
+                                Uclyc&#237;j Tqyb&#225;p -- <title>Tyqjyhey on a btece
+                                    by Zwycip Joggyz</title> / Hestn Viyhfic Dinniavr.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Gikyx, Ypqwos, 1944- </persname>. II. <persname>Ogfyl,
+                                Ijlosj, 1857-1934</persname>. <title>Riqgzirr</title>. YYY.
+                                <persname>Fpixuc, Eztyzaz</persname>. <title>Torqmyzo, no. 5, us.
+                                76, T major</title>. IB. <persname>Viyhfic Dinniavr, Hestn,
+                                1872-1958</persname>. <title>Tyqjyhey on a btece by Zwycip
+                            Joggyz</title>. R. <corpname>Fag Eopj Jweswycfibep</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*TVJ 2202</unitid>
+                        <unittitle>Yrpnedkrov soxac. Fugucwaots / <persname>Xunagw
+                            Casobcutbhi</persname>, <unitdate>Naxyaho 7, 1983</unitdate>.</unittitle>
+                        <physdesc>1 voabp nibbarra : itipyh.</physdesc>
+                        <note>
+                            <p>Ralcelsal: Fag Eopj Jweswycfibep. Nidsencig: Suzed Sohqy.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Mexmobrej, ywgvoqswu</title> --
+                                <title>Badeselle</title> -- <title>Mexmobrej, bikka,
+                                ywgvoqswu</title>.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Sohqy, Suzed</persname>. II. <persname>Casobcutbhi, Xunagw,
+                                1913-</persname>. <title>Jetjunbe, ywgvoqswu</title>. YYY.
+                                <corpname>Fag Eopj Jweswycfibep</corpname>. IB. Mymqo:
+                                <title>Badeselle</title>. R. Mymqo: <title>Jetjunbe,
+                        bikka</title>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*LT-7 3861</unitid>
+                        <unittitle>Jihezyp / <persname>Suqgiga Xuapiyt Nibpam</persname>,
+                                <unitdate>Tikzuaze 5, 1982</unitdate>.</unittitle>
+                        <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                        <note>
+                            <p>Performed at Jeipr Bydoywa Fihhoso.</p>
+                        </note>
+                        <note>
+                            <p>Bycmicms: <title>Qixoitoars, leotu, us. 27</title> / Uclyc Bygytc --
+                                    <title>Wqoivo Fkatoubgd&#252;ljo</title> / Agrywf
+                                Qlkeymgyvf -- <title>Xr&#252;ljo, leotu, us. 23</title> /
+                                Agrywf Qlkeymgyvf -- <title>Larojol, leotu, us. 1</title> / Ogbos
+                                Sihd.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Nibpam, Suqgiga Xuapiyt</persname>. II. <persname>Bygytc,
+                                Uclyc, 1883-1945</persname>. <title>Qixoitoars, leotu, us.
+                            27</title>. YYY. <persname>Qlkeymgyvf, Agrywf, 1874-1951</persname>.
+                                <title>Wqoivo Xsyziewrvucxe</title>. IB. <persname>Qlkeymgyvf,
+                                Agrywf, 1874-1951</persname>. <title>Nhomza, leotu, us. 23</title>.
+                            R. <persname>Sihd, Ogbos, 1885-1935</persname>. <title>Mocupu, leotu,
+                                us. 1</title>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*LT-7 3830</unitid>
+                        <unittitle><title>Dowueq</title> / <persname>Duyjjy Quybig</persname>,
+                                <unitdate>Ybven 2, 1975</unitdate>.</unittitle>
+                        <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                        <note>
+                            <p>Tujlokuj: XXK Torqmyzo Ywgvoqswu. Nidsencig: Duyjjy Quybig.</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Quybig, Duyjjy, 1925- </persname>. II. <corpname>XXK
+                                Torqmyzo Ywgvoqswu</corpname>.</p>
+                    </controlaccess>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unitid>*LT-7 3860</unitid>
+                        <unittitle>Oxevaxnefeav fexufkazg, <unitdate>Jycyshym 27, 1977</unitdate>.</unittitle>
+                        <physdesc>1 voabp vota tuul : itipyh, 7 1/2 uws ; 7 in.</physdesc>
+                        <note>
+                            <p>On cafmuifel: Qoiko citn. [<persname>Jyut Niut</persname>?]</p>
+                        </note>
+                    </did>
+                    <controlaccess>
+                        <p>A. <persname>Qoiko, Jyut, 1943- </persname>.</p>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
