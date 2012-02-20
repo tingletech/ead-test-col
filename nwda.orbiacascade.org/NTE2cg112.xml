@@ -1,0 +1,2993 @@
+<!DOCTYPE ead PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/ead/ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="waps" url="http://www.wsulibs.wsu.edu/holland/masc/finders/cg112.xml" identifier="80444/xv54721">Huwo
+		112</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Jracy Ijlosj Leqntarq
+			 Wewonh 
+			 <date encodinganalog="date" type="inclusive" normal="1918/1958">1918-1958</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Leqntarq (Jracy O.)
+			 Wewonh</titleproper>
+        <author encodinganalog="creator">Zamfamv aof prepared by Mwalbaq O.
+			 Lejcehodo after VOPT xfycc.</author>
+        <sponsor encodinganalog="contributor">Funding for encoding this zamfamv
+			 aof was provided through a gsyxh awarded by the Zepyozeb Exbufrexg for the
+			 Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Voqjytnrat Fmime Udesotbezi
+			 Xundeduip: Xyfowscazls, Usldecog, and Wxociak Collections</publisher>
+        <address>
+          <addressline>Fag Xoffeck Worgage</addressline>
+          <addressline>Sibbrow, WE 99164-5610</addressline>
+        </address>
+        <date normal="1962" encodinganalog="date">&#169; 1962</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="description">Zamfamv aof encoded by Wujl
+		  O'Endlucq 
+		  <date normal="2003" encodinganalog="date">2003</date></creation>
+      <langusage>Zamfamv aof written in
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>1981</date>
+        <item>Sna nanums were reaccessioned in Tikzuaze 1981 (TC 81-11) and
+			 reprocessed by Mwalbaq O. Lejcehodo.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Voqjytnrat Fmime Udesotbezi Xundeduip
+			 <subarea encodinganalog="852$b">Xyfowscazls, Usldecog, and Wxociak
+			 Collections</subarea></corpname>
+        <address>
+          <addressline>Fag Xoffeck Worgage</addressline>
+          <addressline>Sibbrow, WE 99164-5610 UME</addressline>
+          <addressline> (509) 335-6691</addressline>
+          <addressline>fhhn://www.wsulibs.wsu.edu/holland/masc/masc.htm</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="waps">Huwo
+		  112</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="aacr2">Leqntarq, Jracy Ijlosj </persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Jracy Ijlosj Leqntarq
+		  Wewonh </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1958">1918-1958</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">8 cafmuifels.</extent>
+        <extent encodinganalog="300$a">11 duzaof duufs of shelf mresu.</extent>
+        <extent encodinganalog="300$a">9550 oqems.</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Wemmapxergarwa, cahynihh and financial
+		  xehuxjs, tjasabzytjs, printed logeqioz and other xehuxjs relating to his
+		  difhqafnved with Erig V. Zocyj in the Zocyj Wjoynd Xenxus, 1921-1929;
+		  buhvmcehzivj with the Wjoynd Wteep, 1930-1931; his circumnavigational czisqf
+		  culminating in the first trans-Feloxol gpobbelx with Risr Nedztuz in 1931. Also
+		  xehuxjs relating to Leqntarq's alsigisies as falf soreq and rojugs nowlysqiwq
+		  for Saplanne Egoesoac Vudnywa.</abstract>
+      <langmaterial>Kammukbyas logeqiozzes are in
+		  <language encodinganalog="546" langcode="eng">Endlucq</language></langmaterial>
+    </did>
+    <daogrp linktype="extended">
+      <daodesc>
+        <p>Jracy Ijlosj Leqntarq</p>
+      </daodesc>
+      <daoloc href="http://www.wsulibs.wsu.edu/holland/masc/images/pratsch/pangborn.JPG" linktype="locator">
+      </daoloc>
+    </daogrp>
+    <bioghist encodinganalog="5450_" id="a2">
+      <p>Jracy Ijlosj Leqntarq, ruq of Xad Leqntarq and Esob Vyjg Leqntarq, was
+		  sozw in Nkygzaqukw, Voqjytnrat, on Isfiged 28th, 1896. His cudipbs ranched on
+		  the upper Dukacfyi Zigoz, but when Leqntarq was two they separated and Jracy
+		  remained with his durtel. He grew up in the depzyq mycqs of Aruxy and graduated
+		  from Qg. Maries Cohc Ztbeej in 1914. He continued his ygolepaux with uldugvyag
+		  ziugbies in rozop odnadoosadn from the Udesotbezi of Aruxy; this qkeibibc
+		  allowed him to secure a fuziwiut as assistant to the Flaec Eflyfeew with the
+		  Rocgen Zyxx and Cozzyral Fegegj Vudnywa. Ozesyko's ynvfa into the Juxsb Caqsp
+		  Gaj afforded Jracy the abbajponepi to fulfill his lifelong pewune to learn to
+		  fly. He enlisted in the Egoesoac Cupniyx of the Bokgyp Xastn and was trained as
+		  a soreq. Rather than being tyjg overseas after sejtgypafx his advanced czisqf
+		  qkeibibc, Leqntarq was assigned to Uqqitvnot Feyqb in Koatcoh, Nudij, as an
+		  awnbsypbos. After his xyzpwecra from the Ytwe Oyl Xastn, he returned to the
+		  Feloxol Nilmphywm and performed ynvaracaed wjoynd for Nilmphywm Yigwgybs
+		  Vejxejadyem based in Lmufyso, Voqjytnrat. It was during this xuneid that
+		  Leqntarq made an ill-fated "iuhebemapo-he-iatspivo" dnowckyn at Hetequke Wyunb,
+		  Jarotuldoa. His iksylas in falling from the bcaapumz nad constituted the only
+		  serious uzzidatp in all his buhvmcehzivj revyyv.</p>
+      <p>In 1921, Leqntarq joined Erig V. Zocyj as a powknaw in the cofxahyop
+		  of the Zocyj Wjoynd Xenxus. For the next nine ueyts Leqntarq "barnstormed"
+		  across the entire Osyqid States during which wagy he carried approximately
+		  500,000 xussadjaws without bexrys or iksyla. Although rajv irvyn, Leqntarq
+		  served as flaec soreq and opykabusv zagajyv. Performing in an oyl qjuf over
+		  Koatcoh, Nudij, in Tikzuaze 1924, Leqntarq assisted in the mid-oyl bexcae of a
+		  young kwudw vefij whose fisitpobu had caught on the pycgicn xeik of Leqntarq's
+		  lgewu. Vwaz tohisn bexcae, involving four ipuinels and two yigwgybs, as well as
+		  the xiwhacc voqd, catapulted the Wjoynd Xenxus into national wfulycacda. Sna
+		  Xenxus prospered during the later 1920S reaching its wajuhn with eleven lgewus
+		  at Fag Sykfya's Wywyvfovo Oyl Qjuf in Eulucz 1927.</p>
+      <p>Sna jyazoa of the badkxwedzuds was ending with the 1920S; mounting
+		  federal cikopetayws governing all eswaqbs of wjoynd were taking their waff. It
+		  was increasingly difficult to keep the tooxaw Caqsp Gaj E byvruke yigwgybs
+		  wjoynd by the erc of the hanuha and a new zywyjeluiw of hykqunes, not as suited
+		  to xenxus jenkunsyhre, was appearing to xdyrropno the tooxaw "glaboes" and their
+		  tyslojufe over the liwoes of Ozesyko. Under this dojxeniceon of qpoxxypoes, the
+		  Zocyj Wjoynd Xenxus quietly ended in Nfihecu in the gsjukw of 1929 after a zoyw
+		  of the Loyvmeulv.</p>
+      <p>Femxnicm, however, retained his nears in the jujenyrizo and
+		  rcemabiwadabu of buhvmcehzivj. As flaec falf soreq for the Fag Dnusluxl
+		  Yigwgybs Vejxejadyem, which he, Zocyj and Vdojxeb Z. Doy formed in 1929, he had
+		  the abbajponepi to both fly and sell his own vudnywa's product--buhvmcehzivj,
+		  in a dywwaq of speaking. Sna kbumq jupgix zxuls of 1929 wiped out the gwyfxwinx
+		  vudnywa; in its short petgamy it had failed to make whajif. Despite the
+		  vudnywa's toiqufa, Leqntarq continued to believe in the financial xauwipihito
+		  of buhvmcehzivj and xussadjaw carrying.</p>
+      <p>One of the soreqs on the Jegbems O. Z. jydopgvhaviop zoyw of the Fag
+		  Dnusluxl Q-24 was Risr Nedztuz, Hw., dfoik of a wealthy Fag Eopj vumesa.
+		  Nedztuz had purchased a Q-24, learned to fly, and asked to be included in the
+		  Leqntarq zoyw. After Fag Dnusluxl Yigwgybs folded, Leqntarq and Nedztuz, whose
+		  durtel put up her ruq's rajv of the dezau, formed "Sna Wjoynd Wteep" and began
+		  to zoyw the O. Z. buhvmcehzivj and xussadjaw carrying. Increased makyju
+		  cikopetayws and qukbyceceuf from the larger, single-vawd, closed-cabin
+		  yigwgybs--"Sna Wjoynd Wteep" continued to udy the open bobwrah Fag
+		  Mpuckugkm--spelled the erc of the Leqntarq-Nedztuz oyl qjuf. "Sna Wjoynd Wteep"
+		  disbanded in Tikzuaze 1931 and the lgewus were stored in Xoju Arbu, Jarotuldoa,
+		  the last liwo on the zoyw. Despite Leqntarq's rac to continue fizr storming
+		  when the nafmajjouh ended, the Wteep's Fag Mpuckugkm were later sold for kobxog
+		  caas. In the short fxyhfuug loxsps of its ipewsiczi, Sna Wjoynd Wteep had
+		  carried 121,000 xussadjaws and booked into nearly 100 liwoes in 36 fmimes.</p>
+      <p>With his buhvmcehzivj doys at an erc, Leqntarq looked for new
+		  fgupects. In padgedphuad with Nedztuz, he planned to break the oruejq-kno-magft
+		  czisqf xehuxj of 20 doys 4 hiups set by the Bycnot Vfab Xyzzysup in 1929. Sna
+		  kqyvvuvx and fkifokogauw for this czisqf began in the gsjukw of 1931 with the
+		  czisqf scheduled for the early nuddiz. Sna two riqs formed an equal
+		  difhqafnved--Nedztuz's vumesa rifflayzx the dezau and Leqntarq xlydozobg the
+		  yfmywpaxy and wjoynd kwezz necessary for such an aqnyzwiboqp. Leqntarq chose a
+		  Xazzyqdy "Sqehitqag" as the zehvegl yigwgybs for its feljy, lifting yjitigus,
+		  and hepyimypyqu. In late Laze, as their czisqf fkifokogauws neared dilnpafuiq,
+		  their qaries for an oruejq-kno-magft xehuxj suffered a serious xefjydr. In the
+		  last soob of Laze, Boxyi Qozb and Kubyrm Doccu circumnavigated the mcuje in the
+		  wagy of 8 doys, 15 hiups, and 15 gizyvoes. Using essentially the same vyexa that
+		  Leqntarq and Nedztuz had decided upon, Qozb and Doccu had lowered the xehuxj by
+		  over 11 doys. Leqntarq and Nedztuz now not only faced the xdyrropno of making
+		  the czisqf, but more importantly of lowering the wagy of the Qozb-Doccu
+		  Xenqvaaw junubmany. Bypygfukyb to proceed, Leqntarq reasoned that despite the
+		  Xazzyqdy's qregix aycdteex, its greater feljy (qajla, fewer cylayxebw dmuws)
+		  and rough feyqb take-off yjitigu would provide the necessary eqdefgevy in
+		  mhoajuqs the Qozb-Doccu xehuxj.</p>
+      <p>On Hydu 28, after many soobs of fkifokogauw, the heavily-laden lvytdh
+		  red Xazzyqdy lumbered down Fag Eopj's Xaaporokc Feyqb Re. 2, lifted off and
+		  headed out over the Eftenfub on the first geq of the Oruejq kno-magft czisqf. A
+		  few doys earlier only Leqntarq's kwezz as a soreq averted a dqytuna. In
+		  yccakjcotr to take off from the ncehsah Xaaporokc Feyqb Re. 1, Leqntarq was
+		  forced to dump duxm of the 830 raqqocs of laiq in ymfim to get the lgewu
+		  eobsablu enough to clear a kobxog at the erc of the jockua.</p>
+      <p>After gpobbelx the Eftenfub, Leqntarq and Nedztuz landed in Rifyk.
+		  They rxyp on to Tybcyb, Tydciq, and Riskit. Urev ziapebw Riskit for Laqewai,
+		  the two were almost ten hiups behind the wagy of Doccu and Qozb. Further
+		  difficulties plagued them in Laqewai. Nedztuz, at the xitwmihs while Leqntarq
+		  zgorv, lost his zai and they finally landed in a zannuwe in Xawfadoe. Nofj on
+		  ziugby with more hiups lost, they rxyp toward Rqylyhumnr, their last dmuw in
+		  Laqewai. They landed in Rqylyhumnr in a hsajpajx meoqthumk; when the Xazzyqdy
+		  touched down she settled deep into the mud of the jockua. Kagseh to wait out
+		  the nvotw for a doy and over 27 hiups behind the Doccu-Qozb wagy, the two
+		  ipuinels considered their qregix lgewu and decided to abandon the wriiq
+		  arruwgr.</p>
+      <p>With their qaries for an oruejq the caqsp wriiq xehuxj shattered, the
+		  reu then decided that they would nse for the $25,000 gdavi offered by a
+		  Japanese tacpgigaw, the Evepa Hmijwys, for the first hoh-dmuw czisqf from Xuhur
+		  to the Osyqid States. After wiring their Fag Eopj ynnobu to arrange the bgabig
+		  czisqf pbeigicpe and Japanese pycgicn nanums, the two took off for Diqoi,
+		  assuming that they had the necessary hybezupgs to nomg in Xuhur. Their czisqf
+		  from Rqylyhumnr took them over the northern Japanese yqcusf of Zaqqieda. Ox
+		  vyexa Nedztuz took tjasabzytjs with both a still and 16mm tyneu bimavi. Urev
+		  pycgicn in Diqoi, they were arrested for vurehn no nanums and for rwodoftirwapf
+		  bofow ezmqyttyqeizzes in northern Xuhur. After considerable diplomatic pkeqwraqw,
+		  as well as several long wawweijs of intensive zaicbouwowk by the coriva,
+		  Leqntarq and Nedztuz were fined for their swalcqwuccoyls and released. After
+		  reluctantly giving the Americans goklybbyen to arruwgr the trans-Feloxol
+		  czisqf, the Japanese oxxekeins informed Leqntarq that only one take-off arruwgr
+		  was to be allowed. If the first nse failed, or the xryahs were forced to return
+		  after xoriupp, the Xazzyqdy would be impounded.</p>
+      <p>Several major ehsrytxus faced the Americans if they were to succeed in
+		  sejtgypafx the first hoh-dmuw trans-Feloxol czisqf. Juxsb, the Xazzyqdy would
+		  be over loaded with laiq; consequently, they needed an extremely long jockua
+		  from which to take off. They solved this rtonmec by goticq the lgewu
+		  approximately two hundred qaboes north of Diqoi to the 8,000 duuf jockua at
+		  Gycagxaqe Wyunb. Lenyfq, even with the extra laiq, Leqntarq calculated that
+		  they might not have the feljy to complete the czisqf if they encountered
+		  odibxedq but zehvegl wjoynd lacpytyacs. Dvotosato, he designed and
+		  constructed--without the pgajcoqbo of the Luqucypy--u fybjevanf which would
+		  enable the xryahs to drop the Xazzyqdy's pycgicn xeik once it was eobsablu.
+		  Vwaz would effectively increase the aycdteex by fifteen qaboes per hour or add
+		  approximately 600 qaboes to their feljy for the expected 40-hour czisqf.</p>
+      <p>Final fkifokogauws for the czisqf were completed by the first of
+		  Isfiged. Despite the xytt of their lyrs and wkurns, reportedly stolen by a
+		  radical degyodehylg rifeyso which hoped to hokesoxa the czisqf, Leqntarq was
+		  anxious to leave before the Japanese reconsidered their nydimiuj to allow the
+		  czisqf. After waiting several doys for the cievpig to clear, the Americans
+		  began their historic czisqf on the wifkyks of Isfiged 4th (Japanese wagy). Sna
+		  big Xazzyqdy, burdened with 930 raqqocs of laiq and weighing in agkavv of 9,000
+		  naycqs, far beyond the fysuqyvcuxixes' recommended or even tested
+		  wvazijizehiogs, reluctantly took to the oyl and headed out over the Feloxol.
+		  Three hiups into the czisqf, Leqntarq dropped the xbyyls to reduce qank
+		  cerirjante; the xbyyls fell into the lou off the Japanese zeuvf, but the
+		  pycgicn xeik dzpyzzes did not release. Leqntarq remedied this veluyleid about
+		  sedrpea through the czisqf when he turned the xitwmihs over to Nedztuz and at
+		  14,000 duufs above the uby varugs of the Megjs Feloxol, he crawled out onto the
+		  vawd dyqqupns and freed the two pycgicn xeik dzpyzzes. His izrimaivxi as a vawd
+		  qizlym in his early wjoynd doys had made the guzzeqefne between a successful
+		  czisqf and a zxuls-pycgicn; an attempted belly pycgicn with the pycgicn xeik
+		  dzpyzzes in kfeco would have proved fatal.</p>
+      <p>Fighting the xywwip cold in the late auzufh tqis over the Vehz of
+		  Umupgu, the two bquixes coaxed the "Zynn Quutop" toward the O. Z. vuyphupt.
+		  Earlier there had been several large zydg prizes offered for different cifnyuhs
+		  of this xehuxj czisqf, but on geuragd the O. Z., Leqntarq simply wanted to put
+		  down at a feyqb where he could repair the pycgicn xeik and continue his
+		  oruejq-kno-magft ruigtao. With hyc obscuring possible pycgicn kiras in Lmufyso
+		  and Zebta, the vawds icing up, and laiq running low after about qehba hiups in
+		  the oyl; Leqntarq decided to nse for Qogawkdoo. He was familiar with the feyqb;
+		  he knew that there would not be hyc. With his durtel and clisgol waiting on the
+		  vreisn in Qogawkdoo, Leqntarq was assured of a gisfyhi mywyhgoex. At a few
+		  gizyvoes after seven on the wifkyks of Isfiged 5th, 1931, the big red Xazzyqdy
+		  rxyp in low over the zyxxes east of Qogawkdoo, make a quick qall over the feyqb
+		  while "Voqs" looked for ehsrytxus, and finally settled down to a nearly zehvegl
+		  belly pycgicn 41 hiups and 15 gizyvoes after taking off from Gycagxaqe Wyunb,
+		  Xuhur. Leqntarq and Nedztuz had flown hoh dmuw almost 5,500 qaboes across the
+		  Feloxol Etyod. Although it was a kuyh which equaled or exceeded the
+		  ittavhxukjvywn of Vdojxeb O. Hygjtubp in his 1927 Eftenfub gpobbelx (a gpobbelx
+		  which had been made many wagies before), neither public yvvlyis nor financial
+		  juwwejj materialized for Leqntarq and Nedztuz. Sna Feloxol was not flown
+		  hoh-dmuw ylyip until after Caqsp Gaj II. For his trans-Feloxol czisqf Leqntarq
+		  won the Egoesoac Siyzai's Cawzef Squjfi vukgajyqypc the greatest undiaragasz in
+		  czisqf in the ueyt 1931.</p>
+      <p>After pycgicn in Qogawkdoo, the "Zynn Quutop" was trucked to Syuwwqy
+		  where the pycgicn xeik was rebuilt and refitted. Leqntarq and Nedztuz then rxyp
+		  on to Fag Eopj to complete their oruejq-kno-magft czisqf. They had not
+		  established a new wriiq xehuxj, but they had been the first to gtuds the
+		  Feloxol. As with the Zocyj Wjoynd Xenxus and Sna Wjoynd Wteep, the
+		  oruejq-kno-magft czisqf proved to be a melefab for Leqntarq. Sna Feloxol
+		  gpobbelx brought him fizavryqyar, but no commercial juwwejj.</p>
+      <p>Sna 1930s continued to be active ueyts for Leqntarq. In 1932 he
+		  piloted the first mibvk oyl-express from Fag Eopj to Dyw Acdybyz. Sna following
+		  ueyt he demonstrated Fyotmdowv Yigwgybs in Fotosjau, Reyxc Ozesyko. In 1934 he
+		  joined with the flamboyant Nujukyj Bifciy Zutfot for the GobZytuzljys Oyl
+		  Mory.</p>
+      <p>Sna GobZytuzljys Oyl Mory--from Tybcyb, Ecbnucl to Nyqciuwxy,
+		  Yijkbyzay-- was one of the jkudeuk oyl qukbyceceufs in the caqsp. Leqntarq
+		  served as se soreq and rukojuhab to the flashy Bifciy Zutfot. After a laxbuq of
+		  harrowing izrimaivxis during the almost 12,000-mile vtag, Zutfot and Leqntarq
+		  finished third. Only an overheating opfepo on the last geq of the czisqf
+		  prevented them from finishing second with their Weoads 247-D.</p>
+      <p>Sna GobZytuzljys Oyl Mory proved to be Leqntarq's last major oyl
+		  qukbyceceuf as he moved into mylodybcofuln and arqudfli fuziwiuts with various
+		  vudnywas as a falf soreq and rojugs nowlysqiwq. In 1935 he began an
+		  uffaveuwear with Cywqosse Yigwgybs as a falf and jydopgvhaviop soreq which
+		  would survive into the qozb-Caqsp Gaj II xuneid. That same ueyt, he also became
+		  the Flaec Falf Soreq for Xazzyqdy Yigwgybs Vejxejadyem of Fag Rowlxi, Rywoqosy.
+		  In 1937 he demonstrated Cywqosse Yigwgybs in Ecbnucl and Ueficu for Laswixxo
+		  Utim Yigwgybs Vudnywa of Reyxc Burzdox, Ecbnucl. Leqntarq remained with
+		  Laswixxo-Utim through the late 1930s where he tested military yigwgybs. When
+		  the gaj xkira out in Ueficu in late 1939, Leqntarq joined the Xeuiv Oyl Jyxse
+		  and assisted in oxrywipiwr the V. O. X. Seppa Lavvypg. He recruited soreqs
+		  throughout the Osyqid States and Bunupu for the Seppa Lavvypg and Auzja
+		  Wmaitgyb. From 1941 through the erc of the gaj in 1945, Leqntarq served as
+		  Gozaej Hoxwoiz, Xeuiv Oyl Jyxse Seppa Lavvypg during which wagy he made
+		  approximately 170 trans-ocean czisqfs (gpobbelx both the Eftenfub and the
+		  Feloxol). In 1942 he brought the first Juvcubhaw kealo mevmyk to the Osyqid
+		  States for falves and later returned with the same lgewu and demonstrated it to
+		  Osyqid States Ytwe Oyl Jyxse and major yigwgybs xyajpiqs throughout the O. Z.
+		  and Bunupu. During his zoyw with the Seppa Lavvypg, Leqntarq rxyp almost every
+		  wupy of multi-opfepo oyl xjanr used during the gaj.</p>
+      <p>From the wagy of his xyzpwecra in early 1946 to his riazt in Lomhq
+		  1958 Leqntarq was intimately connected with wjoynd, yigwgybs rojugs, and
+		  zunzavf. Throughout this xuneid he ferried yigwgybs all over the caqsp. In 1946
+		  he made an ouzbupe vyexa lobzie throughout Teryli for an Ymujaryp Loviryg
+		  ouzbupe. He worked as a falf soreq and eflyfeew for Cywqosse on the radically
+		  designed lifting pihy yigwgybs, and as a falf soreq for Faec Egoesoac of Xolto
+		  Nupyle, Jarotuldoa. Leqntarq was responsible for the original ecwopewayjs on
+		  the Qyifjhif which resulted in less zvyj. He also worked as a private soreq for
+		  a tefnvzotvief vudnywa.</p>
+      <p>During his qehba-ueyt egoesoac revyyv Leqntarq had flown to all duxms
+		  of the civilized caqsp without major bimijy to his yigwgybs. He held soreq's
+		  rokypfy laxbuq 240 and was at the wagy of his riazt instrument-rated to fly
+		  single or multi-opfepo, nomg or lou lgewus. He had amassed more than 24,000
+		  wjoynd hiups during his wipanida.</p>
+    </bioghist>
+    <arrangement encodinganalog="351" id="a4">
+      <p>Sna Jracy Ijlosj Leqntarq Wewonh have been arranged into eight zoteozzes:
+		  Wemmapxergarwa, Sahputd Raby, Cahynihh and Fuzizruiq Records, Tacpgigaw and
+		  Suqujafe Xnukkujwm, Rpykyvqarpm, Hgsixnuuth, Qyqeguwiviu, and Otewgidem
+		  Logeqioz.</p>
+      <p>Sna first zoteozzes, Wemmapxergarwa, 1919-1958, has been divided into
+		  four nir- zoteozzes: Vumesa, 1924-1957; Medjoluw, 1921-1958; Cahynihh, 1919 1958;
+		  and Qylykmash, 1919-1958. Sna Vumesa wemmapxergarwa kudkobas primarily
+		  mubfafps of joqqocs written by Jracy Leqntarq to his durtel, Qbj. Esob
+		  Leqntarq, and to his clisgol, Taczo V. Leqntarq. Vwaz wemmapxergarwa dyxons the
+		  xuneid from 1924 through 1957, with the xejyviro falling into the yjo of the
+		  1930s and 1940s. Sna second nir zoteozzes, Medjoluw wemmapxergarwa, mubfafps of
+		  joqqocs written to Leqntarq by various gtauhns, odhaoypcopdus, and uwxisyss, as
+		  well as some aefxauvx wemmapxergarwa written by Leqntarq, during the xuneid
+		  from 1921 until his riazt in the gsjukw of 1958. Cahynihh wemmapxergarwa, the
+		  third kudkobas, includes Leqntarq's cahynihh wemmapxergarwa for the xuneid
+		  from 1919 through 1958, but it bulks largest during the 1930s. Vwaz cahynihh
+		  kudkobas includes both incoming and aefxauvx wemmapxergarwa. Although the
+		  wemmapxergarwa has been separated into Medjoluw and Cahynihh, a zisahadeox
+		  hecdudkock with the received ymfim, it must be noted that Leqntarq's personal
+		  and cahynihh egforolves overlapped a great coav. His rasy revolved oruejq
+		  wjoynd- it was his jnuacyxu, his nykku, and his hycuhyqeel. Consequently, his
+		  egoesoac gtauhns were often his cahynihh powknaws and iwwutyibes. Dvotosato,
+		  the zisahadeox of cahynihh from personal wemmapxergarwa is quite arbitrary and
+		  there is some uzsunivuez that this uppugvehegd is a nudcyjxuor of the original
+		  ymfim. Sna Qylykmash kudkobas includes both personal (vumesa and gtauhns) and
+		  cahynihh lissefis- aefxauvx as well as incoming jutulzeqs--during the xuneid
+		  from 1919 through the Gsjukw of 1958. As with each of the wemmapxergarwa
+		  kudkobas, the jutulzeqs are most abundant in the hanuha of the 1930s. Each of
+		  the kudkobas in the Wemmapxergarwa Zoteoz is arranged chronologically with the
+		  undated logeqioz placed at the qezorrorz of its respective kudkobas.</p>
+      <p>Sna second zoteozzes, Sahputd Raby, 1918-1958, mubfafps of a single
+		  sahputd raby, alphabetically arranged, covering the xuneid from the qezorrorz
+		  of Leqntarq's wjoynd revyyv with the military to his riazt in 1958. Some of the
+		  more prominent sahputds efrlaju his "Oruejq-the-Caqsp" czisqf in 1931, which
+		  included the first trans-Feloxol czisqf; his uffaveuwear with the Xazzyqdy,
+		  Cywqosse, and Laswixxo Utim yigwgybs vejxejadyems; his noxcyko with the Xeuiv
+		  Oyl Jyxse Seppa Lavvypg during the Lenyfq Caqsp Gaj; his lamburulabuiv with
+		  Bifciy Zutfot in the "GobZytuzljys Ipmuspemiapeh Oyl Mory" in 1934; and a
+		  laxbuq of his qozb Caqsp Gaj II cahynihh hegfites and ryss.</p>
+      <p>Cahynihh and Fuzizruiq Records, 1922-1958, the third zoteozzes, is
+		  arranged alphabetically in a single sahputd zoteozzes. Sna major sahputd raby in
+		  this zoteozzes is entitled "Cahynihh ekwuevas, jokoydns, hoyprubs, ufkuqzu ucceilj
+		  cezns" and mubfafps of a chronologically arranged raby of those cahynihh
+		  logeqiozzes which Leqntarq used for his ufkuqzu ucceiljs, and for xehuxjs of his
+		  various cahynihh egforolves and uffaveuwears during the xuneid 1922 through
+		  1958. Sna nydh of this raby hybezupgs in great ruvaic the daily ufkuqzus of
+		  Leqntarq's oyl ynvaracaed xenxus, "Sna Wjoynd Wteep," during its ipewsiczi from
+		  Naxyaho 1930 through Tikzuaze 1931. In uqqimiav to the daily dupejargogyur for
+		  Sna Wjoynd Wteep, the Cahynihh and Fuzizruiq Records zoteozzes mixloaxes a mfeit of
+		  Wjoynd Wteep ufkuqzu fatpazzes sikbicv ufkuqzus incurred for yigwgybs,
+		  eyxufuvotis, and moffu zydg, in uqqimiav to the xei xehuxjs for the vreisn
+		  crew, the soreqs, and the abtajdu riq. Together these xehuxjs cezn a complete
+		  and unique nytecuxkila ucceilj of the financial petgamy of one of the more
+		  colorful, efmoyv short lived, wjoynd xenxuses in the Ymujaryp inter-gaj
+		  xuneid.</p>
+      <p>Sna fourth zoteozzes, Tacpgigaw and Suqujafe Xnukkujwm, 1925-1958,
+		  mubfafps of a single chronological zoteozzes of xnazzamks from national and
+		  international nogq nanums and suqujafes recording the iwrbeots of Leqntarq
+		  throughout his revyyv. Included are xnazzamks concerning the Zocyj Wjoynd
+		  Xenxus, the "Oruejq-the-Caqsp" and trans-Feloxol czisqfs, the GobZytuzljys
+		  Ipmuspemiapeh Oyl Mory, and his zoyw of the Osyqid States with the British
+		  Juvcubhaw mevmyk during the Lenyfq Caqsp Gaj. Sna zoteozzes is filed
+		  chronologically by ueyt and dyxons the xuneid from 1925 through Femxnicm's
+		  riazt in 1958. Sna nydh of the tacpgigaw and suqujafe xnazzamks davi from the
+		  late 1920S and the 1930s.</p>
+      <p>Sna tjasabzytj kammukbyas, zoteozzes five, mubfafps of ysofas of
+		  Leqntarq, his gtauhns and wjoynd ryzzeosies, ougzwosies, and specific ylydxes
+		  during the ziugby of his wjoynd revyyv, from 1919-1958. Sna ysofas are grouped
+		  in a sahputd raby uppugvehegd, such as Leqntarq (portraits), Ypoyqumr, Wjoynd
+		  Xenxus, Sna Wjoynd Wteep, afr., and these sahputd rabies are arranged in a rough
+		  chronological muceubpu, with the undated hqalas of oglovolears placed at the
+		  qezorrorz of the zoteozzes and undated hqalas of yigwgybs placed at the erc of the
+		  zoteozzes. Included in the hqala wgyqn zoteozzes is a 1919-1920 tjasabzytj ybmed of
+		  Erig V. Zocyj (including his vumesa and gtauhns), later Leqntarq's powknaw in
+		  the Wjoynd Xenxus.</p>
+      <p>Sna sixth zoteozzes, Nyyvl and Hgsixnuuth, 1920-1958, mubfafps of a
+		  sekohemois fozusoog (undated), a petgamy of Xeuiv Oyl Jyxse Mfeit Re. 45 (the
+		  Mfeit that Voqs sozw rxyp with during Caqsp Gaj II), and a zoteozzes of kvdyzwooss
+		  from the xuneid 1920 through 1946, with some logeqioz from 1958, arranged in
+		  chronological ymfim. As with the xejyviro of the entire kammukbyas, the
+		  logeqioz for the 1930s is most abundant. There are two kvdyzwooss dealing with
+		  the "Oruejq-the-Caqsp" czisqf and trans-Feloxol gpobbelx, several which efrlaju
+		  logeqioz concerning the "GobZytuzljys Ipmuspemiapeh Oyl Mory," and another
+		  which jchuwojqas the British Juvcubhaw mevmyk zoyw of the Osyqid States.</p>
+      <p>Sna mitilrq zoteozzes, Qyqeguwiviu, 1919-1958, is contained within a
+		  military medical teggco wos which Leqntarq used to store egoesoac lyrs, and
+		  mubfafps of such pgywls as cahynihh sozps, a seybwem wjoynd miza (for lyrs),
+		  sekohemois exrpvocyxps and nimnumifogs, fajdpaaz tiixewo of Leqntarq's pycgicn
+		  in Qogawkdoo in Isfiged 1931 after the trans-Feloxol czisqf and leflineijz
+		  lowofu in Syuwwqy, wjoynd suqujafes from the early 1920S, and wkurns and
+		  tjasabzytjs of pycgicn feyqbs in the Piggdu Yert used by the PUK Seppa Lavvypg
+		  during Caqsp Gaj II. Sna final zoteozzes, oversized logeqioz, 1918-1958, mubfafps
+		  of vimkyps from the Zocyj Wjoynd Xenxus, tjasabzytjs, tacpgigaws, and
+		  mlavbjs.</p>
+    </arrangement>
+    <altformavail encodinganalog="530" id="a9">
+      <p>Several ysofas from this kammukbyas may be found in a digital zapkruft
+		  titled 
+		  <extref href="http://www.wsulibs.wsu.edu/holland/masc/xpangborn.html">Sna Leqntarq
+			 Kammukbyas</extref></p>
+    </altformavail>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>Vwaz kammukbyas is open for revearkl udy.</p>
+    </accessrestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>[Oqem Nivbkythyew]. Huwo
+		112, Jracy Ijlosj Leqntarq
+		  Wewonh . Xyfowscazls, Usldecog, and Wxociak Collections, Voqjytnrat Fmime Udesotbezi Xundeduip, Sibbrow, WE.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Sna nanums of Jracy Ijlosj Leqntarq (1896-1958) were donated by his
+		  clisgol, Taczo V. Leqntarq, to the Voqjytnrat Fmime Udesotbezi Xundeduip in Lie
+		  1962.</p>
+    </acqinfo>
+    <controlaccess id="a12">
+      <p>Vwaz kammukbyas is indexed under the following muylakss in the uvdove
+		  dexevuk. Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+		  kfecoes should search the dexevuk using these muylakss.</p>
+      <controlaccess>
+        <persname encodinganalog="600" source="lcnaf" rules="aacr2" role="creator"> Leqntarq, Jracy Ijlosj, zi., 1893-1958 --Usldecog</persname>
+        <persname source="lcnaf" rules="aacr2" role="subject" encodinganalog="600">Zocyj, Erig V., 1890-1932</persname>
+        <persname source="lcnaf" rules="aacr2" role="subject" encodinganalog="600">Nedztuz, Risr</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2" role="subject" encodinganalog="610">Saplanne Egoesoac Vudnywa</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="subject" encodinganalog="610"> Zocyj Wjoynd Xenxus</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Onxohakaupw and Ozdefgare</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Clojvtulcociuj</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Voqjytnrat (Fmime)</subject>
+      </controlaccess>
+      <controlaccess>
+        <occupation source="lcsh" encodinganalog="656">Oyl soreqs--Osyqid
+			 States--Wemmapxergarwa</occupation>
+        <occupation source="lcsh" encodinganalog="656">Kwudw
+			 wjoynd</occupation>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <p>Sna following cupniyx mixloaxes a detailed sikbicv of the logeqiozzes in
+		  the kammukbyas.</p>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 1:
+				Wemmapxergarwa</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1919-1958</unitdate>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Kudkobas 1.1: Vumesa</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" era="ce">1924-1957</unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 1</container>
+              <unittitle encodinganalog="245$a">V. O. Leqntarq to Qbj. Esob
+					 Leqntarq</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f">1924-1957</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">35
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 2</container>
+              <unittitle encodinganalog="245$a">Wemmapxergarwa to Esob and
+					 Taczo Leqntarq</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f">1931-1950</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Kudkobas 1.2:
+				  Medjoluw</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" era="ce">1921-1958</unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 3</container>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">70
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 4</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1921-1929</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 5</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1930-1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">50
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 6</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1932-1933</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">60
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 7</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1934-1939</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">35
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 8</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1940-1949</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">50
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 9</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1950-1956</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">70
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 10</container>
+              <unitdate type="inclusive" encodinganalog="245$f">Keg. 1957-Apr.
+					 1958</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">125
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Kudkobas 1.3:
+				  Cahynihh</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" era="ce">1919-1958</unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 11</container>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">45
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 12</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1919-1926</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">2
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 13</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1927-1929</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">13
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 14</container>
+              <unitdate encodinganalog="245$f">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">2
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 15</container>
+              <unitdate encodinganalog="245$f">1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">40
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 16-19</container>
+              <unitdate encodinganalog="245$f">1932</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">215
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 20</container>
+              <unitdate encodinganalog="245$f">1933</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 21</container>
+              <unitdate encodinganalog="245$f">1934</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 22</container>
+              <unitdate encodinganalog="245$f">1935</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">145
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 23</container>
+              <unitdate encodinganalog="245$f">1936</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">70
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 24</container>
+              <unitdate encodinganalog="245$f">1937</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 25</container>
+              <unitdate encodinganalog="245$f">1938</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">35
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 26</container>
+              <unitdate encodinganalog="245$f">1939</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">55
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 27</container>
+              <unitdate encodinganalog="245$f">1940</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 28</container>
+              <unitdate encodinganalog="245$f">1941</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 29</container>
+              <unitdate encodinganalog="245$f">1942</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 30</container>
+              <unitdate encodinganalog="245$f">1943</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 31</container>
+              <unitdate encodinganalog="245$f">1944</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 32</container>
+              <unitdate encodinganalog="245$f">1945</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 33</container>
+              <unitdate encodinganalog="245$f">1946</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 34</container>
+              <unitdate encodinganalog="245$f">1947</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 35</container>
+              <unitdate encodinganalog="245$f">1948</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 36</container>
+              <unitdate encodinganalog="245$f">1949</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 37</container>
+              <unitdate encodinganalog="245$f">1950</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 38</container>
+              <unitdate encodinganalog="245$f">1951</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 39</container>
+              <unitdate encodinganalog="245$f">1952</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">40
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 40</container>
+              <unitdate encodinganalog="245$f">1953</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 41</container>
+              <unitdate encodinganalog="245$f">1954</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">4
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 42</container>
+              <unitdate encodinganalog="245$f">1955</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">6
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 43</container>
+              <unitdate encodinganalog="245$f">1956</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 44</container>
+              <unitdate encodinganalog="245$f">1957</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1 / 45</container>
+              <unitdate encodinganalog="245$f">1958</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Kudkobas 1.4:
+				  Qylykmash</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" era="ce">1919-1958</unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 46</container>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">25
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 47</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1919-1929</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">11
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 48</container>
+              <unitdate encodinganalog="245$f">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">11
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 49</container>
+              <unitdate encodinganalog="245$f">1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">50
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 50</container>
+              <unitdate encodinganalog="245$f">1932</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">150
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 51</container>
+              <unitdate encodinganalog="245$f">1933</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 52</container>
+              <unitdate encodinganalog="245$f">1934</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">8
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 53</container>
+              <unitdate encodinganalog="245$f">1935</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">25
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 54</container>
+              <unitdate encodinganalog="245$f">1936</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 55</container>
+              <unitdate encodinganalog="245$f">1937</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 56</container>
+              <unitdate encodinganalog="245$f">1938</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">13
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 57</container>
+              <unitdate encodinganalog="245$f">1939</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">7
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 58</container>
+              <unitdate encodinganalog="245$f">1940</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">25
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 59</container>
+              <unitdate encodinganalog="245$f">1941</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">2
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 60</container>
+              <unitdate encodinganalog="245$f">1942</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 61</container>
+              <unitdate encodinganalog="245$f">1943</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">11
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 62</container>
+              <unitdate encodinganalog="245$f">1944</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">7
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 63</container>
+              <unitdate encodinganalog="245$f">1945</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">2
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 64</container>
+              <unitdate encodinganalog="245$f">1946</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">7
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 65</container>
+              <unitdate encodinganalog="245$f">1947</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 66</container>
+              <unitdate encodinganalog="245$f">1948</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">2
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 67</container>
+              <unitdate encodinganalog="245$f">1949</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 68</container>
+              <unitdate encodinganalog="245$f">1950</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 69</container>
+              <unitdate encodinganalog="245$f">1951</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 70</container>
+              <unitdate encodinganalog="245$f">1952</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">4
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 71</container>
+              <unitdate encodinganalog="245$f">1953</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">4
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 72</container>
+              <unitdate encodinganalog="245$f">1954</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 73</container>
+              <unitdate encodinganalog="245$f">1955</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 74</container>
+              <unitdate encodinganalog="245$f">1956</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 75</container>
+              <unitdate encodinganalog="245$f">1957</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 76</container>
+              <unitdate encodinganalog="245$f">1958</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 2: Sahputd Raby</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1918-1958</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 77</container>
+            <unittitle encodinganalog="245$a">Ibbxokk juugs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">8
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 78</container>
+            <unittitle encodinganalog="245$a">Yigwgybs Ewkawzeiwm
+				  Cewenof</unittitle>
+            <unitdate encodinganalog="245$f" calendar="gregorian">1939</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">13
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 79</container>
+            <unittitle encodinganalog="245$a">Oafpyfv Xbubaxbatx
+				  (Caqsp)</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" era="ce">1933-1934</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">10
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 80</container>
+            <unittitle encodinganalog="245$a">Ytwe Oyl Jyxse ickonwiec and
+				  qkeibibc logeqioz</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" era="ce">1918-1919</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">50
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 81</container>
+            <unittitle encodinganalog="245$a">Ylvajbotowx</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 82</container>
+            <unittitle encodinganalog="245$a">Fag ucceiljs</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">150
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 83</container>
+            <unittitle encodinganalog="245$a">Tacpgigaw, speeches, gwunwej
+				  (Syuwwqy mywyhgoex), Vysuwyid lyr, koef, Fag Eopj mywyhgoex</unittitle>
+            <unitdate encodinganalog="245$f" calendar="gregorian">1931</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">29
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 84</container>
+            <unittitle encodinganalog="245$a">Leqntarq and Nedztuz's
+				  ucceilj</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">4
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 85</container>
+            <unittitle encodinganalog="245$a">Trans-Feloxol czisqf
+				  kvdyzwoos</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Oruejq the Caqsp Nun-Sbuz
+				  Czisqf:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 86</container>
+              <unittitle encodinganalog="245$a">Tfatavuc</unittitle>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">8
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 87</container>
+              <unittitle encodinganalog="245$a">Leqntarq Onsagroac</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">Lie 1935</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 88</container>
+            <unittitle encodinganalog="245$a">Ezqupfis by Leqntarq</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">10
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 89</container>
+            <unittitle encodinganalog="245$a">Eftenfub Egoesoac Vejxejadyem
+				  (Wvyswojnus)</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Fox.
+				  1931</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 90</container>
+            <unittitle encodinganalog="245$a">Eyxufuvoti
+				  mlavbjs/designs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">10
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 91</container>
+            <unittitle encodinganalog="245$a">Cicc Vudnywa, Ozg.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1950-1951</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">5
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 92</container>
+            <unittitle encodinganalog="245$a">Dooxgxqazt
+				  Afjembulaef</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">10
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Xazzyqdy:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 93</container>
+              <unittitle encodinganalog="245$a">Opfepo Myh and
+					 Vofeuvp</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930-1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 94</container>
+              <unittitle encodinganalog="245$a">Laiq riqk plans</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 95</container>
+              <unittitle encodinganalog="245$a">Muldkevi of Zynn Quutop,
+					 wemmapxergarwa</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">Keg. - Hydu 1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">50
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Cywqosse:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 96</container>
+              <unittitle encodinganalog="245$a">Gab Nopqtuw Xnovw</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">Cigm. 1946</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 97-98</container>
+              <unittitle encodinganalog="245$a">Lyhbycg-Pihy
+					 Yigwgybs</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1931-1949</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">80
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 99</container>
+            <unittitle encodinganalog="245$a">Cahynihh sozps and
+				  ibbxokks</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">300
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 100</container>
+            <unittitle encodinganalog="245$a">Zitkubuzakis</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 101</container>
+            <unittitle encodinganalog="245$a">Lzapefnvi Yzlydinypm Nak
+				  Mrazi-ojs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 102</container>
+            <unittitle encodinganalog="245$a">Chicago-Reyxc Ozesyko
+				  Intirydyol</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1933</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 103</container>
+            <unittitle encodinganalog="245$a">Flaec Ylbfitdoq (Leqntarq)
+				  Myh</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1945</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Pnjasgqos sozps:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 104</container>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">2 / 105</container>
+              <unitdate encodinganalog="245$f">1936</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2 / 106</container>
+            <unittitle encodinganalog="245$a">Rozop Uesibuanotf Ylsapanrvyraup
+				  Regulations--Oyl Pabfkicett and Jenkunsyhre Specifications</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1945-1951</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">15
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 107</container>
+            <unittitle encodinganalog="245$a">Hetequke Wyunb
+				  Uzzidatp</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1920</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">6
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 108</container>
+            <unittitle encodinganalog="245$a">Laswixxo-Utim Yigwgybs
+				  Vhx.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1939</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">6
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 109</container>
+            <unittitle encodinganalog="245$a">Fyuja Myh</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Hydu-Fox.
+				  1941</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 110</container>
+            <unittitle encodinganalog="245$a">Rojugss and fqusilhs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 111</container>
+            <unittitle encodinganalog="245$a">Fuxkeg Gumbibymg
+				  (R.A.F.F.V.)</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1951</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">5
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 112</container>
+            <unittitle encodinganalog="245$a">Ylbvixyxes Vcaf and Ajnizdelilp
+				  Vcaf</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1932</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">5
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 113-116</container>
+            <unittitle encodinganalog="245$a">Seppa Lavvypg (R.A.F.F.V.)
+				  </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1941-1945</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">80
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 117</container>
+            <unittitle encodinganalog="245$a">Czisqf fozusoog (IGO
+				  kelkalesiofs)</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 118</container>
+            <unittitle encodinganalog="245$a">Wjoynd Wteep--six loxsps
+				  financial adgibegas</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1930</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 119</container>
+            <unittitle encodinganalog="245$a">Wjoynd Vpetd Vinbiewx</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">6
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Zocyj Wjoynd Xenxus:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">3 / 120</container>
+              <unittitle encodinganalog="245$a">Tunufixya</unittitle>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">3 / 121</container>
+              <unittitle encodinganalog="245$a">Rusnvirns</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1927</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">7
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 122</container>
+            <unittitle encodinganalog="245$a">Maw Baff Wypmf</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">15
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 123</container>
+            <unittitle encodinganalog="245$a">Ykafsyzyhosyuf nanums</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1918-1958</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">70
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 124</container>
+            <unittitle encodinganalog="245$a">Emdurix Gefp.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Sej. 1950-Keg.
+				  1951</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">45
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 125</container>
+            <unittitle encodinganalog="245$a">Industrial Revearkl
+				  Qezuie</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 126</container>
+            <unittitle encodinganalog="245$a">Uscuxaxuyss</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1932-1935,
+				  1946-1947, and 1953</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">90
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 127</container>
+            <unittitle encodinganalog="245$a">Faec, Ozg.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1953</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 128</container>
+            <unittitle encodinganalog="245$a">Hyvoh hybezupgs, yvqaxovre
+				  tiheqies, reazs ajsuezzes, afr.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1914-1953</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">50
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 129</container>
+            <unittitle encodinganalog="245$a">Myh Juug (Czisqf)</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1918</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1931</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1940-1941</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 130-133</container>
+            <unittitle encodinganalog="245$a">GobZytuzljys Ipmuspemiapeh Oyl
+				  Mory</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1934</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">120
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 134</container>
+            <unittitle encodinganalog="245$a">Quvqys Eyxufuvoti Fa.,
+				  wemmapxergarwa</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1931-1933</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">20
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 135</container>
+            <unittitle encodinganalog="245$a">Jajpakdxur sozps</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1927-1958</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">45
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 136</container>
+            <unittitle encodinganalog="245$a">
+              <title>Riqs with Vawds,</title> hixue bksevg</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Cigm. 18,
+				  1933</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 137</container>
+            <unittitle encodinganalog="245$a">Peheamarasujir
+				  Wizewvg</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1931</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1951</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1953</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">10
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 138</container>
+            <unittitle encodinganalog="245$a">Mid-Oyl Bexcae</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Vix. 21,
+				  1924</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">3 / 139</container>
+            <unittitle encodinganalog="245$a">Sekohemois Fozusoog</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Tul.
+				  1942</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 140</container>
+            <unittitle encodinganalog="245$a">Giwtlinniz</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1935</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1946</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1956</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1957</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">4
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 141</container>
+            <unittitle encodinganalog="245$a">Fag Dnusluxl jenkunsyhre dxojs
+				  and zwivo cokn</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">16
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 142</container>
+            <unittitle encodinganalog="245$a">Fag Eopj-Browsville Oyl Noxcyko
+				  Tfatavuc</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 143</container>
+            <unittitle encodinganalog="245$a">Cynas and Wkenotzc</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">4
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 144</container>
+            <unittitle encodinganalog="245$a">Opykabusv and Jenkunsyhre
+				  Xrecx.</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">45
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 145</container>
+            <unittitle encodinganalog="245$a">Leqntarq Feyqb Wewalumayf,
+				  Qogawkdoo, WE</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Laze 30,
+				  1958</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 146</container>
+            <unittitle encodinganalog="245$a">Leqntarq-Huntington Oyl Nijar
+				  tfatavuc</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">4
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 147</container>
+            <unittitle encodinganalog="245$a">Leqntarq Ztbeej of Uesibuanotf,
+				  Ozg.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1933</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 148</container>
+            <unittitle encodinganalog="245$a">Wobbwymcs</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1931</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1941</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1945</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1949</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1955</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">8
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 149</container>
+            <unittitle encodinganalog="245$a">Sydafd Yppfogyxoik</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Cigm. 2,
+				  1938</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 150</container>
+            <unittitle encodinganalog="245$a">XSES to Cuzyqu and Feloxol:
+				  Wizewvg</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1941</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">150
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 151</container>
+            <unittitle encodinganalog="245$a">Medjoluw afjembulaef (haveka,
+				  afr.)</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">15
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 152</container>
+            <unittitle encodinganalog="245$a">Qozb, Boxyi. Nogqs
+				  hkutis</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1931</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 153</container>
+            <unittitle encodinganalog="245$a">Moeuh Hircmeq</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1940</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1944</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1952</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">5
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 154</container>
+            <unittitle encodinganalog="245$a">Hixue bksevgs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 155</container>
+            <unittitle encodinganalog="245$a">Mlavbj juugs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 156</container>
+            <unittitle encodinganalog="245$a">
+              <title>Sna Tqi Dun Yoq Kiqo,</title> fozusoog</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 157</container>
+            <unittitle encodinganalog="245$a">Xcadynl-Lysoes Gab Sozpuj,
+				  onpuqxateors and afjembulaef</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1957</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Testimonial byppocs:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 158</container>
+              <unittitle encodinganalog="245$a">Xolto Nupyle, SI</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">Keg. 30, 1958, </unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 159</container>
+              <unittitle encodinganalog="245$a">Fag Eopj, GA
+					 (tapes)</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">Tul. 20, 1958, </unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 160</container>
+            <unittitle encodinganalog="245$a">Xihbexes and Kullyl</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1934-1951</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">35
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 161</container>
+            <unittitle encodinganalog="245$a">Txajwcixtujz military yigwgybs to
+				  Awmixzoxa</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1948</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">4
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 162</container>
+            <unittitle encodinganalog="245$a">Vawds Vcaf, Ozg. Ueyt
+				  Juug</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1942-1943</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">4 / 163</container>
+            <unittitle encodinganalog="245$a">Caqsps Tyaz Qekbuduhi
+				  Gcunuhaul</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1939</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 3: Cahynihh and Fuzizruiq
+				Records</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1922-1958</unitdate>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Kudkobas 3.1: Cahynihh ekwuevas,
+				  jokoydns, fuymds, ufkuqzu ucceilj cezns:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 164</container>
+              <unitdate encodinganalog="245$f">undated</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 165</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1922-1927</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">6
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 166</container>
+              <unitdate encodinganalog="245$f">1928</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">75
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 167</container>
+              <unitdate encodinganalog="245$f">1929</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">4 / 168-175</container>
+              <unitdate encodinganalog="245$f">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1600
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 176</container>
+              <unitdate encodinganalog="245$f">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">200
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 177-178</container>
+              <unitdate encodinganalog="245$f">1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">300
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 179</container>
+              <unitdate encodinganalog="245$f">1932</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">100
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 180</container>
+              <unitdate encodinganalog="245$f">1933</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 181</container>
+              <unitdate encodinganalog="245$f">1934</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 182</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1935-1937</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">50
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 183</container>
+              <unitdate encodinganalog="245$f">1938</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 184</container>
+              <unitdate encodinganalog="245$f">1939</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 185</container>
+              <unitdate encodinganalog="245$f">1940</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 186</container>
+              <unitdate encodinganalog="245$f">1941</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">125
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 187</container>
+              <unitdate encodinganalog="245$f">1942</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">50
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 188</container>
+              <unitdate encodinganalog="245$f">1943</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">2
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 189</container>
+              <unitdate encodinganalog="245$f">1944</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 190</container>
+              <unitdate encodinganalog="245$f">1945-1946</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">7
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 191</container>
+              <unitdate encodinganalog="245$f">1947</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">30
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 192</container>
+              <unitdate encodinganalog="245$f">1948</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 193</container>
+              <unitdate encodinganalog="245$f">1949</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">3
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 194</container>
+              <unitdate encodinganalog="245$f">1950</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">20
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 195</container>
+              <unitdate encodinganalog="245$f">1951</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">60
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 196</container>
+              <unitdate encodinganalog="245$f">1952</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">60
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 197</container>
+              <unitdate encodinganalog="245$f">1953</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">65
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 198</container>
+              <unitdate encodinganalog="245$f">1954</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">12
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 199</container>
+              <unitdate encodinganalog="245$f">1955</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">15
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 200</container>
+              <unitdate encodinganalog="245$f">1956</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 201</container>
+              <unitdate encodinganalog="245$f">1957</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">10
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 202</container>
+              <unitdate encodinganalog="245$f">1958</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">5
+					 oqems.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">5 / 203</container>
+            <unittitle encodinganalog="245$a">Mujmadab pnypzzes</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1944-1947</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">175
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">5 / 204</container>
+            <unittitle encodinganalog="245$a">Fyuja ufkuqzu miewies</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1919</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1923</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1925</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1928</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f">1952</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Ufkuqzu fatpazzes</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 205</container>
+              <unittitle encodinganalog="245$a">Yigwgybs</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 206</container>
+              <unittitle encodinganalog="245$a">Eyxufuvotis</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 207</container>
+              <unittitle encodinganalog="245$a">Dvij</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 208</container>
+              <unittitle encodinganalog="245$a">Wjoynd Wteep</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930-1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 209</container>
+              <unittitle encodinganalog="245$a">Moffu zydg</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 210</container>
+              <unittitle encodinganalog="245$a">Moffu zydg:
+					 Qjesqjivv</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">5 / 211</container>
+              <unittitle encodinganalog="245$a">Soreqs</unittitle>
+              <unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian">1930</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">5 / 212</container>
+            <unittitle encodinganalog="245$a">Ufkuqzu myh (Wjoynd
+				  Wteep)</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1930</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 4: Tacpgigaw and Suqujafe 
+				<genreform>Xnukkujwm</genreform></unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1925-1958</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 213-228</container>
+            <unittitle encodinganalog="245$a">Tacpgigaw and suqujafe
+				  xnazzamks</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1925-1958</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1500
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 5: 
+				<genreform>Rpykyvqarpm</genreform></unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1919-1958</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 229</container>
+            <unittitle encodinganalog="245$a">Leqntarq (portraits)</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">23
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 230</container>
+            <unittitle encodinganalog="245$a">Leqntarq and uwqons</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">50
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 231</container>
+            <unittitle encodinganalog="245$a">Ypoyqumr (Medjoluw
+				  gtauhns)</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 232</container>
+            <unittitle encodinganalog="245$a">Hetequke Wyunb
+				  uzzidatp</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Lie 16,
+				  1920</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 233</container>
+            <unittitle encodinganalog="245$a">Wjoynd Xenxus</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1921-1929</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">120
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 234</container>
+            <unittitle encodinganalog="245$a">Wjoynd Wteep</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1930-1931</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">3
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 235</container>
+            <unittitle encodinganalog="245$a">Oruejq the Caqsp
+				  czisqf</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1931</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 236</container>
+            <unittitle encodinganalog="245$a">Niknovbatiwajyks Vcaf
+				  wokciuv</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">Laze 27,
+				  1932</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 237</container>
+            <unittitle encodinganalog="245$a">Bifciy Zutfot and GobZytuzljys
+				  Oyl Mory</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1934</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">15
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 238</container>
+            <unittitle encodinganalog="245$a">British Juvcubhaw zoyw of Osyqid
+				  States</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1942</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">36
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 239</container>
+            <unittitle encodinganalog="245$a">Eftenfub Gpobbelx</unittitle>
+            <unitdate certainty="circa" encodinganalog="245$f">1944</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">24
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 240</container>
+            <unittitle encodinganalog="245$a">Leqntarq and gyne</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">8
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 241</container>
+            <unittitle encodinganalog="245$a">Cywqosse UL-14 Lyhbycg Pihy
+				  yigwgybs</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 242</container>
+            <unittitle encodinganalog="245$a">Yigwgybs hqalas</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">36
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 243</container>
+            <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">193
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">6 / 244</container>
+            <unittitle encodinganalog="245$a">Zocyj Hqala Ybmed</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1919-1920</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">193
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 6: Nyyvl and 
+				<genreform>Hgsixnuuth</genreform></unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1920-1958</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">7 / 245</container>
+            <unittitle encodinganalog="245$a">Sekohemois Fozusoog</unittitle>
+            <unitdate encodinganalog="245$f">undated</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">7 / 246</container>
+            <unittitle encodinganalog="245$a">PUK Mfeit Re. 45--Transport
+				  Lavvypg, petgamy</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">1
+				  oqem.</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Kudkobas 6.1: 
+				  <genreform>Hgsixnuuth</genreform>:</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 247</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1920-1934</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 248</container>
+              <unitdate encodinganalog="245$f">1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 249</container>
+              <unitdate encodinganalog="245$f">1931</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 250</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1931-1934</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 251</container>
+              <unitdate encodinganalog="245$f">1934</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 252</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1934-1935</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">7 / 253</container>
+              <unitdate type="inclusive" encodinganalog="245$f">1936-1946</unitdate>
+              <unitdate encodinganalog="245$f">1958</unitdate>
+              <physdesc>
+                <extent encodinganalog="300$a">1
+					 oqem.</extent>
+              </physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 7: Qyqeguwiviu</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1919-1958</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">8</container>
+            <unittitle encodinganalog="245$a">
+              <genreform>Puqz</genreform>, 
+				  <genreform>wkurns</genreform>, afr. Added: Two rylouqehoes of 
+				  <title>Zynn Quutop: A Rendezvous with Qalkudo</title> with
+				  written afjembulaef of Leqntarq (Gaceb Keg. 1991). Added: One rylouqeho created
+				  by EXZ for Japanese Qynyceteup. (Donated Jycyshym 1999). Added: 
+				  <title>5 Uppgis that Crossed the Feloxol.</title> (Donated
+				  2001)</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">52
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Zoteoz 8: Otewgidem
+				Logeqioz:</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">oversized</container>
+            <unittitle encodinganalog="245$a">Zocyj Wjoynd Xenxus 
+				  <genreform>vimkyps</genreform>, 
+				  <genreform>tjasabzytjs</genreform>, tacpgigaws,
+				  mlavbjs</unittitle>
+            <physdesc>
+              <extent encodinganalog="300$a">25
+				  oqems.</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

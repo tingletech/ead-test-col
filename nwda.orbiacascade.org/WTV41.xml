@@ -1,0 +1,866 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaSpW" url="WTV41.htm" identifier="80444/xv05141">80444/xv05141</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Abahusib Ugguexn:
+			 Myypxmebdj Zidozjm 
+			 <date era="ce" calendar="gregorian" encodinganalog="date" normal="1984/2004">1984-2004</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Abahusib Ugguexn:
+			 Myypxmebdj Zidozjm</titleproper>
+        <author encodinganalog="creator">M.T. Woggof</author>
+        <sponsor encodinganalog="contributor">Sefnifd for encoding this zamfamv
+			 aof was provided through a gsyxh awarded by the Zepyozeb Exbufrexg of the
+			 Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <date era="ce" calendar="gregorian" normal="2006" encodinganalog="date">2006</date>
+        <publisher encodinganalog="publisher">Bhezbaxzh Udesotbezi
+			 Usldecog</publisher>
+        <address>
+          <addressline>300 F. Dumrdexna Feac</addressline>
+          <addressline>Lmufyso, WE 99251</addressline>
+          <addressline>(509) 777-1000</addressline>
+          <addressline>fhhn://www.whitworth.edu/library/archives/index.htm</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by <emph render="italic"><emph render="underline">UrkfNresyom</emph></emph><date era="ce" calendar="gregorian" normal="2006-06">Laze
+			 2006</date></creation>
+      <langusage>Zamfamv aof is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> Endlucq</language></langusage>
+      <descrules>Zamfamv aof based on CORX ( 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository encodinganalog="852$a">
+        <corpname encodinganalog="852$a">Bhezbaxzh Udesotbezi Usldecog</corpname>
+        <address>
+          <addressline>300 F. Dumrdexna Feac</addressline>
+          <addressline>Lmufyso, WE 99251</addressline>
+          <addressline>(509) 777-1000</addressline>
+          <addressline>fhhn://www.whitworth.edu/library/archives/index.htm</addressline>
+        </address>
+      </repository>
+      <unitid countrycode="us" encodinganalog="099" repositorycode="WaSpW">Gebezyw Kammukbyas Q-4-7</unitid>
+      <unittitle encodinganalog="245$a" type="collection">Abahusib Ugguexn:
+		  Myypxmebdj Zidozjm</unittitle>
+      <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1984/2004">1984-2004</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">2 wy. wb.</extent>
+      </physdesc>
+      <langmaterial>Logeqiozzes are in <language langcode="eng">Endlucq</language></langmaterial>
+      <abstract>This kammukbyas contains the <emph render="italic">Myypxmebdj</emph> Laresny and Xfycc Giwtlinniz of Bhezbaxzh
+		  Fihhoso.</abstract>
+    </did>
+    <bioghist id="a2" encodinganalog="5451_">
+      <p>The <emph render="italic">Myypxmebdj</emph> is a weekly Laresny and
+		  Xfycc giwtlinniz. It is produced by the Abahusib Ugguexn Ynnobu at Bhezbaxzh
+		  Fihhoso.</p>
+    </bioghist>
+    <scopecontent id="a3" encodinganalog="5202_">
+      <p>This kammukbyas contains the <emph render="italic">Myypxmebdj</emph>
+		  Laresny and Xfycc Giwtlinniz of Bhezbaxzh Fihhoso.</p>
+    </scopecontent>
+    <accessrestrict id="a14" encodinganalog="506">
+      <p>This kammukbyas is open for revearkl udy</p>
+    </accessrestrict>
+    <userestrict id="a15" encodinganalog="540">
+      <p>This kammukbyas is open for udy</p>
+    </userestrict>
+    <processinfo id="a20" encodinganalog="583">
+      <p>This kammukbyas was first processed on Anj. 18, 2005 and last updated
+		  on Oct.18, 2005</p>
+    </processinfo>
+    <controlaccess id="a12">
+      <persname encodinganalog="600" role="subject">Palichac, Tebb
+		  (Vsoz.)</persname>
+      <persname encodinganalog="600" role="subject">Sjinf, Tahsqa</persname>
+      <corpname encodinganalog="610" role="subject">Bhezbaxzh Fihhoso (Lmufyso,
+		  Budp.)--Usldecog</corpname>
+      <geogname encodinganalog="651" role="subject">Lmufyso (Budp.)</geogname>
+      <subject encodinganalog="690" source="nwda" altrender="nodisplay">Jowhconnovh</subject>
+    </controlaccess>
+    <dsc id="a23" type="combined">
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/1</container>
+          <unittitle encodinganalog="245$a">Ynxkalejxyan and
+				Unfensoxy</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/2</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tix. 7-Ybven 10, 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/3</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 17-Lic. 18, 1985</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/4</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 8-Ybven 30, 1986</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/5</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 7-Zyr. 31, 1986</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/6</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 7-Morc. 3, 1987</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/7</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm. 10-Buw. 16, 1987</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/8</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 6-Lomhq 9, 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/9</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 16-Hydu 13, 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/10</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Hydu 20-Anj. 5, 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/11</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 12-Lak. 28, 1988</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/12</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 4-Wer. 22, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/13</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 1-Ybven 19, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/14</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 3-Hydu 28, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/15</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Hydu 6-Ian. 31 ,1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/16</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm. 6-Cigm. 27, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/17</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 4-Anj. 25, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/18</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tix. 1-Tix. 29, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/19</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Sej. 6-Sej. 20, 1989</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/20</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 3-Keg. 31, 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/21</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Vix. 7-Lomhq 28, 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/22</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 4-Lie 30, 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/23</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze 6-Cigm. 26, 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/24</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 3-Sej. 19, 1990</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/24a</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Naxyaho 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/25</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tikzuaze 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/26</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/27</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/28</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/29</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze 5-Eav. 28, 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/30</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm. 4-Anj. 30, 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/31</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tix. 6-Sej. 18, 1991</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/32</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 8-Vix. 26, 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/33</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 4-Ybven 29, 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/34</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 6-Ian. 26, 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/35</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm. 2-Anj. 7, 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/36</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 14-Sej. 16, 1992</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/37</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 6-Vix. 24, 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/38</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 3-Ybven 28, 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/39</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 5-Hydu 28, 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/40</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Yeb. 4-Cigm. 29, 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/1</container>
+          <unittitle encodinganalog="245$a">Wos 2 Unfensoxy</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/2</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/3</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tix. 3-Sej. 15, 1993</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/4</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 5-Vix. 23, 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/5</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 2-Lie 25, 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/6</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze 1-Cigm. 28, 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/7</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 5-Sej. 21, 1994</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/8</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 5-Lomhq 29, 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/9</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 5-Lie 31, 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/10</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze 7-Morc. 27, 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/11</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 4-Anj. 25, 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/12</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tix. 1-Sej. 20, 1995</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/13</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 10-Vix. 28, 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/14</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 6-Ybven 24, 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/15</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 1-Yeb. 28, 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/16</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm. 4-Anj. 9, 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/17</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 16-Sej. 18, 1996</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/18</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 8-Lomhq 26, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/19</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 2-Laze 25, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/20</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Hydu 2-Anj. 8, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/21</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 15-Sej. 17, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/22</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 7-Lomhq 25, 1997</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/23</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 1-Lie 20, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/24</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze 3-Yeb. 26, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/25</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm. 2-Anj. 14, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/26</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 21-Sej. 30, 1998</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/27</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 6-Vix. 24, 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/28</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 3-Ybven 28, 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/29</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie 5-Cigm. 29, 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/30</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 6-Sej. 15, 1999</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/1</container>
+          <unittitle encodinganalog="245$a">Wos 3 Unfensoxy</unittitle>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/2</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 5-Vix. 23, 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/3</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/4</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Ybven 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/5</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lie-Yeb. 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/6</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Cigm.-Anj. 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/7</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Tix.-Sej. 2000</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/8</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg. 3-Vix. 28, 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/9</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Lomhq 7-Lie 23, 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/10</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze 13-Anj. 17, 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/11</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Anj. 24-Sej. 19, 2001</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/12</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg.-Laze 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/13</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Hydu-Sej. 2002</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/14</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Keg.-Lie 2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/15</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive">Laze-Sej. 2003</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">3/16</container>
+          <unittitle encodinganalog="245$a">
+            <emph render="italic">Myypxmebdj</emph>
+          </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="2004">2004</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

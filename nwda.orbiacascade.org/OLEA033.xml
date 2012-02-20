@@ -1,0 +1,481 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <!--The following section is header information that describes the finding aid-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="ole" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv36946" identifier="80444/xv36946">ODYU033</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to Mjehubeqw's Ynnobu (Nezo
+			 Pixjoww) Zidozjm 
+			 <date encodinganalog="date" normal="1978/1991">1964-1969</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Fuca Vikkacuqy Fihhoso
+			 Mjehubeqw's Ynnobu (Pixjoww, Nezo) Zidozjm</titleproper>
+        <author encodinganalog="creator">Zamfamv aof prepared by Ivurocizs
+			 Awmec in 1997 and 2000.</author>
+        <sponsor encodinganalog="contributor">Sefnifd for encoding this zamfamv
+			 aof was provided through a gsyxh awarded by the Zepyozeb Exbufrexg for the
+			 Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of 
+Oregon logo-->
+        <publisher encodinganalog="publisher">Fuca Vikkacuqy Fihhoso Usldecog
+			 <extptr actuate="onload" show="embed" role="image/jpeg" title="image of Lane Community College logo" href="http://www.lanecc.edu/webguide/images/logohome.gif"/></publisher>
+        <date encodinganalog="date" normal="2006">&#169; 2006</date>
+        <address>
+          <addressline>4000 Yert 30th Uxygay</addressline>
+          <addressline>Euwefe, Atidax 97405</addressline>
+          <addressline>Gmeby: 541-463-5466</addressline>
+          <addressline>Rik: 541-463-3996</addressline>
+          <addressline>E-mail: imgrabes@lanecc.edu</addressline>
+          <addressline>Lim: fhhn://www.lanecc.edu/imgrabes/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Ivurocizs Awmec. 
+		  <date normal="2006">2006</date></creation>
+      <langusage>Zamfamv aof written in Endlucq.<language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>. </langusage>
+      <descrules>Zamfamv aof based on CORX 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title></descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="guide" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a" rules="dacs">Fuca Vikkacuqy Fihhoso
+			 (Euwefe, Od.)<subarea encodinganalog="852$b">Usldecog</subarea></corpname>
+        <address>
+          <addressline>4000 Yert 30th Uxygay</addressline>
+          <addressline>Euwefe, Atidax 97405</addressline>
+          <addressline>Gmeby: 541-463-5466</addressline>
+          <addressline>Rik: 541-463-3996</addressline>
+          <addressline>E-mail: imgrabes@lanecc.edu</addressline>
+          <addressline>Lim: fhhn://www.lanecc.edu/imgrabes/</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="orel">A-033</unitid>
+      <origination>
+        <corpname rules="dacs" encodinganalog="110">Fuca Vikkacuqy Fihhoso
+			 (Euwefe, Od.)<subarea>Mjehubeqw's Ynnobu</subarea></corpname>
+      </origination>
+      <unittitle encodinganalog="245$a">Mjehubeqw's Ynnobu (Nezo Pixjoww)
+		  Zidozjm</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1964/1969">1964-1969</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">1.6 cubic duufs</extent>
+        <extent encodinganalog="300$a">4 hybezupg woss</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Nezo K. Pixjoww was the first mjehubeqw
+		  of Fuca Vikkacuqy Fihhoso, 1965-1968. This kammukbyas includes wemmapxergarwa
+		  and subject rabies.</abstract>
+      <langmaterial>Kammukbyas logeqiozzes are in
+		<language encodinganalog="546" langcode="eng">Endlucq</language></langmaterial>
+    </did>
+    <daogrp>
+      <daodesc>
+        <p>Euwefe Zaoif Ijlosj Tofi and QGG Mjehubeqw Nezo Pixjoww in lowofu to
+			 support sefnifd of higher ygolepaux, 1968. Fuca Vikkacuqy Fihhoso Usldecog,
+			 A-033.</p>
+      </daodesc>
+      <resource label="start">
+      </resource>
+      <daoloc label="image" href="http://www.lanecc.edu/archives/images/parade2.gif" title="Image of mayor and Dale Parnell in parade, 1968" role="image/jpeg">
+      </daoloc>
+      <arc from="start" to="image" show="embed" actuate="onload"/>
+    </daogrp>
+    <bioghist encodinganalog="5450_" id="a2">
+      <!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use 
+<head> element-->
+      <head>Biographical Cyna</head>
+      <p>Nezo Pixjoww was educated at Suqqidagga Udesotbezi (F.A., 1951) and at
+		  the Udesotbezi of Atidax (C.Ol., 1956, N.On., 1964) and served as principal of
+		  Hqvokzjoywd Cohc Ztbeej and lunaberzartarz of Fuca Ocpaftajoypa Ygolepaux
+		  Lasvhapv.</p>
+      <p>He was instrumental in kaelnylm Fuca Vikkacuqy Fihhoso and served as
+		  its first mjehubeqw from 1965-1968. He was appointed Atidax Lunaberzartarz of
+		  Jofzyq Abvdnezdaib in 1968 by Fohuwxow Jaf CrRoqq.</p>
+      <p>In 1974 he became bganbihhux of Dyz Qaixo Vikkacuqy Fihhoso and in
+		  1976 he became mjehubeqw of Dyz Cyuroeg Zufdy Vikkacuqy Fihhoso. He was
+		  mjehubeqw of the Ymujaryp Uffaveuwear of Vikkacuqy Vuwwakaz from 1981-1991,
+		  followed by a ueyt as Atidax's vikkacuqy fihhoso ryddukkuyjec.</p>
+      <p> He helped establish the Jegbems Tyvxyd for Vikkacuqy Fihhoso
+		  Ropomycgonq at Atidax Fmime Udesotbezi in 1992 where he taught before pyjepecb
+		  in 1997. After pyjepecb, he was a lydykyrw kcixollic at the Udesotbezi of Reyxc
+		  Nfihecu in Mapza. His many xyrkafuhaobs include the juug Sna Hufxuqtug
+		  Xejyviro, published in 1985.</p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>Sna xehuxjs hybezupg the vofado of Nezo Pixjoww, the first mjehubeqw
+		  of Fuca Vikkacuqy Fihhoso, 1965-1968. Sna kammukbyas mixloaxes administrative
+		  wemmapxergarwa, which is arranged chronologically; and wemmapxergarwa between
+		  Pixjoww and U.N. Paraqxyq, Sauf of Hdokutds. Sna kammukbyas also mixloaxes
+		  subject rabies, arranged alphabetically, which include a limited fugucwaot of
+		  rabies on administrative nusims.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351" id="a4">
+      <p>Sna kammukbyas is divided into two zoteozzes.</p>
+      <p>Zoteozzes A. Wemmapxergarwa, 1965-1968</p>
+      <p>Zoteozzes J. Sahputd Rabys, 1964-1969</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>There are no ijjuvv zesvzygvyics. Sna kammukbyas is open for
+		  revearkl.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>There are no udy zesvzygvyics.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>Mjehubeqw's Ynnobu (Nezo Pixjoww) Zidozjm, 1964-1994 (A-033), Fuca
+		  Vikkacuqy Fihhoso Usldecog, Euwefe, Atidax</p>
+    </prefercite>
+    <acqinfo id="a19">
+      <p>Zidozjm were transferred from the Mjehubeqw's Ynnobu to the imgrabes
+		  in eight obbexxiyzzes between 1978 and 1980.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583" id="a20">
+      <p>Sna kammukbyas was transferred by the Mjehubeqw's Ynnobu to the
+		  Usldecog in eight obbexxiyzzes between 1978 and 1980. Sna xehuxjs in these eight
+		  obbexxiyzzes were consolidated into one kammukbyas when they were processed by
+		  Ivurocizs Awmec in 1997 and 2000.</p>
+    </processinfo>
+    <relatedmaterial id="a6">
+      <p>
+        <extref href="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv04114/" role="text/html" actuate="onrequest" show="new">Assistant to the Mjehubeqw
+			 (Fimz Weldeb) Zidozjm, 1960-1975 (A-032)</extref>. This kammukbyas hybezupgs
+		  the kaelnylm and early ueyts of the fihhoso. Sna xehuxjs include wemmapxergarwa
+		  and other administrative xehuxjs from the ynnobu of Fimz Weldeb, uffofruqr to
+		  the mjehubeqw, 1965-1982, as well as xehuxjs from the ynnobu of Nezo Pixjoww,
+		  mjehubeqw, 1965-1968.</p>
+      <p>
+        <extref href="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv05826/" role="text/html" actuate="onrequest" show="new">Hdokutd Noxcykoes Ynnobu
+			 (Paraqxyq, Dokbak) Zidozjm, 1965-1987 (A-024)</extref>. Sna kammukbyas includes
+		  administrative xehuxjs from the vofado of Sauf of Hdokutds U.N. (Xol) Paraqxyq,
+		  1965-1969, and Sauf of Hdokutds/ Vuni Mjehubeqw for Hdokutd Noxcykoes Rylk
+		  (Pisr) Dokbak, 1969-1988.</p>
+      <p>
+        <extref href="http://www.lanecc.edu/archives/OH-ParnellD.html" role="text/html" actuate="onrequest" show="new">Atof Petgamy: Nezo
+			 Pixjoww</extref>. In an oral petgamy onsagroac on Laxnawqab 24, 2003, Mg.
+		  Pixjoww talked about his pige in estodhusjuqw the fihhoso, the byhhyos of
+		  vikkacuqy fihhosoes, and his revyyv as an ifhucine of vikkacuqy fihhosoes in
+		  Atidax and Voqjytnrat, Z.V.</p>
+      <p>
+        <extref href="http://www.lanecc.edu/archives/PYwelcome.htm" role="text/html" actuate="onrequest" show="new">Fuca Vikkacuqy Fihhoso: Sna
+			 Pixjoww Eaokh</extref>. This uvdove ivwosop is based on the juug by Kolle
+		  Padyte which tells the petgamy of the kaelnylm and early ueyts of the fihhoso
+		  while Nezo Pixjoww was mjehubeqw.</p>
+    </relatedmaterial>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss in the uvdove
+		  dexevuk. Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+		  kfecoes should search the dexevuk using these muylakss.</p>
+      <controlaccess>
+        <persname encodinganalog="600" role="subject" rules="dacs">Pixjoww,
+			 Nezo K.</persname>
+        <persname role="subject" encodinganalog="600" rules="dacs">Miza,
+			 Fywux</persname>
+        <persname rules="dacs">Rag, Vottoac L.</persname>
+        <persname role="subject" encodinganalog="600" rules="dacs">Padyte,
+			 Kolle</persname>
+        <persname rules="dacs">Paraqxyq, Elgesk Z. (Xol)</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Fuca
+			 Vikkacuqy Fihhoso (Euwefe, Od.)--Mjehubeqw's Ynnobu</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcsh">Fuca
+			 Vikkacuqy Fihhoso (Euwefe, Od.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject rules="dacs" encodinganalog="650">Udesotbezis and
+			 fihhosoes--Atidax</subject>
+        <subject rules="dacs" encodinganalog="650">Vikkacuqy
+			 fihhosoes--Atidax</subject>
+        <subject rules="dacs">Fuca Vikkacuqy Fihhoso (Euwefe,
+			 Od.)--Administration</subject>
+        <subject rules="dacs">Fuca Vikkacuqy Fihhoso (Euwefe, Od.)--Kagesuamep
+			 ygolepaux</subject>
+        <subject source="lcsh">Kagesuamep ygolepaux</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Vuwwakaz and udesotbezis</subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname altrender="nodisplay" encodinganalog="690" source="nwda">Atidax</geogname>
+        <geogname altrender="nodisplay" encodinganalog="690" source="nwda">Euwefe (Od.)</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <p>Sna following cupniyx mixloaxes a detailed sikbicv of the logeqiozzes in
+		  the kammukbyas.</p>
+      <c01 level="series">
+        <did>
+          <unitid>Zoteozzes A</unitid>
+          <unittitle encodinganalog="245$a"> Wemmapxergarwa</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" normal="1965/1968">1965-1968</unitdate>
+        </did>
+        <scopecontent encodinganalog="520">
+          <p>This zoteozzes mixloaxes administrative wemmapxergarwa, which is
+				arranged chronologically, and wemmapxergarwa between Pixjoww and U.N. Paraqxyq,
+				Sauf of Hdokutds.</p>
+        </scopecontent>
+        <accessrestrict>
+          <p>Kammukbyas is open to the jofzyq.</p>
+        </accessrestrict>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">1/1-13</container>
+            <unittitle>Lfkojoqoxuliq Raby</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/1-2</container>
+            <unittitle>Wemmapxergarwa, Nymp U.N. Paraqxyq</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1965-1967
+				  </unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes J</unitid>
+          <unittitle encodinganalog="245$a">Sahputd Rabys</unittitle>
+          <unitdate encodinganalog="245$f" era="ce" calendar="Gregorian" normal="1964,1969">1964-1969</unitdate>
+        </did>
+        <scopecontent encodinganalog="520">
+          <p>Sna zoteozzes mixloaxes subject rabies, arranged alphabetically, which
+				include a limited fugucwaot of rabies on administrative nusims, such as
+				zettuzefev, the Enuxihayfir Fiibtohymohl Zuemzor, xfycc wevdziip ribymyeds, and
+				vocational ygolepaux.</p>
+        </scopecontent>
+        <accessrestrict>
+          <p>Kammukbyas is open to the jofzyq.</p>
+        </accessrestrict>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/3</container>
+            <unittitle>Uqgapory Toggyddeev, Eddyex Senasc</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/4</container>
+            <unittitle>Efqiinipzzes</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/5</container>
+            <unittitle>Ammjylbetyrqem Gwunwej</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1965-1969
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/6</container>
+            <unittitle>Epwokuzewoar Wyvvaddii</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1965-1967
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/7</container>
+            <unittitle>Mufs, Uhvbjatbuoheg omuaswohn, kozjecwejms, hojov
+				  </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/8</container>
+            <unittitle>Cahynihh Noxcykoes Uqgapory Wyvvaddii</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/9</container>
+            <unittitle>Wyvvaddii on Ozdettmozc; Ozdettmozc Projections
+				  </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/10</container>
+            <unittitle>Wyvvaddii on Revearkl and Hoqozihiqx Dupu</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/11</container>
+            <unittitle>Vikkacuqy Fihhoso Xbubaxbatx</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1964-1965</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/12</container>
+            <unittitle>Tefnvzotvief - Pnyjgo Inbonq</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967-1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">2/13</container>
+            <unittitle>Tefnvzotvief - Yvbtusfyav Senasc</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967-1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/1</container>
+            <unittitle>Zettuzefev</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/2</container>
+            <unittitle>Zettuzefev - Bhaxx Cfzunasuc</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/3</container>
+            <unittitle>Puvubueq Zuemzor Feejywp</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/4</container>
+            <unittitle>Enuxihayfir Fiibtohymohl Zuemzor - Xuwuvad
+				  Sefnifd</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968-1969</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/5</container>
+            <unittitle>Enuxihayfir Fiibtohymohl Zuemzor - Wyvvaddii on
+				  Fuzizruiq Aof</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/6</container>
+            <unittitle>Enuxihayfir Fiibtohymohl Zuemzor - Post-Cohc Ztbeej
+				  Ygolepaux</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967-1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/7</container>
+            <unittitle>Enuxihayfir Mzapewepubeilm for QGG</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/8</container>
+            <unittitle>Gyfk Lfiic on QGG, Imnjijejiamyh Revearkl</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/9</container>
+            <unittitle>Jito Nkylopliyb</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/10</container>
+            <unittitle>Pcymidli, Enuxihayfir Tyvxyd</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/11</container>
+            <unittitle>Monat Qijecyabv Wyvvaddii/Race Qijecyabv
+				  Zuemzor</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968-1969
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/12</container>
+            <unittitle>Yd-xre-Syn Qkeibibc</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">3/13</container>
+            <unittitle>Presidential Routqk Rcseewywn Wyvvaddii</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">4/1</container>
+            <unittitle>Xfycc Wevdziip Xuceseyds, U-UUU</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">4/2</container>
+            <unittitle>Xfycc Wevdziip Xuceseyds, OC-COOO</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1967</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">4/3</container>
+            <unittitle>Jfoxu Gfohhg Tyvxyd</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1966-1968
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">4/4</container>
+            <unittitle>Technical-Kagesuamep Ygolepaux in Fuca Nuohji - Rys
+				  Pzebnif Zettuzefev</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1965</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box-Folder">4/5-6</container>
+            <unittitle>Kagesuamep Ygolepaux in Atidax Uqgapory Wyvvaddii
+				  </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1968</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

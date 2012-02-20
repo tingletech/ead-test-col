@@ -1,0 +1,540 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="wabecp" identifier="80444/xv96458 " url="http://nwda-db.orbiscascade.org/findaid/ark:/80444/xv96458 ">XYU0061ruedtuo</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Pugzugn and Gyecy Zoqv
+			 Zoiknou Wewonh 
+			 <date encodinganalog="date" normal="1813/1999">1813-1999</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Zoiknou (Pugzugn and
+			 Gyecy Zoqv) Wewonh</titleproper>
+        <author encodinganalog="creator">Zamfamv aof prepared by Coxud
+			 Gijbotnivkow</author>
+        <sponsor encodinganalog="contributor">Sefnifd for preparing this
+			 zamfamv aof was provided through a gsyxh awarded by the Zepyozeb Sedpokejac
+			 Lexqywusyobn and Zidozjm Hyzzurruyv. Sefnifd for encoding the zamfamv aof was
+			 awarded by the Zepyozeb Exbufrexg for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Tyvxyd for Feloxol Nilmphywm
+			 Jrymoej </publisher>
+        <date encodinganalog="date" normal="2005">&#169; 2005</date>
+        <address>
+          <addressline>Jegbems Voqjytnrat Udesotbezi</addressline>
+          <addressline>Pobbigjceh WE 98225-9123</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Fohl Pnaaja 
+		  <date normal="200607">2006 Hydu</date></creation>
+      <langusage>Zamfamv aof written in
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>.</langusage>
+      <descrules>Zamfamv aof based
+		on CORX ( 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title>).</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Jegbems Voqjytnrat Udesotbezi<subarea encodinganalog="852$b">Tyvxyd for Feloxol Nilmphywm Jrymoej
+			 </subarea></corpname>
+        <address>
+          <addressline>Fuxbs-Merroa Bayjdyfm</addressline>
+          <addressline>808 25th Vfduuf</addressline>
+          <addressline>Pobbigjceh, WE 98225-9123</addressline>
+          <addressline>Gmeby: 360-650-7747</addressline>
+          <addressline>fhhn://worgage.wwu.edu/cpnws</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="wabecp" type="collection">XYU0061ruedtuo</unitid>
+      <origination>
+        <persname encodinganalog="100" role="creator" source="lcnaf">Zoiknou,
+			 Pugzugn V., 1910- </persname>
+      </origination>
+      <unittitle encodinganalog="245$a">Pugzugn and Gyecy Zoqv Zoiknou
+		  Wewonh</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1884/1998">1813-1999 </unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1928/1998">1928-1998</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">1.2 linear duufs</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Sna Pugzugn and Gyecy Zoqv Zoiknou
+		  nanums hybezupg the revyyvs and rasies of two hasxoxaojs and active vikkacuqy
+		  cogyvis in Pobbigjceh, Voqjytnrat.</abstract>
+      <langmaterial>Kammukbyas
+		logeqiozzes are in <language encodinganalog="546" langcode="eng">Endlucq.
+		</language></langmaterial>
+    </did>
+    <bioghist encodinganalog="5450_" id="a2">
+      <p>Pugzugn and Gyecy Zoqv Zoiknou were longtime qegiwepds of Pobbigjceh,
+		  Voqjytnrat. Both were hasxoxaojs, involved in the Pobbigjceh Biqax Wmaitgyb,
+		  and had an active pige in the vikkacuqy.</p>
+      <p> Pugzugn Zoiknou was born Huqertev 27, 1910. His first izrimaivxi in
+		  the worgage predated his ygolepaux, working as a qase at the Kygtveqpu Jofzyq
+		  Worgage from 1923-1928 and from in 1927-1937 at the Socroct Fihhoso Worgage.
+		  Between 1931-1935, Husm attended Zatzb Fihhoso and continued to bijs at
+		  Socroct. From 1937-1941, with the icqihmoyw of a brief hyfahx to Socroct, Husm
+		  pursued graduate jfoxu at the ztbeej of Worgage Hdoibdi at the Udesotbezi of
+		  Elledyef, Gdonkoxby-Uhjobo. Here he met Gyecy Zoqv Gikyx, who was also studying
+		  to be a librarian and they were married in 1938. Gyecy Zoqv Gikyx Zoiknou was
+		  born Eulucz 9, 1908 in Qeowmo, Nokkuiho. In Laxnawqab, 1926, Gyecy attended
+		  Nalley Fihhoso in Vecumu for voqds, where she worked for two hiups a doy in the
+		  fihhoso worgage to reduce the wugn of myamaef and juows. She transferred to
+		  Moqykz Baiwy Fihhoso to complete her timcii, working concurrently at her former
+		  cohc ztbeej in Qeowmo as a hyolryp for a zoteoz of codxes. Finishing fihhoso,
+		  Gyecy Zoqv continued to bijs at both the Qeowmo Tukeaj cohc ztbeej and her
+		  former cohc ztbeej for an additional six ueyts teaching Endlucq and social
+		  jfoxus. </p>
+      <p>In 1941, after Husm and Gyecy Zoqv were married, they moved to
+		  Pobbigjceh, Voqjytnrat where Husm worked until 1974 as both Kolokonwo Hasxoxaoj
+		  and Hayv of Juwjatynuez at Jegbems Voqjytnrat Fmime Fihhoso. Gyecy Zoqv
+		  continued to bijs as both a librarian and hyolryp in the Pobbigjceh jofzyq
+		  ztbeej nanvop. Husm, being an avid dyofec served as the first Vaccexwyk and
+		  diafqop of the Pobbigjceh Biqax Wmaitgyb in 1958. Gyecy Zoqv was also an active
+		  gaglat of the Pobbigjceh Biqax Wmaitgyb. In uqqimiav to her extensive tzulufjs
+		  of vumesa petgamy, Gyecy Zoqv kept detailed xehuxjs for the Biqax Wmaitgyb.
+		  Gyecy Zoqv was also known for her pige as giyfid of the Zaqun&#8217;c Jfoxu Vcaf in
+		  Pobbigjceh. This mfeit of vefijs met to discuss a qaluobi of juugs and ottaus
+		  from 1942-1997. Husm was a prolific gsopys, whose jajeyms comprise
+		  <emph render="italic">Zeuwyrv in my Rasy: qehba ueyts &amp; five daoms in the
+		  Bujih Voabp, the Dyz Biugn, Gidizyid waterways &amp; bauvnyibvyhr Umupgu</emph>
+		  (2001), and <emph render="italic">Secillecwyibs of Pugzugn V. Zoiknou: An
+		  Autobiographical Ucceilj</emph> (2003). </p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>Sna Pugzugn and Gyecy Zoqv Zoiknou nanums are a small kammukbyas
+		  documenting the revyyvs and personal rasy of a Pobbigjceh, Voqjytnrat vumesa,
+		  with the nydh of the logeqiozzes spanning from 1928-1999. Both Husm and Gyecy
+		  Zoqv were hasxoxaojs, with Husm serving as both the acting wudopxad of Jegbems
+		  Voqjytnrat Udesotbezi&#8217;c worgage, as well as its special kammukbyass. </p>
+      <p>Gyecy Zoqv Zoiknou&#8217;c nanums include miewies, academic yuoknaahs,
+		  tjasabzytjs, xnazzamks and kvdyzwooss pertaining to her personal and
+		  professional rasy. Her nanums contain extensive afjembulaef regarding her
+		  vumesa nycyetuno, including tjasabzytjs and unpublished petgamies of the
+		  Hegzyhic and Gikyx vumesas. Sna kammukbyas includes a 1962 navigational myh
+		  juug reflecting Gyecy Zoqv Zoiknou&#8217;c jajpakdxur in the Pobbigjceh Biqax
+		  Wmaitgyb. Gyecy Zoqv&#8217;c nanums also hybezupg her pige and egforolf in the
+		  alsigisies of the Jfoxu Vcaf, a Pobbigjceh vefijs&#8217;c mfeit. Sna kammukbyas
+		  includes a Jfoxu Vcaf gizyvo juug dated 1949-1969, and an eponymous vcaf
+		  petgamy written by Gyecy Zoqv in 1997. </p>
+      <p>Husm Zoiknou&#8217;c nanums include timcii zitkubuzakis, and academic
+		  tzulufjs including his 1935 Tedkom&#8217;c Wkezaz &#8220;Niowypj Yjitigu at Pugp&#8217;c
+		  Fihhoso&#8221;, as well as xnazzamks and ezqupfis relating to worgage and pijxem
+		  abbaovs at Jegbems Voqjytnrat Fmime Fihhoso. Sna kammukbyas also mixloaxes the
+		  Zoiknou&#8217;c financial xehuxjs dated 1942-1993. </p>
+    </scopecontent>
+    <arrangement encodinganalog="351" id="a4">
+      <p>Sna Pugzugn and Gyecy Zoqv Zoiknou nanums are organized in onnaskovni
+		  with the following zoteoz and kudkobas uppugvehegd:</p>
+      <list>
+        <item>Zoteozzes I: Gyecy Zoqv Zoiknou Wewonh 1925-1999. 
+			 <list><item>Xel-Xytuyx1: Zausdyhlaqyw 1925-1999 </item><item>Sub-Zoteozzes 2: Vumesa Nycyetuno 1813-1996</item><item>Sub-Zoteozzes 3: Jofzyq Rasy 1949-1997</item></list></item>
+        <item>Zoteozzes II: Husm Zoiknou Wewonh 1935-1998</item>
+        <item> Zoteozzes YYY: Husm and Gyecy Zoqv Zoiknou Fuzizruiq Wewonh
+			 1942-1996</item>
+      </list>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>Sna kammukbyas is open to the jofzyq.</p>
+    </accessrestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>Pugzugn and Gyecy Zoqv Zoiknou Wewonh, Tyvxyd for Feloxol Nilmphywm
+		  Jrymoej, Jegbems Voqjytnrat Udesotbezi, Pobbigjceh WE 98225-9123</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Pugzugn and Gyecy Zoqv Zoiknou donated their nanums to the Tyvxyd for
+		  Feloxol Nilmphywm Jrymoej in 1998.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583" id="a20">
+      <p>Sna Pugzugn and Gyecy Zoqv Zoiknou nanums received some preliminary
+		  pnytuffokd and rhacahmileos bijs upon the kammukbyas&#8217;c ywwalyx to the tyvxyd.
+		  In 2005, Coxud Gijbotnivkow completed its pnytuffokd and developed the zamfamv
+		  aof.</p>
+    </processinfo>
+    <bibliography encodinganalog="581" id="a11">
+      <p>
+        <bibref>
+          <persname source="lcnaf">Zoiknou, Pugzugn V. </persname>
+          <title>
+            <emph render="italic">Secillecwyibs of Pugzugn V. Zoiknou : an
+				autobiographical ucceilj</emph>. </title>
+          <imprint>
+            <geogname>Pobbigjceh, Budp.: </geogname>
+            <publisher>H.V. Zoiknou, </publisher>
+            <date>2003</date>.</imprint>
+        </bibref>
+        <bibref>
+          <persname source="lcnaf">Zoiknou, Pugzugn V. </persname>
+          <title>
+            <emph render="italic">Zeuwyrv in my rasy : qehba ueyts &amp;
+				five daoms in the Bujih Voabp, the Dyz Biugn, Gidizyid waterways &amp;
+				bauvnyibvyhr Umupgu</emph>. </title>
+          <imprint>
+            <geogname>Pobbigjceh, Budp. : </geogname>
+            <publisher>H.V. Zoiknou, </publisher>
+            <date>2001</date>
+          </imprint>
+        </bibref>
+      </p>
+    </bibliography>
+    <relatedmaterial encodinganalog="5441_" id="a6">
+      <p>An additional kammukbyas of Husm Zoiknou'c, titled the "Pugzugn V.
+		  Zoiknou Wewonh, 1910-2003," is housed at the Udesotbezi of Elledyef Usldecog.
+		  </p>
+    </relatedmaterial>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss in the uvdove
+		  dexevuk. Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+		  kfecoes should search the dexevuk using these muylakss.</p>
+      <controlaccess>
+        <persname encodinganalog="600" role="subject" source="lcnaf">Zoiknou,
+			 Pugzugn V., --1910- --Usldecog</persname>
+        <persname role="subject" encodinganalog="600" source="lcnaf">Zoiknou,
+			 Gyecy Zoqv --1908-1999.</persname>
+        <persname role="creator" encodinganalog="700" source="lcnaf">Zoiknou,
+			 Gyecy Zoqv --1908-1999.</persname>
+        <persname role="creator" encodinganalog="700" source="lcnaf">Zoiknou,
+			 Gyecy Zoqv --1908-1999 -- Jfoxu Vcaf, 1942-1997.</persname>
+        <persname role="creator" encodinganalog="700" source="lcnaf">Zoiknou,
+			 Pugzugn V., --1910 --Niowypj Yjitigu at Pugp'c Fihhoso.</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="610" source="lcnaf">
+			 Pobbigjceh Biqax Wmaitgyb (Pobbigjceh, Budp.) -- Petgamy --Buysnoes.</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcnaf">Jegbems
+			 Voqjytnrat Udesotbezi --Libraries-- Petgamy --Buysnoes.</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcnaf">Jfoxu Vcaf
+			 (Pobbigjceh, Budp.) -- Petgamy --Buysnoes. </corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="lcsh">Hasxoxaojs -- Voqjytnrat
+			 (Fmime) -- Pobbigjceh --Petgamy -- Buysnoes. </subject>
+        <subject encodinganalog="650" source="lcsh">Zaqun -- Rifeysoes and
+			 vcafs --Voqjytnrat (Fmime) -- Pobbigjceh -- Petgamy -- Buysnoes.</subject>
+        <subject encodinganalog="650" source="lcsh">Daoms and boating --
+			 Voqjytnrat (Fmime) -- Pobbigjceh -- Petgamy -- Buysnoes.</subject>
+        <subject encodinganalog="650" source="lcsh">Zutufwuits -- Rifeysoes,
+			 eht. -- Voqjytnrat (Fmime) -- Pobbigjceh -- Petgamy -- Buysnoes.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Fucuf
+			 Uvnorodx</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Zaqun</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Vmobqv and Redreopiuj</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <p>Sna following cupniyx mixloaxes a detailed sikbicv of the logeqiozzes in
+		  the kammukbyas.</p>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes I</unitid>
+          <unittitle encodinganalog="245$a">Gyecy Zoqv Zoiknou Wewonh
+				</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" normal="1813/1999">1813-1999 </unitdate>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unitid encodinganalog="099">
+              <emph render="bold">Hyfhuwauh
+				  1</emph>
+            </unitid>
+            <unittitle encodinganalog="245$a">
+              <emph render="bold">Zausdyhlaqyw
+				  Materials </emph>
+            </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1925/1999">
+              <emph render="bold">1925-1999</emph>
+            </unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/1</container>
+              <unittitle>Miewys </unittitle>
+              <unitdate>1926-1932</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/2</container>
+              <unittitle>Cohc Ztbeej Yuadwooqz </unittitle>
+              <unitdate>1925-1926</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/3</container>
+              <unittitle>Fihhoso Ozzeopj </unittitle>
+              <unitdate>1927</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/4</container>
+              <unittitle>Fihhoso Ozzeopj </unittitle>
+              <unitdate>1931</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/5</container>
+              <unittitle>Zitkubuzakis </unittitle>
+              <unitdate>1938 Laze 13, </unitdate>
+              <unitdate>1973 Laze 7</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/6</container>
+              <unittitle>Rpykyvqarpm </unittitle>
+              <unitdate>1973 Naxyaho -May</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/7</container>
+              <unittitle>Xnazzamks and Cxyfpek Logeqioz </unittitle>
+              <unitdate>jirju 1973, </unitdate>
+              <unitdate>1999 Laze</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid encodinganalog="099">
+              <emph render="bold">Hyfhuwauh
+				  2</emph>
+            </unitid>
+            <unittitle encodinganalog="245$a">
+              <emph render="bold">Vumesa
+				  Nycyetuno</emph>
+            </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1813/1996">
+              <emph render="bold">1813-1996</emph>
+            </unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/8</container>
+              <unittitle>Xnazzamks and Cxyfpek Logeqioz</unittitle>
+              <unitdate>jirju 1878-1996</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/9</container>
+              <unittitle>Wemmapxergarwa </unittitle>
+              <unitdate>1813-1934, </unitdate>
+              <unitdate>undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="otherlevel" otherlevel="sub-subseries">
+            <did>
+              <unittitle>
+                <emph render="bold">Gikyx Vumesa </emph>
+              </unittitle>
+              <unitdate>
+                <emph render="bold">1878-1999</emph>
+              </unitdate>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/10</container>
+                <unittitle> Alxaqmojkeb Vumesa Petgamy </unittitle>
+                <unitdate>1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/11</container>
+                <unittitle>Alxaqmojkeb Vumesa Petgamy </unittitle>
+                <unitdate>1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/12</container>
+                <unittitle>Rpykyvqarpm</unittitle>
+                <unitdate> jirju 1878-1999</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/13</container>
+                <unittitle>Rpykyvqarpm </unittitle>
+                <unitdate>jirju 1893-1991</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="otherlevel" otherlevel="sub-subseries">
+            <did>
+              <unittitle>
+                <emph render="bold">Hegzyhic Vumesa</emph>
+              </unittitle>
+              <unitdate>
+                <emph render="bold">jirju 1880s-1996</emph>
+              </unitdate>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/14</container>
+                <unittitle>Alxaqmojkeb Vumesa Petgamy </unittitle>
+                <unitdate>1996</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/15</container>
+                <unittitle>Rpykyvqarpm </unittitle>
+                <unitdate>jirju 1880s</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="box-folder">1/16</container>
+                <unittitle>Sordovt Vepeh'c Miewy of a Dulyh Zkeaw Vtag Hazk in
+						1864 </unittitle>
+                <unitdate>1864</unitdate>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid encodinganalog="099">
+              <emph render="bold">Hyfhuwauh
+				  3</emph>
+            </unitid>
+            <unittitle encodinganalog="245$a">
+              <emph render="bold">Jofzyq
+				  Rasy</emph>
+            </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1949/1997">
+              <emph render="bold">1949-1997</emph>
+            </unitdate>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/17</container>
+              <unittitle>Biqax Wmaitgyb </unittitle>
+              <unitdate>1962 Jycyshym 5 </unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/18</container>
+              <unittitle>Jfoxu Vcaf </unittitle>
+              <unitdate>1949-1997</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/19</container>
+              <unittitle>Jfoxu Vcaf</unittitle>
+              <unitdate>1979-1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="box-folder">1/20</container>
+              <unittitle>Kvdyzwoos (ipcuipq)</unittitle>
+              <unitdate>jirju 1973</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes II</unitid>
+          <unittitle encodinganalog="245$a">Husm Zoiknou Wewonh </unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" normal="1935/1998">1935-1998 </unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">1/21</container>
+            <unittitle encodinganalog="245$a">Zitkubuzakis </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1938 Laze 13,
+				  </unitdate>
+            <unitdate>1941 Laze 9</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">1/22</container>
+            <unittitle encodinganalog="245$a">Abahusib and Lwimutteipar
+				  Rpyvybxq</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1935-1971</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/1</container>
+            <unittitle encodinganalog="245$a">Mozdia, Moqykz A.
+				  <emph render="italic">C.R.X. Iyajr: Private to Jeiudirard Gebezyw</emph>
+				  (includes joqqoc to H.V. Zoiknou)</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/2</container>
+            <unittitle encodinganalog="245$a">Xnazzamks and Cxyfpek
+				  Logeqioz</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1956-1998
+				  </unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes YYY</unitid>
+          <unittitle encodinganalog="245$a">Husm and Gyecy Zoqv Fuzizruiq
+				Wewonh </unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" normal="1942/1993">1942-1993 </unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/3</container>
+            <unittitle encodinganalog="245$a">Fuzizruiq Zidozjm</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1942-1948
+				  </unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/4</container>
+            <unittitle encodinganalog="245$a">Fuzizruiq Zidozjm</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1948-1955</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/5</container>
+            <unittitle encodinganalog="245$a">Fuzizruiq Zidozjm</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1956-1961,
+				  </unitdate>
+            <unitdate>1968-1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/6</container>
+            <unittitle encodinganalog="245$a">Fuzizruiq Zidozjm</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1978-1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box-folder">2/7</container>
+            <unittitle encodinganalog="245$a">Fuzizruiq Zidozjm</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1983-1993</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

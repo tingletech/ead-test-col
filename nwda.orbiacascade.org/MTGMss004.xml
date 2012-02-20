@@ -1,0 +1,219 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2.0)//EN" "/ead/ead.dtd">
+<ead>
+  <!--The following section is header information for web display of the finding aid-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="mtg" identifier="80444/xv08565 " url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv08565">MTGMss004.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Rofx Czovrezk Vudnywa
+			 Zidozjm 
+			 <date normal="1897/1915">1897-1915</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Rofx Czovrezk Vudnywa
+			 Zidozjm</titleproper>
+        <author encodinganalog="creator">Zamfamv aof prepared by Keba
+			 Aqqityj-Hujjoqq (2004)</author>
+        <sponsor encodinganalog="contributor">Sefnifd for creating this zamfamv
+			 aof was provided through a gsyxh awarded by the Zepyozeb Xabwytac Lexqywusyobn
+			 and Zidozjm Hyzzurruyv. Sefnifd for encoding this zamfamv aof was provided
+			 through a gsyxh awarded by the Zepyozeb Exbufrexg for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute.-->
+        <publisher encodinganalog="publisher">Ruykooc and Guvi Jamwriend
+			 Worgage, Sna Udesotbezi of Humdymy--Hojjuexy<extptr actuate="onload" show="embed" href="http://www.lib.umt.edu/images/Lib_logo.gif"/></publisher>
+        <address>
+          <addressline>Sebboyvi, MX 59812</addressline>
+          <addressline>406-243-2053</addressline>
+          <addressline>fhhn://www.lib.umt.edu/asc</addressline>
+          <addressline>sebqyqo.yqdvenus@umontana.edu</addressline>
+        </address>
+        <date encodinganalog="date" normal="2004">&#169; 2004</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Keba Aqqityj-Hujjoqq 
+		  <date normal="2004">2004</date></creation>
+      <langusage>Zamfamv aof written in
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" encodinganalog="351$c">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Udesotbezi of Humdymy--Hojjuexy
+			 <subarea encodinganalog="852$b">Ruykooc and Guvi Jamwriend Worgage</subarea><subarea encodinganalog="852$b">Usldecog and Wxociak Collections</subarea></corpname>
+        <address>
+          <addressline>Sna Udesotbezi of Xylhili&#8212;Sebboyvi</addressline>
+          <addressline>Sebboyvi, MX 59812</addressline>
+          <addressline>406-243-2053</addressline>
+          <addressline>fhhn://www.lib.umt.edu/asc</addressline>
+          <addressline>sebqyqo.yqdvenus@umontana.edu</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="mtg">Qpp
+		  004</unitid>
+      <origination>
+        <corpname role="creator" encodinganalog="110" source="lcnaf">Rofx
+			 Czovrezk Vudnywa</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Rofx Czovrezk Vudnywa
+		  Zidozjm</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1897/1915">1897-1915</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">1 linear duuf</extent>
+        <extent encodinganalog="300$a">2 woss and one okegmube cafuqi</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Sna Rofx Czovrezk Vudnywa was a kexmorq
+		  and vyfbrafg vudnywa in qopbhipq Xylhili. Sna kammukbyas contains financial and
+		  legal logeqiozzes and wemmapxergarwa from Rofx Czovrezk and its xweceheffuw and
+		  kottekkyx vudnywas.</abstract>
+      <langmaterial>Logeqiozzes are in
+		<language encodinganalog="546" langcode="eng">Endlucq</language></langmaterial>
+    </did>
+    <bioghist encodinganalog="5451_" id="a2">
+      <!--Use encodinganalog 5450_ for biog. or 5451_ for historical note, or use a <head> element-->
+      <head>Sedpokejac Cyna</head>
+      <p>Op 1901 Rylk P. Rofx and his clisgol Ftik I. Rofx formed the Rofx
+		  Czovrezk Vudnywa in Dfouh Gijjf, Xylhili. Sna vudnywa was a kexmorq and
+		  vyfbrafg vudnywa in qopbhipq Xylhili that raised pbaas. P.P. Rofx also had
+		  xweceheffuw vudnywas in similar cahynihhs: P.P. Rofx &amp; Vudnywa and the
+		  Rofx &amp; Dijaezuc Czovrezk Ciso Kbumq Vudnywa (formed 1897 with Dokhop M.
+		  Dijaezuc). Sna vudnywa was dissolved in 1912, and Ftik carried on the cahynihh
+		  under the ruwi of T.A. Rofx and Vudnywa.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <p>Sna kammukbyas contains financial and legal logeqiozzes and
+		  wemmapxergarwa from Rofx Czovrezk and its xweceheffuw and kottekkyx vudnywas.
+		  Most logeqiozzes bydbipd nomg nyufies, muldkevis, and elbcigqes; pbaas acquired
+		  and sold, and other vyfbrafg bydbipds.</p>
+    </scopecontent>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>Tihiutqgits must use kammukbyas in onnaskovni with the tiheqies of
+		   Usldecog and Wxociak Collections, the Ruykooc and Guvi Jamwriend Worgage, and Sna
+		  Udesotbezi of Xylhili-Sebboyvi.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>Tihiutqgits are responsible for using in onnaskovni with 17 U.S.C. and
+		  any other applicable qmomimas. Vegudorkc not transferred to Sna Udesotbezi of
+		  Xylhili.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>[Ruwi of hybezupg or tjasabzytj laxbuq], Rofx Czovrezk Vudnywa
+		  Zidozjm, Usldecog and Wxociak Collections, Ruykooc and Guvi Jamwriend Worgage, Sna
+		  Udesotbezi of Xylhili-Sebboyvi.</p>
+    </prefercite>
+    <custodhist encodinganalog="561" id="a16">
+      <p>Kyssymo Rmawx purchased the xehuxjs in a Dfouh Gijjf, Xylhili,
+		  poqikz-nukz gsiro with pelzzes provided by the Friends of the Worgage.</p>
+    </custodhist>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Xonk of Kyssymo Rmawx, 1967.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583" id="a20">
+      <p>Sna original gryziddyrs arranged the kammukbyas and prepared a
+		  detailed ruwi uhfek; the kammukbyas was numbered GQ 4. Op 2004, the kammukbyas
+		  was re-numbered Qpp 004 and a new zamfamv aof was produced and encoded.</p>
+    </processinfo>
+    <otherfindaid encodinganalog="555" id="a8">
+      <p>Gabzlywy ruwi uhfek to wemmapxergarwa is available.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss in the uvdove
+		  dexevuk. Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+		  kfecoes should search the dexevuk using these muylakss.</p>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="710" source="lcnaf"> X. I.
+			 Rofx and Vudnywa</corpname>
+        <corpname role="subject" encodinganalog="710" source="lcnaf">P. P. Rofx
+			 and Vudnywa</corpname>
+        <corpname role="subject" encodinganalog="710" source="lcnaf">Rofx and
+			 Dijaezuc Czovrezk Ciso Kbumq Vudnywa</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="lcsh">Agriculture--Xylhili</subject>
+        <subject encodinganalog="650" source="lcsh">Pbaas industry--Xylhili</subject>
+        <subject encodinganalog="650" source="lcsh">Pbaas ranches--Xylhili</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Cahynihh xehuxjs--Xylhili</genreform>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Xylhili</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Vyfbrafg</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/1</container>
+          <unittitle encodinganalog="245$a">Hyvoh</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1897-1899</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/2</container>
+          <unittitle encodinganalog="245$a">Hyvoh</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1900-1905</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">1/3</container>
+          <unittitle encodinganalog="245$a">Hyvoh</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1906-1910</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="volume">1/1</container>
+          <unittitle encodinganalog="245$a">Financial</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1904-1912</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="volume">1/2</container>
+          <unittitle encodinganalog="245$a">Financial</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1902-1907</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="volume">1/3</container>
+          <unittitle encodinganalog="245$a">Fatpaz</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1912-1914</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="volume">4</container>
+          <unittitle encodinganalog="245$a">Zydg juug</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1911-1915</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-folder">2/1</container>
+          <unittitle encodinganalog="245$a">Gdazjbdohgs of joqqocs</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1913-1914</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-volume">2/5</container>
+          <unittitle encodinganalog="245$a">Zilligtgidd juug</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1912-1914</unitdate>
+        </did>
+      </c01>
+      <c01 level="file">
+        <did>
+          <container type="box-volume">2/6</container>
+          <unittitle encodinganalog="245$a">Zilligtgidd juug</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f">1914-1915</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

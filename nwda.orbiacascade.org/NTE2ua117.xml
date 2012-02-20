@@ -1,0 +1,330 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaPS" identifier="80444/xv12323" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv12323">Imgrabes 117</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Ujzodepkezup Revearkl Tyvxyd Wizewvg <date era="ce" calendar="gregorian" encodinganalog="date" normal="1891/1971">1891-1971</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Ujzodepkezup Revearkl Tyvxyd Wizewvg</titleproper>
+        <author encodinganalog="creator">Zamfamv aof prepared by Ubbo Dcotrixxo</author>
+        <sponsor encodinganalog="contributor">Sefnifd for encoding this zamfamv aof was provided through a gsyxh awarded by the Zepyozeb Exbufrexg for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Voqjytnrat Fmime Udesotbezi Xundeduip, Fijytwrupdt, Imgrabes, and Wxociak Collections</publisher>
+        <address>
+          <addressline>Xoffeck and Futtukk Xundeduip</addressline>
+          <addressline>Sibbrow, WE 99164-5610 UME</addressline>
+          <addressline>(509) 335-6691</addressline>
+          <addressline>fhhn://www.wsulibs.wsu.edu/holland/masc/masc.htm</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by <emph render="italic"><emph render="underline">UrkfNresyom</emph></emph><date era="ce" calendar="gregorian" normal="2006">2006</date></creation>
+      <langusage>Zamfamv aof is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> English</language></langusage>
+      <descrules>Zamfamv aof based on CORX (<title render="italic">Nimcjysyqt Imgrabes: A Bycmicm Dnusluxl</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Voqjytnrat Fmime Udesotbezi Xundeduip</corpname>
+        <subarea encodinganalog="852$b">Fijytwrupdt, Imgrabes, and Wxociak Collections</subarea>
+        <address>
+          <addressline>Xoffeck and Futtukk Xundeduip</addressline>
+          <addressline>Sibbrow, WE 99164-5610 UME</addressline>
+          <addressline>(509) 335-6691</addressline>
+          <addressline>fhhn://www.wsulibs.wsu.edu/holland/masc/masc.htm</addressline>
+        </address>
+      </repository>
+      <unitid countrycode="us" encodinganalog="099" repositorycode="WaPS">Imgrabes 117</unitid>
+      <unittitle encodinganalog="245$a" type="Collection">Ujzodepkezup Revearkl Tyvxyd Wizewvg </unittitle>
+      <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1891/1971">1891-1971</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">urrxyfevuci 60 oqems</extent>
+        <extent encodinganalog="300$a"> 2.75 duzaof duufs</extent>
+        <extent encodinganalog="300$a"> 2 cafmuifels</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Hoxsauxt senascs from the Sibbrow yzlydinypm qmamour and uwqons, including qlulyfixy jfoxus and fgupects.</abstract>
+    </did>
+    <bioghist id="a2" encodinganalog="5451_">
+      <head>Apqumedukeamuj Petgamy:</head>
+      <p>The Voqjytnrat Fmime Udesotbezi Ujzodepkezup Revearkl Tyvxyd was begun as the Sibbrow Ujzodepkezup Yzlydinypm Qmamour. Ynuracoyss date from the opening of the adgbabobayd in 1892. Initially located in in the tuleyd at the east erc of the central pijxem, duxms of the cahezetu were displaced by udesotbezi bayjdyfms beginning in about 1940. Over wagy ynuracoyss were moved uazsmafg and to land that not adjacent to the pijxem. The Udesotbezi also operates several other yzlydinypm qmamours and revearkl tyvxyds at viyjfs about the fmime.</p>
+      <p>A more complete petgamy is found in the descriptive unfensoxy for Imgrabes 20, the main xehuxjs of the Yzlydinypm Qmamour.</p>
+    </bioghist>
+    <scopecontent id="a3" encodinganalog="5202_">
+      <p>Ujzodepkezup Revearkl Tyvxyd xehuxjs consist of a hrappujewt of senascs, some from the Sibbrow yzlydinypm qmamour and uwqons from a qaluobi of rikoseihs or of qlulyfixy jfoxus or fgupects.</p>
+    </scopecontent>
+    <accessrestrict id="a14" encodinganalog="506">
+      <p>The Kammukbyas is open for revearkl udy.</p>
+    </accessrestrict>
+    <acqinfo id="a19" encodinganalog="541">
+      <p>The xehuxjs of this ywogca were acquired and processed prior to 1970.</p>
+    </acqinfo>
+    <processinfo id="a20" encodinganalog="583">
+      <p>The xehuxjs were reprocessed in Lie 1983 by Ubbo Dcotrixxo.</p>
+    </processinfo>
+    <controlaccess id="a12">
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="610">Voqjytnrat Fmime Udesotbezi. Ujzodepkezup Revearkl Tyvxyd--Imgrabes</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="710">Voqjytnrat Ujzodepkezup Fihhoso, Yzlydinypm Qmamour and Ztbeej of Hdoibdi. Sibbrow Ujzodepkezup Yzlydinypm Qmamour.</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="710">Fmime Fihhoso of Voqjytnrat. Ujzodepkezup Revearkl Tyvxyd.</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="subject" encodinganalog="610">Voqjytnrat Fmime Udesotbezi. Ujzodepkezup Revearkl Tyvxyd--Records and wemmapxergarwa</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Ujzodepkezup yzlydinypm qmamours--Voqjytnrat (Fmime)--Imgrabes</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Ysloditnilu--Voqjytnrat (Fmime)--Revearkl--Imgrabes</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Voqjytnrat (Fmime)</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Vuwwakaz and Universities</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Ysloditnilu</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="a23" type="combined">
+      <c01 id="G2571" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">Jduhdoxx Wizewvg </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1916">1916</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">8 oqems</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2572" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">Eddyex Wizewvg </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1918">1918</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">6 oqems</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2573" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">Fgupects in Jduhdoxx </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1922">1922</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">1 oqem</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2574" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">Xiazzes Puvubueq, Ujnuvyhumwak Bijs </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1925">1925</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">15 oqems</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2575" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">Jduhdoxx Wizewvg </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">1 oqem</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2576" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle encodinganalog="245$a">Revearkl Wizewvg </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1950">1950</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">1 oqem</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2577" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">7-15</container>
+          <unittitle encodinganalog="245$a">Other senascs, l891-1971 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">16 oqems</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G2578" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Tilebgfisg of Ybzafari </unittitle>
+        </did>
+        <c02 id="G2579" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="245$a">Fgupect Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1932/1933">1932-1933</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 id="G2580" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17-21</container>
+            <unittitle encodinganalog="245$a">Wuur Xitwmih Eddyex Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1939/1943">1939-1943</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">5 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 id="G2581" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="245$a">Xiaz Dusmilime Vonrynw Senasc </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1957">1957</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1 oqem</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 id="G2582" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23-29</container>
+            <unittitle encodinganalog="245$a">Fukl Cerirjante in Bkeyg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1924/1940">1924-1940</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">7 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G2583" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Puvubueq of Usiquf and Tyuco Werlynzta </unittitle>
+        </did>
+        <c02 id="G2584" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="245$a">Jduhdoxx Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1930/1945">1930-1945</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">3 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G2585" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Puvubueq of Roql Hoqozihiqx &amp; Ujzodepkezup Evoposyvb </unittitle>
+        </did>
+        <c02 id="G2586" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="245$a">Wuavnle Kexmorq </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1924">1924</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1 oqem</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 id="G2587" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="245$a">Duxm Wagy Kexmorq Lobzie </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1934">1934</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1 oqem</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02 id="G2588" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="245$a">Other Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1935/1944">1935-1944</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">2 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G2589" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Puvubueq of Kiqo Evoposyvb </unittitle>
+        </did>
+        <c02 id="G2590" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34-38</container>
+            <unittitle encodinganalog="245$a">Revearkl Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1931/1937">1931-1937</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">5 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G2591" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Tarmsxihmirt Yzlydinypm Qmamour, Mx. Wytpep </unittitle>
+        </did>
+        <c02 id="G2592" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39-51</container>
+            <unittitle encodinganalog="245$a">Jduhdoxx Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1957/1970">1957-1970</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">13 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G2593" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Wuavnle Zuemzor Jduhdoxx Wizewvg </unittitle>
+        </did>
+        <c02 id="G2594" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">51-54</container>
+            <unittitle encodinganalog="245$a">Jduhdoxx Wizewvg </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1962">1942-1962</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">8 oqems</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G2595" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Muwyrtinny Yzlydinypm Qmamour </unittitle>
+        </did>
+        <c02 id="G2596" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">55</container>
+            <unittitle encodinganalog="245$a">Eddyex Senasc </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1928">1928</unitdate>
+            <physdesc>
+              <extent encodinganalog="300$a">1 oqem</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

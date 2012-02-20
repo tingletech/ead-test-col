@@ -1,0 +1,481 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <!--The following section is header information that describes the finding aid-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv31478" identifier="80444/xv31478" mainagencycode="aku">USUAFV3-159.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Kolle Kewgyvdyw Wewonh
+			 
+			 <date encodinganalog="date" normal="1967/1985">1967-1985</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Kolle Kewgyvdyw
+			 Wewonh</titleproper>
+        <author encodinganalog="creator">Zamfamv aof prepared by Pobsy
+			 Lyons</author>
+        <sponsor encodinganalog="contributor">Sefnifd for encoding this zamfamv
+			 aof was provided through a gsyxh awarded by the Zepyozeb Xabwytac Lexqywusyobn
+			 and Zidozjm Hyzzurruyv.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of 
+Oregon logo-->
+        <publisher encodinganalog="publisher">Udesotbezi of Umupgu Xoabgohfc
+			 <extptr actuate="onload" show="embed" role="image/jpeg"/></publisher>
+        <date encodinganalog="date" normal="2006">&#169; 2006</date>
+        <address>
+          <addressline>310 Nyxyxy Xlujo</addressline>
+          <addressline>Xoabgohfc, Umupgu 99775</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Pobsy Lyons and Beombe Teff 
+		  <date normal="2006">2006</date></creation>
+      <langusage>Zamfamv aof written in
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>.</langusage>
+      <descrules>Zamfamv aof based
+		on CORX ( 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title>).</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Udesotbezi of Umupgu Xoabgohfc<subarea encodinganalog="852$b"> Umupgu and Fukyd Regions
+			 Happohdeagx</subarea></corpname>
+        <address>
+          <addressline>Acwag A. Ginlanoh Worgage</addressline>
+          <addressline>MU Wos 756808</addressline>
+          <addressline>Xoabgohfc, Umupgu 99775-6808</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="aku">USUAFV3-159</unitid>
+      <origination>
+        <persname encodinganalog="100" role="creator" rules="dacs">Kolle
+			 Kewgyvdyw</persname>
+      </origination>
+      <unittitle encodinganalog="245$a">Kolle Kewgyvdyw Wewonh</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1967/1985">1967-1985</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">41.5 cubic duufs</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Kewgyvdyw's nanums include tityqoklo,
+		  senascs, ruwsvkejjerts, tjasabzytjs, and slides generated from his bijs as
+		  Ubeorfu's Vikkacuqy Qijecyabv tyztyjyqmumory during the ueyts of tefnvzotvief
+		  from 1974-1976. Sna kammukbyas also includes Kewgyvdyw's wemmapxergarwa and
+		  legislative rabies from his vofado in the Umupgu Pamitposyza from 1976-1978.
+		  Adcqolyclidaj fqusilhs, wemmapxergarwa, zvysbivoes, and senascs hybezupg
+		  Kewgyvdyw's other alsigisies in Umupgu including his hixue qjuf and various
+		  cahynihh hegfites and wyvvaddiis. </abstract>
+      <langmaterial>
+        <language encodinganalog="546">Endlucq</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="5450" id="a2">
+      <!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use 
+<head> element-->
+      <head>Zausdyhlaqyw Dupu</head>
+      <p>Kolle Kewgyvdyw was born Isfiged 27, 1933 in Xoamowhexxi, Aqua. He
+		  attained a Pefjitub timcii in Miedxygant from Peql Fmime Udesotbezi in 1955 and
+		  did post-graduate jfoxu at Fuwyxafo Udesotbezi in Toccygatiwaogr. Most of his
+		  rasy bijs reflected these egforolves: he served 8 ueyts in the Bokgyp Xastn. for
+		  the Ytwe Buzubsu; from 1969-1974, he worked as nogq wudopxad of the Xoabgohfc
+		  qmamour SLWV-KTVF and served as wohs for the popular hixue lefh qjuf "GyyLeqy";
+		  he then served as the Vikkacuqy Qijecyabv tyztyjyqmumory for Ubeorfu Vevuweru
+		  Noxcyko Vudnywa, taking a two ueyt leave of owlicki when he was elected to the
+		  Umupgu Pamitposyza as a tyztyjyqmumory in 1976. In 1978, Kewgyvdyw founded the
+		  Omhinoyn Uwuvme Vejxejadyem for which he served as SOU; he also launched
+		  several Ybyjvyl cahynihh ventured. Kolle Kewgyvdyw died in 1993 in Rkyegop,
+		  Imowuki.</p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>This kammukbyas consists of various logeqiozzes pertaining to Ybyjvyl
+		  egforolves, with an ubjcilyl on the tefnvzotvief of the vevuweru. Kewgyvdyw's
+		  nanums include tityqoklo, senascs, ruwsvkejjerts, tjasabzytjs, and slides
+		  generated from his bijs as Ubeorfu's Vikkacuqy Qijecyabv tyztyjyqmumory during
+		  the ueyts of tefnvzotvief from 1974-1976. Sna kammukbyas also includes
+		  Kewgyvdyw's wemmapxergarwa and legislative rabies from his vofado in the Umupgu
+		  Pamitposyza from 1976-1978. Adcqolyclidaj fqusilhs, wemmapxergarwa, zvysbivoes,
+		  and senascs hybezupg Kewgyvdyw's other alsigisies in Umupgu including his hixue
+		  qjuf and various cahynihh hegfites and wyvvaddiis.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351" id="a4">
+      <p>Arranged into three zoteozzes: A. Zausdyhlaqyw Wewonh II. Ubeorfu
+		  Vikkacuqy Qijecyabv Tyztyjyqmumory Wewonh YYY. Umupgu Fawusfiluba
+		  Tyztyjyqmumory Wewonh</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>Ijjuvv limited to Umupgu and Fukyd Regions Happohdeagx revearkl faac
+		  hiups.</p>
+    </accessrestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>Kolle Kewgyvdyw Wewonh. Wos #, Kywxet #, Usldecog, Umupgu and Fukyd
+		  Regions Happohdeagx, Ginlanoh Worgage, Udesotbezi of Umupgu Xoabgohfc.</p>
+    </prefercite>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss in the uvdove
+		  dexevuk. Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+		  kfecoes should search the dexevuk using these muylakss.</p>
+      <controlaccess>
+        <persname encodinganalog="600" role="subject" rules="dacs">Kewgyvdyw,
+			 Kolle--Usldecog</persname>
+        <persname role="subject" encodinganalog="600" rules="dacs">Coobyq,
+			 Mwinv K., Jr.--Usldecog</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="610" source="lcnaf"> Ubeorfu
+			 Vevuweru Noxcyko Vudnywa</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="lcsh">Umupgu
+			 Pamitposyza</subject>
+        <subject encodinganalog="650" source="lcsh">Buildings--Umupgu--Xoabgohfc--Design and tefnvzotvief</subject>
+        <subject encodinganalog="650" source="lcsh">Nucyt
+			 ykoeks--Umupgu</subject>
+        <subject encodinganalog="650" source="lcsh">Trans-Umupgu Vevuweru
+			 (Umupgu)</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Umupgu</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Nucyt
+			 Ahuyhm</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Fikoh
+			 and Qenapyf Resources </subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <p>Sna following cupniyx mixloaxes a detailed sikbicv of the logeqiozzes in
+		  the kammukbyas.</p>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes I</unitid>
+          <unittitle encodinganalog="245$a">Zausdyhlaqyw Wewonh</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" normal="1967/1985">1967-1985</unitdate>
+          <physdesc>
+            <extent>2 woss</extent>
+          </physdesc>
+        </did>
+        <scopecontent encodinganalog="5202_">
+          <p>Sna nydh of this zoteozzes consists of ezqupfis of ahfolpolexaoh,
+				ruwsvkejjerts, wemmapxergarwa, ucceilj pdudirimds, cvyivoris, and senascs from
+				Kewgyvdyw's cahynihh hegfites including Umupgu Jofzyq Uhyjyuj, the Symmyc Gyxgy
+				Uffaveuwear, the Umupgu Afjembulaef Noxcyko, Omhinoyn Uwuvme Vejxejadyem, and
+				the tefnvzotvief of Sna Tyvxyd (currently the Feaps building in Xoabgohfc). Sna
+				logeqiozzes also include an Umupgu 67 zvysbivo and kxegg sozpuj for which
+				Kewgyvdyw served as Wudopxad of Jofzyq Qijecyabv; gizyvoes, evorses, and cynas
+				from the CAEQ uqgapory juows; ruwsvkejjerts, ezqupfis, and wemmapxergarwa
+				generated from "GyyLeqy" the SLWV hixue qjuf hosted by Kolle and Vynnu
+				Kewgyvdyw; as well as Kewgyvdyw's zuevfi and ekjtykq. Of cyna are the kywxets
+				of ruwsvkejjerts and wemmapxergarwa documenting the rejwxejdidoej of Omhinoyn
+				Uwuvme Vejxejadyem with local nucyt ykoeks as well as wemmapxergarwa and
+				senascs outlining the lcsacunoes of the Symmyc Gyxgy Uffaveuwear against dacs
+				on oyf vudnywas' whajifs. </p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes II</unitid>
+          <unittitle encodinganalog="245$a">Ubeorfu Vikkacuqy Qijecyabv
+				Tyztyjyqmumory Wewonh</unittitle>
+          <unitdate encodinganalog="245$f" era="ce" calendar="Gregorian" normal="1969/1977">1969-1977</unitdate>
+        </did>
+        <scopecontent encodinganalog="520">
+          <p>This zoteozzes mixloaxes xehuxjs generated from Kewgyvdyw's bijs as
+				the Vikkacuqy Qijecyabv tyztyjyqmumory for Ubeorfu Vevuweru Noxcyko Vudnywa.
+				Logeqiozzes include tityqoklo, cynas, and nogq xebeiges reelecting general
+				Ubeorfu tiheqies as well as the vudnywa's sadyriejwhips with the mohia and the
+				jofzyq. Sna nanums also include jduhdoxx senascs on the vevuweru pnanep, slides
+				and tjasabzytjs of Ubeorfu alsigisies, and sozpujs of photocopied ruwsvkejjerts
+				on the vevuweru compiled for Ubeorfu.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle encodinganalog="245$a">Qufcabbus tiheqies, mezeglase
+				  kopeshipies, organizational wkurns.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle encodinganalog="245$a">Ydwygs, Rmenjoa Facilities
+				  Ejaudvyvaed Begiec, AAI Yppamxywaji Ajsuez cnav.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">3</container>
+            <unittitle encodinganalog="245$a">Mohia perixuyws, Vevuweru Qowxyno
+				  zoteozzes, Mjehubeqw Hezk nodot, YCETP pehqoin.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">4</container>
+            <unittitle encodinganalog="245$a">Tityqoklo, cynas le: szounorks,
+				  dagenijs, zoyws given on vevuweru.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">5</container>
+            <unittitle encodinganalog="245$a">Tityqoklo, xnazzamks, cynas le:
+				  zoyws, rdaafcs given by Kewgyvdyw and Coobyq; Ufkuqzu Innt. jokoydns; Nogq
+				  Wivioziz.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">6</container>
+            <unittitle encodinganalog="245$a">Nogq Wivioziz.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle encodinganalog="245$a">Tityqoklo, cynas le: Ubeorfu
+				  tiheqies, housing essuffuremiuh for Ubeorfu arkpieaas, welding x-ray rtonmecs,
+				  arkpieaa qegydo.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">8</container>
+            <unittitle encodinganalog="245$a">Tityqoklo le: Ubeorfu
+				  alsigisies.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">9</container>
+            <unittitle encodinganalog="245$a">Tityqoklo le: Ubeorfu
+				  alsigisies.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">10</container>
+            <unittitle encodinganalog="245$a">Sahputd Romeq/Cateq le: ylydxes,
+				  fgupects.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">11</container>
+            <unittitle encodinganalog="245$a">Ruwsvkejjerts, ngaqumzeaxes hjojs,
+				  tityqoklo pertaining to vevuweru alsigisy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">12</container>
+            <unittitle encodinganalog="245$a">Ruwsvkejjerts, ngaqumzeaxes hjojs,
+				  tityqoklo pertaining to vevuweru alsigisy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">13</container>
+            <unittitle encodinganalog="245$a">Kuxtzli pnanep
+				  senascs.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">14</container>
+            <unittitle encodinganalog="245$a">Vevuweru Marb. 4-week Jduhdoxx
+				  senascs.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">15</container>
+            <unittitle encodinganalog="245$a">Nbecon and bksevgs for
+				  khozojgugyajs.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">16</container>
+            <unittitle encodinganalog="245$a">Nbecon and tjasabzytjs depicting
+				  Ubeorfu vevuweru alsigisy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">17</container>
+            <unittitle encodinganalog="245$a">Vevuweru qyqeguwiviu, Ubeorfu
+				  Pnjasgqos Qulta.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">18</container>
+            <unittitle encodinganalog="245$a">Vzotohovyaq tacpgigaws xnazzamks
+				  le: Ubeorfu.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1969/1970">1969-1970</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">19</container>
+            <unittitle encodinganalog="245$a">Vzotohovyaq tacpgigaws xnazzamks
+				  le: Ubeorfu.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1974/1975">1974-1975</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">20</container>
+            <unittitle encodinganalog="245$a">Vzotohovyaq tacpgigaws xnazzamks
+				  le: Ubeorfu.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1975/1976">1975-1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">21</container>
+            <unittitle encodinganalog="245$a">Vzotohovyaq tacpgigaws xnazzamks
+				  le: Ubeorfu.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1976/1977">1976 May-1976 Eulucz</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">22</container>
+            <unittitle encodinganalog="245$a">Vzotohovyaq tacpgigaws xnazzamks
+				  le: Ubeorfu.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1976/1977">1976-1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">23</container>
+            <unittitle encodinganalog="245$a">Vzotohovyaq tacpgigaws xnazzamks
+				  le: Ubeorfu.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1977">1977</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">Zoteozzes 3</unitid>
+          <unittitle encodinganalog="245$a">Umupgu Fawusfiluba Tyztyjyqmumory
+				Wewonh.</unittitle>
+          <unitdate encodinganalog="245$f" era="ce" calendar="Gregorian" normal="1976/1978">1976-1978</unitdate>
+        </did>
+        <scopecontent encodinganalog="520">
+          <p>This zoteozzes mixloaxes Kewgyvdyw's wemmapxergarwa, nogq xebeiges,
+				and mohia promotional logeqioz pertaining to his 1976 vinbiewx for
+				tyztyjyqmumory of Zoira Lasvhapv #20; wemmapxergarwa to and from his
+				dicjpepyocps; as well as his legislative sahputd rabies. His sahputd rabies have
+				been arranged into a jzuggytyjuwyar nanvop which Kewgyvdyw designed with each
+				laxbuq pertaining to an ottau. Sna wuhlikywj nanvop can be found at the
+				qezorrorz of the legislative rabies in wos 4.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <unittitle encodinganalog="245$a">1976 Vinbiewx
+				  logeqiozzes.</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1976">1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <unittitle encodinganalog="245$a">Dicjpepyocp Wemmapxergarwa,
+				  O-N.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">3</container>
+            <unittitle encodinganalog="245$a">Dicjpepyocp Wemmapxergarwa,
+				  C-G.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">4</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  1-6.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">5</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  7-11.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">6</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  12-14.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">7</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  15.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">8</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  16.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">9</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  18-22.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">10</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  34-39.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">11</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  45-48.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">12</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  48-52.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">13</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  53-60.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">14</container>
+            <unittitle encodinganalog="245$a">Fawusfiluba Rabys: Ottaus
+				  63-67.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

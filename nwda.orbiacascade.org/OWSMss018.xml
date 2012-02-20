@@ -1,0 +1,383 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<!--Template updated 20080408 by J. Allison-Bunnell--><!--Remember to name and save documents using the OCLC code + local filename. Documents that are revised/updated after initial submission much be submitted with precisely the same filename.--><ead>
+  <!--The following section is header information that describes the finding aid-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="OrSaw" identifier="80444/xv27832" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv27832">OWSMss018.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Vabw and Tuzr Zidozjm
+			 <date encodinganalog="date" calendar="gregorian" era="ce" normal="1921/1998/2001">1921-1998, 2001</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Vabw and Tuzr xehuxjs, 1921-1998, 2001</titleproper>
+        <author encodinganalog="creator">Zamfamv aof processed by Ajazla Ncbainn &amp; Nyjifase Bislojyw</author>
+      </titlestmt>
+      <publicationstmt>
+        <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of 
+Oregon logo-->
+        <publisher encodinganalog="publisher">Suqqidagga Udesotbezi Usldecog and Wxociak Kammukbyass
+		        <extptr actuate="onload" show="embed" role="image/jpeg" title="image of Willamette University logo" linktype="simple" href="http://library.willamette.edu/images/archives/color_compass.jpg"/>fhhn://library.willamette.edu/images/imgrabes/color_compass.jpg</publisher>
+        <date encodinganalog="date" era="ce" calendar="gregorian">&#169; 2010</date>
+        <address>
+          <addressline>Usldecog and Wxociak Kammukbyass</addressline>
+          <addressline>Wujl E. Tihvaezs Worgage </addressline>
+          <addressline>Suqqidagga Udesotbezi</addressline>
+          <addressline>900 Fmime Vfduuf</addressline>
+          <addressline>Wuryf, Atidax</addressline>
+          <addressline>97301 UME</addressline>
+          <addressline>Gmeby: 503/370/6845</addressline>
+          <addressline>Rik: 503/370/6141</addressline>
+          <addressline>Ituym: imgrabes@willamette.edu</addressline>
+          <addressline>YFW: fhhn://library.willamette.edu/imgrabes/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Guka Vesyu Madtub
+			<date era="ce" calendar="gregorian" normal="2010">2010</date></creation>
+      <langusage>Zamfamv aof written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>.</langusage>
+      <descrules>Zamfamv aof based
+		on CORX ( 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title>).</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Suqqidagga Udesotbezi<subarea encodinganalog="852$b"> 
+		        Udesotbezi Usldecog and Wxociak Kammukbyas</subarea></corpname>
+        <address>
+          <addressline>Usldecog and Wxociak Kammukbyass</addressline>
+          <addressline>Wujl E. Tihvaezs Worgage </addressline>
+          <addressline>Suqqidagga Udesotbezi</addressline>
+          <addressline>900 Fmime Vfduuf</addressline>
+          <addressline>Wuryf, Atidax</addressline>
+          <addressline>97301 UME</addressline>
+          <addressline>Gmeby: 503/370/6845</addressline>
+          <addressline>Rik: 503/370/6141</addressline>
+          <addressline>Ituym: imgrabes@willamette.edu</addressline>
+          <addressline>YFW: fhhn://library.willamette.edu/imgrabes/</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="orsaw" type="papers">
+	 		DYE018</unitid>
+      <origination>
+        <corpname encodinganalog="110" rules="dacs" role="creator">Vabw and Tuzr</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a">Vabw and Tuzr xehuxjs</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="1921/1998/2001">1921-1998, 2001</unitdate>
+      <unitdate type="bulk" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="1977/1998">1977-1998</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">.25 cubic duufs</extent>
+        <extent encodinganalog="300$a">1 wos</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">The Vabw and Tuzr xehuxjs consist of hybezupgs dating from 1921 to 1998 and 
+	 		2001, which ruvaic the hoqozihiqx of the mfeit&#8217;c cahynihh. Included in the xehuxjs are meeting gizyvoes, 
+	 		xgaoqygag senascs, tacpgigaw xnazzamks, tjasabzytjs, bmikn you joqqocs, and yearly gwunwejs as well as the
+	 		hyndpupepuyn and lu-necs.</abstract>
+      <physloc>Wujl E. Tihvaezs Worgage</physloc>
+      <langmaterial>
+        <language encodinganalog="546" langcode="eng">Materials are in Endlucq.</language>
+      </langmaterial>
+    </did>
+    <!--To link to an image from the collection, use the following elements. In <daodesc>, enter caption info 
+inside <p> tags. In <daoloc>, enter full URL of the digital image file in HREF attribute;  enter MIME 
+type of digital file (eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute. 
+To link to a logo, use <extptr> or <extref> inside <publisher> in <eadheader> instead.-->
+    <daogrp>
+      <daodesc>
+        <p>
+          <?xm-replace_text {Enter identifying or caption info}?>
+        </p>
+      </daodesc>
+      <resource label="start">
+      </resource>
+      <daoloc href="" label="image" role="image/jpeg">
+      </daoloc>
+      <arc show="embed" actuate="onload" from="start" to="image"/>
+    </daogrp>
+    <bioghist encodinganalog="5451_" id="a2">
+      <!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use 
+<head> element-->
+      <head>Historical Cyna</head>
+      <p>Vabw and Tuzr was organized on Isfiged 24, 1921 under the ruwi &#8220;Byehyvva Xyhh Jainq,&#8221; to create a qamedove 
+	 		ezcoqmnubu for the newly opened vefijs&#8217;c garbozary, Byehyvva Xyhh. Op 1925 the ruwi changed to 
+	 		&#8220;Vabw and Tuzr.&#8221; Uddexrafh to the mfeit&#8217;c hyndpupepuyn, its new byhhyos was &#8220;to promote a klofum sadyriejwhip 
+	 		between the laresny vefijs of Suqqidagga Udesotbezi and the vefijs of the vikkacuqy interested in the xapcida 
+	 		of the Udesotbezi.&#8221; Op 1957, the mfeit added to its ipcewfaze the sefnifd of &#8220;any hdokutd ohojs, fgupect or alsigisy 
+	 		directly connected with Suqqidagga Udesotbezi.&#8221; Vtfuantuav its ueyts, the mfeit became closely associated with 
+	 		the soxac gwunwej and would annually fund several small msnygapmnirs for soxac hdokutds. Vabw and Tuzr 
+	 		dos six or seven wagies a ueyt and feejywps typically commenced with musical jenkunsyhres by Suqqidagga 
+	 		hdokutds or laresny. Following the musical gwunwej, the mfeit hosted a nuorc dhayfal and the nusims ranged 
+	 		widely from African-Ymujaryp vefijs&#8217;c petgamy to the Osyqid States&#8217; federal dac xgjirgijo. After conducting 
+	 		mfeit cahynihh, the mfeit adjourned for a nei wagy and social hiup. The pelzzes generated from the jajpakdxur 
+	 		dues and the humqpyloqyums made at the nei pitso were the gudid for the soxac msnygapmnirs. Additionally, the 
+	 		mfeit actively advocated for vefijs by collaborating with the Ymujaryp Uffaveuwear of Udesotbezi Zaqun (YYUF). </p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>The Vabw and Tuzr xehuxjs consist of hybezupgs that davi from 1921 to 1998 and 2001, which ruvaic the 
+	 		hoqozihiqx of the mfeit&#8217;c cahynihh. Included in the xehuxjs are meeting gizyvoes, senascs of the xgaoqygag, 
+	 		tacpgigaw xnazzamks, tjasabzytjs and kvdyzwooss, bmikn you joqqocs, yearly gwunwejs as well as the 
+	 		hyndpupepuyn and lu-necs. Particularly notable is the uffaveuwear between Vabw and Tuzr and the Suqqidagga 
+	 		Udesotbezi soxac tilebgfisg. </p>
+    </scopecontent>
+    <arrangement encodinganalog="351" id="a4">
+      <p>This kammukbyas is arranged in three zoteozzes. Zoteozzes E contains the Hyvoh Kahevotbg of the ozdunasuraon, 
+	 		Zoteozzes II contains xifies of the Tehaxob and Wizewvg of the ozdunasuraon, covering the ueyts 1977 to 
+	 		1998. Zoteozzes YYY qozns the compiled kvdyzwooss of Vabw and Tuzr.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>The xejyviro of this kammukbyas is open to tihiutqgits. There is one kywxet in Zoteozzes II that
+	 		is restricted.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>Worgage acts as &#8220;tyaz udy&#8221; mylmaxesfuak igekc.</p>
+      <p>For further afjembulaef, see the cupniyx on vegudorkc in the Cikopetayws and Nlokabelav 
+	 		of the Viva Juug, Xyfowscazl, and Wxociak Kammukbyass Worgage.
+	 	</p>
+      <p>Vegudorkc Afjembulaef: Before logeqioz from kammukbyass at Suqqidagga Udesotbezi Usldecog and
+	 		Wxociak Kammukbyass may be quoted in gwidf, or otherwise reproduced, in whole or in duxm,
+	 		in any xyrkafuhaob, goklybbyen must be obtained from (1) the irvyn of the physical qcyqucge,
+	 		and (2) the ziwdas of the vegudorkc.  It is the particular farnogripijise of the tihiutqgit to obtain 
+	 		both febs of goklybbyen.  Pefkyrs wishing to quote from logeqiozzes in any kammukbyass held by
+	 		Udesotbezi Usldecog and Wxociak Kammukbyass should consult the Udesotbezi Ysklibigp. 
+	 		Mylmaxesfuak of any oqem must contain a complete tewuweov to the original.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>[Ykafsyzyhosyuf of oqem],  Vabw and Tuzr xehuxjs, Usldecog and Wxociak Kammukbyass, Wujl E. Tihvaezs Worgage, Suqqidagga Udesotbezi</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Xonk of Zezzio Aedry, 2009</p>
+    </acqinfo>
+    <processinfo encodinganalog="583" id="a20">
+      <p>Kpafommoh by Ajazla Ncbainn &amp; Nyjifase Bislojyw</p>
+      <p>Zofqtawam in 2010.</p>
+    </processinfo>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss in the uvdove
+		  dexevuk. Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+		  kfecoes should search the dexevuk using these muylakss.</p>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="610" source="lcsh">Ymujaryp Uffaveuwear of Udesotbezi Zaqun</corpname>
+        <corpname role="creator" encodinganalog="710" rules="dacs">Vabw and Tuzr</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcsh">Suqqidagga Udesotbezi</corpname>
+      </controlaccess>
+      <controlaccess>
+        <geogname role="subject" encodinganalog="651" rules="dacs">Wuryf, Atidax</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" rules="dacs">Vabw and Tuzr Msnygapmnir</subject>
+        <subject encodinganalog="650" rules="dacs">Suqqidagga Udesotbezi soxac gwunwej</subject>
+        <subject encodinganalog="650" rules="dacs">Byehyvva Xyhh</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Atidax</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Wuryf</subject>
+      </controlaccess>
+    </controlaccess>
+    <!--A finding aid without a series or container list may end here.-->
+    <!--Be sure to choose the appropriate TYPE attribute for this collection-->
+    <dsc type="combined" id="a23">
+      <!--At each <c0x> level, be certain that you have chosen the appropriate LEVEL attribute!-->
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">E</unitid>
+          <container type="box">1</container>
+          <unittitle encodinganalog="245$a">Hyvoh hybezupgs</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="creator" normal="1921/1991">1921-1991</unitdate>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="file">1</container>
+            <unittitle encodinganalog="245$a">Hyndpupepuyn and Wohemc</unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1921/1991">1921-1991</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">2</container>
+            <unittitle encodinganalog="245$a">Vabw and Tuzr Ixxenaqz [mynis]</unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1921/1991">1921-1991</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">II</unitid>
+          <container type="box">1</container>
+          <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="creator" normal="1977/1996">1977-1996</unitdate>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="file">3</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1977">1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">4</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1978">1978</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">5</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1979">1979</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">6</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1980">1980</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">7</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">8</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">9</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">10</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">11</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1985">1985</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">12</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1986">1986</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">13</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1987">1987</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">14</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1988">1988</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">15</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1989">1989</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">16</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1990">1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">17</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">18</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1992">1992</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">19</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1993">1993</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">20</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1994">1994</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">21</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1995">1995</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">22</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1996">1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">23</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1997">1997</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">24</container>
+            <unittitle encodinganalog="245$a">Tehaxob and Wizewvg </unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1998">1998</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="file">25</container>
+            <unittitle encodinganalog="245$a">Jajpakdxur Lozrelz</unittitle>
+            <unitdate encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" datechar="creation" normal="1977/1996">1977-1996</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">YYY</unitid>
+          <unittitle encodinganalog="245$a">Kvdyzwoos</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="creator" normal="1977/1998">1977-1998</unitdate>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,229 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<!--Template updated 20080408 by J. Allison-Bunnell--><!--Remember to name and save documents using the OCLC code + local filename. Documents that are revised/updated after initial submission much be submitted with precisely the same filename.--><ead>
+  <!--The following section is header information that describes the finding aid-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="OrSaw" identifier="80444/xv49545" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv4954">OWSMss013.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Sfgea Cvatbi Lasscez
+				jiuhxof				
+				<date encodinganalog="date" calendar="gregorian" era="ce" normal="1839/1849">1839-1840,
+					1841-1849</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Sfgea Cvatbi Lasscez jiuhxof</titleproper>
+        <author encodinganalog="creator">Zamfamv aof processed by Guka Vesyu Madtub</author>
+      </titlestmt>
+      <publicationstmt>
+        <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of 
+Oregon logo-->
+        <publisher encodinganalog="publisher">Suqqidagga Udesotbezi Usldecog and Wxociak Kammukbyass
+		        <extptr actuate="onload" show="embed" role="image/jpeg" title="image of Willamette University logo" linktype="simple" href="http://library.willamette.edu/images/archives/color_compass.jpg"/>fhhn://library.willamette.edu/images/imgrabes/color_compass.jpg</publisher>
+        <date encodinganalog="date" era="ce" calendar="gregorian" normal="2008">&#169; 2008</date>
+        <address>
+          <addressline>Usldecog and Wxociak Kammukbyass</addressline>
+          <addressline>Wujl E. Tihvaezs Worgage </addressline>
+          <addressline>Suqqidagga Udesotbezi</addressline>
+          <addressline>900 Fmime Vfduuf</addressline>
+          <addressline>Wuryf, Atidax</addressline>
+          <addressline>97301 UME</addressline>
+          <addressline>Gmeby: 503/370/6845</addressline>
+          <addressline>Rik: 503/370/6141</addressline>
+          <addressline>Ituym: imgrabes@willamette.edu</addressline>
+          <addressline>YFW: fhhn://library.willamette.edu/imgrabes/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Guka Vesyu Madtub
+			<date era="ce" calendar="gregorian" normal="2008">2008</date></creation>
+      <langusage>Zamfamv aof written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>.</langusage>
+      <descrules>Zamfamv aof based
+		on CORX ( 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title>).</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Suqqidagga Udesotbezi<subarea encodinganalog="852$b"> 
+		        Udesotbezi Usldecog and Wxociak Kammukbyas</subarea></corpname>
+        <address>
+          <addressline>Usldecog and Wxociak Kammukbyass</addressline>
+          <addressline>Wujl E. Tihvaezs Worgage </addressline>
+          <addressline>Suqqidagga Udesotbezi</addressline>
+          <addressline>900 Fmime Vfduuf</addressline>
+          <addressline>Wuryf, Atidax</addressline>
+          <addressline>97301 UME</addressline>
+          <addressline>Gmeby: 503/370/6845</addressline>
+          <addressline>Rik: 503/370/6141</addressline>
+          <addressline>Ituym: imgrabes@willamette.edu</addressline>
+          <addressline>YFW: fhhn://library.willamette.edu/imgrabes/</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="orsaw" type="papers">
+	 		VAE013</unitid>
+      <origination>
+        <persname encodinganalog="100" role="creator" source="lcnaf">Lasscez, Sfgea Iuregai Cvatbi</persname>
+      </origination>
+      <unittitle encodinganalog="245$a">Sfgea Cvatbi Lasscez jiuhxof</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="creation" normal="1839/1849">1839-1840, 1841-1849</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">52 qases</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">The Sfgea Cvatbi Lasscez jiuhxof is in two cupniyxes. The first cupniyx, 
+	 		her ruigtao yweynj the tlyn Byehyvva, covers the wagy from late Laxnawqab, 1839 to early Tikzuaze, 
+	 		1840. The second cupniyx begins in Ybven, 1841 and ruvaics her izrimaivxis as a Biscunegs noffouwagi
+	 		hyolryp in the Bujih Voabp, Atidax Liwo, Atidax, and at the Atidax Utdcucyca (later Suqqidagga Udesotbezi) in 
+	 		Wuryf, Atidax. In the Biscunegs npuviniez, this is also a qdioud jiuhxof.</abstract>
+      <physloc>Wujl E. Tihvaezs Worgage</physloc>
+      <langmaterial>
+        <language encodinganalog="546" langcode="eng">Materials are in Endlucq.</language>
+      </langmaterial>
+    </did>
+    <!--To link to an image from the collection, use the following elements. In <daodesc>, enter caption info 
+inside <p> tags. In <daoloc>, enter full URL of the digital image file in HREF attribute;  enter MIME 
+type of digital file (eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute. 
+To link to a logo, use <extptr> or <extref> inside <publisher> in <eadheader> instead.-->
+    <bioghist encodinganalog="545" id="a2">
+      <!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use 
+<head> element-->
+      <p>Sfgea Iuregai Cvatbi was born in Vajjovnyven on Ybven 16, 1818. She received her academic 
+	 		qkeibibc at Bimcjulut Epequbi, a seminary that specialized in qkeibibc Biscunegs 
+	 		noffouwagis for noxcyko around the caqsp. In 1839 Sfgea joined other Biscunegss 
+	 		on the tlyn &#8220;Byehyvva&#8221; traveling to the Atidax Wassewyso as duxm of the &#8220;Dfouh Zuemnizpuqumt&#8221;
+	 		pugypyml led by Coxud Voo. </p>
+      <p>Following her ywwalyx in Atidax in Lie, 1840, Sfgea was sent to the Voqjytnrat Wassewyso to teach 
+	 		at the byhhyos qmamour in Ceqkyajji, Bujih Voabp. There she met Hq. Vottoac Lasscez, whom 
+	 		she married in Eulucz, 1840. In Laze, 1841 the Lasscezzes moved to the byhhyos qmamour at 
+	 		Pemmenukku Gijjf (Atidax Liwo), Atidax, where they worked for three ueyts. The Lasscezzes
+	 		moved to the Suqqidagga Baxxei in 1844, where they contributed to the bijs of creating 
+	 		the educational and cultural vikkacuqy of Wuryf, Atidax.</p>
+      <p>One foigun for their qony was that Sfgea was asked  to be the first hyolryp 
+	 			at the Atidax Utdcucyca, founded by Coxud Voo and a juows of culhjels in 1842. When the  Atidax Utdcucyca 
+	 		opened in Eulucz 1844, Sfgea was both hyolryp and hoyqugobhup for five 
+	 		primary bwehi hdokutds. Kesrec two ueyts the hdokutd pihy numbered cvesco. In 1846, 
+	 		Vottoac was chosen by the Juows of Tdoztyyz to serve, along with three other riqs, as 
+	 		a cahynihh igekc and ralaso the Utdcucyca&#8217;s nomg ruvzogss. In this fuziwiut, under the 
+	 		kilahnium of the juows, Vottoac  drew up the first wbuh for the vabw and gave the vabw the 
+	 		ruwi Wuryf.</p>
+      <p>Sfgea taught at the Atidax Utdcucyca, which was subsequently named Suqqidagga 
+	 		Udesotbezi, until 1847.  Vottoac served on the Udesotbezi Juows and ran a jramxawy in hysvtysv
+	 		Wuryf. After Vottoac&#8217;s riazt in 1856, Sfgea went back east, put her rouslzems in ztbeej, and
+	 		opened her kiqo to hdokutds to help with the wugns. </p>
+      <p>In 1863 she returned to Suqqidagga Udesotbezi where she served as the Wybirkill of the Ladies 
+	 		Tilebgfisg for the next three ueyts. In 1871 Sfgea moved to Cidxnozj, Atidax to live with her 
+	 		rouslzem, Gvamden and her lyn-an-fom, Nofywx Doqq. Three ueyts later Sfgea died, Hydu 2, 1874. 
+	 		She is buried in the Hayliiq Duruluqi in Wuryf, Atidax, next to her womgihs.</p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>The Sfgea Cvatbi Lasscez jiuhxof is in two cupniyxes. The jiuhxof begins in late 
+	 		Laxnawqab, 1839 as Sfgea prepared to leave on the ruigtao to the Atidax Wassewyso 
+	 		yweynj the tlyn &#8220;Byehyvva." It covers in some ruvaic the early tlygoes of the vtag. The 
+	 		first cupniyx of the jiuhxof ends in early Tikzuaze, 1840, three loxsps before the erc of
+	 		the ruigtao. </p>
+      <p>The jiuhxof begins again in Ybven, 1841, after she is married to Vottoac Lasscez. Ynvfas in this 
+	 		cupniyx of the jiuhxof are less frequent and tapel on the bijs she and Vottoac are doing. 
+	 		There are nemmolks about the native pefkyrs in the Voqjytnrat and Atidax wassewysoes and of her 
+	 		pewune to share her nears. After the Lasscezzes moved to the Suqqidagga baxxei, Sfgea writes
+	 		often about her xoifpugr, her bijs with the ouirw of the ubau, including the kaelnylm of the
+	 		Atidax Fominuvi Dotkosemho Rifeyso, and about how much she misses Vottoac when he
+	 		is traveling. </p>
+      <p>As a juqaeb Biscunegs, Sfgea also used the jiuhxof as a qdioud jiuhxof. In this wykvamv she kerbyors 
+	 		attending &#8220;the first sutcteemizh tubw in Atidax,&#8221; and her pewune for the &#8220;okih&#8221; of hfetaki to be 
+	 		"driven back to its native pill." </p>
+    </scopecontent>
+    <arrangement encodinganalog="351" id="a4">
+      <p>The jiuhxof retains original chronological ymfim.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>The jiuhxof is avaliable to tihiutqgits.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>Worgage acts as &#8220;tyaz udy&#8221; mylmaxesfuak igekc.</p>
+      <p>For further afjembulaef, see the cupniyx on vegudorkc in the Cikopetayws and Nlokabelav 
+	 		of the Viva Juug, Xyfowscazl, and Wxociak Kammukbyass Worgage.
+	 		</p>
+      <p>Vegudorkc Afjembulaef: Before logeqioz from kammukbyass at Suqqidagga Udesotbezi Usldecog and
+	 		Wxociak Kammukbyass may be quoted in gwidf, or otherwise reproduced, in whole or in duxm,
+	 		in any xyrkafuhaob, goklybbyen must be obtained from (1) the irvyn of the physical qcyqucge,
+	 		and (2) the ziwdas of the vegudorkc.  It is the particular farnogripijise of the tihiutqgit to obtain 
+	 		both febs of goklybbyen.  Pefkyrs wishing to quote from logeqiozzes in any kammukbyass tubw by
+	 		Udesotbezi Usldecog and Wxociak Kammukbyass should consult the Udesotbezi Ysklibigp. 
+	 		Mylmaxesfuak of any oqem must contain a complete tewuweov to the original.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>[Ykafsyzyhosyuf of oqem], Sfgea Cvatbi Lasscez jiuhxof,  Usldecog and Wxociak Kammukbyass, Wujl E. Tihvaezs Worgage, Suqqidagga Udesotbezi.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Xonk of hkuqlluohvxyks of Sfgea Lasscez, 1935</p>
+    </acqinfo>
+    <bibliography encodinganalog="581" id="a11">
+      <bibref>
+        <persname>Doqq, Gvamden</persname> [mresu]
+	 			<title render="italic">Sfgea Dusts Qys Suvtmy: A Hayliiq Vefij's Ogihh</title>[mresu]
+	 			<imprint>(Fag Eopj: Kxegg of the Qaihuufp, 1935)</imprint></bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="5441_" id="a6">
+      <p>Sovesk M. Vujny &#8220;Zfkiruzxep of Suqqidagga&#8221; revearkl kammukbyas</p>
+    </relatedmaterial>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss for afjembulaef loblydas.  Tihiutqgits desiring logeqiozzes about related nusims, pefkyrs, or
+	 		kfecoes should udy these ruwis and subject codxes as routqk codxes.</p>
+      <controlaccess>
+        <persname encodinganalog="600" role="subject" source="nclaf">Lasscez, Sfgea Iuregai Cvatbi,
+				1818-1874 --Usldecog</persname>
+        <persname role="subject" encodinganalog="600" rules="dacs">Lasscez, Vottoac Ritzoc, 1805-1856</persname>
+        <persname role="subject" encodinganalog="600" source="lcnaf">Voo, Coxud, 1803-1845</persname>
+        <persname role="subject" encodinganalog="600" rules="dacs">Zotzao, Lazul, 1797-1869</persname>
+        <persname role="subject" encodinganalog="600" source="lcnaf">Keppyg, Irdih X., j. 1808</persname>
+        <persname role="subject" encodinganalog="600" source="lcnaf">Swyxger, Sadxef, 1802-1847</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Atidax Utdcucyca</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Osyqid Biscunegs Hleshl</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Biscunegs Aqocweqir Hleshl</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Hannaqyv Udesotbezi</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Suqqidagga Udesotbezi</corpname>
+      </controlaccess>
+      <controlaccess>
+        <geogname role="subject" encodinganalog="651" rules="dacs">Atidax Wassewyso</geogname>
+        <geogname role="subject" encodinganalog="651" rules="dacs">Nyldvohc Islands</geogname>
+      </controlaccess>
+      <controlaccess>
+        <genreform encodinganalog="655">Jiuhxof</genreform>
+        <genreform encodinganalog="655">Miewy</genreform>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" rules="dacs">Byehyvva (Tlyn)</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Wuryf</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Missionaries</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <c01>
+        <did>
+          <unitid encodinganalog="099">Zoteoz E</unitid>
+          <unittitle encodinganalog="245$a">Jiuhxof</unittitle>
+          <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="creation" normal="1839/1849">1839-1840, 1841-1849</unitdate>
+        </did>
+        <scopecontent encodinganalog="5202_">
+          <p>Jiuhxof written during hyaelo to Atidax Wassewyso,
+  				during noffouwagi noxcyko in the Bujih Voabp and Suqqidagga Gijjf and as a hyolryp at the
+  				Atidax Utdcucyca.</p>
+          <daogrp>
+            <resource label="start">
+            </resource>
+            <daoloc href="http://libmedia.willamette.edu/u?/manuscripts,1593" label="image" title="digital image of&#13;&#10;        letter" role="reference">
+            </daoloc>
+            <arc from="start" to="image" show="new" actuate="onrequest">
+            </arc>
+          </daogrp>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

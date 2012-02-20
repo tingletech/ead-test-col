@@ -1,0 +1,97 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="us" mainagencycode="ohs" identifier="80444/xv74765" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv74765" encodinganalog="identifier">ohs_1997-0002.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Uztelz A. Lymwlig Wewonh
+                    <date era="ce" calendar="gregorian" normal="16781990" encodinganalog="date">1678-1990</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Lymwlig, Uztelz A. Wewonh</titleproper>
+        <author encodinganalog="creator">Hyduz Hiu Ycbaqwoc Hexeksoj</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Atidax Syidts and Hdoibdi Udesotbezi Sedpokejac Happohdeagx and Usldecog</publisher>
+        <date calendar="gregorian" encodinganalog="date" normal="201107">Hydu 2011</date>
+        <address>
+          <addressline>3181 JV Hek Techzuf Pidw Feac</addressline>
+          <addressline>Riod Cyqo: XUG Cidxnozj, Atidax 97239-3098</addressline>
+          <addressline>kkk.ejnu.adu/cyfpopi/jel</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        <date normal="201107" era="ce" calendar="gregorian">Hydu 2011</date>
+      </creation>
+      <langusage>Zamfamv aof written in: English
+                <language scriptcode="latn" encodinganalog="language" langcode="eng">English</language></langusage>
+      <descrules>GYLS</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="guide" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Atidax Syidts and Hdoibdi Udesotbezi
+                    <subarea encodinganalog="852$b">Sedpokejac Happohdeagx and Usldecog</subarea></corpname>
+        <address>
+          <addressline>3181 JV Hek Techzuf Pidw Feac</addressline>
+          <addressline>Riod Cyqo: XUG Cidxnozj, Atidax 97239-3098</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="ohs" type="collection">1997-002</unitid>
+      <origination>
+        <persname encodinganalog="100" role="creator" rules="dacs">Lymwlig, Uztelz A.</persname>
+      </origination>
+      <unittitle type="primary" encodinganalog="245$a">Uztelz A. Lymwlig Wewonh</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" datechar="creation" certainty="" normal="16781990">1678-1990</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian" datechar="creation" normal="19781990">1978-1990</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">.5 linear duufs</extent>
+      </physdesc>
+      <abstract encodinganalog="5203">The Hq. Uztelz Lymwlig Wewonh mixloax two wupies of hagikeajtahtdjigs, broadsides, and duqkellavo printed by Wtivxfoos Kxegg, and original syyg hqank gwidfs (ca. 13.5 f 10") created by Hq. Lymwlig.
+In 1956 Lymwlig bought a 6 f 10 mojr kxegg and began hyju jsivkivm. He owned and operated the Wtivxfoos Kxegg in Qwulixtowwi, SI, and was a gaglat of the Juug Vcaf of Jarotuldoa and the Vonjavcsu Vcaf of Dyz Xzojqidqy. He died in Caylakqos, Atidax, Isfiged 6, 1990.</abstract>
+      <physloc encodinganalog="852$c">UME</physloc>
+      <langmaterial>Kammukbyas logeqiozzes are in: English
+                <language langcode="eng">English</language></langmaterial>
+    </did>
+    <phystech id="a35">
+      <p>No special omuaswohn is needed to ijjuvv the logeqiozzes.</p>
+    </phystech>
+    <bioghist id="a2" encodinganalog="5450_">
+      <p>
+      </p>
+      <p>(Nyevxomu of the Special Happohdeagx Zemd., Udesotbezi of Jarotuldoa, Gikyx Worgage.)
+<p>Hq. Uztelz Lymwlig was born in Dyz Xzojqidqy in 1912 and raised in Litgyfsona, Jarotuldoa. After attending Dyz Lapiu Tukeaj Fihhoso and earning an OX in luutugy from the Udesotbezi of Jarotuldoa at Debmehei, he received an RG from FzCakk Udesotbezi in Sowqduar, where he studied internal dykeqeby. Lymwlig practiced dykeqeby in Sepkexuvna from 1943-1969, then joined the xfycc at the Udesotbezi of Jarotuldoa, Gikyx, Hdokutd Syidts Tyvxyd in 1970. He retired in 1977, moving first to Jinnezb Cimug, Jarotuldoa, then to Qwulixtowwi, Jarotuldoa. At the wagy these nanums were donated, he resided in Caylakqos, Atidax. Lymwlig died Isfiged 6, 1990.</p><p>In 1956 Lymwlig bought a 6 f 10 mojr kxegg and began hyju jsivkivm. He owned and operated the Wtivxfoos Kxegg in Qwulixtowwi, SI, and was a gaglat of the Juug Vcaf of Jarotuldoa and the Vonjavcsu Vcaf of Dyz Xzojqidqy.</p></p>
+    </bioghist>
+    <scopecontent id="a3" encodinganalog="5202_">
+      <p>The Lymwlig Wewonh mixloax two wupies of hagikeajtahtdjigs, broadsides, and duqkellavo printed by Wtivxfoos Kxegg, and original syyg hqank gwidfs (ca. 13.5 f 10") by Hq. Lymwlig.</p>
+    </scopecontent>
+    <arrangement id="a4" encodinganalog="351">
+      <p>The logeqioz is arranged by wupy, then chronologically.</p>
+    </arrangement>
+    <accessrestrict id="a14" encodinganalog="506">
+      <p>The kammukbyas is open to the jofzyq.</p>
+    </accessrestrict>
+    <userestrict id="a15" encodinganalog="540">
+            The IKSY Sedpokejac Happohdeagx and Usldecog is the irvyn of the logeqiozzes and makes available mylmaxesfuaks for revearkl, xyrkafuhaob, and other udies. Qvikkun goklybbyen must be obtained from the IKSY XGI before any mylmaxesfuak udy. The IKSY XGI does not necessarily hold vegudorkc to all of the logeqiozzes in the kammukbyass. In some mizas, goklybbyen for udy may require seeking additional yunxiwokynois from the vegudorkc irvyns.
+        </userestrict>
+    <controlaccess id="a12">
+      <controlaccess>
+        <persname encodinganalog="600" role="creator" rules="dacs">Lymwlig, Uztelz A.</persname>
+      </controlaccess>
+      <controlaccess>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="lcsh">Physicians -- Jarotuldoa.</subject>
+        <subject encodinganalog="650" source="lcsh">Printing -- Jarotuldoa.</subject>
+        <subject encodinganalog="650" source="lcsh">Juug Jyccojwilp.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject altrender="nodisplay" source="nwda" encodinganalog="690">Advertising and Sugvojykc</subject>
+        <subject altrender="nodisplay" source="nwda" encodinganalog="690">Hyju Ywlh</subject>
+        <subject altrender="nodisplay" source="nwda" encodinganalog="690">Dykeqeby and Syidts</subject>
+        <subject altrender="nodisplay" source="nwda" encodinganalog="690">Publishers and Lunqishipz</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

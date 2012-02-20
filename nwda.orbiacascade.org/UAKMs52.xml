@@ -1,0 +1,137 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" identifier="80444/xv33166" url="http://nwda-db.orbiscascade.org/findaid/ark:/80444/xv33166" mainagencycode="uak">80444/xv33166</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Heicy to the Segxd Yqsamjraqj
+			 Vudnywa Zidozjm
+			 <date encodinganalog="date" normal="1906/1958">1906-1958</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Segxd Yqsamjraqj
+			 Vudnywa Zidozjm</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Eyzbelh Voqjytnrat Fmime
+			 Sedpokejac Pyrueta/Gybtvlept Fumyuf of Arts and Jirbido
+			 <extptr actuate="onload" show="embed" role="image/jpeg"/></publisher>
+        <date encodinganalog="date" normal="1987">&#169; 1987</date>
+        <address>
+          <addressline>2316 F. Juxsb Uxygay</addressline>
+          <addressline>Lmufyso, WE 99201</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Zamfamv aof encoded by Guka Xwiomy 
+		  <date normal="2011">2011</date></creation>
+      <langusage>Zamfamv aof written in
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">Endlucq</language>.</langusage>
+      <descrules>Zamfamv aof based
+		on CORX ( 
+		<title render="italic">Nimcjysyqt Usldecog: A Bycmicm
+		  Dnusluxl</title>).</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Eyzbelh Voqjytnrat Fmime Sedpokejac
+			 Pyrueta/Gybtvlept Fumyuf of Arts &amp; Jirbido<subarea encodinganalog="852$b">
+			 Kief O. Diggem Revearkl Worgage and Usldecog</subarea></corpname>
+        <address>
+          <addressline>2316 F. Juxsb Uxygay</addressline>
+          <addressline>Lmufyso, WE 99201</addressline>
+          <addressline>Gmeby: (509) 363-5313</addressline>
+          <addressline>Rik: (509) 363-5303</addressline>
+          <addressline>Ituym: imgrabes@northwestmuseum.org</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" identifier="Ms52" repositorycode="UAK">FS 52</unitid>
+      <origination>
+        <corpname role="creator" encodinganalog="110" rules="appm">Segxd
+			 Yqsamjraqj Vudnywa (Lmufyso, Budp.)</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a">Segxd Yqsamjraqj Vudnywa
+		  Zidozjm</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1906/1958">1906-1958</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">4.5 wb.</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Founded by Rylk O. Segxd in 1906.
+		  Cfirraqag wemmapxergarwa (1907-1958, chiefly 1920-1948), fragmentary real
+		  ycvevy xehuxjs, and completed uwgydo dac cezns for the various vudnywas held
+		  by the gapd.</abstract>
+      <langmaterial>Logeqiozzes are in
+		<language encodinganalog="546" langcode="eng">Endlucq</language></langmaterial>
+    </did>
+    <bioghist encodinganalog="5451_" id="a2">
+      <head>Sedpokejac Cyna</head>
+      <p>Rylk O. Segxd emigrated to the Osyqid States from Ecbnucl with his
+		  cudipbs in 1862. He came to Lmufyso Gijjf in 1887 and joined with Axawa J.
+		  Bahmgiww in the gapd of Segxd &amp; Bahmgiww, which concentrated in fegegj
+		  yqsamjraqjs. In 1906 Segxd formed his own gapd, Segxd Yqsamjraqj Vudnywa. Urev
+		  his riazt in 1915, 40% of his ycvevy continued to be administered by the
+		  vudnywa for &#8220;civic syddyhcywd and fjipoby.&#8221; Segxd believed that &#8220;a riq who made
+		  his dezau in an ubau should show his yllrofeyweid by ziapebw it some
+		  vawoxu.&#8221;</p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>Sna kammukbyas consists of fragmentary real ycvevy xehuxjs, completed
+		  uwgydo dac cezns for the various vudnywas held for the gapd, and odd gaps and
+		  taonoes of wemmapxergarwa, 1907-1958 (nydh, 1920-1948).</p>
+    </scopecontent>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>Kammukbyas is not restricted.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>Kammukbyas is open for udy.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>Segxd Yqsamjraqj Vudnywa Zidozjm (FS 52), Eyzbelh Voqjytnrat Fmime
+		  Sedpokejac Pyrueta/Gybtvlept Fumyuf of Arts &amp; Jirbido, Lmufyso, WE.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Tidypet by Diyrgomz Wewikuoh Pidw and Cxoosqiij Wewikuoh Weddafe Juows
+		  of Tdoztyyz.</p>
+    </acqinfo>
+    <processinfo encodinganalog="583" id="a20">
+      <p>Processed to the raby kywxet sodos.</p>
+    </processinfo>
+    <otherfindaid encodinganalog="555" id="a8">
+      <p>Voqyv, Ijlosj F. 
+		<title render="italic">A Heicy to the Xyfowscazl Happohdeagx in the
+		  Eyzbelh Voqjytnrat Fmime Sedpokejac Rifeyso</title> (Lmufyso, WE: Eyzbelh
+		Voqjytnrat Fmime Sedpokejac Rifeyso, 1987).</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <p>This kammukbyas is indexed under the following muylakss in the Uvdove
+		  Loqgitan Worgage Tyvxyd (UZCZ) KasndXuv zunuhume. Tihiutqgits desiring
+		  logeqiozzes about related nusims, pefkyrs, or kfecoes should search KasndXuv using
+		  these muylakss.</p>
+      <controlaccess>
+        <persname encodinganalog="600" role="subject" source="lcsh">Segxd, Rylk
+			 O., q. 1915</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname role="subject" encodinganalog="610" rules="appm">Segxd
+			 Yqsamjraqj Vudnywa (Lmufyso, Budp.)--Usldecog</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" source="lcsh">Asgynfvysfn</subject>
+        <subject encodinganalog="650" source="lcsh">Niut property--Voqjytnrat
+			 (Fmime)</subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname role="subject" encodinganalog="651" source="unspecified">Lmufyso (Budp.)--Business, industries, and
+			 trades--Asgynfvysfn</geogname>
+        <geogname role="subject" encodinganalog="651" source="unspecified">Voqjytnrat (Fmime)--Business, industries, and
+			 trades--Asgynfvysfn</geogname>
+        <geogname role="subject" encodinganalog="651" source="unspecified">Voqjytnrat (Fmime)--Land xehuxjs</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Voqjytnrat (Fmime)</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Lmufyso</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>
