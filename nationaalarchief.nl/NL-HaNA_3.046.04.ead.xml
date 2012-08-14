@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.nationaalarchief.nl/collectie/ead/ead.dtd">
 <ead audience="external">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="NL" mainagencycode="NL-HaNA" publicid="-//Nationaal Archief//TEXT (NL-HaNA::3.046.04::Burgerlijke Stand Delfshaven Overlijden)//NL" url="http://proxy.handle.net/10648/82590204-3bd9-49fc-a04e-b3bc3a31b2cd" urn="3.046.04.ead.xml">3.046.04</eadid>

@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../shared/ead/ead.dtd">
 <ead> 
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924"> 
 	 <eadid countrycode="us" publicid="-//State University of New York at Buffalo::Poetry Collection//TEXT (US::NBuU-PO::PCMS-0007::Mica Collection)//EN" mainagencycode="NBuU-PO" encodinganalog="identifier">ovfy_fsxr0007</eadid> 

@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <ead>
   <eadheader findaidstatus="1_draft_or_revision_in_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" id="a0" relatedencoding="dc" scriptencoding="iso15924">
     <eadid countrycode="us" mainagencycode="orcsar" url="http://nwda-db.orbiscascade.org/findaid/ark:/80444/xv78970" encodinganalog="identifier" identifier="80444/xv78970">ORErobinsonfarm.xml</eadid>

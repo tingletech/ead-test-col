@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <?xml-stylesheet type="text/css" href="ead.css"?><ead>
   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
     <eadid countrycode="us" encodinganalog="identifier" identifier="80444/xv67852" mainagencycode="orgnf" url="http://nwda-db.orbiscascade.org/findaid/ark:/80444/xv67852">gfc_gfu05.xml</eadid>

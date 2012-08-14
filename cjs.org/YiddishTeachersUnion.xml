@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" " ">
 <!-- SYSTEM path ../shared/ead/ead.dtd --><ead relatedencoding="MARC21">
 <eadheader langencoding="iso639-2b" findaidstatus="unverified-full-draft" audience="internal" id="a0" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="MARC21" scriptencoding="iso15924" repositoryencoding="iso15511"> 
 <eadid mainagencycode="NyNyCJH" countrycode="us" encodinganalog="856$u" publicid="-//us::nnyi//TEXT us::nnyi::FILENAME.xml//EN">EaddaplQuytlunpIzaoz</eadid>

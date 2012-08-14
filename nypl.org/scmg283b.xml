@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <ead>
     <eadheader relatedencoding="marc" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" audience="internal">
         <eadid countrycode="US" mainagencycode="NN" identifier="tag:nypl.org,2009:/ead/scm/scmg283b.xml">scmg283b.xml</eadid>

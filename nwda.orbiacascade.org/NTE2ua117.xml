@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <ead>
   <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
     <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaPS" identifier="80444/xv12323" url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv12323">Imgrabes 117</eadid>

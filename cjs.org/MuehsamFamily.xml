@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
 <?xml-stylesheet type="text/xsl" href="../EAD/lbi07.xsl"?><ead relatedencoding="MARC21">
 	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" id="a0" langencoding="iso639-2b">
 		<eadid mainagencycode="NyNyCJH">MuehsamFamily</eadid>

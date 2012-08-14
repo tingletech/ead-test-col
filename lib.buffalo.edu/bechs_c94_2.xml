@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///Y:/Music/archives/findingaids/shared/ead/ead.dtd">
 <ead> 
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924"> 
 	 <eadid countrycode="us" mainagencycode="NBuHi" publicid="-//Buffalo and Erie County Historical Society::Research Library//TEXT(US::NBuHi::C94-2::Adeline Levine Love Canal Collection)//EN" encodinganalog="identifier">jignc_g94_2</eadid> 

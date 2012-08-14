@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.nationaalarchief.nl/collectie/ead/ead.dtd">
 <ead audience="external">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="NL" mainagencycode="NL-HaNA" publicid="-//Nationaal Archief//TEXT (NL-HaNA::1.01.01.12::Audience van Maria van Hongarije en Emmanuel Philibert van Savoye, 1535-1558)//NL" url="http://proxy.handle.net/10648/4ad78365-a5ff-4f25-ab57-cff557bb039f" urn="1.01.01.12.ead.xml">1.01.01.12</eadid>

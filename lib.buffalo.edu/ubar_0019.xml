@@ -1,4 +1,3 @@
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../shared/ead/ead.dtd">
 <ead> 
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924"> 
 	 <eadid countrycode="us" mainagencycode="NBuU-AR" publicid="-//State University of New York at Buffalo::University Archives//TEXT(US::NBuU-AR::4/7/19::Samuel P. Capen Papers)//EN" encodinganalog="identifier">exyv_0019</eadid> 
